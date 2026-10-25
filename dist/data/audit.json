@@ -1,34 +1,39 @@
 {
   "N5": {
-    "vocab": 679,
-    "grammar": 103,
+    "vocab": 696,
+    "grammar": 119,
     "kanji": 84
   },
   "N4": {
-    "vocab": 630,
-    "grammar": 120,
+    "vocab": 636,
+    "grammar": 156,
     "kanji": 169
   },
   "N3": {
-    "vocab": 1671,
-    "grammar": 106,
+    "vocab": 1700,
+    "grammar": 166,
     "kanji": 387
   },
   "N2": {
-    "vocab": 1786,
-    "grammar": 148,
+    "vocab": 1791,
+    "grammar": 207,
     "kanji": 398
   },
-  "totals": {
-    "vocab": 4766,
-    "grammar": 477,
-    "kanji": 1038
+  "N1": {
+    "vocab": 3168,
+    "grammar": 225,
+    "kanji": 1345
   },
-  "added": {
-    "grammar": 74,
-    "vocab": 25,
-    "kanji": 1038
+  "totals": {
+    "vocab": 7991,
+    "grammar": 873,
+    "kanji": 2383
+  },
+  "added_beyond_primary_source": {
+    "vocab": 180,
+    "grammar": 347,
+    "kanji": 0
   },
   "missing_translation_fields": 0,
-  "translation_note": "Grammar glosses authored in Bangla/Nepali; vocabulary, kanji glosses and examples use offline SMaLL-100 drafts with curated core overrides. Full native-speaker review is outstanding."
+  "translation_note": "Base grammar glosses authored in Bangla/Nepali; supplementary grammar, vocabulary, kanji glosses and examples include labeled offline SMaLL-100 drafts with curated core overrides. Full native-speaker review is outstanding."
 }

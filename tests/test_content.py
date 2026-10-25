@@ -2,7 +2,7 @@ import json,pathlib,unittest
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 class ContentChecks(unittest.TestCase):
  def test_curriculum_and_locales(self):
-  expected={5:(679,103,84),4:(630,120,169),3:(1671,106,387),2:(1786,148,398)}
+  expected={int(n[1]):tuple(d[k] for k in ['vocab','grammar','kanji']) for n,d in json.loads((ROOT/'dist/data/coverage.json').read_text())['counts'].items()}
   for n,counts in expected.items():
    d=json.loads((ROOT/f'dist/data/n{n}.json').read_text())
    self.assertEqual(tuple(len(d[k]) for k in ['vocab','grammar','kanji']),counts)
@@ -23,4 +23,25 @@ class ContentChecks(unittest.TestCase):
   self.assertEqual(json.loads((ROOT/'dist/data/audit.json').read_text())['missing_translation_fields'],0)
  def test_ads_identifiers(self):
   s=(ROOT/'dist/ads-config.js').read_text();self.assertIn('ca-pub-3728341118830943',s);self.assertIn("slot:'2007625275'",s)
+ def test_source_inventory_and_second_source_resolutions(self):
+  audit=json.loads((ROOT/'dist/data/coverage.json').read_text())
+  db={n:json.loads((ROOT/('dist/data/'+n.lower()+'.json')).read_text()) for n in audit['counts']}
+  for n,inventory in audit['primary_inventory'].items():
+   for kind,ids in inventory.items():self.assertTrue(set(ids).issubset({e['id'] for e in db[n][kind]}))
+  self.assertEqual(len(audit['grammar']),595)
+  self.assertEqual(len(audit['kanji']),2211)
+  self.assertEqual(len(audit['vocabulary']),8293)
+  for kind,name in [('grammar','grammar'),('vocabulary','vocab')]:
+   for entry in audit[kind]:
+    if entry['status']=='excluded':self.assertTrue(entry.get('reason'));continue
+    self.assertIn(entry['id'],{e['id'] for e in db[entry.get('at_level',entry['level'])][name]})
+  for e in audit['kanji']:self.assertIn(e['character'],{x['character'] for d in db.values() for x in d['kanji']})
+ def test_n1_authored_grammar_and_draft_labels(self):
+  d=json.loads((ROOT/'dist/data/n1.json').read_text())
+  authored=[e for e in d['grammar'] if e['locales']['bn']['translation_method']=='authored-meaning-and-formation']
+  self.assertGreaterEqual(len(authored),123)
+  for n in range(1,6):
+   for rows in json.loads((ROOT/f'dist/data/n{n}.json').read_text()).values():
+    for e in rows:
+     for lang in ['bn','ne']:self.assertEqual(len(e['examples']),len(e['locales'][lang]['example_methods']))
 if __name__=='__main__':unittest.main()

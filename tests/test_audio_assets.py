@@ -3,7 +3,7 @@ ROOT=pathlib.Path(__file__).resolve().parents[1]
 class AudioAssets(unittest.TestCase):
  def test_every_calendar_day_has_a_clip_in_each_level(self):
   manifest=json.loads((ROOT/'dist/audio/manifest.json').read_text())
-  for n in [5,4,3,2]:
+  for n in [5,4,3,2,1]:
    words=json.loads((ROOT/f'dist/data/n{n}.json').read_text())['vocab']
    for day in range(1,32):self.assertIn(words[day%len(words)]['word'],manifest)
   self.assertIn('あんな',manifest)

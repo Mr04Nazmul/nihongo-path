@@ -4,3 +4,5 @@
 .translation-tag{font-size:10px;color:var(--muted)}.source-line{font-size:12px;opacity:.75}p:empty{display:none}
 .speech-status{font-size:12px;line-height:1.7;margin:9px 0;color:var(--muted);max-width:500px}.speech-error{color:#a04c36}.speech-player{display:block;width:min(100%,360px);margin:12px 0}.dark .speech-error{color:#f1b09e}
 .level{display:block}.back-link{display:block;color:var(--green);font-size:13px;margin-bottom:26px}.subject-links{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:25px 0}.subject{display:grid;gap:7px;background:var(--card);padding:22px;border:1px solid var(--line);border-radius:16px}.subject strong{font-size:26px}.subject span{font-size:13px}.subject.active{border-color:var(--green);background:var(--soft)}.primary{display:inline-block}#bottom a{display:grid;gap:5px;text-align:center;padding:5px 12px;border-radius:12px;font-size:10px}#bottom a span{font-size:21px}@media(max-width:700px){.subject{padding:17px 12px}.subject strong{font-size:23px}.subject span{font-size:12px}}
+
+@media(min-width:1000px){.levels{grid-template-columns:repeat(5,minmax(0,1fr))}.level{padding:24px 18px}.level p{font-size:13px}}

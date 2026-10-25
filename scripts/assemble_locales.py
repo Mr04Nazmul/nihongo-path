@@ -17,7 +17,7 @@ def formation(s,lang):
  for k,v in sorted(terms[lang].items(),key=lambda a:-len(a[0])):s=re.sub(r'(?<![A-Za-z])'+re.escape(k)+r'(?![A-Za-z])',lambda m:v,s)
  return s
 report={};missing=[]
-for n in [5,4,3,2]:
+for n in [5,4,3,2,1]:
  d=json.loads((p/f'dist/data/n{n}.json').read_text());report['N'+str(n)]={k:len(v) for k,v in d.items()}
  for kind,rows in d.items():
   for e in rows:
@@ -30,13 +30,13 @@ for n in [5,4,3,2]:
      if not v: missing.append([lang,kind,e['id'],s]);return s
      return v
     if kind=='grammar':
-     m=grammar[e['id']][index]
-     local={'meaning':m,'formation':formation(e['formation'],lang),'guidance':('এই গঠনটি “'+m+'” বোঝাতে ব্যবহার করুন। নিচের বাক্যে গঠনটি কীভাবে বসেছে দেখুন।' if lang=='bn' else 'यो संरचना “'+m+'” जनाउन प्रयोग हुन्छ। तलका वाक्यमा यसको प्रयोग हेर्नुहोस्।'),'translation_method':'authored-meaning-and-formation'}
+     m=grammar[e['id']][index] if e['id'] in grammar else translate(e['meaning'])
+     local={'meaning':m,'formation':formation(e['formation'],lang),'guidance':('এই গঠনটি “'+m+'” বোঝাতে ব্যবহার করুন। নিচের বাক্যে গঠনটি কীভাবে বসেছে দেখুন।' if lang=='bn' else 'यो संरचना “'+m+'” जनाउन प्रयोग हुन्छ। तलका वाक्यमा यसको प्रयोग हेर्नुहोस्।'),'translation_method':'authored-meaning-and-formation' if e['id'] in grammar else 'machine-draft'}
     else:local={'meaning':'; '.join(dict.fromkeys(translate(s) for s in e['meanings'])),'translation_method':'offline-machine-with-curated-core-glosses'}
     local['examples']=[examples[x['en']][index] if x['en'] in examples else translate(x['en']) for x in e.get('examples',[])]
     local['example_methods']=['authored' if x['en'] in examples else 'machine-draft' for x in e.get('examples',[])]
     e['locales'][lang]=local
  (p/f'dist/data/n{n}.json').write_text(json.dumps(d,ensure_ascii=False,separators=(',',':')))
 report['totals']={k:sum(x[k] for x in report.values() if isinstance(x,dict) and k in x) for k in ['vocab','grammar','kanji']}
-report['added']={'grammar':report['totals']['grammar']-403,'vocab':report['totals']['vocab']-4741,'kanji':report['totals']['kanji']};report['missing_translation_fields']=len(missing);report['translation_note']='Grammar glosses authored in Bangla/Nepali; vocabulary, kanji glosses and examples use offline SMaLL-100 drafts with curated core overrides. Full native-speaker review is outstanding.'
+coverage=json.loads((p/'dist/data/coverage.json').read_text());report['added_beyond_primary_source']={k:report['totals'][k]-sum(len(d[k]) for d in coverage['primary_inventory'].values()) for k in ['vocab','grammar','kanji']};report['missing_translation_fields']=len(missing);report['translation_note']='Base grammar glosses authored in Bangla/Nepali; supplementary grammar, vocabulary, kanji glosses and examples include labeled offline SMaLL-100 drafts with curated core overrides. Full native-speaker review is outstanding.'
 (p/'dist/data/audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));(p/'translation-missing.json').write_text(json.dumps(missing,ensure_ascii=False));print(json.dumps(report,ensure_ascii=False))

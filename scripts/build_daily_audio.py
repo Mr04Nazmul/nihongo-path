@@ -4,7 +4,7 @@ import edge_tts,edge_tts.communicate
 root=pathlib.Path(__file__).resolve().parents[1];out=root/'dist/audio';out.mkdir(exist_ok=True)
 if os.environ.get('SSL_CERT_FILE'):edge_tts.communicate._SSL_CTX.load_verify_locations(cafile=os.environ['SSL_CERT_FILE'])
 manifest=json.loads((out/'manifest.json').read_text());words={}
-for n in [5,4,3,2]:
+for n in [5,4,3,2,1]:
  d=json.loads((root/f'dist/data/n{n}.json').read_text())
  for e in d['vocab'][:32]:words[e['word']]=e['reading']
 words['あんな']='あんな'

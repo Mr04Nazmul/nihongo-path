@@ -1,38 +1,49 @@
 # Nihongo Path
-Mobile-first Japanese study app, N5–N2, by Hossain Najmul.
+Mobile-first Japanese study app, N5–N1, by Hossain Najmul.
 
-Serve `dist/` with any static server. No runtime/build dependencies. GitHub Pages workflow included. The current hosted source repository is managed by Sites; the user GitHub repository is Mr04Nazmul/nihongo-path.
+[Live app](https://mr04nazmul.github.io/nihongo-path/) · [Coverage and study resources](https://mr04nazmul.github.io/nihongo-path/coverage.html)
+
+Serve `dist/` with any static server. No runtime/build dependencies. Public GitHub repository with GitHub Pages Actions deployment.
 
 ## Content
-| Level | Vocabulary | Grammar | Kanji |
+| Level | Vocabulary | Grammar entries | Kanji |
 | --- | ---: | ---: | ---: |
-| N5 | 679 | 103 | 84 |
-| N4 | 630 | 120 | 169 |
-| N3 | 1,671 | 106 | 387 |
-| N2 | 1,786 | 148 | 398 |
-| Total | 4,766 | 477 | 1,038 |
+| N5 | 696 | 119 | 84 |
+| N4 | 636 | 156 | 169 |
+| N3 | 1,700 | 166 | 387 |
+| N2 | 1,791 | 207 | 398 |
+| N1 | 3,168 | 225 | 1,345 |
+| Total | 7,991 | 873 | 2,383 |
 
-OpenJLPT supplies the base dataset. Japanese Language Data supplies curated additional practice topics and dictionary-validated vocabulary additions. Data is CC BY-SA 4.0 with upstream per-field attribution; see `dist/data/NOTICE.md`, `SUPPLEMENT-ATTRIBUTION.md` and licenses. Level assignments are community approximations, not an official/exhaustive JLPT list. Supplemental source grammar remains marked as draft upstream.
+Every OpenJLPT N5–N1 entry is included. A second inventory, Japanese Language Data, is audited entry by entry: 595 grammar records and 2,211 Kanji classifications mapped; 8,272 of 8,293 vocabulary classifications mapped to validated dictionary entries. The remaining 21 are quarantined with reasons. Alternate readings and grammar forms can have separate entries; counts are not unique exam requirements. Level conflicts retain the app's existing level.
 
-## Localization
-All grammar glosses have authored Bangla/Nepali equivalents in `translations/grammar-n*.tsv`. Formation labels are localized while Japanese syntax is retained. N5 first grammar examples and selected additional examples have authored translations. Other vocabulary, kanji glosses and examples use offline SMaLL-100 drafts, with curated core-gloss corrections. Full native-speaker review is still outstanding. Original Japanese and English remain accessible. Automatic example drafts are labeled.
+JLPT publishes no exhaustive word/grammar/Kanji specification. This is a broad community study collection, not a guarantee of every possible exam question. Source grammar drafts still require teacher review. Official reading/listening practice links are provided on the coverage page, rather than claiming flashcards are a full mock exam.
 
-`translation-cache.json` is the resumable translation cache. `scripts/translate_content.py` uses a locally downloaded MIT-licensed SMaLL-100 CTranslate2 model. `scripts/assemble_locales.py` creates bundled locales and the coverage audit. Model weights are not part of this repository. Source-enrichment scripts require the documented upstream source checkouts; do not run the initial importer against finalized data unless intentionally rebuilding all content.
+Data is CC BY-SA 4.0 with upstream attribution. See `dist/data/NOTICE.md`, `SUPPLEMENT-ATTRIBUTION.md` and licenses. `coverage.json` records exact source revisions and every inclusion/exclusion. Dictionary snapshot versions and maintenance requirements are recorded in the upstream attribution. Check upstream revisions and refresh regularly; an audit date is not a dictionary publication date.
 
-## App features
-Language switch, responsive bottom navigation, light/dark mode, grammar/vocabulary/kanji search, bookmarks, learned progress, flashcards, localized vocabulary quizzes and Japanese device speech. Progress is browser-local. No account/cloud sync.
+## Languages
+English sources are available throughout. Bengali/Nepali meanings are authored for the original N5–N2 grammar and 123 N1 base grammar entries. Additional grammar, vocabulary, Kanji and examples include offline SMaLL-100 automatic drafts with curated core corrections. Draft meanings and examples are labeled; native-speaker review remains outstanding. Japanese grammar syntax is preserved when localizing formation labels.
 
-## Advertising
-The owner's supplied publisher ID is configured in `dist/ads-config.js`. Auto ads code, account meta tag, ads.txt, a reserved placement area, privacy page and in-app ad setup details are included. The dedicated responsive ad unit is Nihongo Path - Responsive Lessons, slot 2007625275. Google approval/Auto ads account settings are not verified. The current site remains owner-private, so public publication and Google review are required before real ad delivery can be expected. No impressions or revenue are claimed.
+## Features
+Five separate level pages, grammar/vocabulary/Kanji tabs, multilingual search (including alternate spellings), saved lessons, learned progress, flashcards, quizzes, responsive bottom navigation and light/dark themes. Progress stays in the browser. Existing IDs are preserved.
 
-## Audio playback fix
-Daily words use bundled Japanese MP3 clips (first 32 word positions per level cover every calendar day). `scripts/build_daily_audio.py` pre-renders them; there is no third-party speech request during playback. Other lesson text uses native Japanese speech with explicit voice selection, a retained utterance, synchronous user-tap initiation, playback feedback and actionable errors. Blocked media presents native controls. Repeated taps stop playback. Actual iPhone hardware testing remains outstanding.
+Daily words have bundled Japanese MP3 files covering every calendar day in all five levels. Other text uses the device's Japanese voice with visible playback/error controls. Actual iPhone hardware testing remains outstanding.
 
-Validate the speech controller with `node --test tests/speech.test.cjs`.
+## Ads
+Publisher `ca-pub-3728341118830943`, responsive slot `2007625275`. Auto ads and the responsive unit remain configured. The site is public; Google ownership/review and Vignette settings must be completed in AdSense before eligible ad delivery. Ad display and frequency are determined by Google. Navigation is never blocked waiting for an ad.
 
-## Level pages and between-page ads
-`lessons.html` is the level catalog. N5/N4/N3/N2 each have an actual HTML page (`n5.html` through `n2.html`) containing Grammar, Vocabulary and Kanji links. `?section=vocab` and `?section=kanji` can be shared/bookmarked directly. Browser back/forward and full-page links work normally; content is never blocked waiting for an ad.
+## Rebuild and validation
+Clone the two licensed source repositories and run:
 
-The existing Auto ads code is included on every generated page. Normal links are eligible for Google-managed vignette ads once the publisher enables Vignette ads under AdSense → Ads → site → Overlay formats and the site is approved/public. This change does not claim to enable an account-side setting. No custom fake interstitial, ad-click requirement or guaranteed ad on every navigation is implemented. AdSense determines inventory and frequency.
+```sh
+python scripts/expand_n1.py /path/to/OpenJLPT /path/to/japanese-language-data
+python scripts/translate_content.py
+python scripts/assemble_locales.py
+python scripts/build_pages.py
+python scripts/build_coverage.py
+python scripts/build_daily_audio.py
+python -m unittest discover -s tests -p 'test_*.py'
+node --test tests/*.test.cjs
+```
 
-Run `python scripts/build_pages.py` after changing the shared HTML shell.
+The merge is idempotent and retains existing entries. Translation needs `ctranslate2` and `sentencepiece`, plus the MIT-licensed `solavr/small100-ctranslate2-int8` model in `/workspace/scratch/small100`. Its cache is resumable and intentionally untracked. Audio generation needs `edge-tts`; generation uses a network service, playback of bundled daily clips does not. Generated JSON and MP3 assets are committed, so these tools are not needed to deploy.

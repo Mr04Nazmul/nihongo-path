@@ -6,12 +6,14 @@ tr=ctranslate2.Translator(str(model),device='cpu',compute_type='int8_float32',in
 sp=sentencepiece.SentencePieceProcessor(model_file=str(model/'sentencepiece.bpe.model'))
 try:cache=json.loads(cachepath.read_text())
 except FileNotFoundError:cache={'bn':{},'ne':{}}
+authored={line.split('\t')[0] for f in (root/'translations').glob('grammar-n*.tsv') for line in f.read_text().splitlines() if len(line.split('\t'))==3}
 strings=[]
-for n in [5,4,3,2]:
+for n in [5,4,3,2,1]:
  d=json.loads((root/f'dist/data/n{n}.json').read_text())
  for k,rows in d.items():
   for e in rows:
    if k in ['vocab','kanji']:strings.extend(e['meanings'])
+   elif e['id'] not in authored:strings.append(e['meaning'])
    for x in e.get('examples',[]):strings.append(x['en'])
 strings=list(dict.fromkeys(x.strip() for x in strings if x.strip()));print('unique strings',len(strings),flush=True)
 for lang in ['bn','ne']:
