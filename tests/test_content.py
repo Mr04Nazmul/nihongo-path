@@ -44,4 +44,24 @@ class ContentChecks(unittest.TestCase):
    for rows in json.loads((ROOT/f'dist/data/n{n}.json').read_text()).values():
     for e in rows:
      for lang in ['bn','ne']:self.assertEqual(len(e['examples']),len(e['locales'][lang]['example_methods']))
+ def test_extended_grammar_and_dictionary_reference_audit(self):
+  audit=json.loads((ROOT/'dist/data/reference-audit.json').read_text())
+  db={n:json.loads((ROOT/('dist/data/'+n.lower()+'.json')).read_text()) for n in audit['counts']}
+  self.assertEqual(len(audit['grammar']),828)
+  for entry in audit['grammar']:
+   self.assertIn(entry['id'],{e['id'] for e in db[entry['at_level']]['grammar']})
+  extra=[e for d in db.values() for e in d['vocab'] if e.get('curriculum_status')=='supplementary']
+  self.assertGreaterEqual(len(extra),4000)
+  for e in extra:
+   self.assertIn('unclassified',e['level_assignment'])
+   self.assertGreaterEqual(len({x['corpus'] for x in e['frequency_support']}),2)
+  for d in db.values():
+   for e in d['grammar']:
+    self.assertTrue(e['pattern'].strip('~〜～ '))
+    if e['id'].startswith('hana-'):self.assertRegex(e['pattern'],r'[ぁ-ヿ一-龯]')
+ def test_ambiguous_cast_gloss_is_corrected_by_entry(self):
+  rows=[e for n in range(1,6) for e in json.loads((ROOT/f'dist/data/n{n}.json').read_text())['vocab']]
+  e=next(e for e in rows if e['word']=='鋳る' and e['reading']=='いる')
+  self.assertIn('ঢালাই',e['locales']['bn']['meaning'])
+  self.assertIn('ढाल्नु',e['locales']['ne']['meaning'])
 if __name__=='__main__':unittest.main()

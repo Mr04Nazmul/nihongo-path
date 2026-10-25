@@ -4,7 +4,7 @@ class Pages(unittest.TestCase):
  def test_every_destination_is_a_real_page_with_shared_app_and_ad_code(self):
   for page in ['index','lessons','n5','n4','n3','n2','n1','review','progress']:
    s=(ROOT/(page+'.html')).read_text()
-   for script in ['app.js','ads.js','ads-config.js','speech.js']:self.assertIn('src="'+script+'"',s)
+   for script in ['app.js','ads.js','ads-config.js','speech.js']:self.assertIn('src="'+script+('?' if script=='app.js' else '"'),s)
    self.assertIn('ca-pub-3728341118830943',s)
  def test_navigation_is_not_gated_on_an_ad(self):
   s=(ROOT/'app.js').read_text()

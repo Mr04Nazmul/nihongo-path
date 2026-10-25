@@ -1,37 +1,37 @@
 {
   "N5": {
-    "vocab": 696,
-    "grammar": 119,
+    "vocab": 697,
+    "grammar": 221,
     "kanji": 84
   },
   "N4": {
-    "vocab": 636,
-    "grammar": 156,
+    "vocab": 637,
+    "grammar": 214,
     "kanji": 169
   },
   "N3": {
-    "vocab": 1700,
-    "grammar": 166,
+    "vocab": 1722,
+    "grammar": 223,
     "kanji": 387
   },
   "N2": {
-    "vocab": 1791,
-    "grammar": 207,
+    "vocab": 1793,
+    "grammar": 296,
     "kanji": 398
   },
   "N1": {
-    "vocab": 3168,
-    "grammar": 225,
+    "vocab": 7288,
+    "grammar": 376,
     "kanji": 1345
   },
   "totals": {
-    "vocab": 7991,
-    "grammar": 873,
+    "vocab": 12137,
+    "grammar": 1330,
     "kanji": 2383
   },
   "added_beyond_primary_source": {
-    "vocab": 180,
-    "grammar": 347,
+    "vocab": 4326,
+    "grammar": 804,
     "kanji": 0
   },
   "missing_translation_fields": 0,
