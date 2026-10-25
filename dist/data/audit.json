@@ -1,0 +1,34 @@
+{
+  "N5": {
+    "vocab": 679,
+    "grammar": 103,
+    "kanji": 84
+  },
+  "N4": {
+    "vocab": 630,
+    "grammar": 120,
+    "kanji": 169
+  },
+  "N3": {
+    "vocab": 1671,
+    "grammar": 106,
+    "kanji": 387
+  },
+  "N2": {
+    "vocab": 1786,
+    "grammar": 148,
+    "kanji": 398
+  },
+  "totals": {
+    "vocab": 4766,
+    "grammar": 477,
+    "kanji": 1038
+  },
+  "added": {
+    "grammar": 74,
+    "vocab": 25,
+    "kanji": 1038
+  },
+  "missing_translation_fields": 0,
+  "translation_note": "Grammar glosses authored in Bangla/Nepali; vocabulary, kanji glosses and examples use offline SMaLL-100 drafts with curated core overrides. Full native-speaker review is outstanding."
+}

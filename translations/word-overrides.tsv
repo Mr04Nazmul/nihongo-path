@@ -1,0 +1,423 @@
+water	পানি	पानी
+blue	নীল	नीलो
+red	লাল	रातो
+white	সাদা	सेतो
+black	কালো	कालो
+green	সবুজ	हरियो
+yellow	হলুদ	पहेंलो
+purple	বেগুনি	बैजनी
+brown	বাদামি	खैरो
+pink	গোলাপি	गुलाबी
+grey	ধূসর	खैरो रङ
+orange	কমলা	सुन्तला
+noun	বিশেষ্য	नाम
+verb	ক্রিয়া	क्रिया
+adjective	বিশেষণ	विशेषण
+adverb	ক্রিয়াবিশেষণ	क्रियाविशेषण
+grammar	ব্যাকরণ	व्याकरण
+polite	ভদ্র	शिष्ट
+language	ভাষা	भाषा
+word	শব্দ	शब्द
+sentence	বাক্য	वाक्य
+meaning	অর্থ	अर्थ
+reading	পড়া; উচ্চারণ	पढाइ; उच्चारण
+pronunciation	উচ্চারণ	उच्चारण
+to meet	দেখা করা	भेट्नु
+to eat	খাওয়া	खानु
+to drink	পান করা	पिउनु
+to go	যাওয়া	जानु
+to come	আসা	आउनु
+to see	দেখা	हेर्नु
+to look	তাকানো	हेर्नु
+to read	পড়া	पढ्नु
+to write	লেখা	लेख्नु
+to hear	শোনা	सुन्नु
+to listen	মন দিয়ে শোনা	ध्यान दिएर सुन्नु
+to speak	কথা বলা	बोल्नु
+to say	বলা	भन्नु
+to do	করা	गर्नु
+to make	তৈরি করা	बनाउनु
+to buy	কেনা	किन्नु
+to sell	বিক্রি করা	बेच्नु
+to sleep	ঘুমানো	सुत्नु
+to wake up	ঘুম থেকে ওঠা	ब्युँझनु
+to get up	ওঠা	उठ्नु
+to study	পড়াশোনা করা	अध्ययन गर्नु
+to learn	শেখা	सिक्नु
+to teach	শেখানো	सिकाउनु
+to understand	বোঝা	बुझ्नु
+to know	জানা	जान्नु
+to think	চিন্তা করা	सोच्नु
+to remember	মনে রাখা	सम्झनु
+to forget	ভুলে যাওয়া	बिर्सनु
+to work	কাজ করা	काम गर्नु
+to rest	বিশ্রাম নেওয়া	आराम गर्नु
+to walk	হাঁটা	हिँड्नु
+to run	দৌড়ানো	दौडनु
+to swim	সাঁতার কাটা	पौडनु
+to sit	বসা	बस्नु
+to stand	দাঁড়ানো	उभिनु
+to wait	অপেক্ষা করা	पर्खनु
+to return	ফিরে আসা	फर्कनु
+to enter	প্রবেশ করা	पस्नु
+to leave	ছাড়া; চলে যাওয়া	छोड्नु; निस्कनु
+to open	খোলা	खोल्नु
+to close	বন্ধ করা	बन्द गर्नु
+to start	শুরু করা	सुरु गर्नु
+to finish	শেষ করা	सक्नु
+to stop	থামা; থামানো	रोकिनु; रोक्नु
+to use	ব্যবহার করা	प्रयोग गर्नु
+to give	দেওয়া	दिनु
+to receive	গ্রহণ করা	पाउनु
+to borrow	ধার নেওয়া	सापटी लिनु
+to lend	ধার দেওয়া	सापटी दिनु
+to wash	ধোয়া	धुनु
+to clean	পরিষ্কার করা	सफा गर्नु
+to cook	রান্না করা	पकाउनु
+to cut	কাটা	काट्नु
+to help	সাহায্য করা	सहयोग गर्नु
+to ask	জিজ্ঞাসা করা	सोध्नु
+to answer	উত্তর দেওয়া	जवाफ दिनु
+to call	ডাকা; ফোন করা	बोलाउनु; फोन गर्नु
+to live	বাস করা; বেঁচে থাকা	बसोबास गर्नु; बाँच्नु
+to die	মারা যাওয়া	मर्नु
+to laugh	হাসা	हाँस्नु
+to cry	কাঁদা	रुनु
+to smile	মৃদু হাসা	मुस्कुराउनु
+to love	ভালোবাসা	माया गर्नु
+to like	পছন্দ করা	मन पराउनु
+to hate	ঘৃণা করা	घृणा गर्नु
+to need	প্রয়োজন হওয়া	आवश्यक पर्नु
+to want	চাওয়া	चाहनु
+school	বিদ্যালয়	विद्यालय
+student	শিক্ষার্থী	विद्यार्थी
+teacher	শিক্ষক	शिक्षक
+university	বিশ্ববিদ্যালয়	विश्वविद्यालय
+classroom	শ্রেণিকক্ষ	कक्षाकोठा
+class	ক্লাস; শ্রেণি	कक्षा
+lesson	পাঠ	पाठ
+homework	বাড়ির কাজ	गृहकार्य
+examination	পরীক্ষা	परीक्षा
+exam	পরীক্ষা	परीक्षा
+question	প্রশ্ন	प्रश्न
+answer	উত্তর	जवाफ
+book	বই	किताब
+notebook	খাতা	कापी
+pencil	পেনসিল	पेन्सिल
+pen	কলম	कलम
+paper	কাগজ	कागज
+dictionary	অভিধান	शब्दकोश
+person	মানুষ; ব্যক্তি	मानिस; व्यक्ति
+people	মানুষজন	मानिसहरू
+man	পুরুষ	पुरुष
+woman	নারী	महिला
+child	শিশু	बच्चा
+boy	ছেলে	केटा
+girl	মেয়ে	केटी
+friend	বন্ধু	साथी
+family	পরিবার	परिवार
+father	বাবা	बुबा
+mother	মা	आमा
+parents	বাবা-মা	आमाबुबा
+older brother	বড় ভাই	दाइ
+elder brother	বড় ভাই	दाइ
+younger brother	ছোট ভাই	भाइ
+older sister	বড় বোন	दिदी
+elder sister	বড় বোন	दिदी
+younger sister	ছোট বোন	बहिनी
+husband	স্বামী	श्रीमान्
+wife	স্ত্রী	श्रीमती
+grandfather	দাদা; নানা	हजुरबुबा
+grandmother	দাদি; নানি	हजुरआमा
+I	আমি	म
+you	তুমি; আপনি	तिमी; तपाईं
+he	সে; তিনি	ऊ; उहाँ
+she	সে; তিনি	उनी; उहाँ
+we	আমরা	हामी
+they	তারা	उनीहरू
+this	এটি	यो
+that	ওটি; সেটি	त्यो
+here	এখানে	यहाँ
+there	সেখানে	त्यहाँ
+where	কোথায়	कहाँ
+who	কে	को
+what	কী	के
+when	কখন	कहिले
+why	কেন	किन
+how	কীভাবে	कसरी
+how many	কতটি	कति वटा
+how much	কত দাম; কত পরিমাণ	कति मूल्य; कति परिमाण
+how old	কত বছর বয়স	कति वर्ष उमेर
+today	আজ	आज
+tomorrow	আগামীকাল	भोलि
+yesterday	গতকাল	हिजो
+now	এখন	अहिले
+morning	সকাল	बिहान
+afternoon	বিকেল; দুপুরের পর	अपराह्न
+evening	সন্ধ্যা	साँझ
+night	রাত	राति
+every day	প্রতিদিন	हरेक दिन
+week	সপ্তাহ	हप्ता
+month	মাস	महिना
+year	বছর	वर्ष
+time	সময়	समय
+hour	ঘণ্টা	घण्टा
+minute	মিনিট	मिनेट
+second	সেকেন্ড	सेकेन्ड
+day	দিন	दिन
+Monday	সোমবার	सोमबार
+Tuesday	মঙ্গলবার	मङ्गलबार
+Wednesday	বুধবার	बुधबार
+Thursday	বৃহস্পতিবার	बिहीबार
+Friday	শুক্রবার	शुक्रबार
+Saturday	শনিবার	शनिबार
+Sunday	রবিবার	आइतबार
+sun	সূর্য	सूर्य
+moon	চাঁদ	चन्द्रमा
+star	তারা	तारा
+sky	আকাশ	आकाश
+rain	বৃষ্টি	वर्षा
+snow	তুষার	हिउँ
+wind	বাতাস	हावा
+weather	আবহাওয়া	मौसम
+mountain	পাহাড়	पहाड
+river	নদী	नदी
+sea	সমুদ্র	समुद्र
+ocean	মহাসাগর	महासागर
+forest	বন	जङ्गल
+tree	গাছ	रुख
+flower	ফুল	फूल
+leaf	পাতা	पात
+animal	প্রাণী	जनावर
+dog	কুকুর	कुकुर
+cat	বিড়াল	बिरालो
+bird	পাখি	चरा
+fish	মাছ	माछा
+horse	ঘোড়া	घोडा
+cow	গরু	गाई
+pig	শূকর	सुँगुर
+chicken	মুরগি	कुखुरा
+egg	ডিম	अण्डा
+rice	চাল; ভাত	चामल; भात
+bread	রুটি	पाउरोटी
+milk	দুধ	दूध
+tea	চা	चिया
+coffee	কফি	कफी
+sugar	চিনি	चिनी
+salt	লবণ	नुन
+meat	মাংস	मासु
+vegetable	সবজি	तरकारी
+fruit	ফল	फलफूल
+apple	আপেল	स्याउ
+banana	কলা	केरा
+food	খাবার	खाना
+meal	খাবার; আহার	भोजन
+breakfast	সকালের খাবার	बिहानको खाजा
+lunch	দুপুরের খাবার	दिउँसोको खाना
+dinner	রাতের খাবার	बेलुकाको खाना
+money	টাকা	पैसा
+yen	ইয়েন	येन
+price	দাম	मूल्य
+shop	দোকান	पसल
+store	দোকান	पसल
+station	স্টেশন	स्टेसन
+train	ট্রেন	रेल
+bus	বাস	बस
+car	গাড়ি	गाडी
+bicycle	সাইকেল	साइकल
+airplane	বিমান	हवाईजहाज
+road	রাস্তা	सडक
+street	রাস্তা	सडक
+bridge	সেতু	पुल
+hospital	হাসপাতাল	अस्पताल
+bank	ব্যাংক	बैंक
+post office	ডাকঘর	हुलाक
+company	কোম্পানি	कम्पनी
+work	কাজ	काम
+job	চাকরি	जागिर
+house	বাড়ি	घर
+home	বাড়ি	घर
+room	ঘর; কক্ষ	कोठा
+door	দরজা	ढोका
+window	জানালা	झ्याल
+table	টেবিল	टेबल
+chair	চেয়ার	कुर्सी
+bed	বিছানা	ओछ्यान
+telephone	টেলিফোন	टेलिफोन
+phone	ফোন	फोन
+computer	কম্পিউটার	कम्प्युटर
+body	শরীর	शरीर
+head	মাথা	टाउको
+face	মুখ	अनुहार
+eye	চোখ	आँखा
+ear	কান	कान
+nose	নাক	नाक
+mouth	মুখ	मुख
+hand	হাত	हात
+foot	পা	खुट्टा
+leg	পা	खुट्टा
+heart	হৃদয়	मुटु
+name	নাম	नाम
+country	দেশ	देश
+Japan	জাপান	जापान
+Japanese	জাপানি	जापानी
+English	ইংরেজি	अंग्रेजी
+big	বড়	ठूलो
+large	বড়	ठूलो
+small	ছোট	सानो
+long	লম্বা	लामो
+short	খাটো; ছোট	होचो; छोटो
+high	উঁচু	अग्लो
+low	নিচু	होचो
+new	নতুন	नयाँ
+old	পুরোনো	पुरानो
+good	ভালো	राम्रो
+bad	খারাপ	नराम्रो
+hot	গরম	तातो
+cold	ঠান্ডা	चिसो
+warm	উষ্ণ	न्यानो
+cool	শীতল	शीतल
+beautiful	সুন্দর	सुन्दर
+pretty	সুন্দর	राम्री; राम्रो
+clean	পরিষ্কার	सफा
+dirty	নোংরা	फोहोर
+quiet	শান্ত	शान्त
+noisy	কোলাহলপূর্ণ	हल्लाखल्ला भएको
+busy	ব্যস্ত	व्यस्त
+free	মুক্ত; বিনা মূল্যে	स्वतन्त्र; निःशुल्क
+expensive	দামি	महँगो
+cheap	সস্তা	सस्तो
+difficult	কঠিন	गाह्रो
+easy	সহজ	सजिलो
+interesting	আকর্ষণীয়; মজার	रोचक
+boring	বিরক্তিকর	दिक्कलाग्दो
+delicious	সুস্বাদু	स्वादिलो
+sweet	মিষ্টি	गुलियो
+bitter	তিতা	तीतो
+sour	টক	अमिलो
+salty	নোনতা	नुनिलो
+happy	সুখী; আনন্দিত	खुसी
+sad	দুঃখিত	दुःखी
+angry	রাগান্বিত	रिसाएको
+kind	দয়ালু	दयालु
+strong	শক্তিশালী	बलियो
+weak	দুর্বল	कमजोर
+fast	দ্রুত	छिटो
+slow	ধীর	ढिलो
+heavy	ভারী	गह्रौँ
+light	হালকা; আলো	हलुका; प्रकाश
+near	কাছে	नजिक
+far	দূরে	टाढा
+right	ডান; সঠিক	दायाँ; सही
+left	বাম	बायाँ
+above	উপরে	माथि
+below	নিচে	तल
+inside	ভিতরে	भित्र
+outside	বাইরে	बाहिर
+front	সামনে	अगाडि
+behind	পেছনে	पछाडि
+north	উত্তর দিক	उत्तर दिशा
+south	দক্ষিণ দিক	दक्षिण दिशा
+east	পূর্ব দিক	पूर्व दिशा
+west	পশ্চিম দিক	पश्चिम दिशा
+one	এক	एक
+two	দুই	दुई
+three	তিন	तीन
+four	চার	चार
+five	পাঁচ	पाँच
+six	ছয়	छ
+seven	সাত	सात
+eight	আট	आठ
+nine	নয়	नौ
+ten	দশ	दस
+hundred	একশ	सय
+thousand	এক হাজার	हजार
+first	প্রথম	पहिलो
+last	শেষ	अन्तिम
+next	পরবর্তী	अर्को
+before	আগে	अघि
+after	পরে	पछि
+always	সবসময়	सधैँ
+sometimes	কখনো কখনো	कहिलेकाहीँ
+never	কখনোই নয়	कहिल्यै होइन
+only	শুধু	मात्र
+also	এছাড়াও	पनि
+again	আবার	फेरि
+together	একসঙ্গে	सँगै
+alone	একা	एक्लै
+very	খুব	धेरै
+really	সত্যিই	साँच्चै
+probably	সম্ভবত	सायद
+perhaps	হয়তো	सायद
+because	কারণ	किनभने
+but	কিন্তু	तर
+and	এবং	र
+or	অথবা	वा
+if	যদি	यदि
+not	নয়	होइन
+nothing	কিছুই না	केही पनि होइन
+nobody	কেউই না	कोही पनि होइन
+something	কিছু	केही
+someone	কেউ	कोही
+everyone	সবাই	सबै
+all	সব	सबै
+many	অনেক	धेरै
+much	অনেক	धेरै
+a little	অল্প	थोरै
+few	কয়েকটি; অল্প	केही; थोरै
+zero	শূন্য	शून्य
+counter for days	দিন গণনার প্রত্যয়	दिन गन्ने प्रत्यय
+counter for people	মানুষ গণনার প্রত্যয়	मानिस गन्ने प्रत्यय
+to be applicable	প্রযোজ্য হওয়া	लागू हुनु
+to come under (a category)	কোনো শ্রেণির অন্তর্ভুক্ত হওয়া	कुनै वर्गमा पर्नु
+to fulfill	পূরণ করা	पूरा गर्नु
+to be	হওয়া; থাকা	हुनु; रहनु
+to exist	অস্তিত্ব থাকা	अस्तित्वमा हुनु
+to have	থাকা; নিজের কাছে থাকা	हुनु; आफूसँग हुनु
+to become	হয়ে যাওয়া	हुनु; बन्नु
+to be able to	করতে সক্ষম হওয়া	गर्न सक्नु
+to be born	জন্ম নেওয়া	जन्मनु
+to be different	ভিন্ন হওয়া	फरक हुनु
+to be mistaken	ভুল হওয়া	गलत हुनु
+to be tired	ক্লান্ত হওয়া	थाक्नु
+to be surprised	অবাক হওয়া	अचम्मित हुनु
+to be glad	আনন্দিত হওয়া	खुसी हुनु
+to be pleased	সন্তুষ্ট হওয়া	सन्तुष्ट हुनु
+must	করতে হবে	गर्नुपर्छ
+have to	করতে হয়	गर्नुपर्छ
+need not	করার প্রয়োজন নেই	गर्न आवश्यक छैन
+should	করা উচিত	गर्नु उचित हुन्छ
+should not	করা উচিত নয়	गर्नु हुँदैन
+must not	করা নিষেধ	गर्न पाइँदैन
+can	পারা	सक्नु
+cannot	পারে না	सक्दैन
+possible	সম্ভব	सम्भव
+impossible	অসম্ভব	असम्भव
+necessary	প্রয়োজনীয়	आवश्यक
+unnecessary	অপ্রয়োজনীয়	अनावश्यक
+important	গুরুত্বপূর্ণ	महत्त्वपूर्ण
+safe	নিরাপদ	सुरक्षित
+dangerous	বিপজ্জনক	खतरनाक
+freedom	স্বাধীনতা	स्वतन्त्रता
+honest	সৎ	इमानदार
+to agree	একমত হওয়া	सहमत हुनु
+to disagree	একমত না হওয়া	असहमत हुनु
+to refuse	অস্বীকার করা	अस्वीकार गर्नु
+to accept	গ্রহণ করা	स्वीकार गर्नु
+to protect	রক্ষা করা	रक्षा गर्नु
+to choose	বেছে নেওয়া	छान्नु
+to decide	সিদ্ধান্ত নেওয়া	निर्णय गर्नु
+to try	চেষ্টা করা	प्रयास गर्नु
+to continue	চালিয়ে যাওয়া	जारी राख्नु
+to change	বদলানো	बदल्नु
+to increase	বাড়া; বাড়ানো	बढ्नु; बढाउनु
+to decrease	কমা; কমানো	घट्नु; घटाउनु
+bright	উজ্জ্বল	उज्यालो
+autumn	শরৎকাল	शरद ऋतु
+day after tomorrow	পরশু	पर्सि
+over there	ওখানে; দূরে সেখানে	उता; टाढा त्यहाँ
+to play	খেলা	खेल्नु
+to make a visit	দেখা করতে যাওয়া	भेट्न जानु
+(humble) older brother	নিজের বড় ভাই	आफ्नो दाइ
+(humble) older sister	নিজের বড় বোন	आफ्नो दिदी
+that over there	দূরের সেই	टाढाको त्यो
