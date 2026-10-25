@@ -20,11 +20,19 @@ entry_overrides={}
 for line in (p/'translations/entry-overrides.tsv').read_text().splitlines():
  a=line.split('\t')
  if len(a)==3:entry_overrides[a[0]]=a[1:]
+source_overrides=json.loads((p/'translations/source-overrides.json').read_text()) if (p/'translations/source-overrides.json').exists() else {}
+grammar_details=json.loads((p/'translations/grammar-details.json').read_text()) if (p/'translations/grammar-details.json').exists() else {}
+entry_examples={}
+if (p/'translations/example-entry-overrides.tsv').exists():
+ for line in (p/'translations/example-entry-overrides.tsv').read_text().splitlines():
+  a=line.split('\t')
+  if len(a)==4:entry_examples[(a[0],int(a[1]))]=a[2:]
 report={};missing=[]
 for n in [5,4,3,2,1]:
  d=json.loads((p/f'dist/data/n{n}.json').read_text());report['N'+str(n)]={k:len(v) for k,v in d.items()}
  for kind,rows in d.items():
   for e in rows:
+   e.update(source_overrides.get('N'+str(n)+':'+kind+':'+e['id'],{}))
    e.setdefault('examples',[])
    e['locales']={}
    for index,lang in enumerate(['bn','ne']):
@@ -36,10 +44,12 @@ for n in [5,4,3,2,1]:
     if kind=='grammar':
      m=grammar[e['id']][index] if e['id'] in grammar else translate(e['meaning'])
      local={'meaning':m,'formation':formation(e['formation'],lang),'guidance':('এই গঠনটি “'+m+'” বোঝাতে ব্যবহার করুন। নিচের বাক্যে গঠনটি কীভাবে বসেছে দেখুন।' if lang=='bn' else 'यो संरचना “'+m+'” जनाउन प्रयोग हुन्छ। तलका वाक्यमा यसको प्रयोग हेर्नुहोस्।'),'translation_method':'authored-meaning-and-formation' if e['id'] in grammar else 'machine-draft'}
+    elif e['id'] in entry_overrides:local={'meaning':entry_overrides[e['id']][index],'translation_method':'authored-entry-gloss'}
     else:local={'meaning':'; '.join(dict.fromkeys(translate(s) for s in e['meanings'])),'translation_method':'offline-machine-with-curated-core-glosses'}
     if e['id'] in entry_overrides:local.update(meaning=entry_overrides[e['id']][index],translation_method='authored-entry-gloss')
-    local['examples']=[examples[x['en']][index] if x['en'] in examples else translate(x['en']) for x in e.get('examples',[])]
-    local['example_methods']=['authored' if x['en'] in examples else 'machine-draft' for x in e.get('examples',[])]
+    if e['id'] in grammar_details:local.update(grammar_details[e['id']].get(lang,{}))
+    local['examples']=[entry_examples[(e['id'],i)][index] if (e['id'],i) in entry_examples else examples[x['en']][index] if x['en'] in examples else translate(x['en']) for i,x in enumerate(e.get('examples',[]))]
+    local['example_methods']=['authored' if (e['id'],i) in entry_examples or x['en'] in examples else 'machine-draft' for i,x in enumerate(e.get('examples',[]))]
     e['locales'][lang]=local
  (p/f'dist/data/n{n}.json').write_text(json.dumps(d,ensure_ascii=False,separators=(',',':')))
 report['totals']={k:sum(x[k] for x in report.values() if isinstance(x,dict) and k in x) for k in ['vocab','grammar','kanji']}

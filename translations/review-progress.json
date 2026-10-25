@@ -1,8 +1,156 @@
 {
   "status": "in-progress",
-  "authored_entry_glosses": 169,
-  "pending_fields": 72070,
-  "note": "Automated completeness is not semantic or native-speaker validation.",
   "reviewed_on": "2026-10-26",
-  "latest_pass": "117 additional N5 entry-specific Bengali/Nepali gloss corrections; full example and higher-level semantic review remains pending."
+  "total_scoped_fields": 79178,
+  "ai_semantic_checked_fields": 300,
+  "pending_fields": 78878,
+  "checked_by_level": {
+    "N5": 300
+  },
+  "authored_entry_glosses": 191,
+  "native_speaker_review": "not performed",
+  "next_unreviewed_fields": [
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d46ae79a26",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d46ae79a26",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d46ae79a26",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d46ae79a26",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "98bc6f72ae",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "98bc6f72ae",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "98bc6f72ae",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "98bc6f72ae",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "b3b4041c52",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "b3b4041c52",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "b3b4041c52",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "b3b4041c52",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "27df3d5802",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "27df3d5802",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "27df3d5802",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "27df3d5802",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "115ec83476",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "115ec83476",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "115ec83476",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "115ec83476",
+      "language": "ne",
+      "field": "examples.1"
+    }
+  ],
+  "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
+  "latest_pass": "N5 vocabulary meanings 0–99; all examples of vocabulary 0–9; first five N5 grammar meanings, formation, guidance and examples. Idiomatic green, subject focus, Sunday, night-time, sister and negation checked."
 }
