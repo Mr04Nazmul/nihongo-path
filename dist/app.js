@@ -1,4 +1,4 @@
-const CONTENT_VERSION='review-20261026-001';
+const CONTENT_VERSION='review-20261026-002';
 const LEVELS=['N5','N4','N3','N2','N1'];
 const $=s=>document.querySelector(s), esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let meaning,openEntry,review;

@@ -9,3 +9,7 @@ Resume N5 first, then N4, N3, N2, N1. Inspect the source and translation for the
 The first recorded pass checks N5 vocabulary meanings 0–99, vocabulary examples 0–9, and the first five grammar records. Fixes distinguish idiomatic 青い from literal blue, preserve negative 開かなかった, and restore Sunday, night-time and older-sister roles in grammar examples. English glosses for 上げる, 一日（いちにち） and 忙しい were also corrected; source change notes are preserved. JMdict 1519290 from the licensed Japanese Language Data snapshot supports the primary busy/occupied/hectic sense.
 
 These are AI-assisted semantic checks, not native-speaker or teacher certification. Native-speaker review has not been performed. Do not remove draft labels globally or announce full completion from this partial ledger.
+
+## Second semantic pass (2026-10-26)
+
+Reviewed 152 additional sentence fields for N5 vocabulary indices 10–49 (76 examples in each language), with hash-bound evidence in the ledger. Japanese resolves source differences: 飴 example does not specify a girl; 姉/兄 are older siblings; 姉 example specifies a male child and pounds, not kilograms; 甘い is leniency rather than sugar; いつも…わけではない is partial negation. アソコ is a euphemism in its medical example. ダックスフント・ソーセージ is retained literally as the source sausage name, not translated as a pet. This is AI semantic review, not native-speaker certification. Remaining fields are still pending.

@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-26",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 300,
-  "pending_fields": 78878,
+  "ai_semantic_checked_fields": 452,
+  "pending_fields": 78726,
   "checked_by_level": {
-    "N5": 300
+    "N5": 452
   },
   "authored_entry_glosses": 191,
   "native_speaker_review": "not performed",
@@ -13,144 +13,144 @@
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "d46ae79a26",
+      "id": "43c874a6c8",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "d46ae79a26",
-      "language": "bn",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "d46ae79a26",
-      "language": "ne",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "d46ae79a26",
-      "language": "ne",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "98bc6f72ae",
-      "language": "bn",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "98bc6f72ae",
+      "id": "43c874a6c8",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "98bc6f72ae",
+      "id": "43c874a6c8",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "98bc6f72ae",
-      "language": "ne",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "b3b4041c52",
-      "language": "bn",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "b3b4041c52",
-      "language": "bn",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "b3b4041c52",
-      "language": "ne",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "b3b4041c52",
+      "id": "43c874a6c8",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "27df3d5802",
+      "id": "ca76162587",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "27df3d5802",
-      "language": "bn",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "27df3d5802",
-      "language": "ne",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "27df3d5802",
-      "language": "ne",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "115ec83476",
-      "language": "bn",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "115ec83476",
+      "id": "ca76162587",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "115ec83476",
+      "id": "ca76162587",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "115ec83476",
+      "id": "ca76162587",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d305fa14a8",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d305fa14a8",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d305fa14a8",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d305fa14a8",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "cd1bcc2b1b",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "cd1bcc2b1b",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "cd1bcc2b1b",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "cd1bcc2b1b",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "4dae367794",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "4dae367794",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "4dae367794",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "4dae367794",
       "language": "ne",
       "field": "examples.1"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "N5 vocabulary meanings 0–99; all examples of vocabulary 0–9; first five N5 grammar meanings, formation, guidance and examples. Idiomatic green, subject focus, Sunday, night-time, sister and negation checked."
+  "latest_pass": "152 additional N5 sentence fields: vocabulary indices 10–49, both Bengali and Nepali. Corrected morning rush, cheese, numb feet, euphemistic body reference, permissive/prohibitive forms, comparisons, elder siblings, six pounds, ironing, rain, passive washing and partial negation. Japanese takes precedence over English-added gender and omitted male-child/elder-sibling details."
 }
