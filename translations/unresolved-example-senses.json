@@ -1,0 +1,14 @@
+{
+  "0ce2b98d3b.examples.1": {
+    "issue": "Cook sentence uses kakeru in a non-phone sense with omitted object; likely add/pour seasoning, but referent absent. Literal placeholder corrected, not counted semantic-reviewed.",
+    "languages": [
+      "bn",
+      "ne"
+    ],
+    "status": "needs-context-review"
+  },
+  "687082e55c": {
+    "issue": "Current examples illustrate engine-start and completion senses beyond headword time/cost. Examples translated; teaching alignment still needs source-example replacement or sense expansion.",
+    "status": "needs-source-alignment"
+  }
+}
