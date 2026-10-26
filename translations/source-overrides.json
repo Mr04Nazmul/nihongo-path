@@ -50,5 +50,38 @@
       }
     ],
     "review_note": "Removed substring false matches プログラム and インスタグラム: neither demonstrates gram as a mass unit. Replaced with original mass-unit examples; no external sentence attribution asserted."
+  },
+  "N5:vocab:78fd1a0e8a": {
+    "examples": [
+      {
+        "ja": "自動車にひかれたのではないですか。",
+        "furigana": "{自動車|じどうしゃ}にひかれたのではないですか。",
+        "en": "Wasn't he run over by a car?",
+        "tatoeba_id": 150044
+      },
+      {
+        "ja": "ぼくの自動車はずいぶんガソリンをくう。",
+        "furigana": "ぼくの{自動車|じどうしゃ}はずいぶんガソリンをくう。",
+        "en": "My car burns a lot of gas.",
+        "tatoeba_id": 196376
+      }
+    ],
+    "review_note": "Japanese ひかれた denotes being run over; death is not stated. Removed unsupported killed from English."
+  },
+  "N5:vocab:01420cdf0f": {
+    "examples": [
+      {
+        "ja": "あいにく店は閉まっていた。",
+        "furigana": "あいにく{店|みせ}は{閉|し}まっていた。",
+        "en": "Unfortunately, the store was closed.",
+        "tatoeba_id": 234558
+      },
+      {
+        "ja": "ドアが閉まっていたので、入ることが出来なかった。",
+        "en": "The door was closed, so I couldn't get in.",
+        "tatoeba_id": 201896
+      }
+    ],
+    "review_note": "Japanese 閉まっていた states closed, not necessarily locked. Removed unsupported lock detail from English."
   }
 }
