@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-26",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 1440,
-  "pending_fields": 77738,
+  "ai_semantic_checked_fields": 1550,
+  "pending_fields": 77628,
   "checked_by_level": {
-    "N5": 1440
+    "N5": 1550
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -83,74 +83,74 @@
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "442c4aa1ca",
+      "id": "61994485cb",
       "language": "bn",
-      "field": "examples.0"
+      "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "442c4aa1ca",
-      "language": "bn",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "442c4aa1ca",
+      "id": "61994485cb",
       "language": "ne",
-      "field": "examples.0"
+      "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "442c4aa1ca",
+      "id": "4a11eb5fb4",
+      "language": "bn",
+      "field": "meaning"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "4a11eb5fb4",
       "language": "ne",
-      "field": "examples.1"
+      "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "47c1fdbe2f",
+      "id": "6313cc9cb5",
       "language": "bn",
-      "field": "examples.0"
+      "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "47c1fdbe2f",
-      "language": "bn",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "47c1fdbe2f",
+      "id": "6313cc9cb5",
       "language": "ne",
-      "field": "examples.0"
+      "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "47c1fdbe2f",
+      "id": "3793173687",
+      "language": "bn",
+      "field": "meaning"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "3793173687",
       "language": "ne",
-      "field": "examples.1"
+      "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "05cf590971",
+      "id": "7a27eadef1",
       "language": "bn",
-      "field": "examples.0"
+      "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "05cf590971",
-      "language": "bn",
-      "field": "examples.1"
+      "id": "7a27eadef1",
+      "language": "ne",
+      "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "120 N5 fields: meanings for vocabulary 200–249 and all examples of 130–134; rice, vitality, opening, nine-date, directions, AM/PM and swimming completion corrected."
+  "latest_pass": "110 N5 example fields: vocabulary indices 225–254; wellbeing, tea, intersections, visiting, November ninth, top-eight selection, morning times, negative quantity, kinship, treating someone to food, and month-end duration checked against Japanese and English."
 }
