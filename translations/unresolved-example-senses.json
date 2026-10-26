@@ -10,5 +10,13 @@
   "687082e55c": {
     "issue": "Current examples illustrate engine-start and completion senses beyond headword time/cost. Examples translated; teaching alignment still needs source-example replacement or sense expansion.",
     "status": "needs-source-alignment"
+  },
+  "9d648d38ad.examples.0": {
+    "issue": "Japanese ojisan can denote uncle or middle-aged man; English selects uncle but parental side unspecified. Alternatives rendered explicitly, awaiting context/kinship terminology review; not counted reviewed.",
+    "languages": [
+      "bn",
+      "ne"
+    ],
+    "status": "needs-context-review"
   }
 }
