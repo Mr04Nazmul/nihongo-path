@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 1786,
-  "pending_fields": 77392,
+  "ai_semantic_checked_fields": 1866,
+  "pending_fields": 77312,
   "checked_by_level": {
-    "N5": 1786
+    "N5": 1866
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "78 N5 example fields: vocabulary 295–314; exact ten oclock, ten elapsed years, class skipping, homework, skill, hearsay, self-service dining, double negation, towel and belt, Wednesday duration, absorption, skirt tightness and immediate obligation checked."
+  "latest_pass": "80 N5 example fields: vocabulary 315–334; stove, spoon, tailoring, vacant-seat polarity, former residence, slippers prohibition, logout regret, height, sweater repair, soap, Netherlands, past obligation, hall capacity and principal corrected. Two malformed or irrelevant source examples replaced with attributed original instructional examples."
 }

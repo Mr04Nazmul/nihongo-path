@@ -83,5 +83,36 @@
       }
     ],
     "review_note": "Japanese 閉まっていた states closed, not necessarily locked. Removed unsupported lock detail from English."
+  },
+  "N5:vocab:10fe0704ca": {
+    "examples": [
+      {
+        "ja": "このズボンを少し詰めてください。",
+        "en": "Please take these trousers in a little.",
+        "source": "Original instructional example authored for Nihongo Path."
+      },
+      {
+        "ja": "このズボンはひざが出やすい。",
+        "furigana": "このズボンはひざが{出|で}やすい。",
+        "en": "These pants tend to go baggy at the knees.",
+        "tatoeba_id": 223621
+      }
+    ],
+    "review_note": "Supplied Japanese tailoring example was malformed (このズボンにつめて). Replaced with a grammatical original instructional example preserving tailoring sense."
+  },
+  "N5:vocab:c4cdc162d7": {
+    "examples": [
+      {
+        "ja": "ログアウトするんじゃなかったよ。",
+        "en": "I shouldn't have logged off.",
+        "tatoeba_id": 4858
+      },
+      {
+        "ja": "毎日、日本語を勉強します。",
+        "en": "I study Japanese every day.",
+        "source": "Original instructional example authored for Nihongo Path."
+      }
+    ],
+    "review_note": "Original father-longevity example did not contain する or its inflections. Replaced with original study example illustrating します; no external attribution asserted for replacement."
   }
 }
