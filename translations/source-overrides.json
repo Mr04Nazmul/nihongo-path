@@ -163,5 +163,22 @@
       }
     ],
     "review_note": "Removed トイレが近いのです / Is there a toilet near here? pairing: Japanese is not a location question and can express frequent need to urinate. Replaced with original unambiguous spatial-proximity example, no external attribution claimed."
+  },
+  "N5:vocab:ff161262dd": {
+    "examples": [
+      {
+        "ja": "このテーブルを頼んだのではない。",
+        "furigana": "このテーブルを{頼|たの}んだのではない。",
+        "en": "I didn't ask for this table.",
+        "tatoeba_id": 223523
+      },
+      {
+        "ja": "テーブルの上にリンゴがあります。",
+        "furigana": "テーブルの{上|うえ}にリンゴがあります。",
+        "en": "There is an apple on the table.",
+        "tatoeba_id": 202398
+      }
+    ],
+    "review_note": "Duplicate このテーブルを頼んだのではない source corrected consistently: this particular table was not requested, not all tables here. Japanese sentence attribution retained."
   }
 }
