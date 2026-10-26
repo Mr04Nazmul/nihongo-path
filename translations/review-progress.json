@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-26",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 730,
-  "pending_fields": 78448,
+  "ai_semantic_checked_fields": 766,
+  "pending_fields": 78412,
   "checked_by_level": {
-    "N5": 730
+    "N5": 766
   },
   "authored_entry_glosses": 191,
   "native_speaker_review": "not performed",
