@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 2022,
-  "pending_fields": 77156,
+  "ai_semantic_checked_fields": 2102,
+  "pending_fields": 77076,
   "checked_by_level": {
-    "N5": 2022
+    "N5": 2102
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 N5 example fields: vocabulary 355–374; expensive vs tall, taxi direction, serving food, name disclosure, standing causative, crab direction, company idiom, this-table negation, probability, eating prohibition, dozen units, hives, birthday and smaller-size comparisons checked. English this-table sense corrected."
+  "latest_pass": "80 N5 example fields: vocabulary 375–394; proximity, concession, subway struggle, brown color, vessel, check-in, fatigue, advance call, arrival sequence, not-even-one, wood, turn-on polarity, employment negation, boring movie and cold salad reviewed. Mismatched toilet/proximity example replaced with original station example."
 }

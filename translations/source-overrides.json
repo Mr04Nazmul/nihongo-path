@@ -147,5 +147,21 @@
       }
     ],
     "review_note": "Japanese このテーブルを頼んだのではない rejects this specific table; corrected English that incorrectly denied asking for a table here. Japanese attribution retained."
+  },
+  "N5:vocab:a21ba677f2": {
+    "examples": [
+      {
+        "ja": "クリスマスが近くなってきた。",
+        "furigana": "クリスマスが{近|ちか}くなってきた。",
+        "en": "Christmas is fast approaching.",
+        "tatoeba_id": 225480
+      },
+      {
+        "ja": "駅はここから近いです。",
+        "en": "The station is near here.",
+        "source": "Original instructional example authored for Nihongo Path."
+      }
+    ],
+    "review_note": "Removed トイレが近いのです / Is there a toilet near here? pairing: Japanese is not a location question and can express frequent need to urinate. Replaced with original unambiguous spatial-proximity example, no external attribution claimed."
   }
 }
