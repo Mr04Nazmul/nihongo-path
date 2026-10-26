@@ -2,153 +2,153 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-26",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 766,
-  "pending_fields": 78412,
+  "ai_semantic_checked_fields": 864,
+  "pending_fields": 78314,
   "checked_by_level": {
-    "N5": 766
+    "N5": 864
   },
-  "authored_entry_glosses": 191,
+  "authored_entry_glosses": 222,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "3e015d0a8b",
+      "id": "03d7b15720",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "3e015d0a8b",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "248a353e09",
+      "id": "03d7b15720",
       "language": "bn",
-      "field": "meaning"
+      "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "248a353e09",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "96845304fd",
+      "id": "03d7b15720",
       "language": "bn",
-      "field": "meaning"
+      "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "96845304fd",
+      "id": "03d7b15720",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "6c4661d672",
+      "id": "03d7b15720",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "03d7b15720",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "ae5d1778d1",
       "language": "bn",
-      "field": "meaning"
+      "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "6c4661d672",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "f843b00173",
+      "id": "ae5d1778d1",
       "language": "bn",
-      "field": "meaning"
+      "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "f843b00173",
+      "id": "ae5d1778d1",
       "language": "ne",
-      "field": "meaning"
+      "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "101d46a061",
+      "id": "ae5d1778d1",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "cdfb776826",
       "language": "bn",
-      "field": "meaning"
+      "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "101d46a061",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "1b89f0f993",
+      "id": "cdfb776826",
       "language": "bn",
-      "field": "meaning"
+      "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "1b89f0f993",
+      "id": "cdfb776826",
       "language": "ne",
-      "field": "meaning"
+      "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "f2fa049fdd",
+      "id": "cdfb776826",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "2568873ebd",
       "language": "bn",
-      "field": "meaning"
+      "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "f2fa049fdd",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "ce8facdf69",
+      "id": "2568873ebd",
       "language": "bn",
-      "field": "meaning"
+      "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "ce8facdf69",
+      "id": "2568873ebd",
       "language": "ne",
-      "field": "meaning"
+      "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "a082687f7a",
+      "id": "2568873ebd",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "3c5bb8f223",
       "language": "bn",
-      "field": "meaning"
+      "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "a082687f7a",
-      "language": "ne",
-      "field": "meaning"
+      "id": "3c5bb8f223",
+      "language": "bn",
+      "field": "examples.1"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
