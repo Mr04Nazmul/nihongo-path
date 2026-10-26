@@ -35,5 +35,20 @@
       "inexperienced or immature (figurative)"
     ],
     "review_note": "The supplied お前はまだ「青い」な example is figurative, not a literal color description."
+  },
+  "N5:vocab:5538df2bce": {
+    "examples": [
+      {
+        "ja": "このりんごは二百グラムです。",
+        "en": "This apple weighs two hundred grams.",
+        "source": "Original instructional example authored for Nihongo Path."
+      },
+      {
+        "ja": "砂糖を五十グラム入れてください。",
+        "en": "Please add fifty grams of sugar.",
+        "source": "Original instructional example authored for Nihongo Path."
+      }
+    ],
+    "review_note": "Removed substring false matches プログラム and インスタグラム: neither demonstrates gram as a mass unit. Replaced with original mass-unit examples; no external sentence attribution asserted."
   }
 }
