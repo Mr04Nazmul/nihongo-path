@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-26",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 1400,
-  "pending_fields": 77778,
+  "ai_semantic_checked_fields": 1440,
+  "pending_fields": 77738,
   "checked_by_level": {
-    "N5": 1400
+    "N5": 1440
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -83,70 +83,70 @@
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "d6b85573f3",
+      "id": "442c4aa1ca",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "d6b85573f3",
-      "language": "bn",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "d6b85573f3",
-      "language": "ne",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "d6b85573f3",
-      "language": "ne",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "3c32cfb08a",
-      "language": "bn",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "3c32cfb08a",
+      "id": "442c4aa1ca",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "3c32cfb08a",
+      "id": "442c4aa1ca",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "3c32cfb08a",
+      "id": "442c4aa1ca",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "5e5300cf62",
+      "id": "47c1fdbe2f",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "5e5300cf62",
+      "id": "47c1fdbe2f",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "47c1fdbe2f",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "47c1fdbe2f",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "05cf590971",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "05cf590971",
       "language": "bn",
       "field": "examples.1"
     }
