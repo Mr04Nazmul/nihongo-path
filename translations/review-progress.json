@@ -2,12 +2,12 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-26",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 864,
-  "pending_fields": 78314,
+  "ai_semantic_checked_fields": 964,
+  "pending_fields": 78214,
   "checked_by_level": {
-    "N5": 864
+    "N5": 964
   },
-  "authored_entry_glosses": 222,
+  "authored_entry_glosses": 257,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "40 additional N5 example fields, vocabulary 50–59: negation, doctor intention, pain avoidance, payment, superlatives and one-day expense checked."
+  "latest_pass": "100 N5 meaning fields checked for vocabulary indices 150–199; household, corner, cute, cafe, postage stamp, disappear and dislike senses corrected."
 }
