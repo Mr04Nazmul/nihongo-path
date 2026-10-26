@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-26",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 1162,
-  "pending_fields": 78016,
+  "ai_semantic_checked_fields": 1202,
+  "pending_fields": 77976,
   "checked_by_level": {
-    "N5": 1162
+    "N5": 1202
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -69,84 +69,84 @@
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "c9b5da4d10",
+      "id": "9d648d38ad",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "c9b5da4d10",
-      "language": "bn",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "c9b5da4d10",
-      "language": "ne",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "c9b5da4d10",
-      "language": "ne",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "1c9db63bdc",
-      "language": "bn",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "1c9db63bdc",
+      "id": "9d648d38ad",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "1c9db63bdc",
+      "id": "9d648d38ad",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "1c9db63bdc",
+      "id": "9d648d38ad",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "e34295f3e1",
+      "id": "0dbf9ef8ca",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "e34295f3e1",
+      "id": "0dbf9ef8ca",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "e34295f3e1",
+      "id": "0dbf9ef8ca",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "e34295f3e1",
+      "id": "0dbf9ef8ca",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d2546ac97b",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d2546ac97b",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d2546ac97b",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d2546ac97b",
       "language": "ne",
       "field": "examples.1"
     }
