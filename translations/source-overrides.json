@@ -114,5 +114,21 @@
       }
     ],
     "review_note": "Original father-longevity example did not contain する or its inflections. Replaced with original study example illustrating します; no external attribution asserted for replacement."
+  },
+  "N5:vocab:e75777d218": {
+    "examples": [
+      {
+        "ja": "そうしてくださればとてもうれしい。",
+        "en": "I would be very happy if you did so.",
+        "tatoeba_id": 213883
+      },
+      {
+        "ja": "そうしてくれて君は親切ですね。",
+        "furigana": "そうしてくれて{君|きみ}は{親切|しんせつ}ですね。",
+        "en": "It is kind of you to do so.",
+        "tatoeba_id": 213882
+      }
+    ],
+    "review_note": "Japanese そうしてくださればとてもうれしい is conditional happiness/gratitude. The supplied English I cannot be sorry was unrelated; corrected to match Japanese, retaining original Japanese sentence attribution."
   }
 }
