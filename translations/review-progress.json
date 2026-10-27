@@ -2,12 +2,12 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 3666,
-  "pending_fields": 75512,
+  "ai_semantic_checked_fields": 3746,
+  "pending_fields": 75432,
   "checked_by_level": {
-    "N5": 3666
+    "N5": 3746
   },
-  "authored_entry_glosses": 505,
+  "authored_entry_glosses": 545,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
@@ -83,74 +83,74 @@
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "3af80b5b2a",
+      "id": "3be88666ba",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "3af80b5b2a",
+      "id": "3be88666ba",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "2f01adebd7",
+      "id": "9cd7c780c3",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "2f01adebd7",
+      "id": "9cd7c780c3",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "18046e46a1",
+      "id": "532c73de5d",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "18046e46a1",
+      "id": "532c73de5d",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "cbbfc8cad6",
+      "id": "098e9e7e67",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "cbbfc8cad6",
+      "id": "098e9e7e67",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "0c6e923ef9",
+      "id": "ee3206bb3f",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "0c6e923ef9",
+      "id": "ee3206bb3f",
       "language": "ne",
       "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 N5 meaning fields: vocabulary 430–469. Which forms/register, adjacent, fly/hop, stopping, chicken meat, photography vs taking, inside, animal calls, summer, seventh date, learn, line-up vs arranging, lively, luggage and garden reviewed in Bengali/Nepali. Source cry qualifier and transitivity clarified. Resume meaning index 470."
+  "latest_pass": "80 N5 meaning fields: vocabulary 470–509. Take off, lukewarm, tie, climb, passenger ride, ashtray, entering/fitting, lower-body wear, chopsticks, beginning, first-meeting greeting, butter, age twenty, twentieth date, conversation, early vs fast and paste reviewed in Bengali/Nepali. Source age and transitivity corrected. Resume meaning index 510."
 }

@@ -818,5 +818,41 @@
       "to line things up"
     ],
     "review_note": "並べる transitive arranging contrasted with 並ぶ intransitive."
+  },
+  "N5:vocab:c428d02d43": {
+    "meanings": [
+      "to enter",
+      "to go in",
+      "to fit inside"
+    ],
+    "review_note": "入る intransitive entering/fitting, not contain as transitive verb."
+  },
+  "N5:vocab:4729cc56f4": {
+    "meanings": [
+      "to put on or wear lower-body clothing",
+      "to put on or wear shoes or socks"
+    ],
+    "review_note": "履く lower-body clothing/footwear, not all clothing; both existing examples shoes and bell-bottoms."
+  },
+  "N5:vocab:8fea1e3f3c": {
+    "meanings": [
+      "to begin",
+      "to start (intransitive)"
+    ],
+    "review_note": "始まる intransitive begin contrasted with transitive start something."
+  },
+  "N5:vocab:c65a346458": {
+    "meanings": [
+      "twenty years old",
+      "age twenty"
+    ],
+    "review_note": "二十歳 means age twenty, not twentieth year of life which may imply nineteen."
+  },
+  "N5:vocab:153de06669": {
+    "meanings": [
+      "twenty days",
+      "the twentieth day of the month"
+    ],
+    "review_note": "二十日 duration or calendar twentieth date made explicit."
   }
 }
