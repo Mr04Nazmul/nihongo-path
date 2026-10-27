@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 2182,
-  "pending_fields": 76996,
+  "ai_semantic_checked_fields": 2258,
+  "pending_fields": 76920,
   "checked_by_level": {
-    "N5": 2182
+    "N5": 2258
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 N5 example fields: vocabulary 395–414; handle/strategy, tape playback, not-new, forty thousand yen, preference, causal inability, romance, B2 exit, comparison with absence, phone answer, shaver fire, passive TV negation, weather wish, pickpocketing and locked-door sequence reviewed. Duplicate this-table English corrected."
+  "latest_pass": "76 N5 example fields: vocabulary 415–434; toilet water, why/how, greeting, family regards, distance negation, tenth dates, periodicity, price upper bound, library prohibition, comparative blame and adjacency reviewed."
 }
