@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 2804,
-  "pending_fields": 76374,
+  "ai_semantic_checked_fields": 2884,
+  "pending_fields": 76294,
   "checked_by_level": {
-    "N5": 2804
+    "N5": 2884
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 N5 example fields: vocabulary 555–574; room, neighborhood, pen, study, convenience, hat, ballpoint, other, pocket, wants, mailbox, thin, button, hotel, book, bookcase, truth and daily/weekly/monthly routines. Mailbox negation and thin idiom English corrected; counter example replaced with book noun example."
+  "latest_pass": "80 N5 fields: 78 example translations for vocabulary 575–594 and 2 match/firelighting glosses. Annual obligation, before, left turns, hunger proverb, north, still, waiting requests, round shape, 40000 yen/one crore, fountain pen, pot cleaning, Arabic direction, daylight and knee accumulation reviewed. Unsupported English weather/rust and north gloss corrected."
 }

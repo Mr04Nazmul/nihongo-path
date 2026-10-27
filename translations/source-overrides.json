@@ -294,5 +294,56 @@
       }
     ],
     "review_note": "Replaced whiskey bottle counter 本 example with original 本ほん book noun example. Stable entry ID preserved."
+  },
+  "N5:vocab:039a696225": {
+    "examples": [
+      {
+        "ja": "毎日うっとうしくていやですね。",
+        "furigana": "{毎日|まいにち}うっとうしくていやですね。",
+        "en": "It's so unpleasant every day, isn't it?",
+        "tatoeba_id": 81316
+      },
+      {
+        "ja": "あなたは毎日どれぐらいテニスをしますか。",
+        "furigana": "あなたは{毎日|まいにち}どれぐらいテニスをしますか。",
+        "en": "How long do you play tennis every day?",
+        "tatoeba_id": 231557
+      }
+    ],
+    "review_note": "Retained daily unpleasantness without adding weather as an explicit referent absent from Japanese."
+  },
+  "N5:vocab:7309a238e8": {
+    "examples": [
+      {
+        "ja": "そのなべを磨いていただけませんか。",
+        "furigana": "そのなべを{磨|みが}いていただけませんか。",
+        "en": "Could you clean and polish that pot?",
+        "tatoeba_id": 212854
+      },
+      {
+        "ja": "学生は読書の技能を磨くべきだ。",
+        "furigana": "{学生|がくせい}は{読書|どくしょ}の{技能|ぎのう}を{磨|みが}くべきだ。",
+        "en": "Students should develop their reading skills.",
+        "tatoeba_id": 184229
+      }
+    ],
+    "review_note": "Japanese has no rusty modifier; polite request to clean/polish pot, not scrape rusty pan."
+  },
+  "N5:vocab:4d76d06d84": {
+    "examples": [
+      {
+        "ja": "その町はロンドンのすぐ北にある。",
+        "furigana": "その{町|まち}はロンドンのすぐ{北|きた}にある。",
+        "en": "The town is just north of London.",
+        "tatoeba_id": 207801
+      },
+      {
+        "ja": "この町に来たのははじめてですか。",
+        "furigana": "この{町|まち}に{来|き}たのははじめてですか。",
+        "en": "Is this the first time that you have come to this town?",
+        "tatoeba_id": 220531
+      }
+    ],
+    "review_note": "すぐ北 means immediately north, not physically above London."
   }
 }
