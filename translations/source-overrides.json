@@ -543,5 +543,86 @@
       }
     ],
     "review_note": "学校 not specifically high school; retained next-April enrollment state."
+  },
+  "N5:vocab:dc7d39c7af": {
+    "examples": [
+      {
+        "ja": "留学生も入れるのかしら。",
+        "furigana": "{留学生|りゅうがくせい}も{入|い}れるのかしら。",
+        "en": "I wonder if international students can join too.",
+        "tatoeba_id": 237462
+      },
+      {
+        "ja": "３人の中国人留学生がその大学に入学が許された。",
+        "en": "Three Chinese students were admitted to the college.",
+        "tatoeba_id": 235285
+      }
+    ],
+    "review_note": "Club referent not explicit in Japanese; retained wondering and joining potential."
+  },
+  "N5:vocab:0139a208fe": {
+    "examples": [
+      {
+        "ja": "両親は二人ともまだ生きています。",
+        "furigana": "{両親|りょうしん}は{二人|ふたり}ともまだ{生|い}きています。",
+        "en": "Both the parents are still living.",
+        "tatoeba_id": 77996
+      },
+      {
+        "ja": "両親とも生きているわけではない。",
+        "furigana": "{両親|りょうしん}とも{生|い}きているわけではない。",
+        "en": "It is not the case that both of my parents are alive.",
+        "tatoeba_id": 78052
+      }
+    ],
+    "review_note": "両親とも...わけではない is partial negation not both; English neither overstates scope."
+  },
+  "N5:vocab:5fc0f979e6": {
+    "examples": [
+      {
+        "ja": "廊下の突き当たりで火事が起きました。",
+        "furigana": "{廊下|ろうか}の{突|つ}き{当|あ}たりで{火事|かじ}が{起|お}きました。",
+        "en": "A fire broke out at the end of the hallway.",
+        "tatoeba_id": 77345
+      },
+      {
+        "ja": "花子はカツカツと音を立てながら廊下を歩いてきた。",
+        "en": "Hanako walked through the hallway making a clicking sound.",
+        "tatoeba_id": 173664
+      }
+    ],
+    "review_note": "突き当たり far end; 起きました past outbreak, not necessarily currently ongoing."
+  },
+  "N5:vocab:38249a2dd2": {
+    "examples": [
+      {
+        "ja": "ワイシャツにボタンをつけて。",
+        "en": "Would you sew a button on my shirt?",
+        "tatoeba_id": 192073
+      },
+      {
+        "ja": "母はワイシャツのしわをアイロンでのばすのにいそがしかった。",
+        "furigana": "{母|はは}はワイシャツのしわをアイロンでのばすのにいそがしかった。",
+        "en": "Mother was busy ironing the wrinkles out of the shirts.",
+        "tatoeba_id": 83028
+      }
+    ],
+    "review_note": "Japanese says mother was busy; no I found observation. Singular/plural not morphologically specified."
+  },
+  "N5:vocab:b1d440d4e1": {
+    "examples": [
+      {
+        "ja": "この本を先生に渡してください。",
+        "en": "Please hand this book to the teacher.",
+        "source": "Original instructional example authored for Nihongo Path."
+      },
+      {
+        "ja": "走者がリレーでバトンを渡さなければなりません。",
+        "furigana": "{走者|そうしゃ}がリレーでバトンを{渡|わた}さなければなりません。",
+        "en": "A runner must pass the baton in a relay race.",
+        "tatoeba_id": 192496
+      }
+    ],
+    "review_note": "Replaced carrying across river example with original hand-over sense matching headword; stable ID unchanged."
   }
 }

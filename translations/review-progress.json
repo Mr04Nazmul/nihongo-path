@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 3118,
-  "pending_fields": 76060,
+  "ai_semantic_checked_fields": 3192,
+  "pending_fields": 75986,
   "checked_by_level": {
-    "N5": 3118
+    "N5": 3192
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "76 N5 example fields: vocabulary 635–654; famous, snow negation, slowly, dates, clothes, welcoming/reproach, sideways inference, four-day limit, names, reading duration, comparisons, lights, weak spot, future dates, radio and irony. 39 examples corrected; 2 uncle kinship fields remain explicitly unresolved. English famous, clothing specificity and school level corrected."
+  "latest_pass": "74 N5 example fields: vocabulary 655–674; overseas students, parents partial negation, delicious food, travel, butter pounds, records, restaurant, practice, fire/corridor, six oclock, shirts, youth, knowing, forgetting, swim inability, hand-over, crossing, wronging and 58kg. English neither corrected to not both; hand-over example aligned. Zero has no examples."
 }
