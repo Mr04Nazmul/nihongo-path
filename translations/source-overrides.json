@@ -345,5 +345,70 @@
       }
     ],
     "review_note": "すぐ北 means immediately north, not physically above London."
+  },
+  "N5:vocab:e8cdf8b85a": {
+    "examples": [
+      {
+        "ja": "なぜ、あなたの耳はそんなに大きいの？",
+        "furigana": "なぜ、あなたの{耳|みみ}はそんなに{大|おお}きいの？",
+        "en": "Why are your ears so big?",
+        "tatoeba_id": 199295
+      },
+      {
+        "ja": "耳がしもやけになったんだ。",
+        "furigana": "{耳|みみ}がしもやけになったんだ。",
+        "en": "I have chilblains on my ears.",
+        "tatoeba_id": 150168
+      }
+    ],
+    "review_note": "しもやけ means chilblains, distinct from frostbite. Gakken dictionary https://kids.gakken.co.jp/jiten/dictionary03200636/ and Hokkaido University dermatology text https://www.derm-hokudai.jp/wp/wp-content/uploads/2021/12/13-02.pdf ."
+  },
+  "N5:vocab:84e465b526": {
+    "examples": [
+      {
+        "ja": "フランスは英国の南にある。",
+        "furigana": "フランスは{英国|えいこく}の{南|みなみ}にある。",
+        "en": "I was startled when I saw it.",
+        "tatoeba_id": 196997
+      },
+      {
+        "ja": "まもなくツバメが南からやってくる。",
+        "furigana": "まもなくツバメが{南|みなみ}からやってくる。",
+        "en": "Soon, swallows will come from the south.",
+        "tatoeba_id": 195304
+      }
+    ],
+    "review_note": "ぎょっと denotes startled shock, not attraction. Other example remains passive not watched, not inability."
+  },
+  "N5:vocab:bf44ddad08": {
+    "examples": [
+      {
+        "ja": "４月５日か６日に会っていただけませんか。",
+        "en": "Could you meet on April 5 or 6?",
+        "tatoeba_id": 235224
+      },
+      {
+        "ja": "６日間学校に行けませんでした。",
+        "en": "I missed school for six days.",
+        "tatoeba_id": 235021
+      }
+    ],
+    "review_note": "Alternative dates, not date range; Japanese does not specify us or year."
+  },
+  "N5:vocab:ae534d4ca8": {
+    "examples": [
+      {
+        "ja": "彼女はきれいな目をしている。",
+        "furigana": "{彼女|かのじょ}はきれいな{目|め}をしている。",
+        "en": "She has beautiful eyes.",
+        "tatoeba_id": 92969
+      },
+      {
+        "ja": "彼の目は青いです。",
+        "en": "His eyes are blue.",
+        "source": "Original instructional example authored for Nihongo Path."
+      }
+    ],
+    "review_note": "Replaced ordinal suffix 目 third-period example with original eye noun example matching め headword; IDs unchanged."
   }
 }

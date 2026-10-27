@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 2884,
-  "pending_fields": 76294,
+  "ai_semantic_checked_fields": 2962,
+  "pending_fields": 76216,
   "checked_by_level": {
-    "N5": 2884
+    "N5": 2962
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 N5 fields: 78 example translations for vocabulary 575–594 and 2 match/firelighting glosses. Annual obligation, before, left turns, hunger proverb, north, still, waiting requests, round shape, 40000 yen/one crore, fountain pen, pot cleaning, Arabic direction, daylight and knee accumulation reviewed. Unsupported English weather/rust and north gloss corrected."
+  "latest_pass": "78 N5 example fields: vocabulary 595–614; permanent shop closure, showing, roads/career, three days, coffees, greenery, stillness/netiquette, south, chilblains, visual shock and passive negative, six days and six pieces, miles/meters, eye sense, glasses and exasperation. Source chilblains corrected; ordinal suffix example replaced with eye noun example."
 }
