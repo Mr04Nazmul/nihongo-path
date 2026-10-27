@@ -230,5 +230,21 @@
       }
     ],
     "review_note": "Japanese describes some shots as fast; English incorrectly specified people and serves. Corrected without inventing sport or agent. Original Japanese sentence attribution retained."
+  },
+  "N5:vocab:750786cc55": {
+    "examples": [
+      {
+        "ja": "それは１週間前、すなわち４月２日に行われた。",
+        "en": "It took place a week ago, namely on April second.",
+        "tatoeba_id": 205590
+      },
+      {
+        "ja": "このミルクは二日はもつ。",
+        "furigana": "このミルクは{二日|ふつか}はもつ。",
+        "en": "The milk will keep for two days.",
+        "tatoeba_id": 223124
+      }
+    ],
+    "review_note": "Japanese 行われた denotes took place, not was due; corrected English event status while retaining sentence attribution."
   }
 }
