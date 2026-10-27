@@ -151,7 +151,12 @@
         "tatoeba_id": 223523
       }
     ],
-    "review_note": "Japanese このテーブルを頼んだのではない rejects this specific table; corrected English that incorrectly denied asking for a table here. Japanese attribution retained."
+    "review_note": "頼む request/order, not ask an information question.",
+    "meanings": [
+      "to request",
+      "to ask a favor",
+      "to order"
+    ]
   },
   "N5:vocab:a21ba677f2": {
     "examples": [
@@ -675,5 +680,47 @@
       "石けん"
     ],
     "review_note": "Corrected wrong homophone alignment from 節倹 economy JMdict 1386220 to 石鹸 soap JMdict 1382590. Both examples are soap. Application ID preserved. Evidence https://www.japandict.com/石けん and https://www.japandict.com/節倹 ."
+  },
+  "N5:vocab:9ee7cd3382": {
+    "meanings": [
+      "to like very much",
+      "to love",
+      "favorite"
+    ],
+    "review_note": "大好き expresses strong liking/love, not very likeable personality."
+  },
+  "N5:vocab:e04372c490": {
+    "meanings": [
+      "very",
+      "greatly",
+      "serious",
+      "difficult"
+    ],
+    "review_note": "大変 intensifier and serious/difficult situational sense; both examples retained."
+  },
+  "N5:vocab:6298cfc5d6": {
+    "meanings": [
+      "to take out",
+      "to put out",
+      "to submit",
+      "to serve"
+    ],
+    "review_note": "出す outward action/submit/serve; put out must not be interpreted as extinguish a fire."
+  },
+  "N5:vocab:3d12036023": {
+    "meanings": [
+      "rice bowl",
+      "tea cup"
+    ],
+    "review_note": "茶碗 can denote rice bowl or tea cup; existing examples call it cup."
+  },
+  "N5:vocab:602fdffbf2": {
+    "meanings": [
+      "a little",
+      "a short time",
+      "somewhat",
+      "excuse me (calling attention)"
+    ],
+    "review_note": "ちょっと includes attention interjection used in first existing example, not only somewhat."
   }
 }

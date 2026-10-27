@@ -2,12 +2,12 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 3426,
-  "pending_fields": 75752,
+  "ai_semantic_checked_fields": 3506,
+  "pending_fields": 75672,
   "checked_by_level": {
-    "N5": 3426
+    "N5": 3506
   },
-  "authored_entry_glosses": 389,
+  "authored_entry_glosses": 426,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
@@ -83,74 +83,74 @@
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "992fc07339",
+      "id": "edc22b8d98",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "992fc07339",
+      "id": "edc22b8d98",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "2f62b9db5e",
+      "id": "ba6c46f68c",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "2f62b9db5e",
+      "id": "ba6c46f68c",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "9ee7cd3382",
+      "id": "3a94b5e981",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "9ee7cd3382",
+      "id": "3a94b5e981",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "b3a8593e53",
+      "id": "a23d308800",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "b3a8593e53",
+      "id": "a23d308800",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "1c0b0f77b6",
+      "id": "d99745fbb6",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "1c0b0f77b6",
+      "id": "d99745fbb6",
       "language": "ne",
       "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 N5 meaning fields: vocabulary 310–349. Immediate/nearby, low quantity, cool, heater, spoon, trousers, apologies, residence, slippers, height, sweater, soap, suit, laundry, cleaning and demonstrative register reviewed in Bengali/Nepali. Wrong soap/economy JMdict alignment corrected with application ID preserved. Resume meaning index 350."
+  "latest_pass": "80 N5 meaning fields: vocabulary 350–389. Embassy, okay, strong liking, kitchen, serious/very, high/expensive, taking out/serving, vertical, requests, tobacco, small size, different/wrong, map, rice bowl/tea cup, exact, attention and arrival reviewed in Bengali/Nepali. Source request vs question, strong liking and contextual senses corrected. Resume meaning index 390."
 }
