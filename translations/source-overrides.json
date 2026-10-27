@@ -180,5 +180,21 @@
       }
     ],
     "review_note": "Duplicate このテーブルを頼んだのではない source corrected consistently: this particular table was not requested, not all tables here. Japanese sentence attribution retained."
+  },
+  "N5:vocab:e05de4981d": {
+    "examples": [
+      {
+        "ja": "春になると、暖かくなります。",
+        "en": "When spring comes, it gets warm.",
+        "source": "Original instructional example authored for Nihongo Path."
+      },
+      {
+        "ja": "日がだんだん長くなってきています。",
+        "furigana": "{日|ひ}がだんだん{長|なが}くなってきています。",
+        "en": "The days are getting longer and longer.",
+        "tatoeba_id": 122958
+      }
+    ],
+    "review_note": "Replaced Internetなるもの example: literary naming copula なる does not demonstrate beginner verb なる meaning become. Original seasonal change example demonstrates target verb; no external attribution claimed."
   }
 }
