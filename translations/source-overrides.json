@@ -246,5 +246,53 @@
       }
     ],
     "review_note": "Japanese 行われた denotes took place, not was due; corrected English event status while retaining sentence attribution."
+  },
+  "N5:vocab:2dbe65ee1d": {
+    "examples": [
+      {
+        "ja": "ポストはどこにありますか。",
+        "en": "Where is the mailbox?",
+        "tatoeba_id": 196278
+      },
+      {
+        "ja": "この辺りにポストはありません。",
+        "furigana": "この{辺|あた}りにポストはありません。",
+        "en": "There is no mailbox around here.",
+        "tatoeba_id": 219866
+      }
+    ],
+    "review_note": "Japanese ありません is a negative statement, not an affirmative availability question."
+  },
+  "N5:vocab:785adc4f9d": {
+    "examples": [
+      {
+        "ja": "彼は太っているくせに声は細い。",
+        "furigana": "{彼|かれ}は{太|ふと}っているくせに{声|こえ}は{細|ほそ}い。",
+        "en": "His voice is thin even though he is fat.",
+        "tatoeba_id": 102553
+      },
+      {
+        "ja": "細く長く愛して。",
+        "en": "Love me a little, but love me for a long time.",
+        "tatoeba_id": 237482
+      }
+    ],
+    "review_note": "細く長く expresses modest steady duration; English lithe wrongly suggests bodily flexibility."
+  },
+  "N5:vocab:0e8f798dbf": {
+    "examples": [
+      {
+        "ja": "日本語の本を一冊持っています。",
+        "en": "I have a Japanese-language book.",
+        "source": "Original instructional example authored for Nihongo Path."
+      },
+      {
+        "ja": "本をさかさまに入れないで下さい。",
+        "furigana": "{本|ほん}をさかさまに{入|い}れないで{下|くだ}さい。",
+        "en": "Don't put the books in the shelf upside down.",
+        "tatoeba_id": 81634
+      }
+    ],
+    "review_note": "Replaced whiskey bottle counter 本 example with original 本ほん book noun example. Stable entry ID preserved."
   }
 }

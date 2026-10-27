@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 2724,
-  "pending_fields": 76454,
+  "ai_semantic_checked_fields": 2804,
+  "pending_fields": 76374,
   "checked_by_level": {
-    "N5": 2724
+    "N5": 2804
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "76 N5 example fields: vocabulary 535–554; film, envelope, pool, wind and trumpet, older comparison, spoiled pork, private conversation, April second event, younger sister, alternate-day bathing, link permission and bedtime obligation reviewed. English event status corrected."
+  "latest_pass": "80 N5 example fields: vocabulary 555–574; room, neighborhood, pen, study, convenience, hat, ballpoint, other, pocket, wants, mailbox, thin, button, hotel, book, bookcase, truth and daily/weekly/monthly routines. Mailbox negation and thin idiom English corrected; counter example replaced with book noun example."
 }
