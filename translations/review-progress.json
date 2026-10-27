@@ -1,13 +1,13 @@
 {
   "status": "in-progress",
-  "reviewed_on": "2026-10-27",
+  "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 3192,
-  "pending_fields": 75986,
+  "ai_semantic_checked_fields": 3266,
+  "pending_fields": 75912,
   "checked_by_level": {
-    "N5": 3192
+    "N5": 3266
   },
-  "authored_entry_glosses": 297,
+  "authored_entry_glosses": 316,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
@@ -83,74 +83,74 @@
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "61994485cb",
+      "id": "45c705d5b2",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "61994485cb",
+      "id": "45c705d5b2",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "4a11eb5fb4",
+      "id": "5cb07674a3",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "4a11eb5fb4",
+      "id": "5cb07674a3",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "6313cc9cb5",
+      "id": "e2695084c9",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "6313cc9cb5",
+      "id": "e2695084c9",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "3793173687",
+      "id": "da4b805e0b",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "3793173687",
+      "id": "da4b805e0b",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "7a27eadef1",
+      "id": "b366a3d677",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "7a27eadef1",
+      "id": "b366a3d677",
       "language": "ne",
       "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "74 N5 example fields: vocabulary 655–674; overseas students, parents partial negation, delicious food, travel, butter pounds, records, restaurant, practice, fire/corridor, six oclock, shirts, youth, knowing, forgetting, swim inability, hand-over, crossing, wronging and 58kg. English neither corrected to not both; hand-over example aligned. Zero has no examples."
+  "latest_pass": "74 N5 fields: 34 examples for vocabulary 675–696 plus 40 meanings for vocabulary 250–269. Circumference/diameter, July first, reported time, positive monthly letters, Karuizawa, swim permission and glasses reviewed. Meanings distinguish trouble, greetings, temporal evening, wallet, bloom, written composition, umbrella and ambient cold. Remaining unresolved example senses retained; next meaning index 270."
 }

@@ -624,5 +624,13 @@
       }
     ],
     "review_note": "Replaced carrying across river example with original hand-over sense matching headword; stable ID unchanged."
+  },
+  "N5:vocab:61994485cb": {
+    "meanings": [
+      "to be in trouble",
+      "to have difficulty",
+      "to be at a loss"
+    ],
+    "review_note": "困る denotes trouble/difficulty or being at a loss, not merely emotional worry; corrected source gloss."
   }
 }
