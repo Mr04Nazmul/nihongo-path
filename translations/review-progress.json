@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 2258,
-  "pending_fields": 76920,
+  "ai_semantic_checked_fields": 2334,
+  "pending_fields": 76844,
   "checked_by_level": {
-    "N5": 2258
+    "N5": 2334
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "76 N5 example fields: vocabulary 415–434; toilet water, why/how, greeting, family regards, distance negation, tenth dates, periodicity, price upper bound, library prohibition, comparative blame and adjacency reviewed."
+  "latest_pass": "76 N5 example fields: vocabulary 435–454; fuse and topic idioms, stop duration, Saturday reference, three pounds chicken, saving money, accidental drop, frog cry, relative previous day, ants, warmth negation and seven continents reviewed."
 }
