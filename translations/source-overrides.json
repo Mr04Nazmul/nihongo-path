@@ -196,5 +196,39 @@
       }
     ],
     "review_note": "Replaced Internetなるもの example: literary naming copula なる does not demonstrate beginner verb なる meaning become. Original seasonal change example demonstrates target verb; no external attribution claimed."
+  },
+  "N5:vocab:1ed0362cc3": {
+    "examples": [
+      {
+        "ja": "話を聞かせてくれ。",
+        "furigana": "{話|はなし}を{聞|き}かせてくれ。",
+        "en": "Tell me about it.",
+        "tatoeba_id": 77142
+      },
+      {
+        "ja": "話があったら電話をかけて下さい。",
+        "furigana": "{話|はなし}があったら{電話|でんわ}をかけて{下|くだ}さい。",
+        "en": "If you want to speak to me, please call me up.",
+        "tatoeba_id": 77204
+      }
+    ],
+    "review_note": "Japanese 話を聞かせてくれ requests an account; unsupported full report and though removed from English. Original Japanese sentence attribution retained."
+  },
+  "N5:vocab:406d15f6e9": {
+    "examples": [
+      {
+        "ja": "ショットはとても速いものもある。",
+        "furigana": "ショットはとても{速|はや}いものもある。",
+        "en": "Some shots are very fast.",
+        "tatoeba_id": 215557
+      },
+      {
+        "ja": "時のたつのってはやいものですね。",
+        "furigana": "{時|とき}のたつのってはやいものですね。",
+        "en": "Time goes by very quickly, doesn't it?",
+        "tatoeba_id": 150673
+      }
+    ],
+    "review_note": "Japanese describes some shots as fast; English incorrectly specified people and serves. Corrected without inventing sport or agent. Original Japanese sentence attribution retained."
   }
 }
