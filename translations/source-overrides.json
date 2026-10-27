@@ -271,7 +271,11 @@
         "tatoeba_id": 219866
       }
     ],
-    "review_note": "Japanese ありません is a negative statement, not an affirmative availability question."
+    "review_note": "ポスト postal box in both existing examples; English post was underspecified.",
+    "meanings": [
+      "mailbox",
+      "postbox"
+    ]
   },
   "N5:vocab:785adc4f9d": {
     "examples": [
@@ -890,5 +894,21 @@
       "large in diameter"
     ],
     "review_note": "太い thick neck/legs in both examples, not dietary fat noun."
+  },
+  "N5:vocab:79ddbb2b98": {
+    "meanings": [
+      "written text",
+      "writing",
+      "composition"
+    ],
+    "review_note": "文章 written text/composition, not restricted to one sentence."
+  },
+  "N5:vocab:b19034ded1": {
+    "meanings": [
+      "bad-tasting",
+      "unpalatable",
+      "unfavorable or troublesome (of a situation)"
+    ],
+    "review_note": "まずい taste or unfavorable situation, not an apology."
   }
 }
