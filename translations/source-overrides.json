@@ -410,5 +410,71 @@
       }
     ],
     "review_note": "Replaced ordinal suffix 目 third-period example with original eye noun example matching め headword; IDs unchanged."
+  },
+  "N5:vocab:3e3efcb45f": {
+    "examples": [
+      {
+        "ja": "父はまだ休んでいる。",
+        "furigana": "{父|ちち}はまだ{休|やす}んでいる。",
+        "en": "Father is still resting.",
+        "tatoeba_id": 84662
+      },
+      {
+        "ja": "彼はしばらくの間休んだ。",
+        "furigana": "{彼|かれ}はしばらくの{間|あいだ}{休|やす}んだ。",
+        "en": "He rested for a while.",
+        "tatoeba_id": 113559
+      }
+    ],
+    "review_note": "Japanese 休んでいる denotes resting; bed is not explicitly stated."
+  },
+  "N5:vocab:d4a1d27d3b": {
+    "examples": [
+      {
+        "ja": "学校はクリスマスで休みになった。",
+        "furigana": "{学校|がっこう}はクリスマスで{休|やす}みになった。",
+        "en": "School has closed for the Christmas holidays.",
+        "tatoeba_id": 184412
+      },
+      {
+        "ja": "でも休みはとったほうがいいわよ。",
+        "furigana": "でも{休|やす}みはとったほうがいいわよ。",
+        "en": "But you should take a break.",
+        "tatoeba_id": 202088
+      }
+    ],
+    "review_note": "Japanese 休みをとったほうがいい recommends taking a break/time off, not more rest quantity."
+  },
+  "N5:vocab:285b008622": {
+    "examples": [
+      {
+        "ja": "ひょっとすると夕方前に雨になるかもしれない。",
+        "furigana": "ひょっとすると{夕方|ゆうがた}{前|#1392580}に{雨|あめ}になるかもしれない。",
+        "en": "It might rain before evening.",
+        "tatoeba_id": 197417
+      },
+      {
+        "ja": "ある夕方、一人の男がやってきた。",
+        "furigana": "ある{夕方|ゆうがた}、{一人|ひとり}の{男|おとこ}がやってきた。",
+        "en": "One evening, a man came.",
+        "tatoeba_id": 229774
+      }
+    ],
+    "review_note": "No explicit my house destination in Japanese; removed unsupported location."
+  },
+  "N5:vocab:f81d503d6f": {
+    "examples": [
+      {
+        "ja": "この仕事を一緒にやりましょう。",
+        "en": "Let's do this work together.",
+        "source": "Original instructional example authored for Nihongo Path."
+      },
+      {
+        "ja": "サイン書いてやってもいいぞ。",
+        "en": "I can give you an autograph if you want.",
+        "tatoeba_id": 430482
+      }
+    ],
+    "review_note": "Replaced giving-money sense with original doing-work example matching to-do headword. Stable ID preserved."
   }
 }

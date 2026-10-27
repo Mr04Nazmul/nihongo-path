@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 2962,
-  "pending_fields": 76216,
+  "ai_semantic_checked_fields": 3042,
+  "pending_fields": 76136,
   "checked_by_level": {
-    "N5": 2962
+    "N5": 3042
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "78 N5 example fields: vocabulary 595–614; permanent shop closure, showing, roads/career, three days, coffees, greenery, stillness/netiquette, south, chilblains, visual shock and passive negative, six days and six pieces, miles/meters, eye sense, glasses and exasperation. Source chilblains corrected; ordinal suffix example replaced with eye noun example."
+  "latest_pass": "80 N5 example fields: vocabulary 615–634; repetition, Thursday/Friday preference, coat, counterfactual father wish, possession, gate proverb, negation, vegetable seller, comparisons, breaks, eight stones, mountain height, doing task, evening, dinner, post office and last night. Unsupported English bed, extra quantity and my-house removed; give-money example aligned to do sense."
 }
