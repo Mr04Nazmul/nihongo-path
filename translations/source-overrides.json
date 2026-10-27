@@ -783,5 +783,40 @@
       "age"
     ],
     "review_note": "年 read とし calendar year or age."
+  },
+  "N5:vocab:5480c153dc": {
+    "meanings": [
+      "which of two",
+      "which way (polite)"
+    ],
+    "review_note": "どちら choice or polite direction interrogative, not which two."
+  },
+  "N5:vocab:e8a4843059": {
+    "meanings": [
+      "which",
+      "which way (colloquial)"
+    ],
+    "review_note": "どっち colloquial choice/direction interrogative."
+  },
+  "N5:vocab:07a4101167": {
+    "meanings": [
+      "to call or cry (of animals)",
+      "to chirp or sing (of birds)"
+    ],
+    "review_note": "鳴く animal/bird vocalization; qualified cry to avoid confusion with human tears 泣く."
+  },
+  "N5:vocab:75ed3c3b2b": {
+    "meanings": [
+      "seven days",
+      "the seventh day of the month"
+    ],
+    "review_note": "七日 duration vs calendar seventh day clarified."
+  },
+  "N5:vocab:1635de1a94": {
+    "meanings": [
+      "to arrange in a row",
+      "to line things up"
+    ],
+    "review_note": "並べる transitive arranging contrasted with 並ぶ intransitive."
   }
 }

@@ -2,12 +2,12 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 3586,
-  "pending_fields": 75592,
+  "ai_semantic_checked_fields": 3666,
+  "pending_fields": 75512,
   "checked_by_level": {
-    "N5": 3586
+    "N5": 3666
   },
-  "authored_entry_glosses": 465,
+  "authored_entry_glosses": 505,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
@@ -83,74 +83,74 @@
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "5480c153dc",
+      "id": "3af80b5b2a",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "5480c153dc",
+      "id": "3af80b5b2a",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "e8a4843059",
+      "id": "2f01adebd7",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "e8a4843059",
+      "id": "2f01adebd7",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "a3679ee665",
+      "id": "18046e46a1",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "a3679ee665",
+      "id": "18046e46a1",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "10fb2e55c0",
+      "id": "cbbfc8cad6",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "10fb2e55c0",
+      "id": "cbbfc8cad6",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "c597c353cb",
+      "id": "0c6e923ef9",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "c597c353cb",
+      "id": "0c6e923ef9",
       "language": "ne",
       "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 N5 meaning fields: vocabulary 390–429. Switch-on, employment, recording apparatus, going out/exit, ability and relationship, doors, how/why, greetings, inference, tenth-date, clock/watch, place and age reviewed in Bengali/Nepali. Contextual source senses corrected while all examples and application IDs preserved. Resume meaning index 430."
+  "latest_pass": "80 N5 meaning fields: vocabulary 430–469. Which forms/register, adjacent, fly/hop, stopping, chicken meat, photography vs taking, inside, animal calls, summer, seventh date, learn, line-up vs arranging, lively, luggage and garden reviewed in Bengali/Nepali. Source cry qualifier and transitivity clarified. Resume meaning index 470."
 }
