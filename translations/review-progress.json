@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 3042,
-  "pending_fields": 76136,
+  "ai_semantic_checked_fields": 3118,
+  "pending_fields": 76060,
   "checked_by_level": {
-    "N5": 3042
+    "N5": 3118
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 N5 example fields: vocabulary 615–634; repetition, Thursday/Friday preference, coat, counterfactual father wish, possession, gate proverb, negation, vegetable seller, comparisons, breaks, eight stones, mountain height, doing task, evening, dinner, post office and last night. Unsupported English bed, extra quantity and my-house removed; give-money example aligned to do sense."
+  "latest_pass": "76 N5 example fields: vocabulary 635–654; famous, snow negation, slowly, dates, clothes, welcoming/reproach, sideways inference, four-day limit, names, reading duration, comparisons, lights, weak spot, future dates, radio and irony. 39 examples corrected; 2 uncle kinship fields remain explicitly unresolved. English famous, clothing specificity and school level corrected."
 }

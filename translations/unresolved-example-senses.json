@@ -18,5 +18,13 @@
       "ne"
     ],
     "status": "needs-context-review"
+  },
+  "61fd50f12e.examples.1": {
+    "issue": "おじ selects male uncle but no parental side, blood/marriage or relative age context. Bengali/Nepali alternatives explicit; duration future perfect corrected, but not counted semantic-reviewed pending contextual kinship terminology review.",
+    "languages": [
+      "bn",
+      "ne"
+    ],
+    "status": "needs-context-review"
   }
 }

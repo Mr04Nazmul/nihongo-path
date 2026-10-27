@@ -476,5 +476,72 @@
       }
     ],
     "review_note": "Replaced giving-money sense with original doing-work example matching to-do headword. Stable ID preserved."
+  },
+  "N5:vocab:50b217ed0b": {
+    "examples": [
+      {
+        "ja": "そのホテルは食事で有名である。",
+        "furigana": "そのホテルは{食事|しょくじ}で{有名|ゆうめい}である。",
+        "en": "The hotel is noted for its food.",
+        "tatoeba_id": 212598
+      },
+      {
+        "ja": "トーマス先生はとても有名な先生です。",
+        "en": "Mr. Thomas is a very famous teacher.",
+        "tatoeba_id": 201079
+      }
+    ],
+    "review_note": "有名 means famous, not able."
+  },
+  "N5:vocab:d980cb1531": {
+    "examples": [
+      {
+        "ja": "おじいさんはとてもゆっくりと話す。",
+        "furigana": "おじいさんはとてもゆっくりと{話|はな}す。",
+        "en": "The old man speaks very slowly.",
+        "tatoeba_id": 227740
+      },
+      {
+        "ja": "メアリーは日本語をゆっくりと話しました。",
+        "furigana": "メアリーは{日本語|にほんご}をゆっくりと{話|はな}しました。",
+        "en": "Mary spoke Japanese slowly.",
+        "tatoeba_id": 194720
+      }
+    ],
+    "review_note": "おじいさん can refer to an old man; no family relation explicitly specified."
+  },
+  "N5:vocab:1907b6fc38": {
+    "examples": [
+      {
+        "ja": "お前に新しい洋服を作ってあげよう。",
+        "furigana": "お{前|まえ}に{新|あたら}しい{洋服|ようふく}を{作|つく}ってあげよう。",
+        "en": "I will make new clothes for you.",
+        "tatoeba_id": 226963
+      },
+      {
+        "ja": "とてもすてきな洋服ですね。",
+        "furigana": "とてもすてきな{洋服|ようふく}ですね。",
+        "en": "Those are very nice clothes.",
+        "tatoeba_id": 236922
+      }
+    ],
+    "review_note": "洋服 does not specifically require a dress."
+  },
+  "N5:vocab:c68f2caa2f": {
+    "examples": [
+      {
+        "ja": "あなたは来年この本を読むことが出来るでしょう。",
+        "furigana": "あなたは{来年|らいねん}この{本|ほん}を{読|よ}むことが{出来|でき}るでしょう。",
+        "en": "You will be able to read this book next year.",
+        "tatoeba_id": 231498
+      },
+      {
+        "ja": "私は来年の四月に学校に入っています。",
+        "furigana": "{私|わたし}は{来年|らいねん}の{四月|しがつ}に{学校|がっこう}に{入|はい}っています。",
+        "en": "I will be enrolled at school next April.",
+        "tatoeba_id": 152393
+      }
+    ],
+    "review_note": "学校 not specifically high school; retained next-April enrollment state."
   }
 }
