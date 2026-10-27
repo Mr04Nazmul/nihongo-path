@@ -632,5 +632,21 @@
       "to be at a loss"
     ],
     "review_note": "困る denotes trouble/difficulty or being at a loss, not merely emotional worry; corrected source gloss."
+  },
+  "N5:vocab:e82727193e": {
+    "meanings": [
+      "to inhale",
+      "to suck",
+      "to smoke"
+    ],
+    "review_note": "吸う inhale/suck/smoke sense inventory clarified; existing examples unchanged."
+  },
+  "N5:vocab:20cbecd474": {
+    "meanings": [
+      "liked",
+      "fond of",
+      "favorite"
+    ],
+    "review_note": "好き expresses liking/fondness or favorite, not necessarily a likeable personality."
   }
 }

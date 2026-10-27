@@ -2,12 +2,12 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 3266,
-  "pending_fields": 75912,
+  "ai_semantic_checked_fields": 3346,
+  "pending_fields": 75832,
   "checked_by_level": {
-    "N5": 3266
+    "N5": 3346
   },
-  "authored_entry_glosses": 316,
+  "authored_entry_glosses": 351,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
@@ -83,74 +83,74 @@
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "45c705d5b2",
+      "id": "ce75057c4c",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "45c705d5b2",
+      "id": "ce75057c4c",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "5cb07674a3",
+      "id": "0d38b01113",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "5cb07674a3",
+      "id": "0d38b01113",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "e2695084c9",
+      "id": "a8722990f1",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "e2695084c9",
+      "id": "a8722990f1",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "da4b805e0b",
+      "id": "c373555102",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "da4b805e0b",
+      "id": "c373555102",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "b366a3d677",
+      "id": "67f5908e10",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "b366a3d677",
+      "id": "67f5908e10",
       "language": "ne",
       "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "74 N5 fields: 34 examples for vocabulary 675–696 plus 40 meanings for vocabulary 250–269. Circumference/diameter, July first, reported time, positive monthly letters, Karuizawa, swim permission and glasses reviewed. Meanings distinguish trouble, greetings, temporal evening, wallet, bloom, written composition, umbrella and ambient cold. Remaining unresolved example senses retained; next meaning index 270."
+  "latest_pass": "80 N5 meaning fields: vocabulary 270–309. Year after next, stroll, reflexive, intransitive/transitive closing, tying, classroom vs homework, soy sauce, cafeteria, newspaper, inhale/suck/smoke, skirt and liking reviewed in Bengali/Nepali. Source inhale inventory and liked/fond-of corrected. Resume meaning index 310; unresolved prior examples retained."
 }
