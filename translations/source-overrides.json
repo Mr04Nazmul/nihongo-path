@@ -722,5 +722,66 @@
       "excuse me (calling attention)"
     ],
     "review_note": "ちょっと includes attention interjection used in first existing example, not only somewhat."
+  },
+  "N5:vocab:69d0d632fa": {
+    "meanings": [
+      "to be able to",
+      "to be possible",
+      "to be completed",
+      "to be romantically involved (colloquial)"
+    ],
+    "review_note": "できる ability/possibility/completion; colloquial relationship sense explains existing できている example."
+  },
+  "N5:vocab:d33540fe8e": {
+    "meanings": [
+      "well then",
+      "in that case",
+      "in/as for (で plus は)"
+    ],
+    "review_note": "では includes conversational transition and locative/topic construction in existing America example."
+  },
+  "N5:vocab:6f4691297f": {
+    "meanings": [
+      "door",
+      "sliding door"
+    ],
+    "review_note": "戸 door especially sliding door, not exclusively national style."
+  },
+  "N5:vocab:677d3c5fac": {
+    "meanings": [
+      "door"
+    ],
+    "review_note": "ドア loanword for door, not limited to Western-style manufacture."
+  },
+  "N5:vocab:93b9cec3d4": {
+    "meanings": [
+      "pleased to meet you",
+      "please treat me favorably",
+      "please give my regards"
+    ],
+    "review_note": "どうぞよろしく introduction/cooperation formula and regards phrase; existing family example requires regards."
+  },
+  "N5:vocab:d2cb14f88a": {
+    "meanings": [
+      "thanks",
+      "very",
+      "somehow",
+      "apparently"
+    ],
+    "review_note": "どうも thanks/intensifier and inferential somehow/apparently; existing first example not thanking."
+  },
+  "N5:vocab:e8579084ba": {
+    "meanings": [
+      "ten days",
+      "the tenth day of the month"
+    ],
+    "review_note": "十日 calendar tenth or duration ten days; month date made explicit."
+  },
+  "N5:vocab:358fc382cb": {
+    "meanings": [
+      "year",
+      "age"
+    ],
+    "review_note": "年 read とし calendar year or age."
   }
 }
