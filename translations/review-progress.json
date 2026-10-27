@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 2568,
-  "pending_fields": 76610,
+  "ai_semantic_checked_fields": 2648,
+  "pending_fields": 76530,
   "checked_by_level": {
-    "N5": 2568
+    "N5": 2648
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "74 N5 example fields: vocabulary 495–514; butter, twenty-year age, eight-hour duration, date deadline, runny nose, phone account, early spring, fast shots, cuckoo, taped name, clearing weather, half-mile and handkerchief reviewed. Unsupported English report/serve details corrected."
+  "latest_pass": "80 N5 example fields: vocabulary 515–534; wrong number, dinner, halves, east dawn, slang recoil, logical impossibility, lower volume, invisible plane, Arabic direction, younger brother, ten miles, hot dog and before-lunch prohibition reviewed."
 }
