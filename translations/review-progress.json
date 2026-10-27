@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-27",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 2414,
-  "pending_fields": 76764,
+  "ai_semantic_checked_fields": 2494,
+  "pending_fields": 76684,
   "checked_by_level": {
-    "N5": 2414
+    "N5": 2494
   },
   "authored_entry_glosses": 297,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 N5 example fields: vocabulary 455–474; seven-day holiday, ongoing learning, lined seating, become, lily, capacity, bustling, maggots, Sunday, luggage scale, no roses, lukewarm bath, tie knot and bedtime reviewed. Irrelevant naming-copula example replaced with original become example."
+  "latest_pass": "80 N5 example fields: vocabulary 475–494; notebook ownership, proportional climbing, cola idiom, train boarding, teething, yes-negative confirmation, ashtray, bell-bottoms, chopsticks, bridge length, eight-thirty, first-time greeting and bus inability reviewed."
 }
