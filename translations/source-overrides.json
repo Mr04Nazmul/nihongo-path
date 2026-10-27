@@ -129,7 +129,12 @@
         "tatoeba_id": 213882
       }
     ],
-    "review_note": "Japanese そうしてくださればとてもうれしい is conditional happiness/gratitude. The supplied English I cannot be sorry was unrelated; corrected to match Japanese, retaining original Japanese sentence attribution."
+    "review_note": "そうして includes doing-so/in-that-way sense used by both examples; source bare and insufficient.",
+    "meanings": [
+      "and then",
+      "in that way",
+      "doing so"
+    ]
   },
   "N5:vocab:7e9d38afeb": {
     "examples": [
@@ -648,5 +653,27 @@
       "favorite"
     ],
     "review_note": "好き expresses liking/fondness or favorite, not necessarily a likeable personality."
+  },
+  "N5:vocab:0d38b01113": {
+    "meanings": [
+      "few",
+      "little",
+      "scarce"
+    ],
+    "review_note": "少ない means low quantity/number few/little, not the positively framed a few."
+  },
+  "N5:vocab:b48d0c99d4": {
+    "meanings": [
+      "soap"
+    ],
+    "jmdict_id": 1382590,
+    "pos": [
+      "n"
+    ],
+    "other_forms": [
+      "石鹸",
+      "石けん"
+    ],
+    "review_note": "Corrected wrong homophone alignment from 節倹 economy JMdict 1386220 to 石鹸 soap JMdict 1382590. Both examples are soap. Application ID preserved. Evidence https://www.japandict.com/石けん and https://www.japandict.com/節倹 ."
   }
 }
