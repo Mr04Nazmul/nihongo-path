@@ -854,5 +854,41 @@
       "the twentieth day of the month"
     ],
     "review_note": "二十日 duration or calendar twentieth date made explicit."
+  },
+  "N5:vocab:3be88666ba": {
+    "meanings": [
+      "to clear up (of weather)",
+      "to become sunny"
+    ],
+    "review_note": "晴れる clearing weather not eclipse."
+  },
+  "N5:vocab:a1cda8cb11": {
+    "meanings": [
+      "half",
+      "one half"
+    ],
+    "review_note": "半分 half quantity, not half minute; both examples cake/cutting in half."
+  },
+  "N5:vocab:5b84039234": {
+    "meanings": [
+      "to pull",
+      "to draw (e.g. curtains)",
+      "to be put off (colloquial)"
+    ],
+    "review_note": "引く pull/draw and colloquial recoil/loss of interest sense in existing examples."
+  },
+  "N5:vocab:23911a0718": {
+    "meanings": [
+      "to play a stringed instrument or the piano"
+    ],
+    "review_note": "弾く includes piano; combined dangling English fragment into a complete instrumental sense."
+  },
+  "N5:vocab:4162724f9a": {
+    "meanings": [
+      "thick",
+      "stout",
+      "large in diameter"
+    ],
+    "review_note": "太い thick neck/legs in both examples, not dietary fat noun."
   }
 }
