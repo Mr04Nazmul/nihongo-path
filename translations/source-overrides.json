@@ -341,7 +341,12 @@
         "tatoeba_id": 184229
       }
     ],
-    "review_note": "Japanese has no rusty modifier; polite request to clean/polish pot, not scrape rusty pan."
+    "review_note": "磨く physical polish/brush or refine skill; existing reading skill example.",
+    "meanings": [
+      "to brush teeth",
+      "to polish",
+      "to refine a skill"
+    ]
   },
   "N5:vocab:4d76d06d84": {
     "examples": [
@@ -910,5 +915,38 @@
       "unfavorable or troublesome (of a situation)"
     ],
     "review_note": "まずい taste or unfavorable situation, not an apology."
+  },
+  "N5:vocab:dc29195f18": {
+    "meanings": [
+      "road",
+      "path",
+      "field of work or career"
+    ],
+    "review_note": "道 road and career figurative sense in existing twenty-year example."
+  },
+  "N5:vocab:c5b7ad76fd": {
+    "meanings": [
+      "already",
+      "now",
+      "more",
+      "exasperated interjection"
+    ],
+    "review_note": "もう already/now/more and irritation interjection in first existing example."
+  },
+  "N5:vocab:16fda19d79": {
+    "meanings": [
+      "to hold",
+      "to carry",
+      "to possess"
+    ],
+    "review_note": "持つ hold/carry/possess in coat and money examples."
+  },
+  "N5:vocab:4f0f6b6ae7": {
+    "meanings": [
+      "problem",
+      "question",
+      "issue"
+    ],
+    "review_note": "問題 problem/question/issue, not merely practical trouble."
   }
 }
