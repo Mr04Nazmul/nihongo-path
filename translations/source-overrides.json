@@ -1121,5 +1121,142 @@
         "source": "hanabira.org"
       }
     ]
+  },
+  "N5:grammar:hana-a903ab7bd870": {
+    "examples": [
+      {
+        "ja": "映画は時間がない。じゃ、また今度行こう。",
+        "en": "There's no time for a movie. Well then, let's go another time.",
+        "romaji": "Eiga wa jikan ga nai. Ja, mata kondo ikou.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "お腹がすいた。じゃ、レストランに行こう。",
+        "en": "I'm hungry. In that case, let's go to a restaurant.",
+        "romaji": "Onaka ga suita. Ja, resutoran ni ikou.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "電車が遅れた。じゃ、バスで行こう。",
+        "en": "The train is late. So, let's go by bus.",
+        "romaji": "Densha ga okureta. Ja, basu de ikou.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "このシャツは高い。じゃ、別のを買おう。",
+        "en": "This shirt is expensive. Well then, let's buy a different one.",
+        "romaji": "Kono shatsu wa takai. Ja, betsu no o kaou.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass072: reconcile source patterns with actual Japanese and remove added uniqueness/person or missing predicate forms; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-ec6b0ed6a1d9": {
+    "meaning": "Then / in that case: a response or transition based on the preceding situation.",
+    "notes": "それでは introduces a follow-up action, decision or statement based on the preceding situation, or marks a transition. It is more formal than それじゃ. It does not by itself assert that an external situation has changed.",
+    "review_note": "Semantic pass072: reconcile source patterns with actual Japanese and remove added uniqueness/person or missing predicate forms; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-c184e21795f8": {
+    "pattern": "Noun A では、B",
+    "meaning": "Within / in the case of A; A sets the domain or condition for B.",
+    "notes": "These examples attach では to a noun, setting a domain, scope or condition, not automatically comparing A against B. This differs from standalone sentence-initial では、 meaning then/in that case. The weather example is interpreted as a condition or basis for the prediction.",
+    "review_note": "Semantic pass072: reconcile source patterns with actual Japanese and remove added uniqueness/person or missing predicate forms; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-888a6ba2ba39": {
+    "formation": "A と B と どちら + suitable particle が/を/で etc. + predicate + か; comparisons can use どちらのほうが.",
+    "examples": [
+      {
+        "ja": "りんごとみかんとどちらが好きですか。",
+        "en": "Which do you like, apples or oranges?",
+        "romaji": "Ringo to mikan to dochira ga suki desu ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "電車とバスとどちらで行くべきですか。",
+        "en": "Should I go by train or bus?",
+        "romaji": "Densha to basu to dochira de iku beki desu ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "赤いワンピースと青いワンピースとどちらが似合うと思いますか。",
+        "en": "Which do you think suits better, the red dress or the blue dress?",
+        "romaji": "Akai wanpiisu to aoi wanpiisu to dochira ga niau to omoimasu ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "このカメラとあのカメラとどちらのほうが使いやすいですか。",
+        "en": "Which one is easier to use, this camera or that camera?",
+        "romaji": "Kono kamera to ano kamera to dochira no hou ga tsukaiyasui desu ka?",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass072: reconcile source patterns with actual Japanese and remove added uniqueness/person or missing predicate forms; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-703908db5d04": {
+    "formation": "A と B と どっち + suitable particle が/を etc. + predicate. A か B か、どっち... is another alternative-question construction.",
+    "notes": "どっち is the casual counterpart of どちら, asking which of two options. It combines with the particle required by the predicate, e.g. が好き, を買う. AかBか is an alternative question structure, not merely a shortened spelling of AとBと.",
+    "examples": [
+      {
+        "ja": "コーヒーと紅茶とどっちが好き？",
+        "en": "Which do you like, coffee or black tea?",
+        "romaji": "Koohii to koucha to docchi ga suki?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "映画と音楽とどっちを楽しむ？",
+        "en": "Which do you enjoy, movies or music?",
+        "romaji": "Eiga to ongaku to docchi o tanoshimu?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "赤いシャツと青いシャツとどっちを買う？",
+        "en": "Which one will you buy, the red shirt or the blue shirt?",
+        "romaji": "Akai shatsu to aoi shatsu to docchi o kau?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "日本語と韓国語とどっちを勉強したい？",
+        "en": "Which do you want to study, Japanese or Korean?",
+        "romaji": "Nihongo to kankokugo to docchi o benkyou shitai?",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass072: reconcile source patterns with actual Japanese and remove added uniqueness/person or missing predicate forms; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-2e0f9f99ee9a": {
+    "meaning": "Describe a feature, preference or area of ability B with A as the topic.",
+    "formation": "A は (topic) + B が (feature or subject of the predicate) + predicate.",
+    "notes": "A は sets a topic; B が introduces the feature or subject being described. Examples include body-part properties, preferences and areas of skill. The construction itself does not assert uniqueness, special importance or comparison with others.",
+    "examples": [
+      {
+        "ja": "彼女は髪が長いです。",
+        "en": "She has long hair.",
+        "romaji": "Kanojo wa kami ga nagai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "このレストランは雰囲気が良いです。",
+        "en": "This restaurant has a good atmosphere.",
+        "romaji": "Kono resutoran wa fun'iki ga ii desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "私は朝ごはんが一番好きです。",
+        "en": "I like breakfast the most.",
+        "romaji": "Watashi wa asagohan ga ichiban suki desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼は英語が得意です。",
+        "en": "He is good at English.",
+        "romaji": "Kare wa eigo ga tokui desu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass072: reconcile source patterns with actual Japanese and remove added uniqueness/person or missing predicate forms; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-c5ac302f722c": {
+    "formation": "A は B より + adjective predicate, or adverbial expression + verb.",
+    "review_note": "Semantic pass072: reconcile source patterns with actual Japanese and remove added uniqueness/person or missing predicate forms; evidence in review-ledger.jsonl."
   }
 }
