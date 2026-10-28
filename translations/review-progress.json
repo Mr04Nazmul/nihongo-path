@@ -1,11 +1,11 @@
 {
   "status": "in-progress",
-  "reviewed_on": "2026-10-28",
+  "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 4920,
-  "pending_fields": 74258,
+  "ai_semantic_checked_fields": 5016,
+  "pending_fields": 74162,
   "checked_by_level": {
-    "N5": 4920
+    "N5": 5016
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "nani-mo-nai-dare-mo-nai",
+      "id": "to-iu-named",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "nani-mo-nai-dare-mo-nai",
+      "id": "to-iu-named",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "nani-mo-nai-dare-mo-nai",
+      "id": "to-iu-named",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "nani-mo-nai-dare-mo-nai",
+      "id": "to-iu-named",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "nani-mo-nai-dare-mo-nai",
+      "id": "to-iu-named",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "nani-mo-nai-dare-mo-nai",
+      "id": "to-iu-named",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "nani-mo-nai-dare-mo-nai",
+      "id": "to-iu-named",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "nani-mo-nai-dare-mo-nai",
+      "id": "to-iu-named",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass065: 96 new N5 grammar fields at indices64–71 reviewed in both languages. Choice, not-yet/already/no-longer, partial/total negation, only, approximate quantity/duration and timepoint. Corrected train not arrived, homework dialogue, younger sister sleeping, not busy/sweet/cold, only Sunday OFF, daily study affirmative, past yen price, April and evening six. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index72."
+  "latest_pass": "Pass066: 96 new N5 grammar fields at indices72–79 reviewed in both languages. Nothing/nobody vs indefinite some, object/prenominal/place demonstratives, i/na adjective inflection and linking. Restored omitted dialogue answers, restroom and distance, past/negative polarity, free time and older-brother/younger-sister school levels. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index80."
 }
