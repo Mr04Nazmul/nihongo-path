@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 4154,
-  "pending_fields": 75024,
+  "ai_semantic_checked_fields": 4248,
+  "pending_fields": 74930,
   "checked_by_level": {
-    "N5": 4154
+    "N5": 4248
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "e",
+      "id": "no",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "e",
+      "id": "no",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "e",
+      "id": "no",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "e",
+      "id": "no",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "e",
+      "id": "no",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "e",
+      "id": "no",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "e",
+      "id": "no",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "e",
+      "id": "no",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass057: 54 N5 vocabulary meaning fields (indices670–696), plus 36 fields covering all meaning/formation/guidance/examples in grammar indices5–7. Rare dictionary senses retained and labeled: cop slang, Izumo thanks, interjections, tree peony, contest match. Corrected annual vs yearlong and kinship/tense/frequency errors. Earlier unresolved kinship/example senses remain pending. Resume N5 grammar index8."
+  "latest_pass": "Pass058: 94 new N5 grammar fields, all meanings/formations/guidance/examples for indices8–15 (e, de-place, de-means, to-and, to-with, ya, ka-or, mo). Direction vs existence/action location, means/chopsticks, exhaustive vs example lists, companion kinship, noun alternatives, additive focus and neither-vs-inability reviewed. Older unresolved vocabulary fields remain pending. Resume N5 grammar index16."
 }
