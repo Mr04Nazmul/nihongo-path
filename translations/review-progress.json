@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 5402,
-  "pending_fields": 73776,
+  "ai_semantic_checked_fields": 5500,
+  "pending_fields": 73678,
   "checked_by_level": {
-    "N5": 5402
+    "N5": 5500
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-hou-ga-comparative",
+      "id": "hana-a903ab7bd870",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-hou-ga-comparative",
+      "id": "hana-a903ab7bd870",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-hou-ga-comparative",
+      "id": "hana-a903ab7bd870",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-hou-ga-comparative",
+      "id": "hana-a903ab7bd870",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-hou-ga-comparative",
+      "id": "hana-a903ab7bd870",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-hou-ga-comparative",
+      "id": "hana-a903ab7bd870",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-hou-ga-comparative",
-      "language": "ne",
-      "field": "meaning"
+      "id": "hana-a903ab7bd870",
+      "language": "bn",
+      "field": "examples.3"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-hou-ga-comparative",
+      "id": "hana-a903ab7bd870",
       "language": "ne",
-      "field": "formation"
+      "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass070: 96 new N5 grammar fields at indices104–111 semantically checked in Bengali and Nepali: inanimate/animate existence, progressive/resultant state, i-adjective negatives, na-adjective nonpast/negative/past and wanting things. Restored reversed negatives, past tense, locations, subjects and cold-water detail. Qualified source location/event-venue and third-person desire rules. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index112."
+  "latest_pass": "Pass071: 98 new N5 grammar fields at indices112–119 reviewed in Bengali and Nepali: comparative/superlative, nonexhaustive listing, already/not-yet/still, toki timing and adjective joining. Corrected comparison direction, lost negation/desire/ability, homework and younger-brother roles, temporal completion and black-tea scope. Source timing/teiru/superlative overgeneralizations corrected. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index120."
 }

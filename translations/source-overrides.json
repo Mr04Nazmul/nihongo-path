@@ -1077,5 +1077,49 @@
   "N5:grammar:supp-ga-hoshii-wanting-thing": {
     "notes": "ほしい/欲しい is an i-adjective for wanting things, marked with が; use a verb stem plus たい for wanting to do an action. In ordinary direct assertions it expresses the speakers own desire, or asks the listener about theirs. Third-person desire is normally expressed with ほしがる/ほしがっています or reported with ほしいと言っています; this is not an absolute ban on hoshii in all third-person contexts.",
     "review_note": "Semantic pass070: qualify basic existence/event-venue and desire-person rules; field-level semantic basis retained in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-mou-ta-already": {
+    "notes": "With a completed past-tense action, もう means already: completion before a reference time. For not yet completed, まだ commonly combines with Vていない/ていません, a negative te-iru form, not necessarily a progressive action. This differs from merely denying a past event. Other uses of もう have other meanings.",
+    "review_note": "Semantic pass071: clarify relative completion, te-iru non-completion and superlative predicate scope; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-mada-not-yet": {
+    "notes": "まだ can mean not yet with Vていない/ていません, or still with an ongoing action/state such as Vている/ています. The negative te-iru form here expresses non-completion, not necessarily an ongoing progressive. まだ also combines with other predicates, e.g. まだあります (still exists). A simple past negative is not interchangeable with the standard not-yet-completed expression.",
+    "review_note": "Semantic pass071: clarify relative completion, te-iru non-completion and superlative predicate scope; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-toki-ni-when-basic": {
+    "notes": "とき locates the main-clause event in time; に is optional. Verb forms may express relative completion: V nonpast とき before completion/when about to do it, V past とき after completion/when it has happened, depending on verb and context. Ongoing action uses Vているとき. Main-clause tense sets overall time; do not equate a nonpast toki clause with present time or a bare past form with was doing. Noun の and na-adjective な precede とき.",
+    "review_note": "Semantic pass071: clarify relative completion, te-iru non-completion and superlative predicate scope; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-54f5e5c93415": {
+    "meaning": "Express the highest degree of the following quality or action: the most / the best; the least only with a low-quantity quality such as 少ない.",
+    "formation": "Noun + が + 一番 + adjective predicate; a topic may use は. Before a verb use the appropriate adverbial expression, e.g. 一番速く泳げます.",
+    "notes": "一番 marks the highest degree within the comparison group; the following predicate determines the quality. 一番少ない is least because 少ない means few/little; 一番 alone does not mean least. で/の中で specifies scope. With verbs an adverb may specify the comparison, and potential 泳げます retains can swim.",
+    "review_note": "Semantic pass071: clarify relative completion, te-iru non-completion and superlative predicate scope; evidence in review-ledger.jsonl.",
+    "examples": [
+      {
+        "ja": "この中で、寿司が一番好きです。",
+        "en": "Of all these, I like sushi the most.",
+        "romaji": "Kono naka de, sushi ga ichiban suki desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女はクラスで一番速く泳げます。",
+        "en": "She can swim the fastest in the class.",
+        "romaji": "Kanojo wa kurasu de ichiban hayaku oyogemasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この町では、この公園が一番きれいです。",
+        "en": "In this town, this park is the most beautiful.",
+        "romaji": "Kono machi de wa, kono kouen ga ichiban kirei desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "飲み物の中では、紅茶が一番好きです。",
+        "en": "Among drinks, I like black tea the most.",
+        "romaji": "Nomimono no naka de wa, koucha ga ichiban suki desu.",
+        "source": "hanabira.org"
+      }
+    ]
   }
 }
