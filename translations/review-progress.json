@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 4632,
-  "pending_fields": 74546,
+  "ai_semantic_checked_fields": 4728,
+  "pending_fields": 74450,
   "checked_by_level": {
-    "N5": 4632
+    "N5": 4728
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "te-iru",
+      "id": "ni-iku",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "te-iru",
+      "id": "ni-iku",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "te-iru",
+      "id": "ni-iku",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "te-iru",
+      "id": "ni-iku",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "te-iru",
+      "id": "ni-iku",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "te-iru",
+      "id": "ni-iku",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "te-iru",
+      "id": "ni-iku",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "te-iru",
+      "id": "ni-iku",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass062: 96 new N5 grammar fields, indices40–47 completely reviewed in Bengali/Nepali. Object desire/request, action and negative requests, permission, prohibition, obligation and absence of obligation. Corrected negative nothing wanted, three specific apples request, shoes off before entry, early vs morning, children forbidden swimming vs need not, and optional cooking/name. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index48."
+  "latest_pass": "Pass063: 96 new N5 grammar fields, indices48–55 fully reviewed in Bengali/Nepali. Ongoing/result-state/habitual teiru; sequential te/tekara; representative tari; past experience; before/ago vs after; simultaneous same-subject nagara. Corrected marriage/window states, sweater, homework sequence, unrelated summer example, ever/never, three years ago, socializing and coffee while talking. Earlier vocabulary ambiguities remain unresolved. Resume N5 grammar index56."
 }
