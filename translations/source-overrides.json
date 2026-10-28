@@ -1030,5 +1030,9 @@
   "N5:grammar:ni-iku": {
     "formation": "Verb masu-stem + に + 行く / 来る / 帰る; or suru-action noun + に + movement verb",
     "review_note": "Purpose noun must name an activity; added kuru/kaeru to formation to match existing example and notes."
+  },
+  "N5:grammar:supp-question-words-basic": {
+    "notes": "何 (なに/なん) asks what; 誰 (だれ) who; どこ where; いつ when; どう how or what something is like; どうして/なぜ why. Learn readings with constructions: 何ですか uses なん and 何を uses なに. Many number/counter expressions use なん. 何人 is なんにん for how many people but なにじん for nationality, so the following sound alone is not a complete rule. Put the question word in the unknown information position and retain the particle needed for its role, e.g. 誰が来ましたか.",
+    "review_note": "Removed categorical nani/nan sound-only rule; added counter/nationality distinction from ARC Tokyo teacher explanation: https://arc.ac.jp/Tokyo/mimi-bunpou088/ (2025-02-19), checked 2026-10-29. No native-speaker review claimed."
   }
 }

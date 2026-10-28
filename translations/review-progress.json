@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 5016,
-  "pending_fields": 74162,
+  "ai_semantic_checked_fields": 5114,
+  "pending_fields": 74064,
   "checked_by_level": {
-    "N5": 5016
+    "N5": 5114
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-iu-named",
+      "id": "supp-mo-mo-both",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-iu-named",
+      "id": "supp-mo-mo-both",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-iu-named",
+      "id": "supp-mo-mo-both",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-iu-named",
+      "id": "supp-mo-mo-both",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-iu-named",
+      "id": "supp-mo-mo-both",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-iu-named",
+      "id": "supp-mo-mo-both",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-iu-named",
+      "id": "supp-mo-mo-both",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-iu-named",
+      "id": "supp-mo-mo-both",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass066: 96 new N5 grammar fields at indices72–79 reviewed in both languages. Nothing/nobody vs indefinite some, object/prenominal/place demonstratives, i/na adjective inflection and linking. Restored omitted dialogue answers, restroom and distance, past/negative polarity, free time and older-brother/younger-sister school levels. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index80."
+  "latest_pass": "Pass067: 98 new N5 grammar fields, indices80–87, reviewed in Bengali/Nepali: naming, adjective predicates/past/attribution, generic and people counters, question words and accompaniment. Corrected part-time Sakura/Yamada phone, adjective tense, bought flowers, two people vs couple, party past and restroom/when/who questions; nani/nan source overgeneralization corrected with primary teacher evidence. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index88."
 }
