@@ -1018,5 +1018,13 @@
   "N5:grammar:no-hou-ga-yori": {
     "formation": "X (noun) + の方が + Y (noun) + より + predicate; or Y + より + X + の方が + predicate",
     "review_note": "Complete comparative formation with final predicate and alternate ordering shown by third example."
+  },
+  "N5:grammar:to-to-dochira-ga": {
+    "formation": "X (noun) + と + Y (noun) + と + どちらが + predicate + ですか",
+    "review_note": "Completed formation with the final predicate required by all existing examples."
+  },
+  "N5:grammar:no-naka-de-ga-ichiban": {
+    "formation": "Group noun + の中で + member noun + が + 一番 + predicate",
+    "review_note": "Completed formation with the final predicate required by all existing examples."
   }
 }

@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 4344,
-  "pending_fields": 74834,
+  "ai_semantic_checked_fields": 4440,
+  "pending_fields": 74738,
   "checked_by_level": {
-    "N5": 4344
+    "N5": 4440
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-to-dochira-ga",
+      "id": "mashita",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-to-dochira-ga",
+      "id": "mashita",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-to-dochira-ga",
+      "id": "mashita",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-to-dochira-ga",
+      "id": "mashita",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-to-dochira-ga",
+      "id": "mashita",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-to-dochira-ga",
+      "id": "mashita",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-to-dochira-ga",
+      "id": "mashita",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "to-to-dochira-ga",
+      "id": "mashita",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass059: 96 new N5 grammar fields; all meanings/formations/guidance/examples at indices16–23. Possessive and attributive no, source kara, continuous endpoint made vs deadline, question ka, agreement ne, informing yo and both comparison constructions. Fixed Japanese-language teacher vs nationality, restroom vs restaurant, yesterday 11pm, tomorrow test and comparative height/preference. Previous unresolved vocabulary remains pending. Resume N5 grammar index24."
+  "latest_pass": "Pass060: 96 new N5 grammar fields, indices24–31 fully reviewed in both languages. Two-choice and group superlative formations, polite/plain copula, negative and past copula, polite nonpast and negative verbs. Corrected omitted dialogue, height vs age, kinship, Kyoto, habitual vs ongoing, and negative statement vs prohibition. Earlier vocabulary ambiguities remain unresolved. Resume N5 grammar index32."
 }
