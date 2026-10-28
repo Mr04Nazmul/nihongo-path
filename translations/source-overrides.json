@@ -1276,5 +1276,75 @@
     "formation": "(Object を +) na-adjective stem + にします. Choice: noun phrase + にします.",
     "notes": "Na-adjective stem にします expresses making/setting a state, e.g. quiet or clean, distinct from になります for becoming. The final example 健康的な食事にします has the noun phrase 健康的な食事 before にします and means choose a healthy meal; it is not a direct na-adjective-to-adverb transformation.",
     "review_note": "Semantic pass073: distinguish caused results and noun choice; allow mixed adjective classes in joining; field evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-ca9785f3638f": {
+    "pattern": "Noun/Clause A か Noun/Clause B (か)",
+    "formation": "Noun A か noun B (final か may occur); plain-form clause A か plain-form clause B か for alternative actions.",
+    "notes": "か links alternatives, including noun phrases and verbal clauses. The final か is not mandatory in every noun-list context, as 電車かバスを uses one linker. One-only selection and a not-yet decision are supplied by the rest of the sentence, not by か itself.",
+    "review_note": "Semantic pass074: align range, approximation, alternatives and decision details to Japanese; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-a677eb64e8e9": {
+    "examples": [
+      {
+        "ja": "朝9時から午後5時まで働きます。",
+        "en": "I work from 9 AM to 5 PM.",
+        "romaji": "Asa ku-ji kara gogo go-ji made hatarakimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "東京から大阪まで電車で行く。",
+        "en": "I will go by train from Tokyo to Osaka.",
+        "romaji": "Toukyou kara Osaka made densha de iku.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "地下鉄は午前6時から深夜まで運行しています。",
+        "en": "The subway runs from 6 AM until late at night.",
+        "romaji": "Chikatetsu wa gozen roku-ji kara shin'ya made unkou shite imasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "月曜日から金曜日まで学校に通います。",
+        "en": "I attend school from Monday to Friday.",
+        "romaji": "Getsuyoubi kara Kinyoubi made gakkou ni kayoimasu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass074: align range, approximation, alternatives and decision details to Japanese; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-d992fcd75366": {
+    "meaning": "About / approximately: an estimated amount or degree in these examples.",
+    "notes": "With numerical amounts here, くらい gives an approximation, not a lower bound. Other contexts may express a degree, a small amount or a minimal expectation; do not interpret every number + くらい as at least.",
+    "review_note": "Semantic pass074: align range, approximation, alternatives and decision details to Japanese; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-72427831bbb3": {
+    "formation": "Selected noun/noun phrase + にします; for an action decision use dictionary-form verb + ことにします.",
+    "examples": [
+      {
+        "ja": "今日の昼ご飯は寿司にします。",
+        "en": "I'll choose sushi for today's lunch.",
+        "romaji": "Kyou no hirugohan wa sushi ni shimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この靴を買うか迷っていますが、赤い色の方にします。",
+        "en": "I am hesitating about buying these shoes, but I will choose the red ones.",
+        "romaji": "Kono kutsu wo kau ka mayotteimasu ga, akai iro no hou ni shimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "休みの日に何をするか決めた。映画館に行くことにします。",
+        "en": "I've decided what to do on my day off. I'll go to the movie theater.",
+        "romaji": "Yasumi no hi ni nani wo suru ka kimeta. Eigakan ni iku koto ni shimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "フランス語とスペイン語のどちらを勉強するか悩んだが、フランス語にします。",
+        "en": "I was torn between studying French and Spanish, but I am choosing French.",
+        "romaji": "Furansugo to Supeingo no dochira wo benkyou suru ka nayanda ga, Furansugo ni shimasu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass074: align range, approximation, alternatives and decision details to Japanese; evidence in review-ledger.jsonl."
   }
 }
