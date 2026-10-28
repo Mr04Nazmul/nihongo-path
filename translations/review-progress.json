@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 5306,
-  "pending_fields": 73872,
+  "ai_semantic_checked_fields": 5402,
+  "pending_fields": 73776,
   "checked_by_level": {
-    "N5": 5306
+    "N5": 5402
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-arimasu-existence-inanimate",
+      "id": "supp-hou-ga-comparative",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-arimasu-existence-inanimate",
+      "id": "supp-hou-ga-comparative",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-arimasu-existence-inanimate",
+      "id": "supp-hou-ga-comparative",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-arimasu-existence-inanimate",
+      "id": "supp-hou-ga-comparative",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-arimasu-existence-inanimate",
+      "id": "supp-hou-ga-comparative",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-arimasu-existence-inanimate",
+      "id": "supp-hou-ga-comparative",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-arimasu-existence-inanimate",
+      "id": "supp-hou-ga-comparative",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-arimasu-existence-inanimate",
+      "id": "supp-hou-ga-comparative",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass069: 96 new N5 grammar fields at indices96–103 semantically reviewed in Bengali and Nepali: age, yen, long/flat-object counters, every-prefix, hour duration, adverbial adjectives and polite negative copula. Corrected reversed negation, yen/rupee and wallet/pocket mismatches, question/tense/quantity losses and English source formation/phonetic overgeneralizations. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index104."
+  "latest_pass": "Pass070: 96 new N5 grammar fields at indices104–111 semantically checked in Bengali and Nepali: inanimate/animate existence, progressive/resultant state, i-adjective negatives, na-adjective nonpast/negative/past and wanting things. Restored reversed negatives, past tense, locations, subjects and cold-water detail. Qualified source location/event-venue and third-person desire rules. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index112."
 }

@@ -1065,5 +1065,17 @@
   "N5:grammar:supp-i-adj-adverbial-ku": {
     "notes": "Replace final い with く to modify a verb or predicate: 早い→早く, 大きい→大きく, 高い→高く. いい becomes よく. The negative uses くない (高くない); the past instead replaces final い with かった (高かった), not くかった. よく can mean well, a lot or often depending on context.",
     "review_note": "Semantic pass069: correct counter-reading scope, full phonetic forms and adjective past formation; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-arimasu-existence-inanimate": {
+    "notes": "あります expresses existence of objects, plants, abstract matters and events. For physical location in this pattern use place に and entity が. Living people and animals normally use います. An event venue instead can use place で, e.g. an event is held there; do not generalize existential location に to every event use.",
+    "review_note": "Semantic pass070: qualify basic existence/event-venue and desire-person rules; field-level semantic basis retained in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-imasu-existence-animate": {
+    "notes": "います normally locates living people and animals; あります normally locates objects and plants. In this existential pattern に marks the location and が the entity. This is a grammatical usage distinction, not a biological classification of all living things.",
+    "review_note": "Semantic pass070: qualify basic existence/event-venue and desire-person rules; field-level semantic basis retained in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-ga-hoshii-wanting-thing": {
+    "notes": "ほしい/欲しい is an i-adjective for wanting things, marked with が; use a verb stem plus たい for wanting to do an action. In ordinary direct assertions it expresses the speakers own desire, or asks the listener about theirs. Third-person desire is normally expressed with ほしがる/ほしがっています or reported with ほしいと言っています; this is not an absolute ban on hoshii in all third-person contexts.",
+    "review_note": "Semantic pass070: qualify basic existence/event-venue and desire-person rules; field-level semantic basis retained in review-ledger.jsonl."
   }
 }

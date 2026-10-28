@@ -1648,3 +1648,27 @@ supp-i-adj-adverbial-ku	2	আমি অনেক/প্রায়ই পড়াশ
 supp-dewa-arimasen-negative-polite-copula	0	এটি কলম নয়।	यो कलम होइन।
 supp-dewa-arimasen-negative-polite-copula	1	তিনি জাপানি নন।	उनी जापानी होइनन्।
 supp-dewa-arimasen-negative-polite-copula	2	আজ সোমবার নয়।	आज सोमबार होइन।
+supp-arimasu-existence-inanimate	0	টেবিলের ওপর একটি বই আছে।	टेबलमाथि एउटा किताब छ।
+supp-arimasu-existence-inanimate	1	ঘরে একটি টিভি আছে।	कोठामा एउटा टिभी छ।
+supp-arimasu-existence-inanimate	2	কিছু আছে কি?	केही छ?
+supp-imasu-existence-animate	0	বাগানে একটি কুকুর আছে।	बगैँचामा एउटा कुकुर छ।
+supp-imasu-existence-animate	1	শ্রেণিকক্ষে শিক্ষার্থীরা আছে।	कक्षाकोठामा विद्यार्थीहरू छन्।
+supp-imasu-existence-animate	2	ওখানে একটি বিড়াল আছে।	उता एउटा बिरालो छ।
+supp-te-imasu-progressive	0	আমি এখন একটি বই পড়ছি।	म अहिले एउटा किताब पढिरहेको छु।
+supp-te-imasu-progressive	1	আমি টোকিওতে বাস করি।	म टोकियोमा बस्छु।
+supp-te-imasu-progressive	2	তানাকা-সান বিবাহিত।	तानाका-सान विवाहित हुनुहुन्छ।
+supp-i-adjective-negative	0	এই বইটি দামি নয়।	यो किताब महँगो छैन।
+supp-i-adjective-negative	1	আজ ঠান্ডা নয়।	आज चिसो छैन।
+supp-i-adjective-negative	2	এই চলচ্চিত্রটি আকর্ষণীয় নয়।	यो चलचित्र रोचक छैन।
+supp-na-adjective-nonpast	0	এই ঘরটি শান্ত।	यो कोठा शान्त छ।
+supp-na-adjective-nonpast	1	সে চনমনে আছে।	उनी फुर्तिलो अवस्थामा छिन्।
+supp-na-adjective-nonpast	2	এই শহরটি প্রাণবন্ত।	यो सहर चहलपहलयुक्त छ।
+supp-na-adjective-negative	0	এই ঘরটি শান্ত নয়।	यो कोठा शान्त छैन।
+supp-na-adjective-negative	1	সে চনমনে নেই।	उनी फुर्तिलो अवस्थामा छैनन्।
+supp-na-adjective-negative	2	ওই দোকানটি জমজমাট নয়।	त्यो पसलमा चहलपहल छैन।
+supp-na-adjective-past	0	ওই শহরটি খুব শান্ত ছিল।	त्यो सहर धेरै शान्त थियो।
+supp-na-adjective-past	1	ঘরটি পরিষ্কার ছিল।	कोठा सफा थियो।
+supp-na-adjective-past	2	এই পার্কটি আগে বিখ্যাত ছিল।	यो पार्क पहिले प्रसिद्ध थियो।
+supp-ga-hoshii-wanting-thing	0	আমি একটি নতুন গাড়ি চাই।	मलाई एउटा नयाँ गाडी चाहिन्छ।
+supp-ga-hoshii-wanting-thing	1	আমি টাকা চাই।	मलाई पैसा चाहिन्छ।
+supp-ga-hoshii-wanting-thing	2	আমি ঠান্ডা পানি চাই।	मलाई चिसो पानी चाहिन्छ।
