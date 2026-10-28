@@ -1034,5 +1034,17 @@
   "N5:grammar:supp-question-words-basic": {
     "notes": "何 (なに/なん) asks what; 誰 (だれ) who; どこ where; いつ when; どう how or what something is like; どうして/なぜ why. Learn readings with constructions: 何ですか uses なん and 何を uses なに. Many number/counter expressions use なん. 何人 is なんにん for how many people but なにじん for nationality, so the following sound alone is not a complete rule. Put the question word in the unknown information position and retain the particle needed for its role, e.g. 誰が来ましたか.",
     "review_note": "Removed categorical nani/nan sound-only rule; added counter/nationality distinction from ARC Tokyo teacher explanation: https://arc.ac.jp/Tokyo/mimi-bunpou088/ (2025-02-19), checked 2026-10-29. No native-speaker review claimed."
+  },
+  "N5:grammar:supp-ikutsu-how-many": {
+    "notes": "いくつ asks how many in general object counting and can also ask age; おいくつですか is polite. It is not restricted to round objects. Category-specific forms include 何本, 何枚 and 何人.",
+    "review_note": "Semantic pass068: avoid unsupported shape/AM-PM restrictions and false phonetic terminology; primary references recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-counter-ji-oclock": {
+    "notes": "時 (じ) counts clock hours, distinct from 時間 for duration. Important readings: 4時 よじ, 7時 しちじ, 9時 くじ. Add 分 for minutes and に for an action at a time. Do not infer AM or PM from an unqualified hour.",
+    "review_note": "Semantic pass068: avoid unsupported shape/AM-PM restrictions and false phonetic terminology; primary references recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-counter-fun-minute": {
+    "notes": "分 counts clock minutes and durations. Pronunciation varies between ふん and ぷん with possible changes to the preceding numeral; this is not a voiced/voiceless contrast. Common forms: いっぷん, にふん, さんぷん, よんぷん, ごふん, ろっぷん, ななふん, はっぷん (also はちふん), きゅうふん, じゅっぷん (also じっぷん). 半 means half past the hour in clock expressions.",
+    "review_note": "Semantic pass068: avoid unsupported shape/AM-PM restrictions and false phonetic terminology; primary references recorded in review-ledger.jsonl."
   }
 }
