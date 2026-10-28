@@ -982,5 +982,17 @@
       "to identify"
     ],
     "review_note": "分かる understand/know/identify, not passive-only wording."
+  },
+  "N5:grammar:ni-location": {
+    "formation": "Place noun + に + ある / いる / 住む",
+    "review_note": "Clarified semantic formation to match existing Japanese examples; reviewed in semantic pass057."
+  },
+  "N5:grammar:ni-indirect-object": {
+    "formation": "Person noun + に",
+    "review_note": "Clarified semantic formation to match existing Japanese examples; reviewed in semantic pass057."
+  },
+  "N5:grammar:ni-frequency": {
+    "formation": "Time period + に + number of occurrences",
+    "review_note": "Clarified semantic formation to match existing Japanese examples; reviewed in semantic pass057."
   }
 }

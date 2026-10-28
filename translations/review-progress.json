@@ -2,12 +2,12 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 4064,
-  "pending_fields": 75114,
+  "ai_semantic_checked_fields": 4154,
+  "pending_fields": 75024,
   "checked_by_level": {
-    "N5": 4064
+    "N5": 4154
   },
-  "authored_entry_glosses": 677,
+  "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
@@ -96,61 +96,61 @@
     },
     {
       "level": "N5",
-      "kind": "vocab",
-      "id": "d5c2e69813",
+      "kind": "grammar",
+      "id": "e",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
-      "kind": "vocab",
-      "id": "d5c2e69813",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "b1d440d4e1",
+      "kind": "grammar",
+      "id": "e",
       "language": "bn",
-      "field": "meaning"
+      "field": "formation"
     },
     {
       "level": "N5",
-      "kind": "vocab",
-      "id": "b1d440d4e1",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "78255b9860",
+      "kind": "grammar",
+      "id": "e",
       "language": "bn",
-      "field": "meaning"
+      "field": "guidance"
     },
     {
       "level": "N5",
-      "kind": "vocab",
-      "id": "78255b9860",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "13b6dbec03",
+      "kind": "grammar",
+      "id": "e",
       "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N5",
+      "kind": "grammar",
+      "id": "e",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "grammar",
+      "id": "e",
+      "language": "bn",
+      "field": "examples.2"
+    },
+    {
+      "level": "N5",
+      "kind": "grammar",
+      "id": "e",
+      "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
-      "kind": "vocab",
-      "id": "13b6dbec03",
+      "kind": "grammar",
+      "id": "e",
       "language": "ne",
-      "field": "meaning"
+      "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 new N5 meaning fields: vocabulary 630–669, plus 2 previously reviewed Nepali corridor examples refined with new evidence. Last night, slowly, horizontal/width, future dates, radio cassette, splendid, overseas student, both parents, cooking, sound record, corridor and understanding reviewed. Source contextual senses corrected. Resume meaning index 670."
+  "latest_pass": "Pass057: 54 N5 vocabulary meaning fields (indices670–696), plus 36 fields covering all meaning/formation/guidance/examples in grammar indices5–7. Rare dictionary senses retained and labeled: cop slang, Izumo thanks, interjections, tree peony, contest match. Corrected annual vs yearlong and kinship/tense/frequency errors. Earlier unresolved kinship/example senses remain pending. Resume N5 grammar index8."
 }
