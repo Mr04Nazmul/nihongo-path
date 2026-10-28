@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 4248,
-  "pending_fields": 74930,
+  "ai_semantic_checked_fields": 4344,
+  "pending_fields": 74834,
   "checked_by_level": {
-    "N5": 4248
+    "N5": 4344
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "no",
+      "id": "to-to-dochira-ga",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "no",
+      "id": "to-to-dochira-ga",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "no",
+      "id": "to-to-dochira-ga",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "no",
+      "id": "to-to-dochira-ga",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "no",
+      "id": "to-to-dochira-ga",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "no",
+      "id": "to-to-dochira-ga",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "no",
+      "id": "to-to-dochira-ga",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "no",
+      "id": "to-to-dochira-ga",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass058: 94 new N5 grammar fields, all meanings/formations/guidance/examples for indices8–15 (e, de-place, de-means, to-and, to-with, ya, ka-or, mo). Direction vs existence/action location, means/chopsticks, exhaustive vs example lists, companion kinship, noun alternatives, additive focus and neither-vs-inability reviewed. Older unresolved vocabulary fields remain pending. Resume N5 grammar index16."
+  "latest_pass": "Pass059: 96 new N5 grammar fields; all meanings/formations/guidance/examples at indices16–23. Possessive and attributive no, source kara, continuous endpoint made vs deadline, question ka, agreement ne, informing yo and both comparison constructions. Fixed Japanese-language teacher vs nationality, restroom vs restaurant, yesterday 11pm, tomorrow test and comparative height/preference. Previous unresolved vocabulary remains pending. Resume N5 grammar index24."
 }

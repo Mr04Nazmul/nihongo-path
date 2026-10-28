@@ -994,5 +994,29 @@
   "N5:grammar:ni-frequency": {
     "formation": "Time period + に + number of occurrences",
     "review_note": "Clarified semantic formation to match existing Japanese examples; reviewed in semantic pass057."
+  },
+  "N5:grammar:no": {
+    "examples": [
+      {
+        "ja": "これは私のかさです。",
+        "furigana": "これは{私|わたし}のかさです。",
+        "en": "This is my umbrella."
+      },
+      {
+        "ja": "日本語の先生はとてもやさしいです。",
+        "furigana": "{日本語|にほんご}の{先生|せんせい}はとてもやさしいです。",
+        "en": "The Japanese-language teacher is very kind."
+      },
+      {
+        "ja": "駅の近くに新しい店があります。",
+        "furigana": "{駅|えき}の{近|ちか}くに{新|あたら}しい{店|みせ}があります。",
+        "en": "There is a new shop near the station."
+      }
+    ],
+    "review_note": "日本語の先生 is a teacher of Japanese language; nationality is not specified."
+  },
+  "N5:grammar:no-hou-ga-yori": {
+    "formation": "X (noun) + の方が + Y (noun) + より + predicate; or Y + より + X + の方が + predicate",
+    "review_note": "Complete comparative formation with final predicate and alternate ordering shown by third example."
   }
 }
