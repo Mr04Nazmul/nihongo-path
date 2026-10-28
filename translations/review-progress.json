@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 5612,
-  "pending_fields": 73566,
+  "ai_semantic_checked_fields": 5724,
+  "pending_fields": 73454,
   "checked_by_level": {
-    "N5": 5612
+    "N5": 5724
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-b7f5fefee890",
+      "id": "hana-79ad40030971",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-b7f5fefee890",
+      "id": "hana-79ad40030971",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-b7f5fefee890",
+      "id": "hana-79ad40030971",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-b7f5fefee890",
+      "id": "hana-79ad40030971",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-b7f5fefee890",
+      "id": "hana-79ad40030971",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-b7f5fefee890",
+      "id": "hana-79ad40030971",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-b7f5fefee890",
+      "id": "hana-79ad40030971",
       "language": "bn",
       "field": "examples.3"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-b7f5fefee890",
+      "id": "hana-79ad40030971",
       "language": "ne",
       "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass072: 112 new N5 grammar fields at indices120–127 reviewed in Bengali and Nepali: ja/soreja/soredewa response, noun-attached dewa, two-option questions, topic-feature wa/ga and comparison. Restored negatives, invitations, day-off/candles/crowding, should-vs-can, suits/easier, black tea and English skill. Corrected source heading mismatch, invented uniqueness, verb-only forms and English expansions. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index128."
+  "latest_pass": "Pass073: 112 new N5 grammar fields at indices128–135 reviewed in Bengali and Nepali: reverse-order comparison, i/na adverbs, deliberate result ku/ni-shimasu, polite negatives and adjective joining. Restored tense, negatives, kindly/busy/moving senses, agency and healthy-meal choice; corrected source become-vs-make, i-only joining and adjective-vs-noun choice conflation. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index136."
 }

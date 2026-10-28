@@ -1258,5 +1258,23 @@
   "N5:grammar:hana-c5ac302f722c": {
     "formation": "A は B より + adjective predicate, or adverbial expression + verb.",
     "review_note": "Semantic pass072: reconcile source patterns with actual Japanese and remove added uniqueness/person or missing predicate forms; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-94ba4c85b4cc": {
+    "meaning": "Deliberately make something have the quality of an i-adjective.",
+    "formation": "(Object を +) i-adjective with final い replaced by く + します; いい→よくします.",
+    "notes": "くします expresses an agent making a quality or state change, unlike くなります for becoming/changing state. Do not translate shimasu as uncaused become or as can. Depending on context it can describe a present action or future intention.",
+    "review_note": "Semantic pass073: distinguish caused results and noun choice; allow mixed adjective classes in joining; field evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-c5f2f70d3077": {
+    "meaning": "Join descriptions using the くて form of an i-adjective.",
+    "formation": "Replace final い with くて + following description/predicate; いい→よくて.",
+    "notes": "The first i-adjective uses くて to link descriptions. The following predicate need not be an i-adjective: 感動的 in the movie example is a na-adjective. The final predicate carries overall tense and politeness.",
+    "review_note": "Semantic pass073: distinguish caused results and noun choice; allow mixed adjective classes in joining; field evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-506ae7093495": {
+    "meaning": "Make or set a state with a na-adjective; distinguish noun にします for choosing.",
+    "formation": "(Object を +) na-adjective stem + にします. Choice: noun phrase + にします.",
+    "notes": "Na-adjective stem にします expresses making/setting a state, e.g. quiet or clean, distinct from になります for becoming. The final example 健康的な食事にします has the noun phrase 健康的な食事 before にします and means choose a healthy meal; it is not a direct na-adjective-to-adverb transformation.",
+    "review_note": "Semantic pass073: distinguish caused results and noun choice; allow mixed adjective classes in joining; field evidence in review-ledger.jsonl."
   }
 }
