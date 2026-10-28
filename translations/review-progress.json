@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 4536,
-  "pending_fields": 74642,
+  "ai_semantic_checked_fields": 4632,
+  "pending_fields": 74546,
   "checked_by_level": {
-    "N5": 4536
+    "N5": 4632
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ga-hoshii",
+      "id": "te-iru",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ga-hoshii",
+      "id": "te-iru",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ga-hoshii",
+      "id": "te-iru",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ga-hoshii",
+      "id": "te-iru",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ga-hoshii",
+      "id": "te-iru",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ga-hoshii",
+      "id": "te-iru",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ga-hoshii",
+      "id": "te-iru",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ga-hoshii",
+      "id": "te-iru",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass061: 96 new N5 grammar fields, indices32–39 fully reviewed in both languages: polite past, past negative, plain negative/past, proposal, offer, invitation and desire. Corrected homework vs domestic work, inability added to nonperformance, missing dialogue answers, meeting vs taking teacher, Sunday tennis, park, cold water and clock-time questions. Earlier vocabulary ambiguities remain unresolved. Resume N5 grammar index40."
+  "latest_pass": "Pass062: 96 new N5 grammar fields, indices40–47 completely reviewed in Bengali/Nepali. Object desire/request, action and negative requests, permission, prohibition, obligation and absence of obligation. Corrected negative nothing wanted, three specific apples request, shoes off before entry, early vs morning, children forbidden swimming vs need not, and optional cooking/name. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index48."
 }
