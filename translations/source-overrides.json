@@ -1046,5 +1046,24 @@
   "N5:grammar:supp-counter-fun-minute": {
     "notes": "分 counts clock minutes and durations. Pronunciation varies between ふん and ぷん with possible changes to the preceding numeral; this is not a voiced/voiceless contrast. Common forms: いっぷん, にふん, さんぷん, よんぷん, ごふん, ろっぷん, ななふん, はっぷん (also はちふん), きゅうふん, じゅっぷん (also じっぷん). 半 means half past the hour in clock expressions.",
     "review_note": "Semantic pass068: avoid unsupported shape/AM-PM restrictions and false phonetic terminology; primary references recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-counter-en-money": {
+    "formation": "Number + 円 (えん). The counter stays en; numeral readings can change, e.g. 3000円 さんぜんえん.",
+    "notes": "円 counts amounts in Japanese yen. The counter itself remains えん, but numerals retain their own reading changes, e.g. さんびゃく and さんぜん. Ask prices with いくらですか or 何円ですか.",
+    "review_note": "Semantic pass069: correct counter-reading scope, full phonetic forms and adjective past formation; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-counter-hon-long": {
+    "formation": "Number + 本: いっぽん, にほん, さんぼん, よんほん, ごほん, ろっぽん, ななほん, はっぽん, きゅうほん, じゅっぽん/じっぽん. Question: なんぼん.",
+    "notes": "本 counts long thin objects such as pencils, bottles, umbrellas, trees, bananas, wire and roads; conventional uses include train services, phone calls and films. The counter alternates ほん/ぼん/ぽん. Some combinations also change the preceding numeral and include small っ; ぽん alone is not a geminate consonant.",
+    "review_note": "Semantic pass069: correct counter-reading scope, full phonetic forms and adjective past formation; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-jikan-time-duration": {
+    "formation": "Number + 時間 (じかん); 1 いちじかん, 4 よじかん, 7 しちじかん/ななじかん, 9 くじかん; question なんじかん.",
+    "notes": "時間 counts elapsed hours, distinct from 時 for clock time. Use it for durations of study, work, travel and sleep. The suffix remains じかん, but numeral readings include special forms such as よじかん and くじかん.",
+    "review_note": "Semantic pass069: correct counter-reading scope, full phonetic forms and adjective past formation; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:supp-i-adj-adverbial-ku": {
+    "notes": "Replace final い with く to modify a verb or predicate: 早い→早く, 大きい→大きく, 高い→高く. いい becomes よく. The negative uses くない (高くない); the past instead replaces final い with かった (高かった), not くかった. よく can mean well, a lot or often depending on context.",
+    "review_note": "Semantic pass069: correct counter-reading scope, full phonetic forms and adjective past formation; evidence in review-ledger.jsonl."
   }
 }

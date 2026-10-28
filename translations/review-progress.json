@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 5210,
-  "pending_fields": 73968,
+  "ai_semantic_checked_fields": 5306,
+  "pending_fields": 73872,
   "checked_by_level": {
-    "N5": 5210
+    "N5": 5306
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-counter-sai-age",
+      "id": "supp-arimasu-existence-inanimate",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-counter-sai-age",
+      "id": "supp-arimasu-existence-inanimate",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-counter-sai-age",
+      "id": "supp-arimasu-existence-inanimate",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-counter-sai-age",
+      "id": "supp-arimasu-existence-inanimate",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-counter-sai-age",
+      "id": "supp-arimasu-existence-inanimate",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-counter-sai-age",
+      "id": "supp-arimasu-existence-inanimate",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-counter-sai-age",
+      "id": "supp-arimasu-existence-inanimate",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "supp-counter-sai-age",
+      "id": "supp-arimasu-existence-inanimate",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass068: 96 new N5 grammar fields at indices88–95 reviewed in both languages: both/neither, relative location, count/age/price, clock-time and weekday questions, hour/minute counters. Fixed inability added to non-eating, missing negatives, invitation vs past, total vs approximate price, AM/PM additions and boarding vs departure. Source ikutsu shape restriction and minute voicing explanation corrected using public educational references. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index96."
+  "latest_pass": "Pass069: 96 new N5 grammar fields at indices96–103 semantically reviewed in Bengali and Nepali: age, yen, long/flat-object counters, every-prefix, hour duration, adverbial adjectives and polite negative copula. Corrected reversed negation, yen/rupee and wallet/pocket mismatches, question/tense/quantity losses and English source formation/phonetic overgeneralizations. Earlier vocabulary ambiguities remain pending. Resume N5 grammar index104."
 }
