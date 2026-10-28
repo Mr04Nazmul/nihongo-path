@@ -1026,5 +1026,9 @@
   "N5:grammar:no-naka-de-ga-ichiban": {
     "formation": "Group noun + の中で + member noun + が + 一番 + predicate",
     "review_note": "Completed formation with the final predicate required by all existing examples."
+  },
+  "N5:grammar:ni-iku": {
+    "formation": "Verb masu-stem + に + 行く / 来る / 帰る; or suru-action noun + に + movement verb",
+    "review_note": "Purpose noun must name an activity; added kuru/kaeru to formation to match existing example and notes."
   }
 }

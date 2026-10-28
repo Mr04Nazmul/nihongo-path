@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 4728,
-  "pending_fields": 74450,
+  "ai_semantic_checked_fields": 4824,
+  "pending_fields": 74354,
   "checked_by_level": {
-    "N5": 4728
+    "N5": 4824
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -97,60 +97,60 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ni-iku",
+      "id": "ni-suru",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ni-iku",
+      "id": "ni-suru",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ni-iku",
+      "id": "ni-suru",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ni-iku",
+      "id": "ni-suru",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ni-iku",
+      "id": "ni-suru",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ni-iku",
+      "id": "ni-suru",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ni-iku",
+      "id": "ni-suru",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "ni-iku",
+      "id": "ni-suru",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass063: 96 new N5 grammar fields, indices48–55 fully reviewed in Bengali/Nepali. Ongoing/result-state/habitual teiru; sequential te/tekara; representative tari; past experience; before/ago vs after; simultaneous same-subject nagara. Corrected marriage/window states, sweater, homework sequence, unrelated summer example, ever/never, three years ago, socializing and coffee while talking. Earlier vocabulary ambiguities remain unresolved. Resume N5 grammar index56."
+  "latest_pass": "Pass064: 96 new N5 grammar fields at indices56–63 reviewed in both languages: purpose movement, preference, skill, existence/possession, reason, contrast, conjecture and change. Corrected one younger sister vs daughter, mother cooking, no-time taxi proposal, headache dialogue, Mike praise, mountain cold and next-year doctor. Purpose formation completed. Earlier vocabulary ambiguities remain unresolved. Resume N5 grammar index64."
 }
