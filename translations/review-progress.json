@@ -2,12 +2,12 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-28",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 3984,
-  "pending_fields": 75194,
+  "ai_semantic_checked_fields": 4064,
+  "pending_fields": 75114,
   "checked_by_level": {
-    "N5": 3984
+    "N5": 4064
   },
-  "authored_entry_glosses": 642,
+  "authored_entry_glosses": 677,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
@@ -83,74 +83,74 @@
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "f81d503d6f",
+      "id": "61fd50f12e",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "61fd50f12e",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N5",
+      "kind": "vocab",
+      "id": "d5c2e69813",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "f81d503d6f",
+      "id": "d5c2e69813",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "285b008622",
+      "id": "b1d440d4e1",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "285b008622",
+      "id": "b1d440d4e1",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "ae2b9f6d7e",
+      "id": "78255b9860",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "ae2b9f6d7e",
+      "id": "78255b9860",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "8b86921749",
+      "id": "13b6dbec03",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "vocab",
-      "id": "8b86921749",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "39fff8fc4b",
-      "language": "bn",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "39fff8fc4b",
+      "id": "13b6dbec03",
       "language": "ne",
       "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "80 N5 meaning fields: vocabulary 590–629. Polish/refine, right, short duration, showing, road/career, dates and item counters, greenery, polite everyone, seeing, far side, glasses, exasperation, hold/carry/possess, material objects, gate, issues and rest reviewed in Bengali/Nepali. Source contextual senses aligned. Resume meaning index 630."
+  "latest_pass": "80 new N5 meaning fields: vocabulary 630–669, plus 2 previously reviewed Nepali corridor examples refined with new evidence. Last night, slowly, horizontal/width, future dates, radio cassette, splendid, overseas student, both parents, cooking, sound record, corridor and understanding reviewed. Source contextual senses corrected. Resume meaning index 670."
 }

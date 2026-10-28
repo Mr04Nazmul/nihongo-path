@@ -6,8 +6,11 @@ class ReviewEvidence(unittest.TestCase):
  def test_current_ledger_and_invalidation(self):
   lookup={key(f):f for f in fields()};records=[json.loads(l) for l in (ROOT/'translations/review-ledger.jsonl').read_text().splitlines()]
   self.assertGreaterEqual(len(records),300)
-  for r in records:self.assertTrue(valid(r,lookup[key(r)]))
-  r=records[0];f=lookup[key(r)];self.assertFalse(valid(r,{**f,'translation':f['translation']+' changed'}));self.assertFalse(valid(r,{**f,'source':{**f['source'],'meaning':'different'}}))
+  # Historical revisions remain in the ledger; report() uses the last record per field.
+  latest={key(r):r for r in records}
+  for r in records:self.assertIn(key(r),lookup)
+  for r in latest.values():self.assertTrue(valid(r,lookup[key(r)]))
+  r=next(iter(latest.values()));f=lookup[key(r)];self.assertFalse(valid(r,{**f,'translation':f['translation']+' changed'}));self.assertFalse(valid(r,{**f,'source':{**f['source'],'meaning':'different'}}))
  def test_negation_time_roles_and_idiom(self):
   d=json.loads((ROOT/'dist/data/n5.json').read_text());g={e['id']:e for e in d['grammar']};v={e['word']:e for e in d['vocab'][:100]}
   self.assertIn('খুলছিল না',v['開く']['locales']['bn']['examples'][1]);self.assertIn('खुलेन',v['開く']['locales']['ne']['examples'][1])

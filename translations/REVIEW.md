@@ -13,3 +13,7 @@ These are AI-assisted semantic checks, not native-speaker or teacher certificati
 ## Second semantic pass (2026-10-26)
 
 Reviewed 152 additional sentence fields for N5 vocabulary indices 10–49 (76 examples in each language), with hash-bound evidence in the ledger. Japanese resolves source differences: 飴 example does not specify a girl; 姉/兄 are older siblings; 姉 example specifies a male child and pounds, not kilograms; 甘い is leniency rather than sugar; いつも…わけではない is partial negation. アソコ is a euphemism in its medical example. ダックスフント・ソーセージ is retained literally as the source sausage name, not translated as a pet. This is AI semantic review, not native-speaker certification. Remaining fields are still pending.
+
+## Revised fields
+
+A correction to a previously checked field appends a new hash-bound record, retaining the older record as history. The last record for each level/kind/ID/language/field is the current evidence, matching `review_progress.py`. A superseded record may correctly fail validation against the current translation; it does not count as a second reviewed field. Tests validate every current record and retain source/translation invalidation checks. The 2026-10-28 corridor correction refines two Nepali examples from veranda terminology to indoor corridor terminology.

@@ -610,7 +610,11 @@
         "tatoeba_id": 173664
       }
     ],
-    "review_note": "突き当たり far end; 起きました past outbreak, not necessarily currently ongoing."
+    "review_note": "廊下 indoor corridor/hallway; Bengali/Nepali clarified not exterior veranda.",
+    "meanings": [
+      "corridor",
+      "hallway"
+    ]
   },
   "N5:vocab:38249a2dd2": {
     "examples": [
@@ -948,5 +952,35 @@
       "issue"
     ],
     "review_note": "問題 problem/question/issue, not merely practical trouble."
+  },
+  "N5:vocab:222ae96df7": {
+    "meanings": [
+      "four days",
+      "fourth day of the month"
+    ],
+    "review_note": "Corrected fouth typo while preserving four-day/calendar-fourth distinction."
+  },
+  "N5:vocab:ee85169acd": {
+    "meanings": [
+      "cooking",
+      "cuisine",
+      "cooked food"
+    ],
+    "review_note": "料理 activity/cuisine/dish senses in both existing examples, not kitchen room."
+  },
+  "N5:vocab:0455201fe6": {
+    "meanings": [
+      "phonograph record",
+      "sound record"
+    ],
+    "review_note": "レコード phonograph sound recording in both examples, not sports achievement."
+  },
+  "N5:vocab:ecee43eb04": {
+    "meanings": [
+      "to understand",
+      "to know",
+      "to identify"
+    ],
+    "review_note": "分かる understand/know/identify, not passive-only wording."
   }
 }
