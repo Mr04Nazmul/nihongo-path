@@ -2125,5 +2125,29 @@
     "formation": "まだ + polite negative predicate, e.g. 食べていません / 終わっていません / 行ったことがありません.",
     "notes": "Polite register, not political. 終わっていません describes unfinished state, not inability to finish. 行ったことがありません describes lack of experience up to now, not a claim about never going in the future.",
     "review_note": "Semantic pass083: giver/receiver roles, task difficulty, nearly all versus hardly, moderate evaluation and still/not yet. Obaasan letter example remains pending contextual/kinship review. No native-speaker certification."
+  },
+  "N5:grammar:hana-796334edfc7e": {
+    "formation": "もう + appropriately formed predicate, e.g. 食べました / 働かない / 十分です; もうすぐ + upcoming event.",
+    "notes": "Already for a completed action/changed state; no longer with a negative predicate. In the supplied summer-vacation example, soon comes from もうすぐ. Preserve summer, lunch and negative future work.",
+    "review_note": "Semantic pass084: already/no longer/soon, comparative more, often versus well, and locative existence. Character gloss review follows N5 grammar. AI semantic review; no native-speaker certification."
+  },
+  "N5:grammar:hana-8d3cb3b926c3": {
+    "formation": "もうすぐ + event clause; also event noun + です, e.g. 誕生日です.",
+    "notes": "The time of an event is approaching, not an event already completed. Not restricted to verb predicates. でしょう in the rain example keeps a likely prediction rather than certainty.",
+    "review_note": "Semantic pass084: already/no longer/soon, comparative more, often versus well, and locative existence. Character gloss review follows N5 grammar. AI semantic review; no native-speaker certification."
+  },
+  "N5:grammar:hana-bb656f5c7c4d": {
+    "notes": "More or further in quantity/degree relative to a comparison. Desire and obligation come from the predicate (たい / なければなりません), not from もっと itself. Preserve larger, quieter and greater skill comparisons.",
+    "review_note": "Semantic pass084: already/no longer/soon, comparative more, often versus well, and locative existence. Character gloss review follows N5 grammar. AI semantic review; no native-speaker certification."
+  },
+  "N5:grammar:hana-ea975c748f51": {
+    "formation": "よく + verb in plain or polite form.",
+    "notes": "Frequency (often) or manner/evaluation (well), depending on context. The first three examples show frequent actions and a past habit; よくできました praises successful performance. Polite forms are allowed, not only casual verbs.",
+    "review_note": "Semantic pass084: already/no longer/soon, comparative more, often versus well, and locative existence. Character gloss review follows N5 grammar. AI semantic review; no native-speaker certification."
+  },
+  "N5:grammar:hana-3a62299f1319": {
+    "formation": "Place に + existent thing が + あります.",
+    "notes": "に marks location, が the existent subject, not a direct object. Generally use あります for things/plants and います for people/animals. 池 is a pond, コンビニ a convenience store and 神社 a Shinto shrine.",
+    "review_note": "Semantic pass084: already/no longer/soon, comparative more, often versus well, and locative existence. Character gloss review follows N5 grammar. AI semantic review; no native-speaker certification."
   }
 }

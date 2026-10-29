@@ -2,12 +2,12 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 6832,
-  "pending_fields": 72346,
+  "ai_semantic_checked_fields": 6936,
+  "pending_fields": 72242,
   "checked_by_level": {
-    "N5": 6832
+    "N5": 6936
   },
-  "authored_entry_glosses": 695,
+  "authored_entry_glosses": 712,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass083: 110 new N5 grammar fields at indices208–215 semantically checked in Bengali/Nepali; 2 obaasan letter-example fields remain pending grandmother/older-woman and kinship-context review. Corrected giving/receiving and beneficiary roles, volitional proposal, cooking/mother versus uncle, task nominalization, nearly-all versus hardly, missing passed-test result, moderate evaluations, still/not-yet and polite-not-political register. Earlier ambiguities remain pending. Resume N5 grammar index216."
+  "latest_pass": "Pass084: 104 new fields checked: Bengali/Nepali N5 grammar indices216–220 (70 fields) and kanji indices0–16 (34 meanings). Corrected already/no longer/soon, comparative degree, often/well and existence subjects; disambiguated radical/counter/present/main/row and institutional rank senses. N5 grammar traversal is finished but prior unresolved examples still remain; no whole-level completion claim. Resume N5 kanji index17, retaining earlier unresolved fields for contextual review."
 }
