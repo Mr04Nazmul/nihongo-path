@@ -5234,5 +5234,268 @@
         "basis": "最近 recent times not newest object by default. ほとんどない almost no reading time not moderate few; 最近まで until recently past hospital admission mother not entire family/current stay. Does not invent exact discharge date or recovery."
       }
     ]
+  },
+  "N4:vocab:f5c169269f": {
+    "examples": [
+      {
+        "ja": "私は最初からその事は知っていた。",
+        "furigana": "{私|わたし}は{最初|さいしょ}からその{事|こと}は{知|し}っていた。",
+        "en": "I knew that all along.",
+        "tatoeba_id": 156860
+      },
+      {
+        "ja": "最初にきたのはグレーさんでした。",
+        "furigana": "{最初|さいしょ}にきたのはグレーさんでした。",
+        "en": "Gray was the first to arrive.",
+        "tatoeba_id": 170491
+      }
+    ],
+    "review_note": "Pass099: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "47bbfc048f700223fe7996319c1c319d48db3c7b",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Mr Gray was the first man that arrived.",
+            "replacement": "Gray was the first to arrive."
+          }
+        ],
+        "basis": "最初 beginning/first. 最初から all along from start not all day/everyones knowledge. グレー Gray arrived first, not Shridevi meeting first man; さん gender need not invented beyond paired Mr Gray."
+      }
+    ]
+  },
+  "N4:vocab:0f4440571e": {
+    "examples": [
+      {
+        "ja": "私は貸間を探しているところです。",
+        "furigana": "{私|わたし}は{貸間|かしま}を{探|さが}しているところです。",
+        "en": "I'm looking for a room for rent.",
+        "tatoeba_id": 155234
+      },
+      {
+        "ja": "私はそれを探さなければならない。",
+        "furigana": "{私|わたし}はそれを{探|さが}さなければならない。",
+        "en": "I have to look for it.",
+        "tatoeba_id": 162327
+      }
+    ],
+    "review_note": "Pass099: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "47bbfc048f700223fe7996319c1c319d48db3c7b",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I have to find it.",
+            "replacement": "I have to look for it."
+          }
+        ],
+        "basis": "探す search/look for not necessarily successful find. 貸間 room for rent and speaker ongoing search; なければならない necessity restored not neutral searched."
+      }
+    ]
+  },
+  "N4:vocab:608037bdca": {
+    "meanings": [
+      "to go down; to decrease",
+      "to step back; to retreat",
+      "to hang down (intransitive)"
+    ],
+    "review_note": "Pass099: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "47bbfc048f700223fe7996319c1c319d48db3c7b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to get down",
+              "to descend"
+            ],
+            "replacement": [
+              "to go down; to decrease",
+              "to step back; to retreat",
+              "to hang down (intransitive)"
+            ]
+          }
+        ],
+        "basis": "下がる intransitive lowering, retreating or hanging (NINJAL). Rope not door/place; stand back and remain. Lamp hung from ceiling past not light climbing; subject and hanging source retained."
+      }
+    ]
+  },
+  "N4:vocab:c70caf0317": {
+    "meanings": [
+      "flourishing; prosperous",
+      "vigorous; active; full of energy"
+    ],
+    "review_note": "Pass099: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "47bbfc048f700223fe7996319c1c319d48db3c7b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "popularity",
+              "prosperous"
+            ],
+            "replacement": [
+              "flourishing; prosperous",
+              "vigorous; active; full of energy"
+            ]
+          }
+        ],
+        "basis": "盛ん flourishing/vigorous/prosperous not popularity noun/beauty. Education flourishing figurative not growing flowers; まだ still full energy retained."
+      }
+    ]
+  },
+  "N4:vocab:4d497f75cf": {
+    "meanings": [
+      "to give (humble-I form, respecting the recipient)"
+    ],
+    "review_note": "Pass099: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "47bbfc048f700223fe7996319c1c319d48db3c7b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(polite) to give"
+            ],
+            "replacement": [
+              "to give (humble-I form, respecting the recipient)"
+            ]
+          }
+        ],
+        "basis": "差し上げる humble-I giving respects recipient, not merely polite or actor/political. Speaker offer drink and later serves coffee after meal, not coffee consumed passively/cooking wish; no business charge implied."
+      }
+    ]
+  },
+  "N4:vocab:97bf3a5f9e": {
+    "meanings": [
+      "a short while ago; just now"
+    ],
+    "review_note": "Pass099: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "47bbfc048f700223fe7996319c1c319d48db3c7b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "some time ago"
+            ],
+            "replacement": [
+              "a short while ago; just now"
+            ]
+          }
+        ],
+        "basis": "さっき short while ago not days ago. マイク microphone not Mike; past failed audio activation. 鳴ってた past ringing and よね confirmation, not present inability to operate."
+      }
+    ]
+  },
+  "N4:vocab:6dc70626da": {
+    "examples": [
+      {
+        "ja": "それで、彼女はとてもさびしく思っています。",
+        "furigana": "それで、{彼女|かのじょ}はとてもさびしく{思|おも}っています。",
+        "en": "Because of that, she feels very lonely.",
+        "tatoeba_id": 205781
+      },
+      {
+        "ja": "さみしさにおぼれ深く落ちてゆく。",
+        "furigana": "さみしさにおぼれ{深|ふか}く{落|お}ちてゆく。",
+        "en": "I am drowning in loneliness, sinking deeper and deeper.",
+        "tatoeba_id": 216740
+      }
+    ],
+    "review_note": "Pass099: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "47bbfc048f700223fe7996319c1c319d48db3c7b",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "And she misses them very much.",
+            "replacement": "Because of that, she feels very lonely."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I'm drowning in sadness falling far behind.",
+            "replacement": "I am drowning in loneliness, sinking deeper and deeper."
+          }
+        ],
+        "basis": "寂しい lonely/desolate; first Japanese says she feels very lonely because of that, English missing-them adds unsupported referent removed. Second poetic さみしさにおぼれ deeply sinking into loneliness not falling behind competition; first-person as paired English, no claim literal drowning or recovered narrative."
+      }
+    ]
+  },
+  "N4:vocab:a6678a1d99": {
+    "examples": [
+      {
+        "ja": "再来週の木曜日はどう？",
+        "furigana": "{再来週|さらいしゅう}の{木曜日|もくようび}はどう？",
+        "en": "How about Thursday of the week after next?",
+        "tatoeba_id": 170804
+      }
+    ],
+    "review_note": "Pass099: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "47bbfc048f700223fe7996319c1c319d48db3c7b",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "How about two weeks from Thursday?",
+            "replacement": "How about Thursday of the week after next?"
+          }
+        ],
+        "basis": "再来週 week after next, not next week. 木曜日 Thursday not Friday/two hours; invitation about that weeks Thursday, no unsupported absolute date or two weeks after an unspecified Thursday."
+      }
+    ]
+  },
+  "N4:vocab:6243a1575b": {
+    "examples": [
+      {
+        "ja": "お伺いできないのが残念です。",
+        "furigana": "お{伺|うかが}いできないのが{残念|ざんねん}です。",
+        "en": "I regret that I cannot visit you.",
+        "tatoeba_id": 227123
+      },
+      {
+        "ja": "そんなことをしたのは残念である。",
+        "furigana": "そんなことをしたのは{残念|ざんねん}である。",
+        "en": "It is regrettable that such a thing was done.",
+        "tatoeba_id": 204390
+      }
+    ],
+    "review_note": "Pass099: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "47bbfc048f700223fe7996319c1c319d48db3c7b",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I regret to say I can't come.",
+            "replacement": "I regret that I cannot visit you."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I'm sorry for what I did.",
+            "replacement": "It is regrettable that such a thing was done."
+          }
+        ],
+        "basis": "残念 regret/disappointment. お伺いできない inability to visit humble form not positive coming. Second Japanese omits actor, neutral regrettable occurrence avoids English unsupported first-person blame; regret distinct from explicit apology/forgiveness demand."
+      }
+    ]
   }
 }
