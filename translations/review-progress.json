@@ -2,12 +2,12 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 6936,
-  "pending_fields": 72242,
+  "ai_semantic_checked_fields": 7070,
+  "pending_fields": 72108,
   "checked_by_level": {
-    "N5": 6936
+    "N5": 7070
   },
-  "authored_entry_glosses": 712,
+  "authored_entry_glosses": 779,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass084: 104 new fields checked: Bengali/Nepali N5 grammar indices216–220 (70 fields) and kanji indices0–16 (34 meanings). Corrected already/no longer/soon, comparative degree, often/well and existence subjects; disambiguated radical/counter/present/main/row and institutional rank senses. N5 grammar traversal is finished but prior unresolved examples still remain; no whole-level completion claim. Resume N5 kanji index17, retaining earlier unresolved fields for contextual review."
+  "latest_pass": "Pass085: 134 new Bengali/Nepali N5 kanji meaning fields at indices17–83 checked. Corrected fire/four, wood/bull, right/correct, interval/interview, counter and radical labels, zodiac time periods, printing proof and old measurement/honorific senses. N5 kanji meaning traversal finished; this is not whole-level completion. Next inspect all remaining N5 pending fields and prior unresolved context records before moving to N4. Native-speaker review remains not performed."
 }
