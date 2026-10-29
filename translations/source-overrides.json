@@ -3224,5 +3224,288 @@
         "basis": "お土産 portable souvenir/travel gift not monument or abstract memory. Hokkaido place not hotel. かさばる bulky/takes space not pillow/Bollywood; Japanese number unspecified, neutral singular demonstrative translation. Kanjipediaみやげ definitions."
       }
     ]
+  },
+  "N4:vocab:721424863e": {
+    "meanings": [
+      "front; front side; outer surface",
+      "outdoors"
+    ],
+    "examples": [
+      {
+        "ja": "この紙はどちらが表だか見分けがつかない。",
+        "furigana": "この{紙|かみ}はどちらが{表|おもて}だか{見分|みわ}けがつかない。",
+        "en": "I cannot tell which is the right side of this paper.",
+        "tatoeba_id": 221729
+      },
+      {
+        "ja": "表に出ようか。",
+        "furigana": "{表|おもて}に{出|で}ようか。",
+        "en": "Shall we go outside?",
+        "tatoeba_id": 74697
+      }
+    ],
+    "review_note": "Pass092: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "9a412af5f50fd6ff3bad0017827f286ff94c72b7",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "the front"
+            ],
+            "replacement": [
+              "front; front side; outer surface",
+              "outdoors"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Shall we take this outside?",
+            "replacement": "Shall we go outside?"
+          }
+        ],
+        "basis": "表おもて front/right-facing surface or outdoors, not rightward direction. 見分けがつかない inability distinguish paper sides. 表に出ようか go outside proposal; English take this outside adds unexpressed object/possible confrontation, generalized to go outside. Kanjipedia senses1/3."
+      }
+    ]
+  },
+  "N4:vocab:9099d4615b": {
+    "examples": [
+      {
+        "ja": "私たちは親をあてにしてはいけない。",
+        "furigana": "{私|わたし}たちは{親|おや}をあてにしてはいけない。",
+        "en": "We must not rely on parents.",
+        "tatoeba_id": 165585
+      },
+      {
+        "ja": "そのことを親にいってはいけないよ。",
+        "furigana": "そのことを{親|おや}にいってはいけないよ。",
+        "en": "You mustn't tell that to your parents.",
+        "tatoeba_id": 213114
+      }
+    ],
+    "review_note": "Pass092: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "9a412af5f50fd6ff3bad0017827f286ff94c72b7",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "We should not depend on your parents.",
+            "replacement": "We must not rely on parents."
+          }
+        ],
+        "basis": "親 parent(s). あてにする rely; てはいけない prohibition/negative advice, not physical inability nor no need to tell. First 私たちは we but Japanese parent owner unspecified; remove unsupported English your. Second prohibition telling parents, not desire to tell."
+      }
+    ]
+  },
+  "N4:vocab:4806278f5b": {
+    "meanings": [
+      "to descend; to come down",
+      "to get off (a vehicle)"
+    ],
+    "review_note": "Pass092: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "9a412af5f50fd6ff3bad0017827f286ff94c72b7",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to get off"
+            ],
+            "replacement": [
+              "to descend; to come down",
+              "to get off (a vehicle)"
+            ]
+          }
+        ],
+        "basis": "下りる descending/get off vs generic exit. 一行 travelling party/group not political party; walked DOWN mountain past. ケン Ken not Jen; 下りてきた downward toward speaker, not upward/death. English head expanded descend to cover actual examples."
+      }
+    ]
+  },
+  "N4:vocab:ac3d1de39a": {
+    "examples": [
+      {
+        "ja": "その紙を四つ折りにしなさい。",
+        "furigana": "その{紙|かみ}を{四|よっ}つ{折|お}りにしなさい。",
+        "en": "Fold the paper in four.",
+        "tatoeba_id": 210071
+      },
+      {
+        "ja": "折ろうとしても指が弱くなりすぎていた。",
+        "furigana": "{折|お}ろうとしても{指|ゆび}が{弱|よわ}くなりすぎていた。",
+        "en": "Even when trying to fold it, the fingers had become too weak.",
+        "tatoeba_id": 142061
+      }
+    ],
+    "review_note": "Pass092: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "9a412af5f50fd6ff3bad0017827f286ff94c72b7",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Her fingers were too weak to fold it.",
+            "replacement": "Even when trying to fold it, the fingers had become too weak."
+          }
+        ],
+        "basis": "折る transitive fold/break vs 折れる intransitive. 四つ折り four sections after folding not four separate sheets/four crore. Second attempted folding but fingers too weak, pairedEnglish supports folding sense; Japanese owner/object unspecified so no invented gender/object. Not touching/cutting."
+      }
+    ]
+  },
+  "N4:vocab:d517e5d931": {
+    "meanings": [
+      "to break; to become folded (intransitive)",
+      "to yield; to give in"
+    ],
+    "review_note": "Pass092: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "9a412af5f50fd6ff3bad0017827f286ff94c72b7",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to break or be folded"
+            ],
+            "replacement": [
+              "to break; to become folded (intransitive)",
+              "to yield; to give in"
+            ]
+          }
+        ],
+        "basis": "折れる intransitive break/bend; figurative give in/yield in company example not enter/return/bankruptcy. Doctor set broken leg (ついだ) not doctor merely said it was broken. Physical senses NINJAL and yield sense dictionary confirmed."
+      }
+    ]
+  },
+  "N4:vocab:cbbc4c3524": {
+    "examples": [
+      {
+        "ja": "カーテンが風になびいた。",
+        "furigana": "カーテンが{風|かぜ}になびいた。",
+        "en": "The curtains blew in the wind.",
+        "tatoeba_id": 226491
+      },
+      {
+        "ja": "カーテンはまだ上がっていなかった。",
+        "furigana": "カーテンはまだ{上|あ}がっていなかった。",
+        "en": "The curtain had not yet risen.",
+        "tatoeba_id": 226483
+      }
+    ],
+    "review_note": "Pass092: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "9a412af5f50fd6ff3bad0017827f286ff94c72b7",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "The curtain has not yet risen.",
+            "replacement": "The curtain had not yet risen."
+          }
+        ],
+        "basis": "カーテン curtain noun not omitted subject/foreign person. なびいた fluttered in wind past. まだ上がっていなかった past not-yet risen, not hasnt now or bright; English corrected to had not yet risen."
+      }
+    ]
+  },
+  "N4:vocab:81b9c23c14": {
+    "examples": [
+      {
+        "ja": "その作家は会話を書くのがうまい。",
+        "furigana": "その{作家|さっか}は{会話|かいわ}を{書|か}くのがうまい。",
+        "en": "The writer is good at writing dialogue.",
+        "tatoeba_id": 210516
+      },
+      {
+        "ja": "私たちの会話はいつもけんかで終わる。",
+        "furigana": "{私|わたし}たちの{会話|かいわ}はいつもけんかで{終|お}わる。",
+        "en": "Our conversation always ends in a quarrel.",
+        "tatoeba_id": 167052
+      }
+    ],
+    "review_note": "Pass092: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "9a412af5f50fd6ff3bad0017827f286ff94c72b7",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "The writer is very good at a dialog.",
+            "replacement": "The writer is good at writing dialogue."
+          }
+        ],
+        "basis": "会話 conversation/dialogue not monologic speech. 書くのがうまい skill in WRITING dialogue not merely speaking/discussing; English corrected. Second habitual always ends with quarrel, not only future or missing our."
+      }
+    ]
+  },
+  "N4:vocab:6365c5ac47": {
+    "examples": [
+      {
+        "ja": "どうして帰りがこんなに遅くなったの。",
+        "furigana": "どうして{帰|かえ}りがこんなに{遅|おそ}くなったの。",
+        "en": "Why did you come home so late?",
+        "tatoeba_id": 201483
+      },
+      {
+        "ja": "犬は少なくとも主人の帰りを待った。",
+        "furigana": "{犬|いぬ}は{少|すく}なくとも{主人|しゅじん}の{帰|かえ}りを{待|ま}った。",
+        "en": "The dog at least waited for its owner's return.",
+        "tatoeba_id": 175259
+      }
+    ],
+    "review_note": "Pass092: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "9a412af5f50fd6ff3bad0017827f286ff94c72b7",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "The dog waited day after day for its master's return.",
+            "replacement": "The dog at least waited for its owner's return."
+          }
+        ],
+        "basis": "帰り return/homeward trip, not reconstruction/refund. First why late home arrival. Second 少なくとも at least; Japanese has no repeated-days phrase, so remove English day after day. Neutral focus at-least dog waited, no invented duration or later day."
+      }
+    ]
+  },
+  "N4:vocab:2c7db27d62": {
+    "examples": [
+      {
+        "ja": "少女は立って鏡をのぞきこんだ。",
+        "furigana": "{少女|しょうじょ}は{立|た}って{鏡|かがみ}をのぞきこんだ。",
+        "en": "The girl stood looking into the mirror.",
+        "tatoeba_id": 146668
+      },
+      {
+        "ja": "鏡を見たことがないのだろうか。",
+        "furigana": "{鏡|かがみ}を{見|み}たことがないのだろうか。",
+        "en": "Have they never looked in a mirror?",
+        "tatoeba_id": 180062
+      }
+    ],
+    "review_note": "Pass092: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "9a412af5f50fd6ff3bad0017827f286ff94c72b7",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Hasn't he looked at himself in a mirror?",
+            "replacement": "Have they never looked in a mirror?"
+          }
+        ],
+        "basis": "鏡 mirror. 少女 girl, 立って standing, のぞきこんだ peered into past not simply mirror exists/current looking. Second negative experiential 見たことがないのだろうか rhetorical wondering, no explicit gender so no fabricated male; mirror not eye."
+      }
+    ]
   }
 }
