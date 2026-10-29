@@ -2085,5 +2085,45 @@
       }
     ],
     "review_note": "Semantic pass082: what-kind, indefinite things, total negation, nan/nande, anything and naming. なんで来ましたか remains provisional; final cafeteria example syntax explicitly repaired with original retained. AI semantic review, no native-speaker certification."
+  },
+  "N5:grammar:hana-a2850394284d": {
+    "formation": "Giver は/が + receiver に + thing を + あげます.",
+    "notes": "Giving is viewed from the giver; に marks the recipient and を the thing. If the speaker is the recipient, use an appropriate くれます/もらいます construction. あげましょう proposes giving; あげたい expresses desire to give.",
+    "review_note": "Semantic pass083: giver/receiver roles, task difficulty, nearly all versus hardly, moderate evaluation and still/not yet. Obaasan letter example remains pending contextual/kinship review. No native-speaker certification."
+  },
+  "N5:grammar:hana-faf9933075ee": {
+    "formation": "Receiver は/が + giver に/から + thing を + もらいます; beneficiary は/が + performer に + verb te-form + もらいます.",
+    "notes": "The receiver/beneficiary is the subject; に marks the giver or performer. Vてもらう views a service as benefiting that subject, not simply ownership. The おばあさん example is provisional: grandmother versus older woman and kinship side are not established by Japanese context.",
+    "review_note": "Semantic pass083: giver/receiver roles, task difficulty, nearly all versus hardly, moderate evaluation and still/not yet. Obaasan letter example remains pending contextual/kinship review. No native-speaker certification."
+  },
+  "N5:grammar:hana-180072f0dc7d": {
+    "formation": "Noun は たいへんです; dictionary-form verb + のはたいへんです.",
+    "notes": "Describes difficulty or burden in handling a task/situation. A verb phrase can become the topic through の. In this lesson たいへんです is a predicate, not the separate adverbial very use.",
+    "review_note": "Semantic pass083: giver/receiver roles, task difficulty, nearly all versus hardly, moderate evaluation and still/not yet. Obaasan letter example remains pending contextual/kinship review. No native-speaker certification."
+  },
+  "N5:grammar:hana-9852d83fab73": {
+    "formation": "ほとんど + predicate; ほとんどの + noun; ほとんど + negative predicate.",
+    "notes": "With affirmative predicates, almost complete or almost all. With negative predicates, a very low degree/quantity/frequency, not necessarily total zero. Use の before the noun in ほとんどの人. Preserve the passed-test result in the third example.",
+    "review_note": "Semantic pass083: giver/receiver roles, task difficulty, nearly all versus hardly, moderate evaluation and still/not yet. Obaasan letter example remains pending contextual/kinship review. No native-speaker certification."
+  },
+  "N5:grammar:hana-a0e2d18d6f16": {
+    "formation": "まあまあです; まあまあ + adjectival predicate.",
+    "notes": "In these examples, moderately good, so-so or satisfactory rather than outstanding. Not bad is not the same as bad. Preserve the past movie judgment and the subjective I think about her singing skill.",
+    "review_note": "Semantic pass083: giver/receiver roles, task difficulty, nearly all versus hardly, moderate evaluation and still/not yet. Obaasan letter example remains pending contextual/kinship review. No native-speaker certification."
+  },
+  "N5:grammar:hana-04d63f7fa707": {
+    "formation": "まだ + appropriately formed predicate, e.g. 食べていません / 暑いです / 学生です / 学生じゃないです.",
+    "notes": "Continuation means still; a not-yet-realized event with negative predicate means not yet. Nouns and na-adjectives may also take affirmative predicates; do not restrict them to negatives. Bare verb te-form is not a complete finite predicate.",
+    "review_note": "Semantic pass083: giver/receiver roles, task difficulty, nearly all versus hardly, moderate evaluation and still/not yet. Obaasan letter example remains pending contextual/kinship review. No native-speaker certification."
+  },
+  "N5:grammar:hana-f5c3d9b4a1f5": {
+    "formation": "まだ + verb negative form + です; also ていないです for a not-yet-realized event/result.",
+    "notes": "The specified event has not yet occurred/completed. It does not imply that nothing at all has occurred or that the action is impossible or will never occur. Preserve homework, coming, film starting and our dinner negatives.",
+    "review_note": "Semantic pass083: giver/receiver roles, task difficulty, nearly all versus hardly, moderate evaluation and still/not yet. Obaasan letter example remains pending contextual/kinship review. No native-speaker certification."
+  },
+  "N5:grammar:hana-0635ce119adf": {
+    "formation": "まだ + polite negative predicate, e.g. 食べていません / 終わっていません / 行ったことがありません.",
+    "notes": "Polite register, not political. 終わっていません describes unfinished state, not inability to finish. 行ったことがありません describes lack of experience up to now, not a claim about never going in the future.",
+    "review_note": "Semantic pass083: giver/receiver roles, task difficulty, nearly all versus hardly, moderate evaluation and still/not yet. Obaasan letter example remains pending contextual/kinship review. No native-speaker certification."
   }
 }

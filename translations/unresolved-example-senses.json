@@ -261,5 +261,52 @@
         ]
       }
     ]
+  },
+  "hana-faf9933075ee.examples.2": {
+    "level": "N5",
+    "kind": "grammar",
+    "issue": "Receiving subject versus giver marked ni/from; te-morau service beneficiary distinguished from simple object transfer. Friend gift and teacher advice are past received, not present possession; younger brother HELPS speaker with HOMEWORK, not housework at brothers house. Obaasan letter example has grandmother/older-woman ambiguity and no maternal/paternal side; original English grandma insufficient to settle JP, both example2 fields remain unresolved. JF receiver as subject inspected2026-10-29 https://www.kyozai.jpf.go.jp/kyozai/material/BTS00114/ja/render.do .",
+    "languages": [
+      "bn",
+      "ne"
+    ],
+    "fields": [
+      "examples.2"
+    ],
+    "status": "needs-context-review",
+    "field_records": [
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-faf9933075ee",
+        "language": "bn",
+        "field": "examples.2",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "7588fbb8405dfae2c882ae16f5860342efb40c53334a97f5518f74da8ae13a92",
+        "translation_sha256": "da6bbfd4b21f893bc93cb36a4de88529967f11b431624d176248ea68bc485487",
+        "basis": "Receiving subject versus giver marked ni/from; te-morau service beneficiary distinguished from simple object transfer. Friend gift and teacher advice are past received, not present possession; younger brother HELPS speaker with HOMEWORK, not housework at brothers house. Obaasan letter example has grandmother/older-woman ambiguity and no maternal/paternal side; original English grandma insufficient to settle JP, both example2 fields remain unresolved. JF receiver as subject inspected2026-10-29 https://www.kyozai.jpf.go.jp/kyozai/material/BTS00114/ja/render.do .",
+        "unresolved": [
+          "Receiving subject versus giver marked ni/from; te-morau service beneficiary distinguished from simple object transfer. Friend gift and teacher advice are past received, not present possession; younger brother HELPS speaker with HOMEWORK, not housework at brothers house. Obaasan letter example has grandmother/older-woman ambiguity and no maternal/paternal side; original English grandma insufficient to settle JP, both example2 fields remain unresolved. JF receiver as subject inspected2026-10-29 https://www.kyozai.jpf.go.jp/kyozai/material/BTS00114/ja/render.do ."
+        ]
+      },
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-faf9933075ee",
+        "language": "ne",
+        "field": "examples.2",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "7588fbb8405dfae2c882ae16f5860342efb40c53334a97f5518f74da8ae13a92",
+        "translation_sha256": "d275386aea7d02717533f70b232054ed2ea8f1a1ae24cc195e7696bd10fc7898",
+        "basis": "Receiving subject versus giver marked ni/from; te-morau service beneficiary distinguished from simple object transfer. Friend gift and teacher advice are past received, not present possession; younger brother HELPS speaker with HOMEWORK, not housework at brothers house. Obaasan letter example has grandmother/older-woman ambiguity and no maternal/paternal side; original English grandma insufficient to settle JP, both example2 fields remain unresolved. JF receiver as subject inspected2026-10-29 https://www.kyozai.jpf.go.jp/kyozai/material/BTS00114/ja/render.do .",
+        "unresolved": [
+          "Receiving subject versus giver marked ni/from; te-morau service beneficiary distinguished from simple object transfer. Friend gift and teacher advice are past received, not present possession; younger brother HELPS speaker with HOMEWORK, not housework at brothers house. Obaasan letter example has grandmother/older-woman ambiguity and no maternal/paternal side; original English grandma insufficient to settle JP, both example2 fields remain unresolved. JF receiver as subject inspected2026-10-29 https://www.kyozai.jpf.go.jp/kyozai/material/BTS00114/ja/render.do ."
+        ]
+      }
+    ]
   }
 }
