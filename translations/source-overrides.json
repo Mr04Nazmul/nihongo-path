@@ -1697,5 +1697,76 @@
   "N5:grammar:hana-bf927768e3c7": {
     "formation": "たいてい + predicate; たいていの + noun for most of a group.",
     "review_note": "Semantic pass078: align demonstrative reference, existence and English subject/scope; field evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-b35ce1d854db": {
+    "formation": "Verb ta-form + り, verb ta-form + り + します. Examples: 見た+り→見たり, 遊んだ+り→遊んだり.",
+    "notes": "List representative actions non-exhaustively, not necessarily in chronological order. Add り to the ta-form, not another たり to an already complete ta-form. The final する/します form sets tense.",
+    "examples": [
+      {
+        "ja": "休日には、映画を見たり、友達と遊んだりします。",
+        "en": "On holidays, I do things like watch movies and hang out with friends.",
+        "romaji": "Kyuujitsu ni wa, eiga wo mitari, tomodachi to asondari shimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼は歌ったり、踊ったり、ピアノを弾いたりします。",
+        "en": "He sings, dances, plays the piano, among other things.",
+        "romaji": "Kare wa utattari, odottari, piano wo hikitari shimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "このレストランでは、寿司を食べたり、刺身を食べたりします。",
+        "en": "At this restaurant, I eat things such as sushi and sashimi.",
+        "romaji": "Kono resutoran de wa, sushi wo tabetari, sashimi wo tabetari shimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女は毎朝、ジョギングしたり、ヨガをしたりします。",
+        "en": "Every morning, she does things like jogging and yoga.",
+        "romaji": "Kanojo wa maiasa, joggingu shitari, yoga wo shitari shimasu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass079: align action listing, interrogative roles and opinion/proposal construction; original errors and corrections described in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-60fa615db6c2": {
+    "formation": "だれ + role-appropriate particle が/を/に/と/の etc.; also だれですか.",
+    "notes": "だれ asks who/whom, not what or why. For an ordinary unknown-person subject use だれが; do not teach だれは as a default interchangeable pattern.",
+    "review_note": "Semantic pass079: align action listing, interrogative roles and opinion/proposal construction; original errors and corrections described in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-09b9fa53bc7a": {
+    "formation": "だれか + appropriate particle (が/を/に etc.) + predicate; possession だれかの + noun.",
+    "review_note": "Semantic pass079: align action listing, interrogative roles and opinion/proposal construction; original errors and corrections described in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-6d392839659b": {
+    "formation": "Noun は どうですか; dictionary-form verb + のはどうですか for a proposal; a complete statement may be followed by a separate どうですか.",
+    "notes": "どうですか asks for an opinion, condition or response to a suggestion. Do not attach な-adjective な directly to どうですか. Action proposals can use Vるのはどうですか; どうしますか instead asks what action/decision will be taken.",
+    "examples": [
+      {
+        "ja": "この映画はどうですか？",
+        "en": "How about this movie? / What do you think of this movie?",
+        "romaji": "Kono eiga wa dou desu ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "晩ご飯に寿司を食べるのはどうですか？",
+        "en": "How about eating sushi for dinner?",
+        "romaji": "Bangohan ni sushi wo taberu no wa dou desu ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この部屋は広いと思いますが、どうですか？",
+        "en": "I think this room is spacious, what do you think?",
+        "romaji": "Kono heya wa hiroi to omoimasu ga, dou desu ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "新しい会社の要件が厳しいですね。鈴木さん、転職するのはどうですか？",
+        "en": "The requirements at the new company are strict, are they not? Suzuki-san, how about changing jobs?",
+        "romaji": "Atarashii kaisha no youken ga kibishii desu ne. Suzuki-san, tenshoku suru no wa dou desu ka?",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass079: align action listing, interrogative roles and opinion/proposal construction; original errors and corrections described in review-ledger.jsonl."
   }
 }
