@@ -4921,5 +4921,318 @@
         "basis": "ご存じ honorific knowing/being acquainted, not humble own knowledge or wise person. About Singapore question not name meaning. ご存知だとは思いますが assumption plus mild contrast retained; しか…ません exclusive quarters25-cent coins (US Mint denomination support), not one-fourth/four hours. No specific country, machine type or number of coins invented."
       }
     ]
+  },
+  "N4:vocab:5bd8adf14c": {
+    "meanings": [
+      "feast; delicious meal; special treat"
+    ],
+    "examples": [
+      {
+        "ja": "なんとすばらしいごちそうでしょう。",
+        "en": "What a splendid feast!",
+        "tatoeba_id": 198836
+      },
+      {
+        "ja": "私はカニを大ごちそうだと思っている。",
+        "furigana": "{私|わたし}はカニを{大|おお}ごちそうだと{思|おも}っている。",
+        "en": "I regard crab as a great delicacy.",
+        "tatoeba_id": 161183
+      }
+    ],
+    "review_note": "Pass098: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "4ce014f768192f782642b173b1a37315dc052c8a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "a feast"
+            ],
+            "replacement": [
+              "feast; delicious meal; special treat"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "What a splendid dinner!",
+            "replacement": "What a splendid feast!"
+          }
+        ],
+        "basis": "ごちそう feast/treat/delicacy not festival or abstract favor/credit. Splendid meal not necessarily dinner in Japanese; crab food regarded delicacy not usefulness."
+      }
+    ]
+  },
+  "N4:vocab:cd7dd383c9": {
+    "examples": [
+      {
+        "ja": "この間の台風で、時速２００キロの風が吹きました。",
+        "furigana": "この{間|あいだ}の{台風|たいふう}で、{時速|じそく}２００キロの{風|かぜ}が{吹|ふ}きました。",
+        "en": "In the recent typhoon, the wind blew at 200 kilometers per hour.",
+        "tatoeba_id": 222567
+      },
+      {
+        "ja": "この間あなたたちの国の人についてのテレビを見ました。",
+        "furigana": "この{間|あいだ}あなたたちの{国|くに}の{人|ひと}についてのテレビを{見|み}ました。",
+        "en": "We watched a TV program the other day about your people.",
+        "tatoeba_id": 222569
+      }
+    ],
+    "review_note": "Pass098: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "4ce014f768192f782642b173b1a37315dc052c8a",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "In the last typhoon, the wind blew at over 200 kilometers per hour!",
+            "replacement": "In the recent typhoon, the wind blew at 200 kilometers per hour."
+          }
+        ],
+        "basis": "このあいだ recent past not next day. JP exact200km/h, English over200 unsupported removed; speed not distance. TV about addressees country people not addressee personally, no future/date invented."
+      }
+    ]
+  },
+  "N4:vocab:286e978a7d": {
+    "meanings": [
+      "small; fine-grained",
+      "detailed; meticulous"
+    ],
+    "examples": [
+      {
+        "ja": "彼はひどく金に細かい。",
+        "furigana": "{彼|かれ}はひどく{金|かね}に{細|こま}かい。",
+        "en": "He is extremely fussy about money.",
+        "tatoeba_id": 8954482
+      },
+      {
+        "ja": "わたしはこまかい点までしらべました。",
+        "furigana": "わたしはこまかい{点|てん}までしらべました。",
+        "en": "I examined even the fine details.",
+        "tatoeba_id": 191853
+      }
+    ],
+    "review_note": "Pass098: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "4ce014f768192f782642b173b1a37315dc052c8a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "small",
+              "fine"
+            ],
+            "replacement": [
+              "small; fine-grained",
+              "detailed; meticulous"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "He is very careful with his money.",
+            "replacement": "He is extremely fussy about money."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I went into details.",
+            "replacement": "I examined even the fine details."
+          }
+        ],
+        "basis": "細かい fine-grained/small/detailed not beautiful. 金に細かい monetary meticulous/fussy attitude with ひどく intensity, not money as agent; no diagnosis/greed motive invented. 点まで調べた investigated even details not physically went into them."
+      }
+    ]
+  },
+  "N4:vocab:17fb3976d2": {
+    "examples": [
+      {
+        "ja": "私たちの新居をご覧になってはいかがですか。",
+        "furigana": "{私|わたし}たちの{新居|しんきょ}をご{覧|らん}になってはいかがですか。",
+        "en": "How about coming to see our new home?",
+        "tatoeba_id": 166927
+      },
+      {
+        "ja": "ローマを訪れたことがおありなら、コロセウムをご覧になったにちがいない。",
+        "furigana": "ローマを{訪|おとず}れたことがおありなら、コロセウムをご{覧|らん}になったにちがいない。",
+        "en": "If you have ever visited Rome, you must have seen the Coliseum.",
+        "tatoeba_id": 192241
+      }
+    ],
+    "review_note": "Pass098: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "4ce014f768192f782642b173b1a37315dc052c8a",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "What do you think of our new abode?",
+            "replacement": "How about coming to see our new home?"
+          }
+        ],
+        "basis": "ごらんになる honorific 見る per Bunka guidance, not obligation to see. ご覧になってはいかが suggestion to see/visit our new home not opinion about it. Rome/Colosseum not romance/college; にちがいない confident inference not required action."
+      }
+    ]
+  },
+  "N4:vocab:b71d50ee32": {
+    "meanings": [
+      "from now on; after this"
+    ],
+    "examples": [
+      {
+        "ja": "これからも人生を楽しんでください。",
+        "furigana": "これからも{人生|じんせい}を{楽|たの}しんでください。",
+        "en": "Please continue to enjoy life from now on, too.",
+        "tatoeba_id": 218963
+      },
+      {
+        "ja": "これからはもっと勉強します。",
+        "furigana": "これからはもっと{勉強|べんきょう}します。",
+        "en": "I'll study harder in the future.",
+        "tatoeba_id": 218973
+      }
+    ],
+    "review_note": "Pass098: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "4ce014f768192f782642b173b1a37315dc052c8a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "after this"
+            ],
+            "replacement": [
+              "from now on; after this"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Wishing you an enjoyable future.",
+            "replacement": "Please continue to enjoy life from now on, too."
+          }
+        ],
+        "basis": "これから from now on/after this. これからも continuity enjoy life not only generic wish; は new onward study resolve and future, not ongoing studying now. No specific timetable supplied."
+      }
+    ]
+  },
+  "N4:vocab:a769e4c0da": {
+    "meanings": [
+      "frightening; scary",
+      "afraid"
+    ],
+    "review_note": "Pass098: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "4ce014f768192f782642b173b1a37315dc052c8a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "frightening"
+            ],
+            "replacement": [
+              "frightening; scary",
+              "afraid"
+            ]
+          }
+        ],
+        "basis": "怖い frightening/afraid depending bearer. Comparative more surprised than scared, not no fear at all. ケチをつける criticize/findfault; 後が怖い consequences to fear not literally asking for trouble or impossible action."
+      }
+    ]
+  },
+  "N4:vocab:d11b994212": {
+    "examples": [
+      {
+        "ja": "コンサートはどうだった？",
+        "en": "How was the concert?",
+        "tatoeba_id": 217514
+      },
+      {
+        "ja": "今コンサートが始まろうとしている。",
+        "furigana": "{今|いま}コンサートが{始|はじ}まろうとしている。",
+        "en": "The concert is just about to begin now.",
+        "tatoeba_id": 172848
+      }
+    ],
+    "review_note": "Pass098: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "4ce014f768192f782642b173b1a37315dc052c8a",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "How did you enjoy the concert?",
+            "replacement": "How was the concert?"
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The concert is beginning now.",
+            "replacement": "The concert is just about to begin now."
+          }
+        ],
+        "basis": "コンサート concert not cancer/consent. どうだった past how-was question not present how enjoy. 始まろうとしている imminent about to begin, not already began; no extra duration inferred."
+      }
+    ]
+  },
+  "N4:vocab:cbb63150b8": {
+    "meanings": [
+      "this time; this occasion",
+      "next time; upcoming",
+      "recently (depending on context)"
+    ],
+    "review_note": "Pass098: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "4ce014f768192f782642b173b1a37315dc052c8a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "now",
+              "next time"
+            ],
+            "replacement": [
+              "this time; this occasion",
+              "next time; upcoming",
+              "recently (depending on context)"
+            ]
+          }
+        ],
+        "basis": "今度 this/next occasion or recent event per Daijisen, not only now. しませんか invitation not why-need/how question; coming Saturday and coming Monday not Friday, no specific dates calculated."
+      }
+    ]
+  },
+  "N4:vocab:df21df827a": {
+    "meanings": [
+      "recently; lately; these days"
+    ],
+    "review_note": "Pass098: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "4ce014f768192f782642b173b1a37315dc052c8a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "latest",
+              "nowadays"
+            ],
+            "replacement": [
+              "recently; lately; these days"
+            ]
+          }
+        ],
+        "basis": "最近 recent times not newest object by default. ほとんどない almost no reading time not moderate few; 最近まで until recently past hospital admission mother not entire family/current stay. Does not invent exact discharge date or recovery."
+      }
+    ]
   }
 }

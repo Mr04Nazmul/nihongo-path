@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-30",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 8394,
-  "pending_fields": 70784,
+  "ai_semantic_checked_fields": 8514,
+  "pending_fields": 70664,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 1300
+    "N4": 1420
   },
-  "authored_entry_glosses": 999,
+  "authored_entry_glosses": 1019,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "aac669551b",
+      "id": "c54201ce25",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "aac669551b",
+      "id": "c54201ce25",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "aac669551b",
+      "id": "c54201ce25",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "aac669551b",
+      "id": "c54201ce25",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "aac669551b",
+      "id": "c54201ce25",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "aac669551b",
+      "id": "c54201ce25",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bd8adf14c",
+      "id": "f5c169269f",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bd8adf14c",
+      "id": "f5c169269f",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bd8adf14c",
+      "id": "f5c169269f",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bd8adf14c",
+      "id": "f5c169269f",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bd8adf14c",
+      "id": "f5c169269f",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bd8adf14c",
+      "id": "f5c169269f",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "038f67b635",
+      "id": "856f1c8216",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "038f67b635",
+      "id": "856f1c8216",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "038f67b635",
+      "id": "856f1c8216",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "038f67b635",
+      "id": "856f1c8216",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "038f67b635",
+      "id": "856f1c8216",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "038f67b635",
+      "id": "856f1c8216",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "0ae014e274",
+      "id": "0f4440571e",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "0ae014e274",
+      "id": "0f4440571e",
       "language": "bn",
       "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass097: N4 vocabulary indices200–219: 114 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected laboratory roles, sightseeing vs spectators, native Londoner suffix, manner demonstrative, suburbs vs outsiders/rural villages, almost nobody vs at least a few, July sharp production and comparison of student numbers, senior-high-school enrollment/completion/correspondence, next-month factory stoppage/auto building, principal vs chief minister and beneficial frequent meetings, traffic caution vs assumed driving, auditorium teacher-gathering and immediate ceremony sequence, not-highschool student and subject emphasis,20years-ago immediately-after-university-graduation civil-service entry, this-month ongoing trade fair, mind/heart ease, honorific other husband/fussy eater, mechanical breakdown/late arrival and watch inference, honorific knowing and exclusive25-cent coin use. Eleven source entries English senses/nuances corrected or expanded with prior values retained; all Japanese, stable IDs and attribution unchanged. No new unresolved ambiguity; historical original-context limitations remain archived. No native-speaker certification. Resume N4 vocabulary index220."
+  "latest_pass": "Pass098: N4 vocabulary indices220–239:120 Bengali/Nepali meaning/example fields semantically reviewed. Corrected answer requests/hand-raising, feast/crab delicacy, no money and same playing-field phenomenon, small birds/current vs past chirping, recent-past typhoon200km/h exact not over200 and TV country-people referents, some vs none reading/seeing, fine details vs beautiful and fussy money behavior, rubbish vs statue, crowd/congestion vs popularity, rice vs juice/cows, honorific seeing/new-home invitation and Rome inference, onward continuity/study resolve, greater surprise than fear and criticism consequences, positive many-house destruction vs false negation, intransitive malfunction/building-collapse possibility, imminent concert vs already begun, coming Saturday/Monday and broad kondo senses, computer data input, tonight bath intention and until-recently mother hospitalization. Nine English source entries senses/nuances corrected or expanded with old values retained; Japanese, IDs and attribution unchanged. No new unresolved ambiguity; historic context limitations remain archived. No native-speaker certification. Resume N4 vocabulary index240."
 }
