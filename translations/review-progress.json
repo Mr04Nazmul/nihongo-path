@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 6170,
-  "pending_fields": 73008,
+  "ai_semantic_checked_fields": 6282,
+  "pending_fields": 72896,
   "checked_by_level": {
-    "N5": 6170
+    "N5": 6282
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -111,46 +111,46 @@
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-3d10409e4d6d",
+      "id": "hana-b35ce1d854db",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-3d10409e4d6d",
+      "id": "hana-b35ce1d854db",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-3d10409e4d6d",
+      "id": "hana-b35ce1d854db",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-3d10409e4d6d",
+      "id": "hana-b35ce1d854db",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-3d10409e4d6d",
+      "id": "hana-b35ce1d854db",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N5",
       "kind": "grammar",
-      "id": "hana-3d10409e4d6d",
+      "id": "hana-b35ce1d854db",
       "language": "bn",
       "field": "examples.2"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass077: 112 new N5 grammar fields at indices160–167 reviewed in Bengali/Nepali: someday/anytime/always, reasons, receiving/giving benefits and contrasts. Corrected belief subject, giver/receiver and older-brother roles, homework, warmth, degree and obligation. Fixed malformed te-kureru Japanese, missing da before keredo and misleading universal kara formation. Earlier ambiguities remain pending, including early/fast example. Resume N5 grammar index168."
+  "latest_pass": "Pass078: 112 new N5 grammar fields at indices168–175 reviewed in Bengali/Nepali: polite demonstratives, recent past, immediacy, total negation, sequencing, approximation and usual/most. Corrected gender/title additions, restaurant-food metonymy, subject and vocative name questions, negative polarity, past events, exact clock time and store products. Source sochira distance rule, existence particle and English scopes corrected. Earlier ambiguities remain pending. Resume N5 grammar index176."
 }

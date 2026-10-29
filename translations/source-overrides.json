@@ -1544,5 +1544,158 @@
       }
     ],
     "review_note": "Semantic pass077: align source roles, auxiliary connection and copula; original error and correction recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-3d10409e4d6d": {
+    "examples": [
+      {
+        "ja": "こちらは田中さんです。",
+        "en": "This is Mr./Ms. Tanaka.",
+        "romaji": "Kochira wa Tanaka-san desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "こちらのレストランは美味しいです。",
+        "en": "The food at this restaurant is delicious.",
+        "romaji": "Kochira no resutoran wa oishii desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "こちらへどうぞ。",
+        "en": "Please come this way.",
+        "romaji": "Kochira e douzo.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "こちらの方がいいですか、それともあちらの方がいいですか？",
+        "en": "Is this one better, or is that one better?",
+        "romaji": "Kochira no hou ga ii desu ka, sore to mo achira no hou ga ii desu ka?",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass078: align demonstrative reference, existence and English subject/scope; field evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-c61c3eeb39ec": {
+    "examples": [
+      {
+        "ja": "さっき電話がありました。",
+        "en": "There was a phone call just now.",
+        "romaji": "Sakki denwa ga arimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "さっき部屋を掃除しました。",
+        "en": "I cleaned the room a short while ago.",
+        "romaji": "Sakki heya wo souji shimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "さっき彼に会いました。",
+        "en": "I met him just now.",
+        "romaji": "Sakki kare ni aimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "さっきのニュースを見ましたか？",
+        "en": "Did you watch the news from a short while ago?",
+        "romaji": "Sakki no nyuusu wo mimashita ka?",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass078: align demonstrative reference, existence and English subject/scope; field evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-147c9e49630a": {
+    "examples": [
+      {
+        "ja": "友達が来たら、すぐに電話をかけてください。",
+        "en": "When my friend arrives, please call me right away.",
+        "romaji": "Tomodachi ga kitara, sugu ni denwa wo kakete kudasai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "そのニュースを聞いたら、すぐに会社に行きました。",
+        "en": "Upon hearing that news, I went to the company immediately.",
+        "romaji": "Sono nyuusu wo kiitara, sugu ni kaisha ni ikimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女はすぐに泣き出した。",
+        "en": "She started crying right away.",
+        "romaji": "Kanojo wa sugu ni nakidashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "教室に入ると、先生はすぐに授業を始めた。",
+        "en": "On entering the classroom, the teacher immediately started the lesson.",
+        "romaji": "Kyoushitsu ni hairu to, sensei wa sugu ni jugyou wo hajimeta.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass078: align demonstrative reference, existence and English subject/scope; field evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-9df8814d6b34": {
+    "meaning": "Politely indicate the listener-side direction, place, person or thing: that way / your side / that one.",
+    "notes": "そちら commonly points to the listeners side or domain, not simply a fixed moderate distance from both people. Shared-space and remote contexts affect reference. In example2 そちらの方 is a direct address to the listener whose name is requested.",
+    "examples": [
+      {
+        "ja": "そちらのレストランはどうですか？",
+        "en": "How is that restaurant over there?",
+        "romaji": "Sochira no resutoran wa dou desu ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "そちらの方、お名前を教えていただけますか？",
+        "en": "You over there, could you tell me your name?",
+        "romaji": "Sochira no kata, onamae o oshiete itadakemasu ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "そちらに行く途中に駅があります。",
+        "en": "There is a station on the way to that direction.",
+        "romaji": "Sochira ni iku tochuu ni eki ga arimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "そちらのかばん、私のと似ていますね。",
+        "en": "That bag over there looks similar to mine.",
+        "romaji": "Sochira no kaban, watashi no to niteimasu ne.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass078: align demonstrative reference, existence and English subject/scope; field evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-960e48c6def9": {
+    "meaning": "Roughly / approximately / broadly speaking.",
+    "notes": "With numbers, amounts and percentages, だいたい gives an approximation that can be slightly above or below the stated value; it is not restricted to almost but less than that value.",
+    "examples": [
+      {
+        "ja": "だいたい１００人がパーティーに参加しました。",
+        "en": "Approximately 100 people attended the party.",
+        "romaji": "Daitai hyaku-nin ga paatii ni sanka shimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女はだいたい２時間でその仕事を終えます。",
+        "en": "She finishes that work in roughly two hours.",
+        "romaji": "Kanojo wa daitai ni-jikan de sono shigoto o oemasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "だいたい８０％の生徒が試験に合格しました。",
+        "en": "About 80% of the students passed the exam.",
+        "romaji": "Daitai hachijuu-paasento no seito ga shiken ni goukaku shimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "今日はだいたい３０度の暑さです。",
+        "en": "The temperature today is about 30 degrees.",
+        "romaji": "Kyou wa daitai sanjuu-do no atsusa desu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass078: align demonstrative reference, existence and English subject/scope; field evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-bf927768e3c7": {
+    "formation": "たいてい + predicate; たいていの + noun for most of a group.",
+    "review_note": "Semantic pass078: align demonstrative reference, existence and English subject/scope; field evidence in review-ledger.jsonl."
   }
 }
