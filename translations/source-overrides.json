@@ -2950,5 +2950,279 @@
         "basis": "送る send object or escort/drive person. Japan destination not addressee nation; second 車で method, 家まで endpoint, もらえませんか polite benefactive request for ride not drive the house or factual inability."
       }
     ]
+  },
+  "N4:vocab:99de4451f7": {
+    "meanings": [
+      "to wake someone",
+      "to raise or sit up"
+    ],
+    "review_note": "Pass091: semantic/source correction with original edited values preserved in source_corrections. Two explicitly AI-authored replacements for ambiguous/misaligned source examples separately archived with prior IDs/attribution; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to wake"
+            ],
+            "replacement": [
+              "to wake someone",
+              "to raise or sit up"
+            ]
+          }
+        ],
+        "basis": "起す transitive wake/raise, not wake oneself or job. 体を起こした sat UP not merely sitting. Tomorrow morning6 exactly, not6:30/today; request to wake speaker not addressee wake themselves."
+      }
+    ]
+  },
+  "N4:vocab:2139fab218": {
+    "examples": [
+      {
+        "ja": "いう事と行う事はまったく別だ。",
+        "furigana": "いう{事|こと}と{行|おこな}う{事|こと}はまったく{別|べつ}だ。",
+        "en": "To say is one thing, and to do quite another.",
+        "tatoeba_id": 229318
+      },
+      {
+        "ja": "私たちは明日、会議を行います。",
+        "en": "We will hold a meeting tomorrow.",
+        "romaji": "Watashitachi wa ashita, kaigi o okonaimasu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "review_note": "Pass091: semantic/source correction with original edited values preserved in source_corrections. Two explicitly AI-authored replacements for ambiguous/misaligned source examples separately archived with prior IDs/attribution; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+        "corrections": [],
+        "basis": "行うおこなう perform/conduct, not 行く go. Original example2 行った furiganaおこなった but English went and omitted object, plus やむえず typo; archived unchanged and replaced with explicit authored meeting tomorrow. First saying vs doing distinct, not command to say/do different things. NINJAL IPALBV frame N1ガN2ヲ行う."
+      }
+    ]
+  },
+  "N4:vocab:1f5a7d8e07": {
+    "meanings": [
+      "young lady",
+      "someones daughter (respectful)"
+    ],
+    "review_note": "Pass091: semantic/source correction with original edited values preserved in source_corrections. Two explicitly AI-authored replacements for ambiguous/misaligned source examples separately archived with prior IDs/attribution; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "young lady"
+            ],
+            "replacement": [
+              "young lady",
+              "someones daughter (respectful)"
+            ]
+          }
+        ],
+        "basis": "お嬢さん young lady/respectful daughter; both examples daughter of addressee not speaker son. そうですね reported-heard confirmation not certain I know. 会わせていただきたい respectful request for permission to meet, not merely view."
+      }
+    ]
+  },
+  "N4:vocab:981ee66f59": {
+    "meanings": [
+      "to fall; to drop (intransitive)",
+      "to fail an examination",
+      "to go down; to stop functioning (server)"
+    ],
+    "review_note": "Pass091: semantic/source correction with original edited values preserved in source_corrections. Two explicitly AI-authored replacements for ambiguous/misaligned source examples separately archived with prior IDs/attribution; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to fall or drop"
+            ],
+            "replacement": [
+              "to fall; to drop (intransitive)",
+              "to fail an examination",
+              "to go down; to stop functioning (server)"
+            ]
+          }
+        ],
+        "basis": "落ちる physical fall, exam failure and server downtime. しないと negative antecedent yields fail exam, not if study then exam. Server was down functional unavailability, not lower physical position or small size."
+      }
+    ]
+  },
+  "N4:vocab:f2c38f9517": {
+    "examples": [
+      {
+        "ja": "八十セントの品物に一ドルを払ったので、おつりは二十セントです。",
+        "en": "I paid one dollar for an eighty-cent item, so the change is twenty cents.",
+        "romaji": "Hachijuu sento no shinamono ni ichi doru o haratta node, otsuri wa nijuu sento desu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "あの店でおつりをごまかされた。",
+        "furigana": "あの{店|みせ}でおつりをごまかされた。",
+        "en": "They short-changed me at that store.",
+        "tatoeba_id": 230565
+      }
+    ],
+    "meanings": [
+      "change returned after paying for a purchase"
+    ],
+    "review_note": "Pass091: semantic/source correction with original edited values preserved in source_corrections. Two explicitly AI-authored replacements for ambiguous/misaligned source examples separately archived with prior IDs/attribution; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "change from purchase",
+              "balance"
+            ],
+            "replacement": [
+              "change returned after paying for a purchase"
+            ]
+          }
+        ],
+        "basis": "おつり purchase change not transformation/balance of forces or bank balance. Original one-dollar sentence could mean change remaining from payment while English suggests denomination exchange; archived and authored explicit80cent/1dollar/20cent arithmetic (100cents per dollar). Second adverse passive short-changed speaker, not store changed."
+      }
+    ]
+  },
+  "N4:vocab:f786333cf9": {
+    "meanings": [
+      "to drop (transitive)",
+      "to remove; to omit"
+    ],
+    "review_note": "Pass091: semantic/source correction with original edited values preserved in source_corrections. Two explicitly AI-authored replacements for ambiguous/misaligned source examples separately archived with prior IDs/attribution; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to drop"
+            ],
+            "replacement": [
+              "to drop (transitive)",
+              "to remove; to omit"
+            ]
+          }
+        ],
+        "basis": "落す transitive drop/remove, contrast 落ちる intransitive. First negative request do not remove from list, not deny current listing. Second prohibition dropping tumbler, not letting go figuratively or no cup exists."
+      }
+    ]
+  },
+  "N4:vocab:6d69734463": {
+    "examples": [
+      {
+        "ja": "母はそのニュースを聞いて驚いた。",
+        "furigana": "{母|はは}はそのニュースを{聞|き}いて{驚|おどろ}いた。",
+        "en": "Mother was surprised at the news.",
+        "tatoeba_id": 83064
+      },
+      {
+        "ja": "その人はその知らせに驚きました。",
+        "furigana": "その{人|ひと}はその{知|し}らせに{驚|おどろ}きました。",
+        "en": "The person was surprised at the news.",
+        "tatoeba_id": 208760
+      }
+    ],
+    "review_note": "Pass091: semantic/source correction with original edited values preserved in source_corrections. Two explicitly AI-authored replacements for ambiguous/misaligned source examples separately archived with prior IDs/attribution; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "The man was surprised at the news.",
+            "replacement": "The person was surprised at the news."
+          }
+        ],
+        "basis": "驚く experiencer surprised, not news is surprising without person. Mother first, singular person second; Japanese人 no male gender specified so English man generalized to person. Past reaction retained."
+      }
+    ]
+  },
+  "N4:vocab:eb615955c8": {
+    "meanings": [
+      "visiting or asking after someone who is ill"
+    ],
+    "examples": [
+      {
+        "ja": "彼女のお見舞いに行こうよ。",
+        "en": "Let's go visit her while she is ill.",
+        "tatoeba_id": 94734
+      },
+      {
+        "ja": "先日、私たちは彼のお兄さんをお見舞いにいった。",
+        "en": "The other day we went to visit his older brother.",
+        "tatoeba_id": 141483
+      }
+    ],
+    "review_note": "Pass091: semantic/source correction with original edited values preserved in source_corrections. Two explicitly AI-authored replacements for ambiguous/misaligned source examples separately archived with prior IDs/attribution; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "calling on someone who is ill",
+              "enquiry"
+            ],
+            "replacement": [
+              "visiting or asking after someone who is ill"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Why don't we go and see her in the hospital?",
+            "replacement": "Let's go visit her while she is ill."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The other day we went to ask after his brother.",
+            "replacement": "The other day we went to visit his older brother."
+          }
+        ],
+        "basis": "お見舞い visiting/checking on sick person, not telephone imperative, survey or disease. 行こうよ inclusive invitation, hospital location absent in Japanese so removed from English general context. 先日 previous day(s) not following day; お兄さん older brother, いった actual visit not phone call."
+      }
+    ]
+  },
+  "N4:vocab:f586632207": {
+    "meanings": [
+      "souvenir; gift brought back from a trip",
+      "gift brought when visiting someone"
+    ],
+    "review_note": "Pass091: semantic/source correction with original edited values preserved in source_corrections. Two explicitly AI-authored replacements for ambiguous/misaligned source examples separately archived with prior IDs/attribution; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "souvenir"
+            ],
+            "replacement": [
+              "souvenir; gift brought back from a trip",
+              "gift brought when visiting someone"
+            ]
+          }
+        ],
+        "basis": "お土産 portable souvenir/travel gift not monument or abstract memory. Hokkaido place not hotel. かさばる bulky/takes space not pillow/Bollywood; Japanese number unspecified, neutral singular demonstrative translation. Kanjipediaみやげ definitions."
+      }
+    ]
   }
 }

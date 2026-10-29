@@ -470,5 +470,60 @@
       "bn": "আমার বাবার ছোট ভাইয়ের কাছ থেকে একটি ভালো উপহার পেয়েছি।",
       "ne": "मैले बुबाको भाइबाट राम्रो उपहार पाएँ।"
     }
+  },
+  "N4:vocab:2139fab218:examples.1": {
+    "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+    "original_example": {
+      "ja": "彼女はやむえず一人で行った。",
+      "furigana": "{彼女|かのじょ}はやむえず{一人|ひとり}で{行|おこな}った。",
+      "en": "She reluctantly went by herself.",
+      "tatoeba_id": 91333
+    },
+    "original_translations": {
+      "bn": "তিনি নিজেই অসহায়ভাবে চলে গেলেন।",
+      "ne": "त्यसपछि त्यो अविश्वसनीय छ ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "行うおこなう perform/conduct, not 行く go. Original example2 行った furiganaおこなった but English went and omitted object, plus やむえず typo; archived unchanged and replaced with explicit authored meeting tomorrow. First saying vs doing distinct, not command to say/do different things. NINJAL IPALBV frame N1ガN2ヲ行う.",
+    "reviewed_on": "2026-10-30",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "私たちは明日、会議を行います。",
+      "en": "We will hold a meeting tomorrow.",
+      "romaji": "Watashitachi wa ashita, kaigi o okonaimasu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "আমরা আগামীকাল সভা করব।",
+      "ne": "हामी भोलि बैठक गर्छौँ।"
+    }
+  },
+  "N4:vocab:f2c38f9517:examples.0": {
+    "original_commit": "654b95795c6f98828a18c5e8d1d39ad0de6be73b",
+    "original_example": {
+      "ja": "１ドルでおつりがありますか。",
+      "en": "Have you got change for a dollar?",
+      "tatoeba_id": 235837
+    },
+    "original_translations": {
+      "bn": "আপনি কি এক ডলারের জন্য পরিবর্তন পেয়েছেন?",
+      "ne": "यो एक डॉलरको बदली हो कि ?"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "おつり purchase change not transformation/balance of forces or bank balance. Original one-dollar sentence could mean change remaining from payment while English suggests denomination exchange; archived and authored explicit80cent/1dollar/20cent arithmetic (100cents per dollar). Second adverse passive short-changed speaker, not store changed.",
+    "reviewed_on": "2026-10-30",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "八十セントの品物に一ドルを払ったので、おつりは二十セントです。",
+      "en": "I paid one dollar for an eighty-cent item, so the change is twenty cents.",
+      "romaji": "Hachijuu sento no shinamono ni ichi doru o haratta node, otsuri wa nijuu sento desu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "৮০ সেন্টের একটি জিনিসের জন্য ১ ডলার দিয়েছি, তাই ফেরত টাকা ২০ সেন্ট।",
+      "ne": "८० सेन्टको सामानका लागि १ डलर तिरेँ, त्यसैले फिर्ता पैसा २० सेन्ट हो।"
+    }
   }
 }

@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-30",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 7566,
-  "pending_fields": 71612,
+  "ai_semantic_checked_fields": 7686,
+  "pending_fields": 71492,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 472
+    "N4": 592
   },
-  "authored_entry_glosses": 859,
+  "authored_entry_glosses": 879,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ae8ce3986c",
+      "id": "bad913ed8f",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ae8ce3986c",
+      "id": "bad913ed8f",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ae8ce3986c",
+      "id": "bad913ed8f",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ae8ce3986c",
+      "id": "bad913ed8f",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ae8ce3986c",
+      "id": "bad913ed8f",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ae8ce3986c",
+      "id": "bad913ed8f",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "99de4451f7",
+      "id": "1579d0db1b",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "99de4451f7",
+      "id": "1579d0db1b",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "99de4451f7",
+      "id": "1579d0db1b",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "99de4451f7",
+      "id": "1579d0db1b",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "99de4451f7",
+      "id": "1579d0db1b",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "99de4451f7",
+      "id": "1579d0db1b",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2139fab218",
+      "id": "721424863e",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2139fab218",
+      "id": "721424863e",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2139fab218",
+      "id": "721424863e",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2139fab218",
+      "id": "721424863e",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2139fab218",
+      "id": "721424863e",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2139fab218",
+      "id": "721424863e",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2e0f32c097",
+      "id": "9099d4615b",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2e0f32c097",
+      "id": "9099d4615b",
       "language": "bn",
       "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass090: N4 vocabulary indices60–79: 120 Bengali/Nepali meaning and example fields reviewed against Japanese and English. Corrected informal yes, holiday endpoint, rental-car driving, acceleration/steering, rejuvenation, branches, choice of one of two, requested restraint, honorific be/go/come, negative rain request, near-never birthday, wish to buy, beneficial cause, funny/defective, gender-neutral wealthy person, gift roles and send/escort requests. 億 corrected to10crore; 10億=100crore, Earth-age approximation edited with NASA to45億=450crore and original text retained. Three original examples archived and replaced by explicitly authored escalator stand-still and clear kinship contexts; original kinship context not recovered. No native-speaker certification. Resume N4 vocabulary index80."
+  "latest_pass": "Pass091: N4 vocabulary indices80–99: 120 Bengali/Nepali meaning and example fields reviewed against Japanese and English. Corrected lateness/frequency, transitive waking and exact6am, performing vs going, scolding passive, built-in closet, daughter/honorific speech, closing-time question, exam failure/server down, except-price scope, outliving, purchase change, musical pitch, dropping/omitting, dance skill/past negation, surprise experiencer, festival/illness visits, older brother, souvenir/bulky and failed recall. Original ambiguous 行った and dollar-change examples archived and replaced by explicitly AI-authored meeting and80-cent-payment contexts; original context not recovered. No native-speaker certification. Resume N4 vocabulary index100."
 }
