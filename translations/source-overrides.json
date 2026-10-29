@@ -3946,5 +3946,339 @@
         "basis": "きっと speaker confidence/inference, not duty. Dialect オラ my/しねー negative; father would not feel good, not dislike speaker personally. No unstated act supplied. 親切 kind, not beautiful; でしょう conjecture, not obligation/wish."
       }
     ]
+  },
+  "N4:vocab:d90ee2957c": {
+    "meanings": [
+      "strict; stern",
+      "severe; harsh"
+    ],
+    "review_note": "Pass095: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "87b28eb94f2fc3f937f70c615a3b90eb9909da27",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "strict"
+            ],
+            "replacement": [
+              "strict; stern",
+              "severe; harsh"
+            ]
+          }
+        ],
+        "basis": "厳しい strict treatment vs severe winter; hearsay という話 and future winter retained. Father strict toward speaker, not father himself difficult or random sometimes."
+      }
+    ]
+  },
+  "N4:vocab:e4e7e09df0": {
+    "meanings": [
+      "to be decided; to be settled"
+    ],
+    "examples": [
+      {
+        "ja": "いつ始めるのかはまだ決まっていない。",
+        "furigana": "いつ{始|はじ}めるのかはまだ{決|き}まっていない。",
+        "en": "It is still undecided when we will begin.",
+        "tatoeba_id": 228654
+      },
+      {
+        "ja": "決まった食事以外は食べないように。",
+        "furigana": "{決|き}まった{食事|しょくじ}{以外|いがい}は{食|た}べないように。",
+        "en": "Do not eat anything other than the prescribed meals.",
+        "tatoeba_id": 175925
+      }
+    ],
+    "review_note": "Pass095: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "87b28eb94f2fc3f937f70c615a3b90eb9909da27",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to be decided"
+            ],
+            "replacement": [
+              "to be decided; to be settled"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "You must stick to your diet.",
+            "replacement": "Do not eat anything other than the prescribed meals."
+          }
+        ],
+        "basis": "決まる intransitive be decided vs 決める decide. まだ決まっていない not yet settled. 決まった食事以外は食べないように directive to avoid food outside prescribed meals, not vague stick-to-diet with no exclusion; no unsupported medical reason asserted."
+      }
+    ]
+  },
+  "N4:vocab:ed36e1d3a7": {
+    "meanings": [
+      "you (informal; to an equal or junior, often used by male speakers; not limited to female addressees)"
+    ],
+    "review_note": "Pass095: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "87b28eb94f2fc3f937f70c615a3b90eb9909da27",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(informal) You (used by men towards women)"
+            ],
+            "replacement": [
+              "you (informal; to an equal or junior, often used by male speakers; not limited to female addressees)"
+            ]
+          }
+        ],
+        "basis": "君 きみ informal second-person for equal/junior, often male speaker; not limited to women addressees. 宿題忘れる…不注意だった past criticism not command do-not-forget. 私→君 debt direction and how-much restored."
+      }
+    ]
+  },
+  "N4:vocab:6a98f898ab": {
+    "meanings": [
+      "to decide; to determine",
+      "to dress or look stylish (in 決める expressions)"
+    ],
+    "examples": [
+      {
+        "ja": "そこに行くことに決めた。",
+        "en": "I made up my mind to go there.",
+        "tatoeba_id": 213665
+      },
+      {
+        "ja": "あら、かっこよく決めているわね。",
+        "furigana": "あら、かっこよく{決|き}めているわね。",
+        "en": "Oh, you are looking very stylish!",
+        "tatoeba_id": 230078
+      }
+    ],
+    "review_note": "Pass095: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "87b28eb94f2fc3f937f70c615a3b90eb9909da27",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to decide"
+            ],
+            "replacement": [
+              "to decide; to determine",
+              "to dress or look stylish (in 決める expressions)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Wow, you're dressed to kill.",
+            "replacement": "Oh, you are looking very stylish!"
+          }
+        ],
+        "basis": "決める decide; かっこよく決めている stylish dressing/appearance (Daijisen sense6), no killing. そこ there not here; past decision vs mere future intention. Dress-to-kill English idiom replaced with explicit sense."
+      }
+    ]
+  },
+  "N4:vocab:a2a012c05f": {
+    "examples": [
+      {
+        "ja": "彼女はその着物を着ると変に見える。",
+        "furigana": "{彼女|かのじょ}はその{着物|きもの}を{着|き}ると{変|へん}に{見|み}える。",
+        "en": "She looks odd when she wears that kimono.",
+        "tatoeba_id": 92348
+      },
+      {
+        "ja": "母はいつも家で着物を着ている。",
+        "furigana": "{母|はは}はいつも{家|いえ}で{着物|きもの}を{着|き}ている。",
+        "en": "My mother always wears a kimono at home.",
+        "tatoeba_id": 83095
+      }
+    ],
+    "review_note": "Pass095: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "87b28eb94f2fc3f937f70c615a3b90eb9909da27",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "She looks odd in those clothes.",
+            "replacement": "She looks odd when she wears that kimono."
+          }
+        ],
+        "basis": "着物 kimono in headword context, not unspecified clothes; woman looks odd when wearing it, not she sees odd things. Mother always wearing at home, not obligation to wear or garment as actor."
+      }
+    ]
+  },
+  "N4:vocab:a02c2a6790": {
+    "meanings": [
+      "urgent; sudden",
+      "steep; rapid"
+    ],
+    "review_note": "Pass095: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "87b28eb94f2fc3f937f70c615a3b90eb9909da27",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "urgent",
+              "steep"
+            ],
+            "replacement": [
+              "urgent; sudden",
+              "steep; rapid"
+            ]
+          }
+        ],
+        "basis": "急 urgent/sudden/steep/rapid, not step or place name Dang. 急な流れ fast current not rising river. Related 急ぐ in 急がなくてもいい permission not-to-hurry, not prohibition or duty."
+      }
+    ]
+  },
+  "N4:vocab:b6027b4099": {
+    "meanings": [
+      "express train",
+      "to hurry; to go quickly"
+    ],
+    "examples": [
+      {
+        "ja": "急行の料金は幾らですか。",
+        "furigana": "{急行|きゅうこう}の{料金|りょうきん}は{幾|いく}らですか。",
+        "en": "How much is the express-train fare?",
+        "tatoeba_id": 182438
+      },
+      {
+        "ja": "急行は６時に出発して９時に東京に着く。",
+        "furigana": "{急行|きゅうこう}は６{時|じ}に{出発|しゅっぱつ}して９{時|じ}に{東京|とうきょう}に{着|つ}く。",
+        "en": "The express starts at six and gets into Tokyo at nine.",
+        "tatoeba_id": 182437
+      }
+    ],
+    "review_note": "Pass095: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "87b28eb94f2fc3f937f70c615a3b90eb9909da27",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "speedy",
+              "express"
+            ],
+            "replacement": [
+              "express train",
+              "to hurry; to go quickly"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "How much is the express?",
+            "replacement": "How much is the express-train fare?"
+          }
+        ],
+        "basis": "急行 express train in both examples, also hurry/go quickly. Fare question restored, not expression/introduction. Depart6 arriveTokyo9, no invented AM/PM, no reversed times or unsupported speaker."
+      }
+    ]
+  },
+  "N4:vocab:319186af72": {
+    "examples": [
+      {
+        "ja": "この世界の教育にはがっかりしてしまう。",
+        "furigana": "この{世界|せかい}の{教育|きょういく}にはがっかりしてしまう。",
+        "en": "Education in this world disappoints me.",
+        "tatoeba_id": 4720
+      },
+      {
+        "ja": "それは教育に次いで大きな問題だ。",
+        "furigana": "それは{教育|きょういく}に{次|つ}いで{大|おお}きな{問題|もんだい}だ。",
+        "en": "That is the next biggest problem after education.",
+        "tatoeba_id": 205271
+      }
+    ],
+    "review_note": "Pass095: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "87b28eb94f2fc3f937f70c615a3b90eb9909da27",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "That is the principle problem next to education.",
+            "replacement": "That is the next biggest problem after education."
+          }
+        ],
+        "basis": "教育 education. この世界 scope and disappointment; に次いで ranked next after education, not merely alongside or education itself. English principle problem typo/unclear comparison corrected to next-biggest problem; no invented political context."
+      }
+    ]
+  },
+  "N4:vocab:23ea485338": {
+    "examples": [
+      {
+        "ja": "あなたは花に興味がありますか。",
+        "furigana": "あなたは{花|はな}に{興味|きょうみ}がありますか。",
+        "en": "Are you interested in flowers?",
+        "tatoeba_id": 232171
+      },
+      {
+        "ja": "外国語の学習に興味はありますか。",
+        "furigana": "{外国語|がいこくご}の{学習|がくしゅう}に{興味|きょうみ}はありますか。",
+        "en": "Are you interested in learning foreign languages?",
+        "tatoeba_id": 184788
+      }
+    ],
+    "review_note": "Pass095: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "87b28eb94f2fc3f937f70c615a3b90eb9909da27",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Are you interested in foreign languages?",
+            "replacement": "Are you interested in learning foreign languages?"
+          }
+        ],
+        "basis": "興味 interest noun not declarative has interest. 花に interest in flowers; 外国語の学習 specifically language learning restored, not just languages; yes/no interrogative not what-interest."
+      }
+    ]
+  },
+  "N4:vocab:f36e445797": {
+    "examples": [
+      {
+        "ja": "時計の具合が悪い。",
+        "furigana": "{時計|とけい}の{具合|ぐあい}が{悪|わる}い。",
+        "en": "Something is the matter with my watch.",
+        "tatoeba_id": 150500
+      },
+      {
+        "ja": "その子は体の具合が悪そうだった。",
+        "furigana": "その{子|こ}は{体|からだ}の{具合|ぐあい}が{悪|わる}そうだった。",
+        "en": "That child appeared to be unwell.",
+        "tatoeba_id": 210195
+      }
+    ],
+    "review_note": "Pass095: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "87b28eb94f2fc3f937f70c615a3b90eb9909da27",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "The boy appeared to be in bad health.",
+            "replacement": "That child appeared to be unwell."
+          }
+        ],
+        "basis": "具合 condition/function or health, not contractual terms. Watch malfunction not time problem. その子 gender unspecified child; 悪そうだった past appearance of illness not certainty/current country health; English boy neutralized."
+      }
+    ]
   }
 }
