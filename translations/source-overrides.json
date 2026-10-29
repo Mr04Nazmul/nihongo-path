@@ -2689,5 +2689,266 @@
         "basis": "裏 reverse/underside/covert side. 靴の裏 shoe sole; こびりついちゃった unwanted adhered gum, ownership unspecified. 裏から手を回す figurative influence/arrangements, not pulling/drawing literal strings. くれる helpful benefactive; agent/recipient omitted rather than invented male/you or ability modal."
       }
     ]
+  },
+  "N4:vocab:533b248802": {
+    "examples": [
+      {
+        "ja": "うん、休みが終わるまででいいの。",
+        "furigana": "うん、{休|やす}みが{終|お}わるまででいいの。",
+        "en": "Yes, just until the holidays end is fine.",
+        "tatoeba_id": 228063
+      },
+      {
+        "ja": "うん、私はたぶん家にいるわ。",
+        "furigana": "うん、{私|わたし}はたぶん{家|いえ}にいるわ。",
+        "en": "Oh, I'll probably just stay home.",
+        "tatoeba_id": 228059
+      }
+    ],
+    "review_note": "Pass090: semantic/source correction with original edited values preserved in source_corrections. Three explicitly AI-authored replacements separately archived with prior IDs/attribution; no recovered kinship-context claim. Earth-age approximation corrected using NASA.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "Oh, just over the holidays.",
+            "replacement": "Yes, just until the holidays end is fine."
+          }
+        ],
+        "basis": "うん informal affirmative, not formal/irregular. まででいい until holidays end suffices, with activity unspecified; original English over holidays omits endpoint/sufficiency, corrected. たぶん probably uncertainty plus future staying home, initial agreement retained."
+      }
+    ]
+  },
+  "N4:vocab:3139c14254": {
+    "examples": [
+      {
+        "ja": "上りのエスカレーターはどこですか？",
+        "en": "Where's the up-escalator?",
+        "tatoeba_id": 146274
+      },
+      {
+        "ja": "エスカレーターでは歩かずに立ち止まってください。",
+        "en": "Please stand still on the escalator without walking.",
+        "romaji": "Esukareetaa de wa arukazu ni tachidomatte kudasai.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "review_note": "Pass090: semantic/source correction with original edited values preserved in source_corrections. Three explicitly AI-authored replacements separately archived with prior IDs/attribution; no recovered kinship-context claim. Earth-age approximation corrected using NASA.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+        "corrections": [],
+        "basis": "エスカレーター escalator not exposure/script. 上り upward direction. Old right-side-only instruction had imperative/declarative mismatch and conflicted with current official stand-still on either side guidance; archived and replaced with explicitly authored simple no-walking request. Government March2026 search excerpt and full Saitama guidance page inspected; no claim nationwide legal rule."
+      }
+    ]
+  },
+  "N4:vocab:53c76e5c6e": {
+    "meanings": [
+      "to be; to come; to go (honorific)"
+    ],
+    "review_note": "Pass090: semantic/source correction with original edited values preserved in source_corrections. Three explicitly AI-authored replacements separately archived with prior IDs/attribution; no recovered kinship-context claim. Earth-age approximation corrected using NASA.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(respectful) to be"
+            ],
+            "replacement": [
+              "to be; to come; to go (honorific)"
+            ]
+          }
+        ],
+        "basis": "おいでになる honorific be/go/come, not being respectable. Trip example go, rain example come. ならないでください negative request not come, never dont be afraid to come. Bunka keigo chart explicitly maps 行く/来る/いる."
+      }
+    ]
+  },
+  "N4:vocab:12e7bd036b": {
+    "meanings": [
+      "congratulation; celebration; celebratory gift"
+    ],
+    "review_note": "Pass090: semantic/source correction with original edited values preserved in source_corrections. Three explicitly AI-authored replacements separately archived with prior IDs/attribution; no recovered kinship-context claim. Earth-age approximation corrected using NASA.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "congratulation"
+            ],
+            "replacement": [
+              "congratulation; celebration; celebratory gift"
+            ]
+          }
+        ],
+        "basis": "お祝い congratulation/celebration, not face. 心から sincere, 申し上げます humble offer. まず…ことはない near-never, not strict never; Kate name and birthday preserved, no replacement by anonymous date."
+      }
+    ]
+  },
+  "N4:vocab:e5e5899ce2": {
+    "meanings": [
+      "thanks to; owing to a beneficial cause"
+    ],
+    "review_note": "Pass090: semantic/source correction with original edited values preserved in source_corrections. Three explicitly AI-authored replacements separately archived with prior IDs/attribution; no recovered kinship-context claim. Earth-age approximation corrected using NASA.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "owing to"
+            ],
+            "replacement": [
+              "thanks to; owing to a beneficial cause"
+            ]
+          }
+        ],
+        "basis": "おかげ beneficial cause/gratitude not neutral because alone or financial debt. First 今日ある idiom current achievements thanks to parents. Second paired English current identity thanks to father, not his financial loan; no claim current wealth."
+      }
+    ]
+  },
+  "N4:vocab:a58874b751": {
+    "examples": [
+      {
+        "ja": "どうしたらお金持ちになれるのかしら？",
+        "furigana": "どうしたらお{金持|かねも}ちになれるのかしら？",
+        "en": "How can I become rich?",
+        "tatoeba_id": 201588
+      },
+      {
+        "ja": "母の妹はとてもお金持ちですが、だからといって幸せだとは限りません。",
+        "en": "My mother's younger sister is very wealthy, but that does not necessarily mean she is happy.",
+        "romaji": "Haha no imouto wa totemo okanemochi desu ga, dakara to itte shiawase da to wa kagirimasen.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "meanings": [
+      "wealthy person; rich person"
+    ],
+    "review_note": "Pass090: semantic/source correction with original edited values preserved in source_corrections. Three explicitly AI-authored replacements separately archived with prior IDs/attribution; no recovered kinship-context claim. Earth-age approximation corrected using NASA.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "rich man"
+            ],
+            "replacement": [
+              "wealthy person; rich person"
+            ]
+          }
+        ],
+        "basis": "お金持ち wealthy person not restricted to male (original rich man contradicted aunt example). First question potential becoming rich. Original aunt sentence unspecified parental side; preserved in archive, replaced with authored explicit mothers younger sister (BN khala relationship described, NE sanaima described) and not-necessarily-happy negation, not categorical unhappy."
+      }
+    ]
+  },
+  "N4:vocab:4cfa8f43e2": {
+    "examples": [
+      {
+        "ja": "１０億人の人たちが英語を話しています。",
+        "en": "One billion people speak English.",
+        "tatoeba_id": 236071
+      },
+      {
+        "ja": "地球はおよそ４５億年前に生まれた。",
+        "furigana": "{地球|ちきゅう}はおよそ４５{億|おく}{年|ねん}{前|#1392580}に{生|う}まれた。",
+        "en": "The earth came into existence about 4.5 billion years ago.",
+        "tatoeba_id": 126975
+      }
+    ],
+    "review_note": "Pass090: semantic/source correction with original edited values preserved in source_corrections. Three explicitly AI-authored replacements separately archived with prior IDs/attribution; no recovered kinship-context claim. Earth-age approximation corrected using NASA.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+        "corrections": [
+          {
+            "field": "examples.1.ja",
+            "original": "地球はおよそ５０億年前に生まれた。",
+            "replacement": "地球はおよそ４５億年前に生まれた。"
+          },
+          {
+            "field": "examples.1.furigana",
+            "original": "{地球|ちきゅう}はおよそ５０{億|おく}{年|ねん}{前|#1392580}に{生|う}まれた。",
+            "replacement": "{地球|ちきゅう}はおよそ４５{億|おく}{年|ねん}{前|#1392580}に{生|う}まれた。"
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The earth came into existence about five thousand million years ago.",
+            "replacement": "The earth came into existence about 4.5 billion years ago."
+          }
+        ],
+        "basis": "億=100000000=10crore, not1lakh. 10億=1billion=100crore; Earth example corrected from rough50億 to NASA about4.5billion=45億=450crore, original Japanese/English/furigana preserved in editorial correction history. Approximation retained; neither five million nor five thousand years. First English-speaker count is preserved as language-example content, not newly verified present-day statistic."
+      }
+    ]
+  },
+  "N4:vocab:ba001e2f36": {
+    "examples": [
+      {
+        "ja": "ジェニーは贈り物をありがとうと言った。",
+        "en": "Jenny said thank you for the gift.",
+        "tatoeba_id": 216390
+      },
+      {
+        "ja": "私は父の弟によい贈り物をもらいました。",
+        "en": "I received a nice gift from my father's younger brother.",
+        "romaji": "Watashi wa chichi no otouto ni yoi okurimono o moraimashita.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "review_note": "Pass090: semantic/source correction with original edited values preserved in source_corrections. Three explicitly AI-authored replacements separately archived with prior IDs/attribution; no recovered kinship-context claim. Earth-age approximation corrected using NASA.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "Jenny thanked me for the gift.",
+            "replacement": "Jenny said thank you for the gift."
+          }
+        ],
+        "basis": "贈り物 gift. Jenny thanked for gift; Japanese recipient unexpressed so no invented me. Original おじ unspecified family side; archived and replaced with explicitly authored fathers younger brother, gift received by speaker (not relative as recipient). Actor and beneficiary explicit and neutral descriptive kinship."
+      }
+    ]
+  },
+  "N4:vocab:af1dae5588": {
+    "meanings": [
+      "to send",
+      "to escort; to take someone to a destination"
+    ],
+    "review_note": "Pass090: semantic/source correction with original edited values preserved in source_corrections. Three explicitly AI-authored replacements separately archived with prior IDs/attribution; no recovered kinship-context claim. Earth-age approximation corrected using NASA.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to send"
+            ],
+            "replacement": [
+              "to send",
+              "to escort; to take someone to a destination"
+            ]
+          }
+        ],
+        "basis": "送る send object or escort/drive person. Japan destination not addressee nation; second 車で method, 家まで endpoint, もらえませんか polite benefactive request for ride not drive the house or factual inability."
+      }
+    ]
   }
 }

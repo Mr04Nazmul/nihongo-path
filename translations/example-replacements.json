@@ -387,5 +387,88 @@
       "bn": "আমাদের বাড়িতে দুটি বিড়াল আছে।",
       "ne": "हाम्रो घरमा दुईवटा बिराला छन्।"
     }
+  },
+  "N4:vocab:3139c14254:examples.1": {
+    "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+    "original_example": {
+      "ja": "急いでいない人はエスカレーターの右側に立ちなさい。",
+      "furigana": "{急|いそ}いでいない{人|ひと}はエスカレーターの{右側|みぎがわ}に{立|た}ちなさい。",
+      "en": "People who are not in a hurry stand on the right side of the escalator.",
+      "tatoeba_id": 182599
+    },
+    "original_translations": {
+      "bn": "যারা দ্রুত দাঁড়ান না, তারা দাঁতের ডান পাশে দাঁড়াচ্ছে।",
+      "ne": "यसका लागि दाहिने हातको दाहिनी हातको अभाव छ ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "original retained; superseded for dated guidance, not reinterpreted",
+    "reason": "エスカレーター escalator not exposure/script. 上り upward direction. Old right-side-only instruction had imperative/declarative mismatch and conflicted with current official stand-still on either side guidance; archived and replaced with explicitly authored simple no-walking request. Government March2026 search excerpt and full Saitama guidance page inspected; no claim nationwide legal rule.",
+    "reviewed_on": "2026-10-30",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "エスカレーターでは歩かずに立ち止まってください。",
+      "en": "Please stand still on the escalator without walking.",
+      "romaji": "Esukareetaa de wa arukazu ni tachidomatte kudasai.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "এসকেলেটরে হাঁটবেন না; দাঁড়িয়ে থাকুন।",
+      "ne": "एस्केलेटरमा नहिँड्नुहोस्; स्थिर उभिनुहोस्।"
+    }
+  },
+  "N4:vocab:a58874b751:examples.1": {
+    "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+    "original_example": {
+      "ja": "叔母は非常なお金持ちだからといって、それだけ幸せというわけではない。",
+      "en": "My aunt is none the happier for her great wealth.",
+      "tatoeba_id": 227567
+    },
+    "original_translations": {
+      "bn": "আমার অতিথি তার অসাধারণ ধন-সম্পদের জন্য সুখী নন।",
+      "ne": "यसले मेरो सम्पत्तिलाई उत्तम मानिन्छ ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "お金持ち wealthy person not restricted to male (original rich man contradicted aunt example). First question potential becoming rich. Original aunt sentence unspecified parental side; preserved in archive, replaced with authored explicit mothers younger sister (BN khala relationship described, NE sanaima described) and not-necessarily-happy negation, not categorical unhappy.",
+    "reviewed_on": "2026-10-30",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "母の妹はとてもお金持ちですが、だからといって幸せだとは限りません。",
+      "en": "My mother's younger sister is very wealthy, but that does not necessarily mean she is happy.",
+      "romaji": "Haha no imouto wa totemo okanemochi desu ga, dakara to itte shiawase da to wa kagirimasen.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "আমার মায়ের ছোট বোন খুব ধনী, কিন্তু তাই বলে তিনি সুখী হবেনই এমন নয়।",
+      "ne": "मेरी आमाकी बहिनी निकै धनी छिन्, तर त्यसैले उनी खुसी छिन् भन्ने हुँदैन।"
+    }
+  },
+  "N4:vocab:ba001e2f36:examples.1": {
+    "original_commit": "1c1e85396b8f4cacb78aaea878c88a3353aef25d",
+    "original_example": {
+      "ja": "私はおじによい贈り物をもらった。",
+      "furigana": "{私|わたし}はおじによい{贈|おく}り{物|もの}をもらった。",
+      "en": "I was given a nice present by my uncle.",
+      "tatoeba_id": 161289
+    },
+    "original_translations": {
+      "bn": "আমার চাচা আমাকে একটি সুন্দর উপহার দিয়েছে।",
+      "ne": "मेरो लागि एक सुन्दर उपहार थियो ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "贈り物 gift. Jenny thanked for gift; Japanese recipient unexpressed so no invented me. Original おじ unspecified family side; archived and replaced with explicitly authored fathers younger brother, gift received by speaker (not relative as recipient). Actor and beneficiary explicit and neutral descriptive kinship.",
+    "reviewed_on": "2026-10-30",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "私は父の弟によい贈り物をもらいました。",
+      "en": "I received a nice gift from my father's younger brother.",
+      "romaji": "Watashi wa chichi no otouto ni yoi okurimono o moraimashita.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "আমার বাবার ছোট ভাইয়ের কাছ থেকে একটি ভালো উপহার পেয়েছি।",
+      "ne": "मैले बुबाको भाइबाट राम्रो उपहार पाएँ।"
+    }
   }
 }
