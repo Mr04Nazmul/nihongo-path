@@ -2337,5 +2337,110 @@
       }
     ],
     "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification."
+  },
+  "N4:vocab:629362dbfc": {
+    "meanings": [
+      "at most; no more than (including the stated number)",
+      "the following; below"
+    ],
+    "examples": [
+      {
+        "ja": "それは千円以下では買えません。",
+        "furigana": "それは{千円|せんえん}{以下|いか}では{買|か}えません。",
+        "en": "You cannot buy it for 1,000 yen or less.",
+        "tatoeba_id": 205034
+      },
+      {
+        "ja": "以下の通り注文いたします。",
+        "furigana": "{以下|いか}の{通|とお}り{注文|ちゅうもん}いたします。",
+        "en": "I would like to place an order for the following.",
+        "tatoeba_id": 191220
+      }
+    ],
+    "review_note": "Pass088: English sense corrected against unchanged Japanese. Original values retained in source_corrections; original sentence IDs and attribution retained.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-29",
+        "original_commit": "615f0557875d4d8a38bdf27ad0c64878ef61b7e7",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "less than"
+            ],
+            "replacement": [
+              "at most; no more than (including the stated number)",
+              "the following; below"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "You can't buy it under 1,000 yen.",
+            "replacement": "You cannot buy it for 1,000 yen or less."
+          }
+        ],
+        "basis": "以下 numeric inclusive <=, not strict less than; first negated potential excludes prices<=1000, including1000. Second following written list/order, not command or next event. Shinagawa official usage section explicitly includes boundary."
+      }
+    ]
+  },
+  "N4:vocab:13ab63d79a": {
+    "meanings": [
+      "at least; no less than (including the stated number)",
+      "more than (a non-numerical standard)",
+      "that is all; the end"
+    ],
+    "review_note": "Pass088: English sense corrected against unchanged Japanese. Original values retained in source_corrections; original sentence IDs and attribution retained.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-29",
+        "original_commit": "615f0557875d4d8a38bdf27ad0c64878ef61b7e7",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "more than",
+              "this is all"
+            ],
+            "replacement": [
+              "at least; no less than (including the stated number)",
+              "more than (a non-numerical standard)",
+              "that is all; the end"
+            ]
+          }
+        ],
+        "basis": "以上 numeric >= includes boundary; nonnumeric 必要以上 excess over need. 以上ですか completion question; 使わないようにしなさい directive to avoid excess spending, not expenditure has risen. Shinagawa official boundary definition."
+      }
+    ]
+  },
+  "N4:vocab:6dbf756da1": {
+    "examples": [
+      {
+        "ja": "お取り寄せいたしましょうか。",
+        "furigana": "お{取|と}り{寄|よ}せいたしましょうか。",
+        "en": "Would you like me to order it?",
+        "tatoeba_id": 227085
+      },
+      {
+        "ja": "別紙の注文書の通り注文いたします。",
+        "furigana": "{別紙|べっし}の{注文書|ちゅうもんしょ}の{通|とお}り{注文|ちゅうもん}いたします。",
+        "en": "I am placing an order as specified on the separate order form.",
+        "tatoeba_id": 83397
+      }
+    ],
+    "review_note": "Pass088: English sense corrected against unchanged Japanese. Original values retained in source_corrections; original sentence IDs and attribution retained.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-29",
+        "original_commit": "615f0557875d4d8a38bdf27ad0c64878ef61b7e7",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I have enclosed your order form.",
+            "replacement": "I am placing an order as specified on the separate order form."
+          }
+        ],
+        "basis": "致すいたす humble do, not Muslim/neutral gloss. お取り寄せいたしましょうか speaker offers procuring item. 別紙…通り注文いたします places order per separate form; original English enclosed your order form mismatched Japanese. Bunka chapter2 identifies いたす as 謙譲語II."
+      }
+    ]
   }
 }
