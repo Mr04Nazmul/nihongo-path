@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-30",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 8162,
-  "pending_fields": 71016,
+  "ai_semantic_checked_fields": 8280,
+  "pending_fields": 70898,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 1068
+    "N4": 1186
   },
-  "authored_entry_glosses": 959,
+  "authored_entry_glosses": 979,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "78c6412e35",
+      "id": "912c269668",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "78c6412e35",
+      "id": "912c269668",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "78c6412e35",
+      "id": "912c269668",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "78c6412e35",
+      "id": "912c269668",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "78c6412e35",
+      "id": "912c269668",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "78c6412e35",
+      "id": "912c269668",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7db3da6e1b",
+      "id": "a9a71878f0",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7db3da6e1b",
+      "id": "a9a71878f0",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7db3da6e1b",
+      "id": "a9a71878f0",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7db3da6e1b",
+      "id": "a9a71878f0",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7db3da6e1b",
+      "id": "a9a71878f0",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7db3da6e1b",
+      "id": "a9a71878f0",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bfe1d2c25",
+      "id": "f17fa2d7e1",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bfe1d2c25",
+      "id": "f17fa2d7e1",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bfe1d2c25",
+      "id": "f17fa2d7e1",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bfe1d2c25",
+      "id": "f17fa2d7e1",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bfe1d2c25",
+      "id": "f17fa2d7e1",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "5bfe1d2c25",
+      "id": "f17fa2d7e1",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7d2f81c2a3",
+      "id": "3cd723d544",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7d2f81c2a3",
-      "language": "bn",
-      "field": "examples.0"
+      "id": "3cd723d544",
+      "language": "ne",
+      "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass095: N4 vocabulary indices160–179: 120 Bengali/Nepali meaning and example fields reviewed against Japanese and English. Corrected harsh winter/strict father, refreshed subjective mood, intransitive be-decided and prescribed-food exclusion, informal kimi without female-only restriction, stylish dressing not killing, negative desire, kimono wearers, few customers and dinner invitations, rapid river and no need to hurry, express fare and6-to9Tokyo journey, education ranking, church1173date/outskirts, beetle-racing causative and not-inherently-bad competition, language-learning interest, neighborhood move and hotel fire, malfunction vs terms/child apparent illness, air not water and cannot live without it, airport see-off roles, grass vs cows and honorific giving/benefactive requests. Ten English source entries senses or nuances corrected/expanded, prior values preserved. Japanese, IDs and attribution unchanged. No new unresolved ambiguity; historical original-context limitations remain archived. No native-speaker certification. Resume N4 vocabulary index180."
+  "latest_pass": "Pass096: N4 vocabulary indices180–199: 118 Bengali/Nepali meaning/example fields reviewed. Corrected precarious-job idiom vs neck, evening clouds, Paris/Tokyo comparisons, giver/requester viewpoint and completed benefactive lunch, falling night/prohibition, brown fur, plan agreement and noninvolvement, experience importance, service economy/fame, Mike caller emphasis, Kate/cake/knife, injury vs heartburn false segmentation, unseen/obscured scenery, borrow/lend eraser direction, lodging providers, emphatic negation, sentence-final keredo and despite bad weather, approximate-known vs absolute certainty in fire causes, Ken and two men fighting, and current AIDS research. Eight source entries English senses/nuance updated with prior values retained. One mismatched heartburn example archived with original source/attribution/translations and replaced by explicitly AI-authored knee-injury example; no original-context recovery or native review claimed. Other Japanese and all stable IDs unchanged. No new unresolved ambiguity; historic limitations retained. Resume N4 vocabulary index200."
 }

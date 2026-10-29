@@ -525,5 +525,32 @@
       "bn": "৮০ সেন্টের একটি জিনিসের জন্য ১ ডলার দিয়েছি, তাই ফেরত টাকা ২০ সেন্ট।",
       "ne": "८० सेन्टको सामानका लागि १ डलर तिरेँ, त्यसैले फिर्ता पैसा २० सेन्ट हो।"
     }
+  },
+  "N4:vocab:8fb005254a:examples.0": {
+    "original_commit": "024f32fb60b83bcbba74ab5d9a3ffcc5b45ffe95",
+    "original_example": {
+      "ja": "特定の食べ物を食べた後に、胸やけがするのですか？",
+      "en": "Do you get heartburn after eating certain foods?",
+      "tatoeba_id": 9858909
+    },
+    "original_translations": {
+      "bn": "কিছু খাবার খাওয়ার পরে আপনার হৃদয় জ্বলছে?",
+      "ne": "खाद्यान्नका लागि खाद्य पदार्थको प्रयोग कस्तो हुन्छ ?"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Original 胸やけがする segments 胸やけ＋が＋する (heartburn), not けがする (injury): a source-selection mismatch. Entire original example/translations/attribution archived. Explicit AI-authored replacement uses falling and knee injury, reviewed in both languages; original context not claimed recovered, no native certification.",
+    "reviewed_on": "2026-10-30",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "転んで、ひざにけがをしました。",
+      "en": "I fell and injured my knee.",
+      "romaji": "Koronde, hiza ni kega o shimashita.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "পড়ে গিয়ে হাঁটুতে আঘাত পেয়েছি।",
+      "ne": "लडेर घुँडामा चोट लाग्यो।"
+    }
   }
 }

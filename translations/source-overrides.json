@@ -4280,5 +4280,300 @@
         "basis": "具合 condition/function or health, not contractual terms. Watch malfunction not time problem. その子 gender unspecified child; 悪そうだった past appearance of illness not certainty/current country health; English boy neutralized."
       }
     ]
+  },
+  "N4:vocab:78c6412e35": {
+    "meanings": [
+      "neck",
+      "dismissal from a job (in idiomatic uses of 首)"
+    ],
+    "review_note": "Pass096: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived mismatched injury example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "024f32fb60b83bcbba74ab5d9a3ffcc5b45ffe95",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "neck"
+            ],
+            "replacement": [
+              "neck",
+              "dismissal from a job (in idiomatic uses of 首)"
+            ]
+          }
+        ],
+        "basis": "首 neck, with job-loss sense supported by Kanjipedia; 風前のともし火 precarious employment idiom not physical hanging/thread. Second example neutral referent and soft texture retained, not weakness or invented person/animal."
+      }
+    ]
+  },
+  "N4:vocab:7d2f81c2a3": {
+    "meanings": [
+      "to give to me or my in-group",
+      "to do something for me or my in-group (in ～てくれる)"
+    ],
+    "examples": [
+      {
+        "ja": "友達がはがきをくれるように私に頼んだ。",
+        "furigana": "{友達|ともだち}がはがきをくれるように{私|わたし}に{頼|たの}んだ。",
+        "en": "A friend asked me to give them a postcard.",
+        "tatoeba_id": 79331
+      },
+      {
+        "ja": "母さんが昼食の用意をしてくれた。",
+        "furigana": "{母|かあ}さんが{昼食|ちゅうしょく}の{用意|ようい}をしてくれた。",
+        "en": "Mother prepared lunch for me.",
+        "tatoeba_id": 83146
+      }
+    ],
+    "review_note": "Pass096: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived mismatched injury example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "024f32fb60b83bcbba74ab5d9a3ffcc5b45ffe95",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to give"
+            ],
+            "replacement": [
+              "to give to me or my in-group",
+              "to do something for me or my in-group (in ～てくれる)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "A friend of mine asked me to send her a postcard.",
+            "replacement": "A friend asked me to give them a postcard."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Mother is preparing lunch.",
+            "replacement": "Mother prepared lunch for me."
+          }
+        ],
+        "basis": "くれる giver toward speaker/in-group; embedded request adopts requester perspective. Friend requested speaker to give requester postcard as paired English, no female gender inferred. 用意してくれた completed beneficial preparation, not currently preparing/eating; mother giver speaker beneficiary."
+      }
+    ]
+  },
+  "N4:vocab:e9bab5c151": {
+    "examples": [
+      {
+        "ja": "犬の毛はいわばセーターだ。",
+        "furigana": "{犬|いぬ}の{毛|け}はいわばセーターだ。",
+        "en": "The dog's hair is, as it were, a sweater.",
+        "tatoeba_id": 175314
+      },
+      {
+        "ja": "体は茶色の毛をしていた。",
+        "furigana": "{体|からだ}は{茶色|ちゃいろ}の{毛|け}をしていた。",
+        "en": "The body was covered with brown fur.",
+        "tatoeba_id": 138003
+      }
+    ],
+    "review_note": "Pass096: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived mismatched injury example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "024f32fb60b83bcbba74ab5d9a3ffcc5b45ffe95",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "His body was covered with brown fur.",
+            "replacement": "The body was covered with brown fur."
+          }
+        ],
+        "basis": "毛 body hair/fur distinct from scalp-only hair. いわば sweater analogy not literal garment ownership; 茶色 brown not black or Brahmin. Japanese no gender/species, neutral body subject preserved."
+      }
+    ]
+  },
+  "N4:vocab:836311c7d4": {
+    "meanings": [
+      "plan; planning",
+      "to plan"
+    ],
+    "examples": [
+      {
+        "ja": "その計画では彼に同調できました。",
+        "furigana": "その{計画|けいかく}では{彼|かれ}に{同調|どうちょう}できました。",
+        "en": "We were able to agree with him about that plan.",
+        "tatoeba_id": 211291
+      },
+      {
+        "ja": "私はその計画にはノータッチです。",
+        "furigana": "{私|わたし}はその{計画|けいかく}にはノータッチです。",
+        "en": "I have no involvement in that plan.",
+        "tatoeba_id": 160227
+      }
+    ],
+    "review_note": "Pass096: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived mismatched injury example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "024f32fb60b83bcbba74ab5d9a3ffcc5b45ffe95",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to plan"
+            ],
+            "replacement": [
+              "plan; planning",
+              "to plan"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "We went with him on that plan.",
+            "replacement": "We were able to agree with him about that plan."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I'm not concerned with the plan.",
+            "replacement": "I have no involvement in that plan."
+          }
+        ],
+        "basis": "計画 noun and suru planning. 同調できました able to agree/support regarding plan, not physically accompany. ノータッチ no involvement, not emotional lack of worry or positive my-plan claim."
+      }
+    ]
+  },
+  "N4:vocab:9746b57413": {
+    "meanings": [
+      "experience",
+      "to experience"
+    ],
+    "examples": [
+      {
+        "ja": "この仕事では経験がものを言う。",
+        "en": "Experience counts in this job.",
+        "tatoeba_id": 221838
+      },
+      {
+        "ja": "アルバイトはいい経験になるの。",
+        "furigana": "アルバイトはいい{経験|けいけん}になるの。",
+        "en": "A part-time job becomes a good experience.",
+        "tatoeba_id": 229934
+      }
+    ],
+    "review_note": "Pass096: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived mismatched injury example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "024f32fb60b83bcbba74ab5d9a3ffcc5b45ffe95",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to experience"
+            ],
+            "replacement": [
+              "experience",
+              "to experience"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I think a part-time job is a good experience.",
+            "replacement": "A part-time job becomes a good experience."
+          }
+        ],
+        "basis": "経験 noun/suru experience. ものを言う idiom counts/matters, not experience literally speaks. アルバイト part-time job and explanatory の statement with period; English I-think not expressed in Japanese, removed; no question invented."
+      }
+    ]
+  },
+  "N4:vocab:8fb005254a": {
+    "examples": [
+      {
+        "ja": "転んで、ひざにけがをしました。",
+        "en": "I fell and injured my knee.",
+        "romaji": "Koronde, hiza ni kega o shimashita.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "meanings": [
+      "to get injured; to suffer an injury"
+    ],
+    "review_note": "Pass096: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived mismatched injury example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "024f32fb60b83bcbba74ab5d9a3ffcc5b45ffe95",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to injure"
+            ],
+            "replacement": [
+              "to get injured; to suffer an injury"
+            ]
+          }
+        ],
+        "basis": "Original 胸やけがする segments 胸やけ＋が＋する (heartburn), not けがする (injury): a source-selection mismatch. Entire original example/translations/attribution archived. Explicit AI-authored replacement uses falling and knee injury, reviewed in both languages; original context not claimed recovered, no native certification."
+      }
+    ]
+  },
+  "N4:vocab:c3da539389": {
+    "meanings": [
+      "lodging; boarding",
+      "to lodge in another persons house for a fee"
+    ],
+    "review_note": "Pass096: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived mismatched injury example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "024f32fb60b83bcbba74ab5d9a3ffcc5b45ffe95",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "lodging"
+            ],
+            "replacement": [
+              "lodging; boarding",
+              "to lodge in another persons house for a fee"
+            ]
+          }
+        ],
+        "basis": "下宿 lodging/boarding, not loading/registration. 下宿させている woman provides students board/lodging not expels them or is student. 探していました past progressive search not literal hunt/death; no meal service assumed."
+      }
+    ]
+  },
+  "N4:vocab:43f91bcf9d": {
+    "examples": [
+      {
+        "ja": "火事の原因はだいたいわかっている。",
+        "furigana": "{火事|かじ}の{原因|げんいん}はだいたいわかっている。",
+        "en": "The cause of the fire is generally understood.",
+        "tatoeba_id": 186690
+      },
+      {
+        "ja": "火事の原因が明らかになった。",
+        "furigana": "{火事|かじ}の{原因|げんいん}が{明|あき}らかになった。",
+        "en": "The cause of the fire became clear.",
+        "tatoeba_id": 186691
+      }
+    ],
+    "review_note": "Pass096: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived mismatched injury example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "024f32fb60b83bcbba74ab5d9a3ffcc5b45ffe95",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "There is not much doubt about the cause of the fire.",
+            "replacement": "The cause of the fire is generally understood."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The cause of the fire was known.",
+            "replacement": "The cause of the fire became clear."
+          }
+        ],
+        "basis": "原因 cause. だいたいわかっている generally/approximately understood, not absolute no doubt or complex mystery. 明らかになった became clear past change, not only static known; fire causality retained."
+      }
+    ]
   }
 }
