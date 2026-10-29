@@ -2442,5 +2442,252 @@
         "basis": "致すいたす humble do, not Muslim/neutral gloss. お取り寄せいたしましょうか speaker offers procuring item. 別紙…通り注文いたします places order per separate form; original English enclosed your order form mismatched Japanese. Bunka chapter2 identifies いたす as 謙譲語II."
       }
     ]
+  },
+  "N4:vocab:833af5347e": {
+    "meanings": [
+      "to plant (put plants into the ground)"
+    ],
+    "examples": [
+      {
+        "ja": "私は庭にバラを植えた。",
+        "furigana": "{私|わたし}は{庭|にわ}にバラを{植|う}えた。",
+        "en": "I planted roses in the garden.",
+        "tatoeba_id": 154971
+      },
+      {
+        "ja": "ここにたくさん植えよう。",
+        "furigana": "ここにたくさん{植|う}えよう。",
+        "en": "I will plant a lot here.",
+        "tatoeba_id": 224479
+      }
+    ],
+    "review_note": "Pass089: source senses aligned to Japanese examples; original edited values preserved in source_corrections. Uchi example0 is explicitly authored replacement archived separately; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-29",
+        "original_commit": "90dcf5021a33ea438a369b6babdf4efe2222dbfc",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to plant",
+              "to grow"
+            ],
+            "replacement": [
+              "to plant (put plants into the ground)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I will grow many trees here.",
+            "replacement": "I will plant a lot here."
+          }
+        ],
+        "basis": "植える transitive planting, not noun plant or intransitive grow. First speaker planted roses in garden past. Second volitional expresses speaker intention supported by paired English; planting here, no Japanese tree-species noun; broad plants wording reflects planting without inventing trees versus flowers. English corrected to general planting without unsupported trees."
+      }
+    ]
+  },
+  "N4:vocab:bf69a1d9f2": {
+    "meanings": [
+      "to visit (humble)",
+      "to ask; to hear (humble)"
+    ],
+    "review_note": "Pass089: source senses aligned to Japanese examples; original edited values preserved in source_corrections. Uchi example0 is explicitly authored replacement archived separately; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-29",
+        "original_commit": "90dcf5021a33ea438a369b6babdf4efe2222dbfc",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to visit"
+            ],
+            "replacement": [
+              "to visit (humble)",
+              "to ask; to hear (humble)"
+            ]
+          }
+        ],
+        "basis": "伺う humble visit/ask/hear. First permission to ask body weight, not unrelated question. Second past inability to visit due illness; English call on denotes visit, not telephone. Bunka chapter2 explicitly lists all three senses."
+      }
+    ]
+  },
+  "N4:vocab:4bdd43130b": {
+    "meanings": [
+      "reception desk; registration desk",
+      "acceptance of applications"
+    ],
+    "examples": [
+      {
+        "ja": "受付で入院の手続きをしてください。",
+        "furigana": "{受付|うけつけ}で{入院|にゅういん}の{手続|てつづ}きをしてください。",
+        "en": "Please complete the hospital admission procedures at the reception desk.",
+        "tatoeba_id": 148365
+      },
+      {
+        "ja": "入院の受付窓口はどこですか。",
+        "furigana": "{入院|にゅういん}の{受付|うけつけ}{窓口|まどぐち}はどこですか。",
+        "en": "Where is the admission's office?",
+        "tatoeba_id": 122083
+      }
+    ],
+    "review_note": "Pass089: source senses aligned to Japanese examples; original edited values preserved in source_corrections. Uchi example0 is explicitly authored replacement archived separately; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-29",
+        "original_commit": "90dcf5021a33ea438a369b6babdf4efe2222dbfc",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "receipt"
+            ],
+            "replacement": [
+              "reception desk; registration desk",
+              "acceptance of applications"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "You have to fill out an application for admission to the hospital at the front desk.",
+            "replacement": "Please complete the hospital admission procedures at the reception desk."
+          }
+        ],
+        "basis": "受付 reception/acceptance desk, not written payment receipt or consumer. 入院 hospital inpatient admission both examples. 手続きをする complete procedures broader than only fill form; desk location retained. Second asks counter location, not generic office."
+      }
+    ]
+  },
+  "N4:vocab:76d4bcd098": {
+    "examples": [
+      {
+        "ja": "うちには猫が二匹います。",
+        "en": "There are two cats at our home.",
+        "romaji": "Uchi ni wa neko ga nihiki imasu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "来週はうちへいらっしゃいませんか。",
+        "furigana": "{来週|らいしゅう}はうちへいらっしゃいませんか。",
+        "en": "Won't you come and see me next week?",
+        "tatoeba_id": 78640
+      }
+    ],
+    "meanings": [
+      "inside; within",
+      "ones own home or household"
+    ],
+    "review_note": "Pass089: source senses aligned to Japanese examples; original edited values preserved in source_corrections. Uchi example0 is explicitly authored replacement archived separately; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-29",
+        "original_commit": "90dcf5021a33ea438a369b6babdf4efe2222dbfc",
+        "corrections": [
+          {
+            "field": "examples.1.ja",
+            "original": "来週はうちへいらしゃいませんか。",
+            "replacement": "来週はうちへいらっしゃいませんか。"
+          },
+          {
+            "field": "examples.1.furigana",
+            "original": "{来週|らいしゅう}はうちへいらしゃいませんか。",
+            "replacement": "{来週|らいしゅう}はうちへいらっしゃいませんか。"
+          },
+          {
+            "field": "meanings",
+            "original": [
+              "within"
+            ],
+            "replacement": [
+              "inside; within",
+              "ones own home or household"
+            ]
+          }
+        ],
+        "basis": "うち inside/within/home household per Kanjipedia. Original church example 中に versus English between houses is misaligned and does not demonstrate target reading; archived intact and replaced with explicitly AI-authored home/two-cats example. No recovered original-context claim. Second negative-question polite invitation, not factual refusal; missing small っ in いらっしゃいません corrected editorially with prior text preserved."
+      }
+    ]
+  },
+  "N4:vocab:e6f3a7d91a": {
+    "meanings": [
+      "to hit; to strike",
+      "to strike (a clock)",
+      "to play (pachinko or slot machines)"
+    ],
+    "review_note": "Pass089: source senses aligned to Japanese examples; original edited values preserved in source_corrections. Uchi example0 is explicitly authored replacement archived separately; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-29",
+        "original_commit": "90dcf5021a33ea438a369b6babdf4efe2222dbfc",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to hit"
+            ],
+            "replacement": [
+              "to hit; to strike",
+              "to strike (a clock)",
+              "to play (pachinko or slot machines)"
+            ]
+          }
+        ],
+        "basis": "打つ polysemous hit/clock strikes/play slot machines. Eight oclock not eight hundred yen. スロットを打つ playing, not physically hitting machine; うちに elapsed while, あれよあれよ surprise unnoticed time. No gambling instructions or endorsement."
+      }
+    ]
+  },
+  "N4:vocab:6d3b3fe0a4": {
+    "meanings": [
+      "delicious",
+      "skillful; good at",
+      "favorable; advantageous"
+    ],
+    "review_note": "Pass089: source senses aligned to Japanese examples; original edited values preserved in source_corrections. Uchi example0 is explicitly authored replacement archived separately; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-29",
+        "original_commit": "90dcf5021a33ea438a369b6babdf4efe2222dbfc",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "delicious"
+            ],
+            "replacement": [
+              "delicious",
+              "skillful; good at",
+              "favorable; advantageous"
+            ]
+          }
+        ],
+        "basis": "うまい tasty, skillful or favorable. うますぎる話 too-good-to-be-true proposition, not food; 上手い tennis skill contrasted 下手 swimming weakness, not amount swimming/desire. Kanjipedia homophone explanation distinguishes 旨い/巧い/上手い."
+      }
+    ]
+  },
+  "N4:vocab:1b5a6286d6": {
+    "meanings": [
+      "reverse side; underside; back",
+      "covert side; behind the scenes"
+    ],
+    "review_note": "Pass089: source senses aligned to Japanese examples; original edited values preserved in source_corrections. Uchi example0 is explicitly authored replacement archived separately; no original-context recovery claim.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-29",
+        "original_commit": "90dcf5021a33ea438a369b6babdf4efe2222dbfc",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "reverse side"
+            ],
+            "replacement": [
+              "reverse side; underside; back",
+              "covert side; behind the scenes"
+            ]
+          }
+        ],
+        "basis": "裏 reverse/underside/covert side. 靴の裏 shoe sole; こびりついちゃった unwanted adhered gum, ownership unspecified. 裏から手を回す figurative influence/arrangements, not pulling/drawing literal strings. くれる helpful benefactive; agent/recipient omitted rather than invented male/you or ability modal."
+      }
+    ]
   }
 }

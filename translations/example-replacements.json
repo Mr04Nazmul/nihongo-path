@@ -360,5 +360,32 @@
       "bn": "নানিকে দিয়ে নিজের জন্য একটি চিঠি লিখিয়ে নিয়েছি।",
       "ne": "मावली हजुरआमाबाट आफ्नो लागि चिठी लेखाइपाएँ।"
     }
+  },
+  "N4:vocab:76d4bcd098:examples.0": {
+    "original_commit": "90dcf5021a33ea438a369b6babdf4efe2222dbfc",
+    "original_example": {
+      "ja": "教会は私の家とあなたの家の中にあります。",
+      "en": "The church is between my house and yours.",
+      "tatoeba_id": 180221
+    },
+    "original_translations": {
+      "bn": "গির্জা আমার ও তোমাদের মাঝে।",
+      "ne": "मेरो घर छ, मेरो घर हो ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "うち inside/within/home household per Kanjipedia. Original church example 中に versus English between houses is misaligned and does not demonstrate target reading; archived intact and replaced with explicitly AI-authored home/two-cats example. No recovered original-context claim. Second negative-question polite invitation, not factual refusal; missing small っ in いらっしゃいません corrected editorially with prior text preserved.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "うちには猫が二匹います。",
+      "en": "There are two cats at our home.",
+      "romaji": "Uchi ni wa neko ga nihiki imasu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "আমাদের বাড়িতে দুটি বিড়াল আছে।",
+      "ne": "हाम्रो घरमा दुईवटा बिराला छन्।"
+    }
   }
 }
