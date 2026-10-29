@@ -26,5 +26,52 @@
       "ne"
     ],
     "status": "needs-context-review"
+  },
+  "hana-e76c3790e5cc.examples.1": {
+    "level": "N5",
+    "kind": "grammar",
+    "issue": "Japanese 彼女はあまり早くないですよ uses 早い (early/quick) but English says not very fast. No activity, arrival time or comparison context is supplied. Provisional negative speed translation corrects polarity but does not establish source sense; do not count either language field as reviewed until context or an explicitly authored replacement resolves it.",
+    "languages": [
+      "bn",
+      "ne"
+    ],
+    "fields": [
+      "examples.1"
+    ],
+    "status": "needs-context-review",
+    "field_records": [
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-e76c3790e5cc",
+        "language": "bn",
+        "field": "examples.1",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "8b4d950f4c58e0f99b20a6312d4b0614655506c335d8c2d9c4944cdf0ecfa98e",
+        "translation_sha256": "6af5857be6e4f3b988fce3d154c227b5b8b7ca1053fcb762c6b11b574dd07c0d",
+        "basis": "Amari degree/frequency/amountlow nottotalnegation; corrected malformed nai+arimasen sourceformation. Notverytired, notstudymuch, notmuchmoney allnegative. Example1 index1 Japanese早い normallyearly/quick vsEnglishfast underspecified: provisionalpolarityfix only; BOTHtranslationfields explicitlyUNRESOLVED and excludedcheckedcount. JF primary pp63-64 amari negative examples https://www.jpf.go.jp/j/urawa/j_rsorcs/textbook/dl/setsumei/setsumei_all.pdf inspected2026-10-29.",
+        "unresolved": [
+          "早い early/quick vs English fast: missing activity/time context; provisional negation correction only."
+        ]
+      },
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-e76c3790e5cc",
+        "language": "ne",
+        "field": "examples.1",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "8b4d950f4c58e0f99b20a6312d4b0614655506c335d8c2d9c4944cdf0ecfa98e",
+        "translation_sha256": "0bb28c8c9a3ff5c3fd878162162f50e0ff1508e513697e23b365f8cea786bf33",
+        "basis": "Amari degree/frequency/amountlow nottotalnegation; corrected malformed nai+arimasen sourceformation. Notverytired, notstudymuch, notmuchmoney allnegative. Example1 index1 Japanese早い normallyearly/quick vsEnglishfast underspecified: provisionalpolarityfix only; BOTHtranslationfields explicitlyUNRESOLVED and excludedcheckedcount. JF primary pp63-64 amari negative examples https://www.jpf.go.jp/j/urawa/j_rsorcs/textbook/dl/setsumei/setsumei_all.pdf inspected2026-10-29.",
+        "unresolved": [
+          "早い early/quick vs English fast: missing activity/time context; provisional negation correction only."
+        ]
+      }
+    ]
   }
 }

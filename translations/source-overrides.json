@@ -1415,5 +1415,36 @@
   "N5:grammar:hana-b4874f4038ce": {
     "notes": "Dictionary-form verb + こと nominalizes the action as a concept. Dictionary form is not restricted to verbs ending in る: 泳ぐ, 話す and 歌う also occur. Particles such as は or が then place the nominalized action in the sentence.",
     "review_note": "Semantic pass075: align change, desire formation and nominalization; factual/example changes with original wording recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-4fc32fcc0ba6": {
+    "notes": "Dictionary-form verb + ことができます expresses ability or possibility through nominalization with こと. It is not the verb-inflection potential form itself. The negative is ことができません; all dictionary-form verbs can be used, not only る-ending verbs.",
+    "review_note": "Semantic pass076: align constructions and predicate polarity; ambiguity retained explicitly in review-ledger.jsonl and unresolved-example-senses.json."
+  },
+  "N5:grammar:hana-ed3d21dedf4e": {
+    "notes": "Dictionary-form verb + ことができる expresses ability/possibility, with polite できます and connective できて. This is a construction, not a verb-inflection potential form. Dictionary forms need not end in る, e.g. 解く, 泳ぐ, 行く, 弾く.",
+    "review_note": "Semantic pass076: align constructions and predicate polarity; ambiguity retained explicitly in review-ledger.jsonl and unresolved-example-senses.json."
+  },
+  "N5:grammar:hana-c17bdfc1324c": {
+    "pattern": "Verb plain form + の (sentence-final explanation)",
+    "meaning": "A conversational sentence-final explanatory の; distinguish nominalizing の and explicit purpose/reason clauses.",
+    "formation": "Plain-form verb + sentence-final の; polite explanatory のです/んです.",
+    "notes": "All examples here have explanatory sentence-final の. The purpose in example1 is marked by ために, and reasons in the other examples by ので. Sentence-final の is not itself a purpose/reason conjunction. Nominalizing の as in のが好き is a separate syntactic use.",
+    "review_note": "Semantic pass076: align constructions and predicate polarity; ambiguity retained explicitly in review-ledger.jsonl and unresolved-example-senses.json."
+  },
+  "N5:grammar:hana-134874b5f296": {
+    "meaning": "Before doing an action or before an event.",
+    "notes": "Dictionary-form verb + 前に indicates that the main-clause action precedes that verb event. It does not itself impose obligation; requests, instructions and suggestions come from the main predicate.",
+    "review_note": "Semantic pass076: align constructions and predicate polarity; ambiguity retained explicitly in review-ledger.jsonl and unresolved-example-senses.json."
+  },
+  "N5:grammar:hana-e76c3790e5cc": {
+    "pattern": "あまり + negative predicate",
+    "formation": "あまり + negative verb (ません / ないです); i-adjective くありません / くないです; na-adjective ではありません / じゃないです; existence がありません.",
+    "notes": "With a negative predicate, あまり indicates low degree, frequency or amount, not necessarily zero. Do not append ありません to a full verb ない form. Example2 早い is ambiguous without context (early/quick); English fast may intend 速い. Both locale fields for that example remain unresolved in the ledger.",
+    "review_note": "Semantic pass076: align constructions and predicate polarity; ambiguity retained explicitly in review-ledger.jsonl and unresolved-example-senses.json."
+  },
+  "N5:grammar:hana-7ed34d540a69": {
+    "formation": "(Location に +) existing entity + が + あります.",
+    "notes": "あります indicates existence or contextual possession of objects, plants or abstract matters. People/animals in a location normally use います. が marks the existential entity/subject, not a direct object.",
+    "review_note": "Semantic pass076: align constructions and predicate polarity; ambiguity retained explicitly in review-ledger.jsonl and unresolved-example-senses.json."
   }
 }
