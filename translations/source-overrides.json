@@ -1446,5 +1446,103 @@
     "formation": "(Location に +) existing entity + が + あります.",
     "notes": "あります indicates existence or contextual possession of objects, plants or abstract matters. People/animals in a location normally use います. が marks the existential entity/subject, not a direct object.",
     "review_note": "Semantic pass076: align constructions and predicate polarity; ambiguity retained explicitly in review-ledger.jsonl and unresolved-example-senses.json."
+  },
+  "N5:grammar:hana-1a8dcbab06cb": {
+    "examples": [
+      {
+        "ja": "いつか日本に行きたいです。",
+        "en": "I want to go to Japan someday.",
+        "romaji": "Itsuka Nihon ni ikitai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼はいつか有名な作家になるでしょう。",
+        "en": "He will become a famous writer someday.",
+        "romaji": "Kare wa itsuka yuumei na sakka ni naru deshou.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "いつかあの山を登りたいと思っています。",
+        "en": "I think I want to climb that mountain someday.",
+        "romaji": "Itsuka ano yama wo noboritai to omotte imasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女はいつか夢を叶えることができると信じています。",
+        "en": "She believes she can achieve her dream someday.",
+        "romaji": "Kanojo wa itsuka yume wo kanaeru koto ga dekiru to shinjiteimasu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass077: align source roles, auxiliary connection and copula; original error and correction recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-8a0c5421283a": {
+    "formation": "いつでも + verb or adjective/noun predicate.",
+    "review_note": "Semantic pass077: align source roles, auxiliary connection and copula; original error and correction recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-483e8ddc49d4": {
+    "formation": "Giver から/に + thing を + もらいます; action benefit: actor に + Vて + もらいます.",
+    "notes": "もらいます describes receiving from the receiver perspective. Vてもらいます describes receiving a benefit from an action done by another person. Actor に is the basic form for action benefits; から cannot simply replace に for every verb. This is not merely allowing someone to act or necessarily forcing them.",
+    "review_note": "Semantic pass077: align source roles, auxiliary connection and copula; original error and correction recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-1739f404f703": {
+    "formation": "Giver が + 私に + thing を + くれます; action benefit: giver が + Vて + くれます (beneficiary follows the verbs argument structure).",
+    "notes": "くれます presents giving toward the speaker or the speakers in-group. For action benefits Vて directly connects to くれます. Do not insert 私に between the te-form and auxiliary; place the beneficiary appropriately in the clause.",
+    "examples": [
+      {
+        "ja": "彼がプレゼントを私にくれました。",
+        "en": "He gave me a present.",
+        "romaji": "Kare ga purezento wo watashi ni kuremashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "友達が私の宿題を手伝ってくれました。",
+        "en": "My friend helped me with my homework.",
+        "romaji": "Tomodachi ga watashi no shukudai o tetsudatte kuremashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "お母さんが私にお弁当を作ってくれました。",
+        "en": "My mom made me a lunch box.",
+        "romaji": "Okaasan ga watashi ni obentou o tsukutte kuremashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "先生がアドバイスを私にくれました。",
+        "en": "The teacher gave me advice.",
+        "romaji": "Sensei ga adobaisu wo watashi ni kuremashita.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass077: align source roles, auxiliary connection and copula; original error and correction recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-15182c8e3699": {
+    "examples": [
+      {
+        "ja": "今日は寒いけれど、散歩に行きます。",
+        "en": "Even though it's cold today, I'll go for a walk.",
+        "romaji": "Kyou wa samui keredo, sanpo ni ikimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼は親切だけれど、少し怖いです。",
+        "en": "He is kind, but a little scary.",
+        "romaji": "Kare wa shinsetsu dakeredo, sukoshi kowai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この部屋は狭いけれど、明るいです。",
+        "en": "This room is small, but it's bright.",
+        "romaji": "Kono heya wa semai keredo, akarui desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女は病気だけれど、毎日働いています。",
+        "en": "She is sick, but she works every day.",
+        "romaji": "Kanojo wa byouki dakeredo, mainichi hataraite imasu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass077: align source roles, auxiliary connection and copula; original error and correction recorded in review-ledger.jsonl."
   }
 }
