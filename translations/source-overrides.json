@@ -3507,5 +3507,175 @@
         "basis": "鏡 mirror. 少女 girl, 立って standing, のぞきこんだ peered into past not simply mirror exists/current looking. Second negative experiential 見たことがないのだろうか rhetorical wondering, no explicit gender so no fabricated male; mirror not eye."
       }
     ]
+  },
+  "N4:vocab:376ccb94c4": {
+    "meanings": [
+      "gas",
+      "gaseous fuel",
+      "petrol (colloquial)"
+    ],
+    "review_note": "Pass093: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "5eb6c420d8d33688cfd0cd4a4bc9e09009342a0d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "petrol"
+            ],
+            "replacement": [
+              "gas",
+              "gaseous fuel",
+              "petrol (colloquial)"
+            ]
+          }
+        ],
+        "basis": "ガス primarily gas/gaseous fuel, dictionary also colloquial gasoline in compounds such asガス欠. Englishpetrol alone undercovers core and old target oil/fuel too broad. Expand core gas senses retaining supported colloquial petrol, distinguish liquidガソリン. No examples supplied; review only meaning fields. Daijisenガス senses1/2/5 retrieved."
+      }
+    ]
+  },
+  "N4:vocab:119fdf575e": {
+    "meanings": [
+      "to tidy up; to put away",
+      "to finish; to deal with a task"
+    ],
+    "examples": [
+      {
+        "ja": "あすの朝まっさきにそれを片付けます。",
+        "furigana": "あすの{朝|あさ}まっさきにそれを{片付|かたづ}けます。",
+        "en": "I will deal with that first thing tomorrow morning.",
+        "tatoeba_id": 234456
+      },
+      {
+        "ja": "おもちゃを片づけなさい。",
+        "en": "Put away your toys.",
+        "tatoeba_id": 227490
+      }
+    ],
+    "review_note": "Pass093: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "5eb6c420d8d33688cfd0cd4a4bc9e09009342a0d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to tidy up"
+            ],
+            "replacement": [
+              "to tidy up; to put away",
+              "to finish; to deal with a task"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I'll do that first thing in the morning.",
+            "replacement": "I will deal with that first thing tomorrow morning."
+          }
+        ],
+        "basis": "片付ける tidy/put away or finish task, not long time/time awakening. あす tomorrow omittedEnglish restored, 朝まっさき first thing morning. Second imperative put toys away not discard/remove permanently or toys exist."
+      }
+    ]
+  },
+  "N4:vocab:89927b8fa1": {
+    "meanings": [
+      "ones own wife (when referring to her to others)"
+    ],
+    "review_note": "Pass093: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "5eb6c420d8d33688cfd0cd4a4bc9e09009342a0d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "housewife"
+            ],
+            "replacement": [
+              "ones own wife (when referring to her to others)"
+            ]
+          }
+        ],
+        "basis": "家内 in both examples ones own wife; not necessarily occupational housewife/home-friendly. Source gloss housewife narrowed incorrectly, correctedwife self-reference perKanjipedia/JPFCareNavi. Abroad trip concurrent frequent calls toward speaker, not phone causes travel. Dinner preparation ongoing now not eating today."
+      }
+    ]
+  },
+  "N4:vocab:3153705f1f": {
+    "examples": [
+      {
+        "ja": "そんな悲しい目で見ないで。",
+        "furigana": "そんな{悲|かな}しい{目|め}で{見|み}ないで。",
+        "en": "Don't give me such a sad look.",
+        "tatoeba_id": 1502040
+      },
+      {
+        "ja": "気がくるいそうなほど悲しかった。",
+        "furigana": "{気|き}がくるいそうなほど{悲|かな}しかった。",
+        "en": "The sadness was so great that it felt like going mad.",
+        "tatoeba_id": 183293
+      }
+    ],
+    "review_note": "Pass093: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "5eb6c420d8d33688cfd0cd4a4bc9e09009342a0d",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "He was so sad that he almost went mad.",
+            "replacement": "The sadness was so great that it felt like going mad."
+          }
+        ],
+        "basis": "悲しい sad not apology sorry alone. First negative request sad look. Second past sadness to degree seeming about to go mad (そう) not categorical clinical madness or negated sadness; unexpressed experiencer/gender left unspecified, sourceEnglish generalized."
+      }
+    ]
+  },
+  "N4:vocab:d1cd028481": {
+    "meanings": [
+      "to commute; to attend regularly"
+    ],
+    "examples": [
+      {
+        "ja": "マイクはバスで学校に通っている。",
+        "furigana": "マイクはバスで{学校|がっこう}に{通|かよ}っている。",
+        "en": "Mike goes to school by bus.",
+        "tatoeba_id": 195758
+      },
+      {
+        "ja": "弟は私と同じ学校へ通っている。",
+        "furigana": "{弟|おとうと}は{私|わたし}と{同|おな}じ{学校|がっこう}へ{通|かよ}っている。",
+        "en": "My younger brother attends the same school as I do.",
+        "tatoeba_id": 125431
+      }
+    ],
+    "review_note": "Pass093: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "5eb6c420d8d33688cfd0cd4a4bc9e09009342a0d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to commute"
+            ],
+            "replacement": [
+              "to commute; to attend regularly"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "My brother goes to the same school I do.",
+            "replacement": "My younger brother attends the same school as I do."
+          }
+        ],
+        "basis": "通う repeated commute/attend, not computer. Mike habitual bus transport to school, not driving bus/wanting. 弟 younger brother (Nepaliभाइ vsदाइ), same school as speaker with both attendees, not speakers home equals school."
+      }
+    ]
   }
 }
