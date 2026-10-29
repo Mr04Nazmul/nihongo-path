@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-30",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 8280,
-  "pending_fields": 70898,
+  "ai_semantic_checked_fields": 8394,
+  "pending_fields": 70784,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 1186
+    "N4": 1300
   },
-  "authored_entry_glosses": 979,
+  "authored_entry_glosses": 999,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "912c269668",
+      "id": "aac669551b",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "912c269668",
+      "id": "aac669551b",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "912c269668",
+      "id": "aac669551b",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "912c269668",
+      "id": "aac669551b",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "912c269668",
+      "id": "aac669551b",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "912c269668",
+      "id": "aac669551b",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a9a71878f0",
+      "id": "5bd8adf14c",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a9a71878f0",
+      "id": "5bd8adf14c",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a9a71878f0",
+      "id": "5bd8adf14c",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a9a71878f0",
+      "id": "5bd8adf14c",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a9a71878f0",
+      "id": "5bd8adf14c",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a9a71878f0",
+      "id": "5bd8adf14c",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "f17fa2d7e1",
+      "id": "038f67b635",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "f17fa2d7e1",
+      "id": "038f67b635",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "f17fa2d7e1",
+      "id": "038f67b635",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "f17fa2d7e1",
+      "id": "038f67b635",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "f17fa2d7e1",
+      "id": "038f67b635",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "f17fa2d7e1",
+      "id": "038f67b635",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "3cd723d544",
+      "id": "0ae014e274",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "3cd723d544",
-      "language": "ne",
-      "field": "meaning"
+      "id": "0ae014e274",
+      "language": "bn",
+      "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass096: N4 vocabulary indices180–199: 118 Bengali/Nepali meaning/example fields reviewed. Corrected precarious-job idiom vs neck, evening clouds, Paris/Tokyo comparisons, giver/requester viewpoint and completed benefactive lunch, falling night/prohibition, brown fur, plan agreement and noninvolvement, experience importance, service economy/fame, Mike caller emphasis, Kate/cake/knife, injury vs heartburn false segmentation, unseen/obscured scenery, borrow/lend eraser direction, lodging providers, emphatic negation, sentence-final keredo and despite bad weather, approximate-known vs absolute certainty in fire causes, Ken and two men fighting, and current AIDS research. Eight source entries English senses/nuance updated with prior values retained. One mismatched heartburn example archived with original source/attribution/translations and replaced by explicitly AI-authored knee-injury example; no original-context recovery or native review claimed. Other Japanese and all stable IDs unchanged. No new unresolved ambiguity; historic limitations retained. Resume N4 vocabulary index200."
+  "latest_pass": "Pass097: N4 vocabulary indices200–219: 114 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected laboratory roles, sightseeing vs spectators, native Londoner suffix, manner demonstrative, suburbs vs outsiders/rural villages, almost nobody vs at least a few, July sharp production and comparison of student numbers, senior-high-school enrollment/completion/correspondence, next-month factory stoppage/auto building, principal vs chief minister and beneficial frequent meetings, traffic caution vs assumed driving, auditorium teacher-gathering and immediate ceremony sequence, not-highschool student and subject emphasis,20years-ago immediately-after-university-graduation civil-service entry, this-month ongoing trade fair, mind/heart ease, honorific other husband/fussy eater, mechanical breakdown/late arrival and watch inference, honorific knowing and exclusive25-cent coin use. Eleven source entries English senses/nuances corrected or expanded with prior values retained; all Japanese, stable IDs and attribution unchanged. No new unresolved ambiguity; historical original-context limitations remain archived. No native-speaker certification. Resume N4 vocabulary index220."
 }

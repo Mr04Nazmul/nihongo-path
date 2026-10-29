@@ -4575,5 +4575,351 @@
         "basis": "原因 cause. だいたいわかっている generally/approximately understood, not absolute no doubt or complex mystery. 明らかになった became clear past change, not only static known; fire causality retained."
       }
     ]
+  },
+  "N4:vocab:912c269668": {
+    "meanings": [
+      "research room; laboratory"
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "study room",
+              "laboratory"
+            ],
+            "replacement": [
+              "research room; laboratory"
+            ]
+          }
+        ],
+        "basis": "研究室 research room/laboratory not generic classroom. We used specified lab; he performs experiments in his own lab, active roles and ongoing aspect retained."
+      }
+    ]
+  },
+  "N4:vocab:f17fa2d7e1": {
+    "meanings": [
+      "child; offspring",
+      "native or resident of a place (suffix ～子)"
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "child"
+            ],
+            "replacement": [
+              "child; offspring",
+              "native or resident of a place (suffix ～子)"
+            ]
+          }
+        ],
+        "basis": "子 child/offspring; suffix ロンドン子 native Londoner, not London itself or necessarily child. きっすい genuine native; second male boy exclamation restored, not country. No additional birth certificate or age claimed."
+      }
+    ]
+  },
+  "N4:vocab:baaaf1524a": {
+    "examples": [
+      {
+        "ja": "７月の工業生産は急増した。",
+        "en": "Industrial production rose sharply in July.",
+        "tatoeba_id": 234995
+      },
+      {
+        "ja": "工業よりも金融に関心のある学生のほうが多い。",
+        "furigana": "{工業|こうぎょう}よりも{金融|きんゆう}に{関心|かんしん}のある{学生|がくせい}のほうが{多|おお}い。",
+        "en": "The number of students interested in finance is greater than the number interested in industry.",
+        "tatoeba_id": 173740
+      }
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "More students are interested in finance than in industry.",
+            "replacement": "The number of students interested in finance is greater than the number interested in industry."
+          }
+        ],
+        "basis": "工業 manufacturing industry. July not January and sharp rise retained. More students in finance-interest group than industry-interest group, not same students more intensely interested; no economic statistics asserted beyond source exercise."
+      }
+    ]
+  },
+  "N4:vocab:22ba4ea959": {
+    "meanings": [
+      "senior high school (short for 高等学校)"
+    ],
+    "examples": [
+      {
+        "ja": "私の息子は、高校に入学した。",
+        "en": "My son entered high school.",
+        "tatoeba_id": 163138
+      },
+      {
+        "ja": "高校を出るとすぐ、私は上京した。",
+        "furigana": "{高校|こうこう}を{出|で}るとすぐ、{私|わたし}は{上京|じょうきょう}した。",
+        "en": "As soon as I finished high school, I went to Tokyo.",
+        "tatoeba_id": 173210
+      }
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "high school"
+            ],
+            "replacement": [
+              "senior high school (short for 高等学校)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "On leaving high school, I went to Tokyo.",
+            "replacement": "As soon as I finished high school, I went to Tokyo."
+          }
+        ],
+        "basis": "高校 shortened 高等学校 senior high school, not higher education generally. Son enrolled vs merely went. 高校を出るとすぐ leaving/completing school then immediate Tokyo move, not hypothetical schoolgoing or inability."
+      }
+    ]
+  },
+  "N4:vocab:795156bbfe": {
+    "meanings": [
+      "senior high school student"
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "high school student"
+            ],
+            "replacement": [
+              "senior high school student"
+            ]
+          }
+        ],
+        "basis": "高校生 specific high-school student, gender-neutral. 文通 correspondence by letters not generic contact/friend statement. One highschool student created this robot, not unspecified school crowd."
+      }
+    ]
+  },
+  "N4:vocab:0c49fbf17c": {
+    "examples": [
+      {
+        "ja": "校長が先生の後ろから入ってきた。",
+        "furigana": "{校長|こうちょう}が{先生|せんせい}の{後|うし}ろから{入|はい}ってきた。",
+        "en": "The principal came in after the teacher.",
+        "tatoeba_id": 173570
+      },
+      {
+        "ja": "うちの校長は学生とよく会ってくれる。",
+        "furigana": "うちの{校長|こうちょう}は{学生|がくせい}とよく{会|あ}ってくれる。",
+        "en": "Our principal often makes time to meet students.",
+        "tatoeba_id": 228204
+      }
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Our principal is accessible to students.",
+            "replacement": "Our principal often makes time to meet students."
+          }
+        ],
+        "basis": "校長 school head not manager/chief minister. Teacher followed by principal entering, no invented death/person name. よく会ってくれる often meets students beneficially, stronger evidence than abstract accessible; school principal subject retained."
+      }
+    ]
+  },
+  "N4:vocab:d64432f194": {
+    "examples": [
+      {
+        "ja": "交通に注意しなければいけない。",
+        "furigana": "{交通|こうつう}に{注意|ちゅうい}しなければいけない。",
+        "en": "You must pay attention to traffic.",
+        "tatoeba_id": 174166
+      },
+      {
+        "ja": "ここは特に朝は交通がはげしい。",
+        "furigana": "ここは{特|とく}に{朝|あさ}は{交通|こうつう}がはげしい。",
+        "en": "The traffic is heavy here, especially in the morning.",
+        "tatoeba_id": 224283
+      }
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "You must take care driving.",
+            "replacement": "You must pay attention to traffic."
+          }
+        ],
+        "basis": "交通 traffic/transport. に注意しなければいけない obligation to mind traffic not necessarily driving; English driving assumption removed. Heavy traffic volume especially morning, not difficult vehicles or travel hardship."
+      }
+    ]
+  },
+  "N4:vocab:9593b3e04f": {
+    "meanings": [
+      "senior high school"
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "high school"
+            ],
+            "replacement": [
+              "senior high school"
+            ]
+          }
+        ],
+        "basis": "高等学校 senior high school. ではありません negative enrollment identity preserved; 重視されている emphasis on English/maths, not vague much done/many things."
+      }
+    ]
+  },
+  "N4:vocab:be527b9f9d": {
+    "meanings": [
+      "mind; heart; inner feelings"
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "core",
+              "heart"
+            ],
+            "replacement": [
+              "mind; heart; inner feelings"
+            ]
+          }
+        ],
+        "basis": "心 mental/emotional heart/mind, not only physical cardiac organ or English core loan. 心によい考え parsed 心に＋よい考え consistent paired English good idea in mind. 心が休まる mental ease not physically resting or feeling easy; いつも every visit retained."
+      }
+    ]
+  },
+  "N4:vocab:ce133477e7": {
+    "meanings": [
+      "mechanical breakdown; malfunction",
+      "to break down"
+    ],
+    "examples": [
+      {
+        "ja": "車が故障したので遅れました。",
+        "furigana": "{車|くるま}が{故障|こしょう}したので{遅|おく}れました。",
+        "en": "I was late because my car broke down.",
+        "tatoeba_id": 149121
+      },
+      {
+        "ja": "時計がどこか故障しているらしい。",
+        "furigana": "{時計|とけい}がどこか{故障|こしょう}しているらしい。",
+        "en": "There seems to be a fault somewhere in the watch.",
+        "tatoeba_id": 150514
+      }
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to break-down"
+            ],
+            "replacement": [
+              "mechanical breakdown; malfunction",
+              "to break down"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I'm afraid something is wrong with my watch.",
+            "replacement": "There seems to be a fault somewhere in the watch."
+          }
+        ],
+        "basis": "故障 mechanical breakdown, not separation/romantic breakup. Car failure causes speaker lateness, not literally collapsed vehicle. らしい inference concerning watch malfunction, no unwarranted certainty/anxiety or time-wasting moral."
+      }
+    ]
+  },
+  "N4:vocab:5bb88bc7a4": {
+    "meanings": [
+      "knowing; being acquainted (honorific, respecting the person who knows)"
+    ],
+    "examples": [
+      {
+        "ja": "シンガポールについてご存じですか。",
+        "furigana": "シンガポールについてご{存|ぞん}じですか。",
+        "en": "Do you know about Singapore?",
+        "tatoeba_id": 215175
+      },
+      {
+        "ja": "ご存知だとは思いますが、クオーターしかつかえませんよ。",
+        "en": "I think you already know, but this only accepts quarters (25-cent coins).",
+        "tatoeba_id": 217080
+      }
+    ],
+    "review_note": "Pass097: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12f201677676bffdae029f6a18608945f72d87b1",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "knowing",
+              "acquaintance"
+            ],
+            "replacement": [
+              "knowing; being acquainted (honorific, respecting the person who knows)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "This only takes quarters, you know.",
+            "replacement": "I think you already know, but this only accepts quarters (25-cent coins)."
+          }
+        ],
+        "basis": "ご存じ honorific knowing/being acquainted, not humble own knowledge or wise person. About Singapore question not name meaning. ご存知だとは思いますが assumption plus mild contrast retained; しか…ません exclusive quarters25-cent coins (US Mint denomination support), not one-fourth/four hours. No specific country, machine type or number of coins invented."
+      }
+    ]
   }
 }
