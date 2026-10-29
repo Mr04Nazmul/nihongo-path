@@ -1855,5 +1855,140 @@
       }
     ],
     "review_note": "Semantic pass080: distinguish method questions, indefinite/universal/negative places; correct result-state examples and overrestricted source formations. Original repaired examples retained in original_example_* metadata; detailed reasons in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-ffe2478eb6df": {
+    "meaning": "Not to any destination; nowhere, with a negative predicate.",
+    "formation": "どこへも + negative predicate of directed movement or transfer, e.g. 行かないです / 行きませんでした.",
+    "notes": "へ marks direction/destination, not an unrestricted action location. The supermarket example has an omitted sales object and mismatched original English; it remains provisional and requires context/source-alignment review.",
+    "original_example_2": {
+      "ja": "スーパーはどこへも売らないです。",
+      "en": "It's not sold at any supermarket.",
+      "romaji": "Suupaa wa doko e mo uranai desu."
+    },
+    "examples": [
+      {
+        "ja": "今週末どこへも行かないです。",
+        "en": "I'm not going anywhere this weekend.",
+        "romaji": "Konshuumatsu doko e mo ikanai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女はどこへも買い物に行きませんでした。",
+        "en": "She didn't go shopping anywhere.",
+        "romaji": "Kanojo wa doko e mo kaimono ni ikimasen deshita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "スーパーはどこへも売らないです。",
+        "en": "The supermarket does not sell [something] to any destination. (Object/context omitted; provisional.)",
+        "romaji": "Suupaa wa doko e mo uranai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "私はどこへも行く予定がないです。",
+        "en": "I have no plans to go anywhere.",
+        "romaji": "Watashi wa doko e mo iku yotei ga nai desu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+  },
+  "N5:grammar:hana-98f331e09103": {
+    "formation": "どこへも + verb polite negative ません; past negative ませんでした.",
+    "notes": "Negates all destinations. 走りませんでした means did not run, not could not run. Final 連れて行かせません is causative, not simple 連れて行きません; causee and carried person are omitted. Permission versus non-compulsion is context-sensitive; final example remains provisional.",
+    "original_example_3": {
+      "ja": "彼女はどこへも連れて行かせません。",
+      "en": "She won't take me anywhere.",
+      "romaji": "Kanojo wa doko e mo tsurete ikasemasen."
+    },
+    "examples": [
+      {
+        "ja": "今日はどこへも行きません。",
+        "en": "I won't go anywhere today.",
+        "romaji": "Kyou wa doko e mo ikimasen.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼はどこへも走りませんでした。",
+        "en": "He didn't run anywhere.",
+        "romaji": "Kare wa doko e mo hashirimasen deshita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "どこへも買い物に行きませんでした。",
+        "en": "I didn't go shopping anywhere.",
+        "romaji": "Doko e mo kaimono ni ikimasen deshita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女はどこへも連れて行かせません。",
+        "en": "She will not let or make [someone] take [someone] anywhere. (Causative roles and context omitted; provisional.)",
+        "romaji": "Kanojo wa doko e mo tsurete ikasemasen.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+  },
+  "N5:grammar:hana-514b856cde73": {
+    "meaning": "No relevant place has the specified thing; nowhere, with a negative predicate.",
+    "formation": "どこも + negative predicate, e.g. ないです. Use appropriate case particles for other constructions.",
+    "notes": "These examples negate availability across relevant places. どこも can also occur with affirmative predicates and then does not mean nowhere. うちわ is a hand fan, not a human admirer. ラーメン here denotes food, not a ramen shop.",
+    "original_example_1": {
+      "ja": "この町ではどこも美味しいラーメンがないです。",
+      "en": "There are no delicious ramen shops anywhere in this town.",
+      "romaji": "Kono machi de wa doko mo oishii raamen ga nai desu."
+    },
+    "examples": [
+      {
+        "ja": "どこもうちわがないです。",
+        "en": "I can't find fans anywhere.",
+        "romaji": "Doko mo uchiwa ga nai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この町ではどこも美味しいラーメンがないです。",
+        "en": "There is no delicious ramen anywhere in this town.",
+        "romaji": "Kono machi de wa doko mo oishii raamen ga nai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "どこも駐車場がないです。",
+        "en": "There is no parking anywhere.",
+        "romaji": "Doko mo chuushajou ga nai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "どこも席がないです。",
+        "en": "There are no seats available anywhere.",
+        "romaji": "Doko mo seki ga nai desu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+  },
+  "N5:grammar:hana-fac72f537c21": {
+    "formation": "どこも + verb masu-stem + ません; also na-adjective + じゃありません.",
+    "notes": "Remove ます before adding ません; do not form ますません. 静かじゃありません is a na-adjective negative. Inability comes from forms such as できません, not from どこも itself. Final no-place-knows-him example lacks institutional/metonymic context and remains provisional.",
+    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+  },
+  "N5:grammar:hana-4eda4e08e1c4": {
+    "formation": "どちらが + predicate; どちらを + verb; どちらに + movement/selection verb; どちらの + noun.",
+    "notes": "In this lesson, ask which of two choices or compare two things. Select particles by syntactic role; do not place を before every adjective or noun predicate. の links どちら to a following noun.",
+    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+  },
+  "N5:grammar:hana-664fa7701349": {
+    "formation": "どなたが / どなたですか; どなたか + request; どなたも + predicate.",
+    "notes": "どなた is polite だれ (who), not what or where. どなたか is someone. With affirmative 知っている here, どなたも means everyone; with a negative predicate it means nobody.",
+    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+  },
+  "N5:grammar:hana-9a18fcd1ce12": {
+    "formation": "どの + noun, followed by a case particle appropriate to its role.",
+    "notes": "どの is an attributive interrogative modifying the following noun, unlike standalone どれ. Do not teach it as an independently usable question word ど plus an ordinary linking particle の.",
+    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+  },
+  "N5:grammar:hana-c9afa8e84b9c": {
+    "formation": "どれでも + predicate, e.g. いいです / おいしいです / 選んでください.",
+    "notes": "Any or whichever of the available items. どれでもおいしい means whichever one is chosen is delicious. だれでも, いつでも and どこでも are parallel forms for other referents, not additions attached to どれでも.",
+    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
   }
 }

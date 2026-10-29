@@ -73,5 +73,146 @@
         ]
       }
     ]
+  },
+  "hana-ffe2478eb6df.examples.2": {
+    "level": "N5",
+    "kind": "grammar",
+    "issue": "Negative destination/direction, not unrestricted action location. Reviewed this weekend not going, she did not GO shopping (past, not merely no purchases), and no plan to go anywhere. Source supermarket example contrasts Japanese supermarket as seller with English at-any-supermarket passive; omitted object and teaching alignment remain unresolved for both example translations. JF wh+mo negative and particle placement BTS00142 read 2026-10-29.",
+    "languages": [
+      "bn",
+      "ne"
+    ],
+    "fields": [
+      "examples.2"
+    ],
+    "status": "needs-context-review",
+    "field_records": [
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-ffe2478eb6df",
+        "language": "bn",
+        "field": "examples.2",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "f1f275006c1d9f1a9fd5948785dbecc327028b82d5faa14346d2fd8240a5d16b",
+        "translation_sha256": "da219b1ecfe78dd29e0c01ea70002e2221b3c48bc0b7ea1e63cc1047cd048003",
+        "basis": "Negative destination/direction, not unrestricted action location. Reviewed this weekend not going, she did not GO shopping (past, not merely no purchases), and no plan to go anywhere. Source supermarket example contrasts Japanese supermarket as seller with English at-any-supermarket passive; omitted object and teaching alignment remain unresolved for both example translations. JF wh+mo negative and particle placement BTS00142 read 2026-10-29.",
+        "unresolved": [
+          "Negative destination/direction, not unrestricted action location. Reviewed this weekend not going, she did not GO shopping (past, not merely no purchases), and no plan to go anywhere. Source supermarket example contrasts Japanese supermarket as seller with English at-any-supermarket passive; omitted object and teaching alignment remain unresolved for both example translations. JF wh+mo negative and particle placement BTS00142 read 2026-10-29."
+        ]
+      },
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-ffe2478eb6df",
+        "language": "ne",
+        "field": "examples.2",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "f1f275006c1d9f1a9fd5948785dbecc327028b82d5faa14346d2fd8240a5d16b",
+        "translation_sha256": "77e0a364864cd18865c409f337c8230cee0e6e663d92a869a9eb3dcbba394287",
+        "basis": "Negative destination/direction, not unrestricted action location. Reviewed this weekend not going, she did not GO shopping (past, not merely no purchases), and no plan to go anywhere. Source supermarket example contrasts Japanese supermarket as seller with English at-any-supermarket passive; omitted object and teaching alignment remain unresolved for both example translations. JF wh+mo negative and particle placement BTS00142 read 2026-10-29.",
+        "unresolved": [
+          "Negative destination/direction, not unrestricted action location. Reviewed this weekend not going, she did not GO shopping (past, not merely no purchases), and no plan to go anywhere. Source supermarket example contrasts Japanese supermarket as seller with English at-any-supermarket passive; omitted object and teaching alignment remain unresolved for both example translations. JF wh+mo negative and particle placement BTS00142 read 2026-10-29."
+        ]
+      }
+    ]
+  },
+  "hana-fac72f537c21.examples.3": {
+    "level": "N5",
+    "kind": "grammar",
+    "issue": "Corrects duplicated masu+masen to masu-stem+masen. First example is na-adjective negative, not a verb-only rule. Nowhere quiet, THAT book not THIS, internet inability specifically in THIS area. Final no-place-knows-him lacks institutional/metonymic context and is only provisional; both fields excluded from confirmed count.",
+    "languages": [
+      "bn",
+      "ne"
+    ],
+    "fields": [
+      "examples.3"
+    ],
+    "status": "needs-context-review",
+    "field_records": [
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-fac72f537c21",
+        "language": "bn",
+        "field": "examples.3",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "8fff7688b1739fee986ec25253a93d261ec90cb5a5e4260914e20aea36c84434",
+        "translation_sha256": "58008d9ec8c2ae2e00a6cfbb90e0342ce36ffab54d35ca3eada239b6414adb2f",
+        "basis": "Corrects duplicated masu+masen to masu-stem+masen. First example is na-adjective negative, not a verb-only rule. Nowhere quiet, THAT book not THIS, internet inability specifically in THIS area. Final no-place-knows-him lacks institutional/metonymic context and is only provisional; both fields excluded from confirmed count.",
+        "unresolved": [
+          "Corrects duplicated masu+masen to masu-stem+masen. First example is na-adjective negative, not a verb-only rule. Nowhere quiet, THAT book not THIS, internet inability specifically in THIS area. Final no-place-knows-him lacks institutional/metonymic context and is only provisional; both fields excluded from confirmed count."
+        ]
+      },
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-fac72f537c21",
+        "language": "ne",
+        "field": "examples.3",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "8fff7688b1739fee986ec25253a93d261ec90cb5a5e4260914e20aea36c84434",
+        "translation_sha256": "52f15a027a464218754c7b8dc3b60a77f5af46d3c92a282c6853e4861eede97f",
+        "basis": "Corrects duplicated masu+masen to masu-stem+masen. First example is na-adjective negative, not a verb-only rule. Nowhere quiet, THAT book not THIS, internet inability specifically in THIS area. Final no-place-knows-him lacks institutional/metonymic context and is only provisional; both fields excluded from confirmed count.",
+        "unresolved": [
+          "Corrects duplicated masu+masen to masu-stem+masen. First example is na-adjective negative, not a verb-only rule. Nowhere quiet, THAT book not THIS, internet inability specifically in THIS area. Final no-place-knows-him lacks institutional/metonymic context and is only provisional; both fields excluded from confirmed count."
+        ]
+      }
+    ]
+  },
+  "hana-98f331e09103.examples.3": {
+    "level": "N5",
+    "kind": "grammar",
+    "issue": "Negative destination with polite negative, not an affirmative place statement. Today future intention and the past negatives are preserved; running NOT performed, no invented inability. Final tsurete ikasemasen is causative, not simple tsurete ikimasen: original English invents me and loses causation. Provisional alternatives only, both final-example fields remain pending contextual review.",
+    "languages": [
+      "bn",
+      "ne"
+    ],
+    "fields": [
+      "examples.3"
+    ],
+    "status": "needs-context-review",
+    "field_records": [
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-98f331e09103",
+        "language": "bn",
+        "field": "examples.3",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "5f38393a17e021e0cc740dd1514e67d5a5a53984570d6eeadbab6f09baf3a930",
+        "translation_sha256": "f372b3301fa7b655dc4b66ba0eff978e8901708b3e041c38ae4bb14900a92bff",
+        "basis": "Negative destination with polite negative, not an affirmative place statement. Today future intention and the past negatives are preserved; running NOT performed, no invented inability. Final tsurete ikasemasen is causative, not simple tsurete ikimasen: original English invents me and loses causation. Provisional alternatives only, both final-example fields remain pending contextual review.",
+        "unresolved": [
+          "Negative destination with polite negative, not an affirmative place statement. Today future intention and the past negatives are preserved; running NOT performed, no invented inability. Final tsurete ikasemasen is causative, not simple tsurete ikimasen: original English invents me and loses causation. Provisional alternatives only, both final-example fields remain pending contextual review."
+        ]
+      },
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-98f331e09103",
+        "language": "ne",
+        "field": "examples.3",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "5f38393a17e021e0cc740dd1514e67d5a5a53984570d6eeadbab6f09baf3a930",
+        "translation_sha256": "3c8afeb60b09cb31f67b9d14504ed80c36714b898f1d3793390d8b23cbc25f4f",
+        "basis": "Negative destination with polite negative, not an affirmative place statement. Today future intention and the past negatives are preserved; running NOT performed, no invented inability. Final tsurete ikasemasen is causative, not simple tsurete ikimasen: original English invents me and loses causation. Provisional alternatives only, both final-example fields remain pending contextual review.",
+        "unresolved": [
+          "Negative destination with polite negative, not an affirmative place statement. Today future intention and the past negatives are preserved; running NOT performed, no invented inability. Final tsurete ikasemasen is causative, not simple tsurete ikimasen: original English invents me and loses causation. Provisional alternatives only, both final-example fields remain pending contextual review."
+        ]
+      }
+    ]
   }
 }

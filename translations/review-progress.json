@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 6506,
-  "pending_fields": 72672,
+  "ai_semantic_checked_fields": 6612,
+  "pending_fields": 72566,
   "checked_by_level": {
-    "N5": 6506
+    "N5": 6612
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -113,44 +113,44 @@
       "kind": "grammar",
       "id": "hana-ffe2478eb6df",
       "language": "bn",
-      "field": "meaning"
-    },
-    {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-ffe2478eb6df",
-      "language": "bn",
-      "field": "formation"
-    },
-    {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-ffe2478eb6df",
-      "language": "bn",
-      "field": "guidance"
-    },
-    {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-ffe2478eb6df",
-      "language": "bn",
-      "field": "examples.0"
-    },
-    {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-ffe2478eb6df",
-      "language": "bn",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-ffe2478eb6df",
-      "language": "bn",
       "field": "examples.2"
+    },
+    {
+      "level": "N5",
+      "kind": "grammar",
+      "id": "hana-ffe2478eb6df",
+      "language": "ne",
+      "field": "examples.2"
+    },
+    {
+      "level": "N5",
+      "kind": "grammar",
+      "id": "hana-98f331e09103",
+      "language": "bn",
+      "field": "examples.3"
+    },
+    {
+      "level": "N5",
+      "kind": "grammar",
+      "id": "hana-98f331e09103",
+      "language": "ne",
+      "field": "examples.3"
+    },
+    {
+      "level": "N5",
+      "kind": "grammar",
+      "id": "hana-fac72f537c21",
+      "language": "bn",
+      "field": "examples.3"
+    },
+    {
+      "level": "N5",
+      "kind": "grammar",
+      "id": "hana-fac72f537c21",
+      "language": "ne",
+      "field": "examples.3"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass080: 112 new N5 grammar fields at indices184–191 reviewed in Bengali/Nepali: method/expression questions, occasional frequency and where/somewhere/anywhere/nowhere. Corrected role, tense, negation, wallet/vegan/ramen omissions; repaired found and written-result Japanese examples with originals preserved. Earlier ambiguities remain pending. Resume N5 grammar index192."
+  "latest_pass": "Pass081: 106 new N5 grammar fields at indices192–199 semantically checked in Bengali/Nepali; 6 example fields kept pending in unresolved-example-senses.json for omitted sales object, causative roles and institutional referent. Corrected destination negation, hand-fan and ramen senses, duplicated masu formation, polite WHO, two-way choice, which/whichever and original English sense mismatches. Earlier ambiguities remain pending. Resume N5 grammar index200."
 }
