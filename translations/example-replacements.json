@@ -1,0 +1,364 @@
+{
+  "N5:vocab:03d7b15720:examples.0": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "叔母さんを訪ねた時はすごいごちそうだったね。",
+      "furigana": "{叔母|おば}さんを{訪|たず}ねた{時|とき}はすごいごちそうだったね。",
+      "en": "What a feast we had when we visited my aunt!",
+      "tatoeba_id": 227572
+    },
+    "original_translations": {
+      "bn": "খালার বাড়ি বেড়াতে গিয়ে কী দারুণ ভোজ হয়েছিল, তাই না!",
+      "ne": "काकीलाई भेट्न जाँदा कस्तो राम्रो भोज भएको थियो, हैन?"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "伯母 is a parents older sister or a parents older brothers wife; 叔母 is the younger counterparts. Neutral descriptive head gloss preserves BOTH parental sides without choosing khala/kaki. Old Tatoeba examples used 叔母 and lacked parental side; they are archived unchanged and replaced by newly authored explicit father-older-sister and mother-older-brothers-wife examples. No claim of recovering their original context. Kanjipedia definition inspected2026-10-29 https://www.kanjipedia.jp/kotoba/0003194700 .",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "父の姉である伯母は、東京に住んでいます。",
+      "en": "My aunt, my father’s older sister, lives in Tokyo.",
+      "romaji": "Chichi no ane de aru oba wa, Toukyou ni sunde imasu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "বাবার বড় বোন—আমার ফুফু—টোকিওতে থাকেন।",
+      "ne": "बुबाकी दिदी, मेरी फुपू, टोक्योमा बस्नुहुन्छ।"
+    }
+  },
+  "N5:vocab:03d7b15720:examples.1": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "これクララ叔母さんのと同じネックレスじゃない？",
+      "furigana": "これクララ{叔母|おば}さんのと{同|おな}じネックレスじゃない？",
+      "en": "Isn't this the same necklace that Aunt Clara wears?",
+      "tatoeba_id": 218824
+    },
+    "original_translations": {
+      "bn": "এটা কি ক্লারা খালার পরা নেকলেসটির মতো নয়?",
+      "ne": "यो क्लारा काकीले लगाउनेजस्तै हार होइन र?"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "伯母 is a parents older sister or a parents older brothers wife; 叔母 is the younger counterparts. Neutral descriptive head gloss preserves BOTH parental sides without choosing khala/kaki. Old Tatoeba examples used 叔母 and lacked parental side; they are archived unchanged and replaced by newly authored explicit father-older-sister and mother-older-brothers-wife examples. No claim of recovering their original context. Kanjipedia definition inspected2026-10-29 https://www.kanjipedia.jp/kotoba/0003194700 .",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "母の兄の妻である伯母に会いました。",
+      "en": "I met my aunt, the wife of my mother’s older brother.",
+      "romaji": "Haha no ani no tsuma de aru oba ni aimashita.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "মায়ের বড় ভাইয়ের স্ত্রী—আমার মামির সঙ্গে দেখা করেছি।",
+      "ne": "आमाका दाइकी पत्नी, मेरी माइजूसँग भेटेँ।"
+    }
+  },
+  "N5:vocab:687082e55c:examples.0": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "どうしたらエンジンがかかりますか。",
+      "en": "How can I start the engine?",
+      "tatoeba_id": 201593
+    },
+    "original_translations": {
+      "bn": "কীভাবে ইঞ্জিন চালু করব?",
+      "ne": "इन्जिन कसरी चालु गर्ने?"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Old engine-start and beginning-to-finish examples belonged to other kakaru/suffix senses. Their earlier translated text remains in the immutable archive. New authored examples match the existing TIME/COST headword: walk to station TEN MINUTES and THIS trip THIRTY THOUSAND YEN (3man not3000). Both locales rechecked, replacing earlier field hashes rather than counting a new word.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "駅まで歩いて十分かかります。",
+      "en": "It takes ten minutes to walk to the station.",
+      "romaji": "Eki made aruite juppun kakarimasu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "স্টেশনে হেঁটে যেতে দশ মিনিট লাগে।",
+      "ne": "स्टेसनसम्म हिँडेर जान दस मिनेट लाग्छ।"
+    }
+  },
+  "N5:vocab:687082e55c:examples.1": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "それはほとんど終わりかかっています。",
+      "furigana": "それはほとんど{終|お}わりかかっています。",
+      "en": "It's almost over.",
+      "tatoeba_id": 205401
+    },
+    "original_translations": {
+      "bn": "ওটা প্রায় শেষ হয়ে এসেছে।",
+      "ne": "त्यो लगभग सकिन लागेको छ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Old engine-start and beginning-to-finish examples belonged to other kakaru/suffix senses. Their earlier translated text remains in the immutable archive. New authored examples match the existing TIME/COST headword: walk to station TEN MINUTES and THIS trip THIRTY THOUSAND YEN (3man not3000). Both locales rechecked, replacing earlier field hashes rather than counting a new word.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "この旅行には三万円かかります。",
+      "en": "This trip costs thirty thousand yen.",
+      "romaji": "Kono ryokou ni wa san-man-en kakarimasu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "এই ভ্রমণে ত্রিশ হাজার ইয়েন খরচ হয়।",
+      "ne": "यस यात्रामा तीस हजार येन खर्च लाग्छ।"
+    }
+  },
+  "N5:vocab:0ce2b98d3b:examples.1": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "コックさんは少しもかけていない。",
+      "furigana": "コックさんは{少|すこ}しもかけていない。",
+      "en": "The cook hasn't put any on it.",
+      "tatoeba_id": 224138
+    },
+    "original_translations": {
+      "bn": "রাঁধুনি তাতে একটুও দেননি।",
+      "ne": "भान्सेले त्यसमा अलिकति पनि हालेका छैनन्।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "The old cook-has-not-put-any-on-it sentence has omitted object and does not teach the active phone headword. Original retained in archival replacement record; a newly authored phone sentence makes denwa, recipient mother and tonight explicit. This resolves active teaching alignment without guessing sauce or claiming an original sense resolution.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "今夜、母に電話をかけます。",
+      "en": "I will phone my mother tonight.",
+      "romaji": "Konya, haha ni denwa wo kakemasu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "আজ রাতে মাকে ফোন করব।",
+      "ne": "आज राति आमालाई फोन गर्नेछु।"
+    }
+  },
+  "N5:vocab:9d648d38ad:examples.0": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "おじさんがぼくにカメラをくれました。",
+      "en": "My uncle gave me a camera.",
+      "tatoeba_id": 227734
+    },
+    "original_translations": {
+      "bn": "আমার এক চাচা বা মামা আমাকে একটি ক্যামেরা দিয়েছিলেন।",
+      "ne": "मेरा एक जना काका वा मामाले मलाई क्यामेरा दिनुभयो।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Original ojisan could denote uncle or middle-aged man and did not specify parental side. Original archived; new authored father-younger-brother removes these ambiguities. Bengali chacha and Nepali kaka are now supported by explicit Japanese relationship, not inferred from English. Giver gives camera to speaker, past.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "父の弟が私にカメラをくれました。",
+      "en": "My father’s younger brother gave me a camera.",
+      "romaji": "Chichi no otouto ga watashi ni kamera wo kuremashita.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "বাবার ছোট ভাই—আমার চাচা—আমাকে একটি ক্যামেরা দিয়েছেন।",
+      "ne": "बुबाका भाइ, मेरा काकाले मलाई एउटा क्यामेरा दिनुभयो।"
+    }
+  },
+  "N5:vocab:61fd50f12e:examples.1": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "おじは来月で２年間ずっとニューヨークにいることになる。",
+      "furigana": "おじは{来月|らいげつ}で２{年間|ねんかん}ずっとニューヨークにいることになる。",
+      "en": "My uncle will have been in New York for two years next month.",
+      "tatoeba_id": 227704
+    },
+    "original_translations": {
+      "bn": "আগামী মাসে আমার কাকা/মামার নিউইয়র্কে টানা দুই বছর থাকা পূর্ণ হবে।",
+      "ne": "अर्को महिना मेरा काका/मामा न्युयोर्कमा लगातार बसेको दुई वर्ष पूरा हुनेछ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Original oji did not distinguish parents side. Archived original; authored mother-younger-brother supports mama in both languages. Next month is future completion of TWO FULL YEARS in New York, not next-month travel or a two-year future stay.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "母の弟は、来月でニューヨークに住んで丸二年になります。",
+      "en": "Next month, my mother’s younger brother will have lived in New York for two full years.",
+      "romaji": "Haha no otouto wa, raigetsu de Nyuuyooku ni sunde maru ni-nen ni narimasu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "আগামী মাসে আমার মামার নিউইয়র্কে বসবাসের পূর্ণ দুই বছর হবে।",
+      "ne": "अर्को महिना मेरा मामा न्युयोर्कमा बसेको पूरा दुई वर्ष हुनेछ।"
+    }
+  },
+  "N5:grammar:hana-e76c3790e5cc:examples.1": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "彼女はあまり早くないですよ。",
+      "en": "She is not very fast.",
+      "romaji": "Kanojo wa amari hayakunai desu yo.",
+      "source": "hanabira.org"
+    },
+    "original_translations": {
+      "bn": "সে খুব দ্রুত নয়।",
+      "ne": "उनी खासै छिटो छैनन्।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Old hayai early/fast example had no activity and is retained in archive. Newly authored asa+hayaku+okinai supplies morning waking, translating NOTVERYEARLY, not speed. Amari low degree/frequency/quantity, negative predicates and no duplicate arimasen remain checked; formation is unchanged. This is explicit new context, not recovery of the old authors intention.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "彼女は朝、あまり早く起きないですよ。",
+      "en": "She does not get up very early in the morning.",
+      "romaji": "Kanojo wa asa, amari hayaku okinai desu yo.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "সে সকালে খুব তাড়াতাড়ি ওঠে না।",
+      "ne": "उनी बिहान खासै चाँडै उठ्दिनन्।"
+    }
+  },
+  "N5:grammar:hana-ffe2478eb6df:examples.2": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "スーパーはどこへも売らないです。",
+      "en": "The supermarket does not sell [something] to any destination. (Object/context omitted; provisional.)",
+      "romaji": "Suupaa wa doko e mo uranai desu.",
+      "source": "hanabira.org"
+    },
+    "original_translations": {
+      "bn": "সুপারমার্কেটটি কোনো গন্তব্যেই [কিছু] বিক্রি করে না—উৎসে কী বিক্রি হয় বলা নেই।",
+      "ne": "सुपरमार्केटले कुनै गन्तव्यतिर पनि [केही] बेच्दैन—के बेच्ने हो मूल वाक्यमा छैन।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Original supermarket/source-English mismatch preserved in archive rather than guessed sales object. Authored replacement uses directional dekakeru, TODAY and total destination negation, not inability or not selling at stores. Head meaning and formation retained; notes/guidance rechecked for ni/de/he distinction.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "今日はどこへも出かけないです。",
+      "en": "I am not going out anywhere today.",
+      "romaji": "Kyou wa doko e mo dekakenai desu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "আজ কোথাও বের হব না।",
+      "ne": "आज कतै पनि बाहिर निस्कँदिनँ।"
+    }
+  },
+  "N5:grammar:hana-98f331e09103:examples.3": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "彼女はどこへも連れて行かせません。",
+      "en": "She will not let or make [someone] take [someone] anywhere. (Causative roles and context omitted; provisional.)",
+      "romaji": "Kanojo wa doko e mo tsurete ikasemasen.",
+      "source": "hanabira.org"
+    },
+    "original_translations": {
+      "bn": "সে [কাউকে] কোথাও নিয়ে যেতে দেবে না বা বাধ্য করবে না—প্রসঙ্গ অস্পষ্ট।",
+      "ne": "उनी [कसैलाई] कतै लिएर जान दिन्नन् वा बाध्य पार्दिनन्—प्रसङ्ग अस्पष्ट छ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Old causative with missing causee/object archived with its unresolved original interpretation; not silently translated as simple take. New authored simple tsureteikimasen explicitly supplies speaker object watashiwo and matches N5 destination negative pattern. SHEtakesMEnowhere, no invented inability. Other subject/tense and negative formations rechecked.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "彼女は私をどこへも連れて行きません。",
+      "en": "She does not take me anywhere.",
+      "romaji": "Kanojo wa watashi wo doko e mo tsurete ikimasen.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "সে আমাকে কোথাও নিয়ে যায় না।",
+      "ne": "उनी मलाई कतै पनि लिएर जाँदिनन्।"
+    }
+  },
+  "N5:grammar:hana-fac72f537c21:examples.3": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "どこも彼を知りません。",
+      "en": "No place knows him.",
+      "romaji": "Doko mo kare wo shirimasen.",
+      "source": "hanabira.org"
+    },
+    "original_translations": {
+      "bn": "কোনো জায়গা/প্রতিষ্ঠান তাকে চেনে না—কাদের কথা বলা হয়েছে তা অস্পষ্ট।",
+      "ne": "कुनै ठाउँ/संस्थाले उनलाई चिन्दैन—कसको कुरा गरिएको हो अस्पष्ट छ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Institutional no-place-knows-him ambiguity not guessed; original archived. New authored Sunday/THIS town/SHOPS notOPEN describes store-state total negation, not inability. Masu-stem formation, na-adjective negative, book THAT and local internet inability rechecked, no source or translation hashes stamped without reading.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "日曜日は、この町の店はどこも開いていません。",
+      "en": "On Sundays, no shops in this town are open.",
+      "romaji": "Nichiyoubi wa, kono machi no mise wa doko mo aite imasen.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "রবিবার এই শহরের কোনো দোকানই খোলা থাকে না।",
+      "ne": "आइतबार यस सहरका कुनै पनि पसल खुला हुँदैनन्।"
+    }
+  },
+  "N5:grammar:hana-fff6cd308373:examples.2": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "彼はなんで来ましたか？",
+      "en": "Why did he come?",
+      "romaji": "Kare wa nan de kimashita ka?",
+      "source": "hanabira.org"
+    },
+    "original_translations": {
+      "bn": "সে কেন এসেছে, অথবা কীসে এসেছে?—প্রসঙ্গ অনির্দিষ্ট।",
+      "ne": "उनी किन आए, वा के चढेर आए?—प्रसङ्ग खुलाइएको छैन।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Old nande-kimashita could ask why or bywhat, archived without claiming original intention. Authored bus/train follow-up fixes transport sense; preserves past arrival and question, no cause reading. Nan pronunciation/counter/naming formation and other examples rechecked.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "彼は何で来ましたか。バスですか、電車ですか。",
+      "en": "How did he get here: by bus or by train?",
+      "romaji": "Kare wa nan de kimashita ka. Basu desu ka, densha desu ka.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "সে কীসে এসেছে—বাসে, নাকি ট্রেনে?",
+      "ne": "उनी के चढेर आए—बस कि रेल?"
+    }
+  },
+  "N5:grammar:hana-faf9933075ee:examples.2": {
+    "original_commit": "6d5767009064b9bb13d66238c9a618ce9fb0370a",
+    "original_example": {
+      "ja": "おばあさんに手紙を書いてもらいました。",
+      "en": "I had my grandmother write a letter for me.",
+      "romaji": "Obaasan ni tegami wo kaite moraimashita.",
+      "source": "hanabira.org"
+    },
+    "original_translations": {
+      "bn": "দাদি/নানি বা এক বয়স্ক নারীকে দিয়ে নিজের জন্য চিঠি লিখিয়েছি—সম্পর্কটি প্রসঙ্গনির্ভর।",
+      "ne": "हजुरआमा वा एक वृद्ध महिलाबाट आफ्नो लागि चिठी लेखाइपाएँ—नाता प्रसङ्गअनुसार खुल्नुपर्छ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Old obaasan grandmother/olderwoman and parental-side ambiguities archived unchanged. Authored maternal relationship haha-no-haha now supports Bengali nani and Nepali mawali hajurama; letter service benefits speaker, not a letter necessarily addressed to speaker or coercion. Receipt and te-morau formation/guidance rechecked.",
+    "reviewed_on": "2026-10-29",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "母の母に手紙を書いてもらいました。",
+      "en": "My maternal grandmother wrote a letter for me.",
+      "romaji": "Haha no haha ni tegami wo kaite moraimashita.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "নানিকে দিয়ে নিজের জন্য একটি চিঠি লিখিয়ে নিয়েছি।",
+      "ne": "मावली हजुरआमाबाट आफ्नो लागि चिठी लेखाइपाएँ।"
+    }
+  }
+}

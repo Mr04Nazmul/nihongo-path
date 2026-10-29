@@ -1439,8 +1439,34 @@
   "N5:grammar:hana-e76c3790e5cc": {
     "pattern": "あまり + negative predicate",
     "formation": "あまり + negative verb (ません / ないです); i-adjective くありません / くないです; na-adjective ではありません / じゃないです; existence がありません.",
-    "notes": "With a negative predicate, あまり indicates low degree, frequency or amount, not necessarily zero. Do not append ありません to a full verb ない form. Example2 早い is ambiguous without context (early/quick); English fast may intend 速い. Both locale fields for that example remain unresolved in the ledger.",
-    "review_note": "Semantic pass076: align constructions and predicate polarity; ambiguity retained explicitly in review-ledger.jsonl and unresolved-example-senses.json."
+    "notes": "With a negative predicate, あまり indicates low degree, frequency or amount, not necessarily zero. Do not append ありません to a complete verb ない form. Example2 is now an explicitly authored morning-waking context: early, not speed. The underspecified original is archived.",
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification.",
+    "examples": [
+      {
+        "ja": "彼はあまり疲れていません。",
+        "en": "He is not really tired.",
+        "romaji": "Kare wa amari tsukareteimasen.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女は朝、あまり早く起きないですよ。",
+        "en": "She does not get up very early in the morning.",
+        "romaji": "Kanojo wa asa, amari hayaku okinai desu yo.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "私はあまり勉強しないです。",
+        "en": "I don't study very much.",
+        "romaji": "Watashi wa amari benkyou shinai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "あまりお金がありません。",
+        "en": "I don't have much money.",
+        "romaji": "Amari okane ga arimasen.",
+        "source": "hanabira.org"
+      }
+    ]
   },
   "N5:grammar:hana-7ed34d540a69": {
     "formation": "(Location に +) existing entity + が + あります.",
@@ -1859,7 +1885,7 @@
   "N5:grammar:hana-ffe2478eb6df": {
     "meaning": "Not to any destination; nowhere, with a negative predicate.",
     "formation": "どこへも + negative predicate of directed movement or transfer, e.g. 行かないです / 行きませんでした.",
-    "notes": "へ marks direction/destination, not an unrestricted action location. The supermarket example has an omitted sales object and mismatched original English; it remains provisional and requires context/source-alignment review.",
+    "notes": "へ marks direction/destination, not unrestricted action location. The old supermarket sentence had an omitted object and incorrect English alignment; it is archived. Its replacement explicitly describes not going out to any destination today.",
     "original_example_2": {
       "ja": "スーパーはどこへも売らないです。",
       "en": "It's not sold at any supermarket.",
@@ -1879,10 +1905,10 @@
         "source": "hanabira.org"
       },
       {
-        "ja": "スーパーはどこへも売らないです。",
-        "en": "The supermarket does not sell [something] to any destination. (Object/context omitted; provisional.)",
-        "romaji": "Suupaa wa doko e mo uranai desu.",
-        "source": "hanabira.org"
+        "ja": "今日はどこへも出かけないです。",
+        "en": "I am not going out anywhere today.",
+        "romaji": "Kyou wa doko e mo dekakenai desu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
       },
       {
         "ja": "私はどこへも行く予定がないです。",
@@ -1891,11 +1917,11 @@
         "source": "hanabira.org"
       }
     ],
-    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification."
   },
   "N5:grammar:hana-98f331e09103": {
     "formation": "どこへも + verb polite negative ません; past negative ませんでした.",
-    "notes": "Negates all destinations. 走りませんでした means did not run, not could not run. Final 連れて行かせません is causative, not simple 連れて行きません; causee and carried person are omitted. Permission versus non-compulsion is context-sensitive; final example remains provisional.",
+    "notes": "Negates all destinations. 走りませんでした means did not run, not could not run. The final example is an explicitly authored simple take-someone sentence with 私を, not the old causative; original omitted-role causative is archived.",
     "original_example_3": {
       "ja": "彼女はどこへも連れて行かせません。",
       "en": "She won't take me anywhere.",
@@ -1921,13 +1947,13 @@
         "source": "hanabira.org"
       },
       {
-        "ja": "彼女はどこへも連れて行かせません。",
-        "en": "She will not let or make [someone] take [someone] anywhere. (Causative roles and context omitted; provisional.)",
-        "romaji": "Kanojo wa doko e mo tsurete ikasemasen.",
-        "source": "hanabira.org"
+        "ja": "彼女は私をどこへも連れて行きません。",
+        "en": "She does not take me anywhere.",
+        "romaji": "Kanojo wa watashi wo doko e mo tsurete ikimasen.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
       }
     ],
-    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification."
   },
   "N5:grammar:hana-514b856cde73": {
     "meaning": "No relevant place has the specified thing; nowhere, with a negative predicate.",
@@ -1968,8 +1994,34 @@
   },
   "N5:grammar:hana-fac72f537c21": {
     "formation": "どこも + verb masu-stem + ません; also na-adjective + じゃありません.",
-    "notes": "Remove ます before adding ません; do not form ますません. 静かじゃありません is a na-adjective negative. Inability comes from forms such as できません, not from どこも itself. Final no-place-knows-him example lacks institutional/metonymic context and remains provisional.",
-    "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+    "notes": "Remove ます before adding ません. 静かじゃありません is a na-adjective negative. Inability comes from できません, not どこも. Final example explicitly refers to shops in this town on Sundays; the old no-place-knows-him sentence is archived.",
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification.",
+    "examples": [
+      {
+        "ja": "どこも静かじゃありません。",
+        "en": "Nowhere is quiet.",
+        "romaji": "Doko mo shizuka ja arimasen.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "どこもその本を売っていません。",
+        "en": "Nowhere sells that book.",
+        "romaji": "Doko mo sono hon wo utte imasen.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この地域では、どこもインターネットに接続できません。",
+        "en": "In this area, nowhere can connect to the internet.",
+        "romaji": "Kono chiiki de wa, doko mo intaanetto ni setsuzoku dekimasen.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "日曜日は、この町の店はどこも開いていません。",
+        "en": "On Sundays, no shops in this town are open.",
+        "romaji": "Nichiyoubi wa, kono machi no mise wa doko mo aite imasen.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ]
   },
   "N5:grammar:hana-4eda4e08e1c4": {
     "formation": "どちらが + predicate; どちらを + verb; どちらに + movement/selection verb; どちらの + noun.",
@@ -2004,8 +2056,34 @@
   "N5:grammar:hana-fff6cd308373": {
     "meaning": "What, or how many/how old with an appropriate counter: the なん reading of 何.",
     "formation": "なんですか; なん + an appropriate age/number counter; なんと + 言う.",
-    "notes": "なん is a reading of 何, not an abbreviation. Do not prefix it indiscriminately to any verb or adjective. なに and なん depend on the expression. なんで来ましたか permits reason or means-of-arrival readings; this example remains contextually unresolved.",
-    "review_note": "Semantic pass082: what-kind, indefinite things, total negation, nan/nande, anything and naming. なんで来ましたか remains provisional; final cafeteria example syntax explicitly repaired with original retained. AI semantic review, no native-speaker certification."
+    "notes": "なん is a reading of 何, not an abbreviation. Do not prefix it to arbitrary verbs/adjectives. なに and なん depend on the expression. The authored transport choices in example3 make 何で instrumental; original reason-versus-means ambiguity remains documented in the archive.",
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification.",
+    "examples": [
+      {
+        "ja": "あなたはなん歳ですか？",
+        "en": "How old are you?",
+        "romaji": "Anata wa nan-sai desu ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "これはなんですか？",
+        "en": "What is this?",
+        "romaji": "Kore wa nan desu ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼は何で来ましたか。バスですか、電車ですか。",
+        "en": "How did he get here: by bus or by train?",
+        "romaji": "Kare wa nan de kimashita ka. Basu desu ka, densha desu ka.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "あのレストランはなんと言う名前ですか？",
+        "en": "What is the name of that restaurant?",
+        "romaji": "Ano resutoran wa nan to iu namae desu ka?",
+        "source": "hanabira.org"
+      }
+    ]
   },
   "N5:grammar:hana-e6e4a9c65d8b": {
     "formation": "なんで + interrogative clause; the examples use verb/i-adjective + の or noun + な + の.",
@@ -2093,8 +2171,34 @@
   },
   "N5:grammar:hana-faf9933075ee": {
     "formation": "Receiver は/が + giver に/から + thing を + もらいます; beneficiary は/が + performer に + verb te-form + もらいます.",
-    "notes": "The receiver/beneficiary is the subject; に marks the giver or performer. Vてもらう views a service as benefiting that subject, not simply ownership. The おばあさん example is provisional: grandmother versus older woman and kinship side are not established by Japanese context.",
-    "review_note": "Semantic pass083: giver/receiver roles, task difficulty, nearly all versus hardly, moderate evaluation and still/not yet. Obaasan letter example remains pending contextual/kinship review. No native-speaker certification."
+    "notes": "Receiver/beneficiary is subject; に marks giver or performer. Vてもらう presents a service as benefiting that subject. The authored maternal-grandmother example explicitly says 母の母; original obaasan ambiguity is archived, not guessed.",
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification.",
+    "examples": [
+      {
+        "ja": "友達にプレゼントをもらいました。",
+        "en": "I received a gift from my friend.",
+        "romaji": "Tomodachi ni purezento wo moraimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "先生にアドバイスをもらいました。",
+        "en": "I got advice from my teacher.",
+        "romaji": "Sensei ni adobaisu wo moraimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "母の母に手紙を書いてもらいました。",
+        "en": "My maternal grandmother wrote a letter for me.",
+        "romaji": "Haha no haha ni tegami wo kaite moraimashita.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "弟に宿題を手伝ってもらいました。",
+        "en": "I got help from my younger brother with my homework.",
+        "romaji": "Otouto ni shukudai wo tetsudatte moraimashita.",
+        "source": "hanabira.org"
+      }
+    ]
   },
   "N5:grammar:hana-180072f0dc7d": {
     "formation": "Noun は たいへんです; dictionary-form verb + のはたいへんです.",
@@ -2149,5 +2253,89 @@
     "formation": "Place に + existent thing が + あります.",
     "notes": "に marks location, が the existent subject, not a direct object. Generally use あります for things/plants and います for people/animals. 池 is a pond, コンビニ a convenience store and 神社 a Shinto shrine.",
     "review_note": "Semantic pass084: already/no longer/soon, comparative more, often versus well, and locative existence. Character gloss review follows N5 grammar. AI semantic review; no native-speaker certification."
+  },
+  "N5:vocab:03d7b15720": {
+    "examples": [
+      {
+        "ja": "父の姉である伯母は、東京に住んでいます。",
+        "en": "My aunt, my father’s older sister, lives in Tokyo.",
+        "romaji": "Chichi no ane de aru oba wa, Toukyou ni sunde imasu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "母の兄の妻である伯母に会いました。",
+        "en": "I met my aunt, the wife of my mother’s older brother.",
+        "romaji": "Haha no ani no tsuma de aru oba ni aimashita.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification."
+  },
+  "N5:vocab:687082e55c": {
+    "examples": [
+      {
+        "ja": "駅まで歩いて十分かかります。",
+        "en": "It takes ten minutes to walk to the station.",
+        "romaji": "Eki made aruite juppun kakarimasu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "この旅行には三万円かかります。",
+        "en": "This trip costs thirty thousand yen.",
+        "romaji": "Kono ryokou ni wa san-man-en kakarimasu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification."
+  },
+  "N5:vocab:0ce2b98d3b": {
+    "examples": [
+      {
+        "ja": "１０円で電話がかけられますか。",
+        "furigana": "１０{円|えん}で{電話|でんわ}がかけられますか。",
+        "en": "Can I make a phone call for ten yen?",
+        "tatoeba_id": 236074
+      },
+      {
+        "ja": "今夜、母に電話をかけます。",
+        "en": "I will phone my mother tonight.",
+        "romaji": "Konya, haha ni denwa wo kakemasu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification."
+  },
+  "N5:vocab:9d648d38ad": {
+    "examples": [
+      {
+        "ja": "父の弟が私にカメラをくれました。",
+        "en": "My father’s younger brother gave me a camera.",
+        "romaji": "Chichi no otouto ga watashi ni kamera wo kuremashita.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "このカメラはドイツでつくられた。",
+        "en": "This camera was made in Germany.",
+        "tatoeba_id": 223885
+      }
+    ],
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification."
+  },
+  "N5:vocab:61fd50f12e": {
+    "examples": [
+      {
+        "ja": "来月タクシー料金があがります。",
+        "furigana": "{来月|らいげつ}タクシー{料金|りょうきん}があがります。",
+        "en": "Taxi fares will go up next month.",
+        "tatoeba_id": 78688
+      },
+      {
+        "ja": "母の弟は、来月でニューヨークに住んで丸二年になります。",
+        "en": "Next month, my mother’s younger brother will have lived in New York for two full years.",
+        "romaji": "Haha no otouto wa, raigetsu de Nyuuyooku ni sunde maru ni-nen ni narimasu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "review_note": "Pass086: explicitly authored example replacements; originals and unresolved original contexts retained in translations/example-replacements.json. Stable entry IDs and example indices preserved. No native-speaker certification."
   }
 }

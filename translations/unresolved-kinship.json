@@ -6,6 +6,11 @@
       "ne.examples.0",
       "ne.examples.1"
     ],
-    "issue": "Japanese aunt does not specify parental side; Bengali khala and Nepali kaki narrow this. Native review needed for neutral compact terminology. Not counted reviewed."
+    "issue": "Japanese aunt does not specify parental side; Bengali khala and Nepali kaki narrow this. Native review needed for neutral compact terminology. Not counted reviewed.",
+    "status": "resolved-for-active-content",
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   }
 }

@@ -2,155 +2,155 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 7070,
-  "pending_fields": 72108,
+  "ai_semantic_checked_fields": 7094,
+  "pending_fields": 72084,
   "checked_by_level": {
-    "N5": 7070
+    "N5": 7094
   },
   "authored_entry_glosses": 779,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "03d7b15720",
+      "id": "4fff6d0441",
       "language": "bn",
       "field": "meaning"
     },
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "03d7b15720",
+      "id": "4fff6d0441",
       "language": "bn",
       "field": "examples.0"
     },
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "03d7b15720",
+      "id": "4fff6d0441",
       "language": "bn",
       "field": "examples.1"
     },
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "03d7b15720",
+      "id": "4fff6d0441",
       "language": "ne",
       "field": "meaning"
     },
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "03d7b15720",
+      "id": "4fff6d0441",
       "language": "ne",
       "field": "examples.0"
     },
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "03d7b15720",
+      "id": "4fff6d0441",
       "language": "ne",
       "field": "examples.1"
     },
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "0ce2b98d3b",
+      "id": "6a4011f27f",
       "language": "bn",
-      "field": "examples.1"
+      "field": "meaning"
     },
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "0ce2b98d3b",
-      "language": "ne",
-      "field": "examples.1"
-    },
-    {
-      "level": "N5",
-      "kind": "vocab",
-      "id": "9d648d38ad",
+      "id": "6a4011f27f",
       "language": "bn",
       "field": "examples.0"
     },
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "9d648d38ad",
+      "id": "6a4011f27f",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N4",
+      "kind": "vocab",
+      "id": "6a4011f27f",
+      "language": "ne",
+      "field": "meaning"
+    },
+    {
+      "level": "N4",
+      "kind": "vocab",
+      "id": "6a4011f27f",
       "language": "ne",
       "field": "examples.0"
     },
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "61fd50f12e",
-      "language": "bn",
+      "id": "6a4011f27f",
+      "language": "ne",
       "field": "examples.1"
     },
     {
-      "level": "N5",
+      "level": "N4",
       "kind": "vocab",
-      "id": "61fd50f12e",
-      "language": "ne",
-      "field": "examples.1"
+      "id": "c3c3ac9f48",
+      "language": "bn",
+      "field": "meaning"
     },
     {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-e76c3790e5cc",
+      "level": "N4",
+      "kind": "vocab",
+      "id": "c3c3ac9f48",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N4",
+      "kind": "vocab",
+      "id": "c3c3ac9f48",
       "language": "bn",
       "field": "examples.1"
     },
     {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-e76c3790e5cc",
+      "level": "N4",
+      "kind": "vocab",
+      "id": "c3c3ac9f48",
+      "language": "ne",
+      "field": "meaning"
+    },
+    {
+      "level": "N4",
+      "kind": "vocab",
+      "id": "c3c3ac9f48",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N4",
+      "kind": "vocab",
+      "id": "c3c3ac9f48",
       "language": "ne",
       "field": "examples.1"
     },
     {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-ffe2478eb6df",
+      "level": "N4",
+      "kind": "vocab",
+      "id": "d1a343e501",
       "language": "bn",
-      "field": "examples.2"
+      "field": "meaning"
     },
     {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-ffe2478eb6df",
-      "language": "ne",
-      "field": "examples.2"
-    },
-    {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-98f331e09103",
+      "level": "N4",
+      "kind": "vocab",
+      "id": "d1a343e501",
       "language": "bn",
-      "field": "examples.3"
-    },
-    {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-98f331e09103",
-      "language": "ne",
-      "field": "examples.3"
-    },
-    {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-fac72f537c21",
-      "language": "bn",
-      "field": "examples.3"
-    },
-    {
-      "level": "N5",
-      "kind": "grammar",
-      "id": "hana-fac72f537c21",
-      "language": "ne",
-      "field": "examples.3"
+      "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass085: 134 new Bengali/Nepali N5 kanji meaning fields at indices17–83 checked. Corrected fire/four, wood/bull, right/correct, interval/interview, counter and radical labels, zodiac time periods, printing proof and old measurement/honorific senses. N5 kanji meaning traversal finished; this is not whole-level completion. Next inspect all remaining N5 pending fields and prior unresolved context records before moving to N4. Native-speaker review remains not performed."
+  "latest_pass": "Pass086: 24 previously pending N5 fields now have defensible current-content review; 28 changed-source or revised fields rechecked (52 appended records). Ambiguous/misaligned examples replaced by explicitly AI-authored, context-complete examples; originals, attribution and unresolved original-context limitations retained in example-replacements.json. Aunt headword uses full older-parent-sibling/older-brothers-wife description, and replacement examples state relationships. Current scoped N5 fields have hash-bound AI review; no claim of native review or exhaustiveness. Resume N4 vocabulary index0."
 }

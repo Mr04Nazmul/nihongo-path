@@ -5,11 +5,19 @@
       "bn",
       "ne"
     ],
-    "status": "needs-context-review"
+    "status": "resolved-for-active-content",
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   },
   "687082e55c": {
     "issue": "Current examples illustrate engine-start and completion senses beyond headword time/cost. Examples translated; teaching alignment still needs source-example replacement or sense expansion.",
-    "status": "needs-source-alignment"
+    "status": "resolved-for-active-content",
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   },
   "9d648d38ad.examples.0": {
     "issue": "Japanese ojisan can denote uncle or middle-aged man; English selects uncle but parental side unspecified. Alternatives rendered explicitly, awaiting context/kinship terminology review; not counted reviewed.",
@@ -17,7 +25,11 @@
       "bn",
       "ne"
     ],
-    "status": "needs-context-review"
+    "status": "resolved-for-active-content",
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   },
   "61fd50f12e.examples.1": {
     "issue": "おじ selects male uncle but no parental side, blood/marriage or relative age context. Bengali/Nepali alternatives explicit; duration future perfect corrected, but not counted semantic-reviewed pending contextual kinship terminology review.",
@@ -25,7 +37,11 @@
       "bn",
       "ne"
     ],
-    "status": "needs-context-review"
+    "status": "resolved-for-active-content",
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   },
   "hana-e76c3790e5cc.examples.1": {
     "level": "N5",
@@ -38,7 +54,7 @@
     "fields": [
       "examples.1"
     ],
-    "status": "needs-context-review",
+    "status": "resolved-for-active-content",
     "field_records": [
       {
         "level": "N5",
@@ -72,7 +88,11 @@
           "早い early/quick vs English fast: missing activity/time context; provisional negation correction only."
         ]
       }
-    ]
+    ],
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   },
   "hana-ffe2478eb6df.examples.2": {
     "level": "N5",
@@ -85,7 +105,7 @@
     "fields": [
       "examples.2"
     ],
-    "status": "needs-context-review",
+    "status": "resolved-for-active-content",
     "field_records": [
       {
         "level": "N5",
@@ -119,7 +139,11 @@
           "Negative destination/direction, not unrestricted action location. Reviewed this weekend not going, she did not GO shopping (past, not merely no purchases), and no plan to go anywhere. Source supermarket example contrasts Japanese supermarket as seller with English at-any-supermarket passive; omitted object and teaching alignment remain unresolved for both example translations. JF wh+mo negative and particle placement BTS00142 read 2026-10-29."
         ]
       }
-    ]
+    ],
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   },
   "hana-fac72f537c21.examples.3": {
     "level": "N5",
@@ -132,7 +156,7 @@
     "fields": [
       "examples.3"
     ],
-    "status": "needs-context-review",
+    "status": "resolved-for-active-content",
     "field_records": [
       {
         "level": "N5",
@@ -166,7 +190,11 @@
           "Corrects duplicated masu+masen to masu-stem+masen. First example is na-adjective negative, not a verb-only rule. Nowhere quiet, THAT book not THIS, internet inability specifically in THIS area. Final no-place-knows-him lacks institutional/metonymic context and is only provisional; both fields excluded from confirmed count."
         ]
       }
-    ]
+    ],
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   },
   "hana-98f331e09103.examples.3": {
     "level": "N5",
@@ -179,7 +207,7 @@
     "fields": [
       "examples.3"
     ],
-    "status": "needs-context-review",
+    "status": "resolved-for-active-content",
     "field_records": [
       {
         "level": "N5",
@@ -213,7 +241,11 @@
           "Negative destination with polite negative, not an affirmative place statement. Today future intention and the past negatives are preserved; running NOT performed, no invented inability. Final tsurete ikasemasen is causative, not simple tsurete ikimasen: original English invents me and loses causation. Provisional alternatives only, both final-example fields remain pending contextual review."
         ]
       }
-    ]
+    ],
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   },
   "hana-fff6cd308373.examples.2": {
     "level": "N5",
@@ -226,7 +258,7 @@
     "fields": [
       "examples.2"
     ],
-    "status": "needs-context-review",
+    "status": "resolved-for-active-content",
     "field_records": [
       {
         "level": "N5",
@@ -260,7 +292,11 @@
           "Nan is a reading of kanji nani/nan, not abbreviation or arbitrary nan+verb/adjective. Age question not old-object why; THISwhat; THATrestaurantname notTHIS or why. Example2 zero-based nande kimashita can ask reason or means of arrival; original EN onlywhy does not resolve JP ambiguity, both translations provisional and excluded. TUFS 何 reading and travel example inspected2026-10-29 https://www.coelang.tufs.ac.jp/mt/ja/vmod/v_search_detail.php?id=1933&ls=%E3%81%AA&rf=3 ; JF BTS00006 lists nande/nanide means."
         ]
       }
-    ]
+    ],
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   },
   "hana-faf9933075ee.examples.2": {
     "level": "N5",
@@ -273,7 +309,7 @@
     "fields": [
       "examples.2"
     ],
-    "status": "needs-context-review",
+    "status": "resolved-for-active-content",
     "field_records": [
       {
         "level": "N5",
@@ -307,6 +343,10 @@
           "Receiving subject versus giver marked ni/from; te-morau service beneficiary distinguished from simple object transfer. Friend gift and teacher advice are past received, not present possession; younger brother HELPS speaker with HOMEWORK, not housework at brothers house. Obaasan letter example has grandmother/older-woman ambiguity and no maternal/paternal side; original English grandma insufficient to settle JP, both example2 fields remain unresolved. JF receiver as subject inspected2026-10-29 https://www.kyozai.jpf.go.jp/kyozai/material/BTS00114/ja/render.do ."
         ]
       }
-    ]
+    ],
+    "resolved_on": "2026-10-29",
+    "resolution": "Explicit authored replacement with original archived; aunt meaning uses full kinship description.",
+    "resolution_evidence": "translations/example-replacements.json and current per-field hashes in review-ledger.jsonl",
+    "original_context_recovered": false
   }
 }
