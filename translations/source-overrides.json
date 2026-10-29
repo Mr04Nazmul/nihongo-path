@@ -1990,5 +1990,100 @@
     "formation": "どれでも + predicate, e.g. いいです / おいしいです / 選んでください.",
     "notes": "Any or whichever of the available items. どれでもおいしい means whichever one is chosen is delicious. だれでも, いつでも and どこでも are parallel forms for other referents, not additions attached to どれでも.",
     "review_note": "Semantic pass081: destination negation, hand-fan/ramen senses, polite WHO, two-way choice and which/whichever. Three underspecified examples remain pending in unresolved-example-senses.json; no native-speaker certification."
+  },
+  "N5:grammar:hana-1e79f33dc4a5": {
+    "formation": "なにか + (appropriate particle) + predicate; optionally specify with a noun or an adjective+noun phrase.",
+    "notes": "An indefinite thing. It can stand independently (なにかあります) and is not restricted to modifying a following noun. Particles follow wh+か; が/を may be omitted. Preserve conditionals and 遠慮なく (without hesitation).",
+    "review_note": "Semantic pass082: what-kind, indefinite things, total negation, nan/nande, anything and naming. なんで来ましたか remains provisional; final cafeteria example syntax explicitly repaired with original retained. AI semantic review, no native-speaker certification."
+  },
+  "N5:grammar:hana-99e8c357bf07": {
+    "formation": "なにも + verb masu-stem + ません; past negative ませんでした.",
+    "notes": "Remove ます before adding ません. Total object negation does not inherently mean inability: 食べませんでした is did not eat; 見えません describes lack of visibility.",
+    "review_note": "Semantic pass082: what-kind, indefinite things, total negation, nan/nande, anything and naming. なんで来ましたか remains provisional; final cafeteria example syntax explicitly repaired with original retained. AI semantic review, no native-speaker certification."
+  },
+  "N5:grammar:hana-fff6cd308373": {
+    "meaning": "What, or how many/how old with an appropriate counter: the なん reading of 何.",
+    "formation": "なんですか; なん + an appropriate age/number counter; なんと + 言う.",
+    "notes": "なん is a reading of 何, not an abbreviation. Do not prefix it indiscriminately to any verb or adjective. なに and なん depend on the expression. なんで来ましたか permits reason or means-of-arrival readings; this example remains contextually unresolved.",
+    "review_note": "Semantic pass082: what-kind, indefinite things, total negation, nan/nande, anything and naming. なんで来ましたか remains provisional; final cafeteria example syntax explicitly repaired with original retained. AI semantic review, no native-speaker certification."
+  },
+  "N5:grammar:hana-e6e4a9c65d8b": {
+    "formation": "なんで + interrogative clause; the examples use verb/i-adjective + の or noun + な + の.",
+    "notes": "Casual reason/why question in the supplied contexts. Preserve past lateness, current dirtiness, current anger and a day off today. Other contexts can give 何で an instrumental meaning.",
+    "review_note": "Semantic pass082: what-kind, indefinite things, total negation, nan/nande, anything and naming. なんで来ましたか remains provisional; final cafeteria example syntax explicitly repaired with original retained. AI semantic review, no native-speaker certification."
+  },
+  "N5:grammar:hana-79987150e582": {
+    "meaning": "Anything; any thing or action; whatever (not anyone).",
+    "formation": "なんでも + appropriately formed predicate, e.g. 食べられる / できる / いいです.",
+    "notes": "Refers to things or actions, not persons (だれでも). Ability is expressed by 食べられる/できる, not なんでも alone. The final source sentence has been explicitly repaired so the served dishes are the topic; its original is retained.",
+    "original_example_3": {
+      "ja": "この食堂では、なんでも美味しくて安い料理が出されます。",
+      "en": "In this cafeteria, any dish served is delicious and inexpensive.",
+      "romaji": "Kono shokudou de wa, nandemo oishikute yasui ryouri ga dasaremasu.",
+      "source": "hanabira.org"
+    },
+    "examples": [
+      {
+        "ja": "なんでも食べられるから、何を頼んでも大丈夫です。",
+        "en": "I can eat anything, so it's okay to order whatever you want.",
+        "romaji": "Nandemo taberareru kara, nani wo tanondemo daijoubu desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "なんでもよければ、この本をおすすめします。",
+        "en": "If you're okay with anything, I recommend this book.",
+        "romaji": "Nandemo yokereba, kono hon wo osusume shimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "なんでもできるスタッフを探しています。",
+        "en": "We are looking for a staff member who can do anything.",
+        "romaji": "Nandemo dekiru sutaffu wo sagashiteimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この食堂では、出される料理はなんでも美味しくて安いです。",
+        "en": "In this cafeteria, any dish served is delicious and inexpensive.",
+        "romaji": "Kono shokudou de wa, dasareru ryouri wa nandemo oishikute yasui desu.",
+        "source": "AI-authored syntax repair of hanabira.org example; original retained in source overrides."
+      }
+    ],
+    "review_note": "Semantic pass082: what-kind, indefinite things, total negation, nan/nande, anything and naming. なんで来ましたか remains provisional; final cafeteria example syntax explicitly repaired with original retained. AI semantic review, no native-speaker certification."
+  },
+  "N5:grammar:hana-f0f314864622": {
+    "formation": "Topic to be named + は + なんと言いますか; also これをなんと言いますか.",
+    "notes": "Asks the name or usual expression for something. と marks the naming expression. 日本で is in Japan, not 日本語で (in Japanese). Do not treat が as an interchangeable default topic marker.",
+    "original_example_2": {
+      "ja": "日本でこれはなんと言いますか。",
+      "en": "How do you say this in Japanese?",
+      "romaji": "Nihon de kore wa nan to iimasu ka."
+    },
+    "examples": [
+      {
+        "ja": "この花はなんと言いますか。",
+        "en": "What is this flower called?",
+        "romaji": "Kono hana wa nan to iimasu ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この料理はなんと言いますか。",
+        "en": "What do you call this dish?",
+        "romaji": "Kono ryouri wa nan to iimasu ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "日本でこれはなんと言いますか。",
+        "en": "What is this called in Japan?",
+        "romaji": "Nihon de kore wa nan to iimasu ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "その映画の名前はなんと言いますか。",
+        "en": "What is the name of that movie?",
+        "romaji": "Sono eiga no namae wa nan to iimasu ka.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass082: what-kind, indefinite things, total negation, nan/nande, anything and naming. なんで来ましたか remains provisional; final cafeteria example syntax explicitly repaired with original retained. AI semantic review, no native-speaker certification."
   }
 }

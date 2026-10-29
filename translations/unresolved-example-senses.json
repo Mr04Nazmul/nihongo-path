@@ -214,5 +214,52 @@
         ]
       }
     ]
+  },
+  "hana-fff6cd308373.examples.2": {
+    "level": "N5",
+    "kind": "grammar",
+    "issue": "Nan is a reading of kanji nani/nan, not abbreviation or arbitrary nan+verb/adjective. Age question not old-object why; THISwhat; THATrestaurantname notTHIS or why. Example2 zero-based nande kimashita can ask reason or means of arrival; original EN onlywhy does not resolve JP ambiguity, both translations provisional and excluded. TUFS 何 reading and travel example inspected2026-10-29 https://www.coelang.tufs.ac.jp/mt/ja/vmod/v_search_detail.php?id=1933&ls=%E3%81%AA&rf=3 ; JF BTS00006 lists nande/nanide means.",
+    "languages": [
+      "bn",
+      "ne"
+    ],
+    "fields": [
+      "examples.2"
+    ],
+    "status": "needs-context-review",
+    "field_records": [
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-fff6cd308373",
+        "language": "bn",
+        "field": "examples.2",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "eefa936eaefaecec89f79efd417d0fad325cc268260e9eefacb065cfeb622ec3",
+        "translation_sha256": "47bede396a87e92d9516c30579aef02ed8d31a2fbe2422f807de0e66d2ce06ab",
+        "basis": "Nan is a reading of kanji nani/nan, not abbreviation or arbitrary nan+verb/adjective. Age question not old-object why; THISwhat; THATrestaurantname notTHIS or why. Example2 zero-based nande kimashita can ask reason or means of arrival; original EN onlywhy does not resolve JP ambiguity, both translations provisional and excluded. TUFS 何 reading and travel example inspected2026-10-29 https://www.coelang.tufs.ac.jp/mt/ja/vmod/v_search_detail.php?id=1933&ls=%E3%81%AA&rf=3 ; JF BTS00006 lists nande/nanide means.",
+        "unresolved": [
+          "Nan is a reading of kanji nani/nan, not abbreviation or arbitrary nan+verb/adjective. Age question not old-object why; THISwhat; THATrestaurantname notTHIS or why. Example2 zero-based nande kimashita can ask reason or means of arrival; original EN onlywhy does not resolve JP ambiguity, both translations provisional and excluded. TUFS 何 reading and travel example inspected2026-10-29 https://www.coelang.tufs.ac.jp/mt/ja/vmod/v_search_detail.php?id=1933&ls=%E3%81%AA&rf=3 ; JF BTS00006 lists nande/nanide means."
+        ]
+      },
+      {
+        "level": "N5",
+        "kind": "grammar",
+        "id": "hana-fff6cd308373",
+        "language": "ne",
+        "field": "examples.2",
+        "status": "needs-context-review",
+        "reviewer": "AI-assisted semantic pass; no native-speaker certification",
+        "reviewed_on": "2026-10-29",
+        "source_sha256": "eefa936eaefaecec89f79efd417d0fad325cc268260e9eefacb065cfeb622ec3",
+        "translation_sha256": "7aae1348ca76df8e7632fa7ff4e1f9a087af188d92bab2334947871ce5c31a10",
+        "basis": "Nan is a reading of kanji nani/nan, not abbreviation or arbitrary nan+verb/adjective. Age question not old-object why; THISwhat; THATrestaurantname notTHIS or why. Example2 zero-based nande kimashita can ask reason or means of arrival; original EN onlywhy does not resolve JP ambiguity, both translations provisional and excluded. TUFS 何 reading and travel example inspected2026-10-29 https://www.coelang.tufs.ac.jp/mt/ja/vmod/v_search_detail.php?id=1933&ls=%E3%81%AA&rf=3 ; JF BTS00006 lists nande/nanide means.",
+        "unresolved": [
+          "Nan is a reading of kanji nani/nan, not abbreviation or arbitrary nan+verb/adjective. Age question not old-object why; THISwhat; THATrestaurantname notTHIS or why. Example2 zero-based nande kimashita can ask reason or means of arrival; original EN onlywhy does not resolve JP ambiguity, both translations provisional and excluded. TUFS 何 reading and travel example inspected2026-10-29 https://www.coelang.tufs.ac.jp/mt/ja/vmod/v_search_detail.php?id=1933&ls=%E3%81%AA&rf=3 ; JF BTS00006 lists nande/nanide means."
+        ]
+      }
+    ]
   }
 }

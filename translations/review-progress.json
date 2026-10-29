@@ -2,10 +2,10 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-29",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 6612,
-  "pending_fields": 72566,
+  "ai_semantic_checked_fields": 6722,
+  "pending_fields": 72456,
   "checked_by_level": {
-    "N5": 6612
+    "N5": 6722
   },
   "authored_entry_glosses": 695,
   "native_speaker_review": "not performed",
@@ -152,5 +152,5 @@
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass081: 106 new N5 grammar fields at indices192–199 semantically checked in Bengali/Nepali; 6 example fields kept pending in unresolved-example-senses.json for omitted sales object, causative roles and institutional referent. Corrected destination negation, hand-fan and ramen senses, duplicated masu formation, polite WHO, two-way choice, which/whichever and original English sense mismatches. Earlier ambiguities remain pending. Resume N5 grammar index200."
+  "latest_pass": "Pass082: 110 new N5 grammar fields at indices200–207 semantically checked in Bengali/Nepali; 2 nande-kimashita example fields kept pending for reason-versus-means ambiguity. Corrected what-kind subject and cooking skill, indefinite something, total object negation, past versus inability, masu-stem formation, nan reading, reason questions, anything not anyone, and naming in Japan versus Japanese language. Cafeteria example syntax repaired with original preserved. Earlier ambiguities remain pending. Resume N5 grammar index208."
 }
