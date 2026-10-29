@@ -1346,5 +1346,74 @@
       }
     ],
     "review_note": "Semantic pass074: align range, approximation, alternatives and decision details to Japanese; evidence in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-8e1741ff5e00": {
+    "meaning": "Become or change into a noun-denoted identity or state.",
+    "notes": "Noun に なります marks becoming, not simply static is. 赤 is a color noun in example2. Example3 instead illustrates i-adjective negative change, 美味しくなくなります (becomes not delicious). The former unanchored Tokyo Olympics sentence was replaced with an authored college-student example; provenance is recorded in the semantic ledger.",
+    "examples": [
+      {
+        "ja": "彼は医者になります。",
+        "en": "He will become a doctor.",
+        "romaji": "Kare wa isha ni narimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この茶色の葉が赤になります。",
+        "en": "These brown leaves will turn red.",
+        "romaji": "Kono chairo no ha ga aka ni narimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "料理が冷めたら、美味しくなくなります。",
+        "en": "When the dish cools down, it is no longer delicious.",
+        "romaji": "Ryouri ga sametara, oishikunaku narimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "来年、大学生になります。",
+        "en": "Next year, I will become a university student.",
+        "romaji": "Rainen, daigakusei ni narimasu.",
+        "source": "Authored semantic correction; replaces an unanchored source example."
+      }
+    ],
+    "review_note": "Semantic pass075: align change, desire formation and nominalization; factual/example changes with original wording recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-53b90e0dcd0a": {
+    "formation": "ます-stem + たいです: 食べます→食べたいです, 行きます→行きたいです, します→したいです, 来ます→来たいです (きたいです). Not every verb ending in る is ichidan: 帰る→帰りたいです.",
+    "notes": "たい expresses wanting to do an action and inflects like an i-adjective. It normally expresses the speakers own desire directly; third-person statements require suitable context/evidence and often use reported たいと言っています or observable たがっています. Do not form every る-ending verb by removing る; use the masu-stem rule, including kuru→kitai.",
+    "review_note": "Semantic pass075: align change, desire formation and nominalization; factual/example changes with original wording recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-3b4ef3b79856": {
+    "examples": [
+      {
+        "ja": "冷凍庫に入れると、溶けたアイスクリームは固体に戻ります。",
+        "en": "When put in the freezer, melted ice cream returns to its solid state.",
+        "romaji": "Reitouko ni ireru to, toketa aisukuriimu wa kotai ni modorimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "休暇が終わったら、仕事に戻ります。",
+        "en": "When the vacation ends, I will return to work.",
+        "romaji": "Kyuuka ga owattara, shigoto ni modorimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "リモートワークが終わった後、元のオフィスに戻ります。",
+        "en": "After remote work is over, we will return to our original office.",
+        "romaji": "Rimooto waaku ga owatta ato, moto no ofisu ni modorimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "外国で勉強した後、日本に帰ります。",
+        "en": "After studying abroad, I will return to Japan.",
+        "romaji": "Gaikoku de benkyou shita ato, Nihon ni kaerimasu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass075: align change, desire formation and nominalization; factual/example changes with original wording recorded in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-b4874f4038ce": {
+    "notes": "Dictionary-form verb + こと nominalizes the action as a concept. Dictionary form is not restricted to verbs ending in る: 泳ぐ, 話す and 歌う also occur. Particles such as は or が then place the nominalized action in the sentence.",
+    "review_note": "Semantic pass075: align change, desire formation and nominalization; factual/example changes with original wording recorded in review-ledger.jsonl."
   }
 }
