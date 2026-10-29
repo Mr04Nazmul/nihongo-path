@@ -3677,5 +3677,274 @@
         "basis": "通う repeated commute/attend, not computer. Mike habitual bus transport to school, not driving bus/wanting. 弟 younger brother (Nepaliभाइ vsदाइ), same school as speaker with both attendees, not speakers home equals school."
       }
     ]
+  },
+  "N4:vocab:4c9297421b": {
+    "meanings": [
+      "glass (material)",
+      "a glass pane"
+    ],
+    "review_note": "Pass094: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "cb0c9565f6aaa755a78e2075966307faba6db63e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "a glass pane"
+            ],
+            "replacement": [
+              "glass (material)",
+              "a glass pane"
+            ]
+          }
+        ],
+        "basis": "ガラス denotes glass material and pane, not drinking vessel/pan. Beer-bottle material relation restored. Windscreen not ship/screen; カチカチ hard frozen condition interpreted with paired English ice context; no possessor invented."
+      }
+    ]
+  },
+  "N4:vocab:0963c50b58": {
+    "examples": [
+      {
+        "ja": "彼のスイングは実に見事だ。",
+        "furigana": "{彼|かれ}のスイングは{実|じつ}に{見事|みごと}だ。",
+        "en": "His swing is truly splendid.",
+        "tatoeba_id": 75797
+      },
+      {
+        "ja": "私の前の彼はポルトガル育ちでした。",
+        "en": "My ex-boyfriend was brought up in Portugal.",
+        "tatoeba_id": 163186
+      }
+    ],
+    "review_note": "Pass094: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "cb0c9565f6aaa755a78e2075966307faba6db63e",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "He has a perfect swing.",
+            "replacement": "His swing is truly splendid."
+          }
+        ],
+        "basis": "彼 male pronoun/boyfriend not female friend. Swing remains unspecified sport, not switch. 前の彼 ex-boyfriend and Portugal upbringing retained; Japanese 見事 excellent rather than stronger perfect."
+      }
+    ]
+  },
+  "N4:vocab:34071d7901": {
+    "meanings": [
+      "substitute; replacement; instead",
+      "another helping or refill (in お代わり)"
+    ],
+    "review_note": "Pass094: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "cb0c9565f6aaa755a78e2075966307faba6db63e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "substitute",
+              "alternate"
+            ],
+            "replacement": [
+              "substitute; replacement; instead",
+              "another helping or refill (in お代わり)"
+            ]
+          }
+        ],
+        "basis": "代わり replacement/instead; お代わり food/drink second serving/refill, not alternating or mere replacement. Cards invitation and coffee-refill offer follow paired English dialogue reading; no invented first-person wish."
+      }
+    ]
+  },
+  "N4:vocab:ec1bdccf03": {
+    "meanings": [
+      "to change; to become different",
+      "unusual; strange (in 変わった)"
+    ],
+    "review_note": "Pass094: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "cb0c9565f6aaa755a78e2075966307faba6db63e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to change"
+            ],
+            "replacement": [
+              "to change; to become different",
+              "unusual; strange (in 変わった)"
+            ]
+          }
+        ],
+        "basis": "変わる intransitive change; attributive 変わった here unusual not newly altered. Marine organism not ship animal; recent discovery restored."
+      }
+    ]
+  },
+  "N4:vocab:f960d43119": {
+    "examples": [
+      {
+        "ja": "これとあれはどういう関係があるの。",
+        "furigana": "これとあれはどういう{関係|かんけい}があるの。",
+        "en": "How is this connected to that?",
+        "tatoeba_id": 218747
+      },
+      {
+        "ja": "私はそのこととは何の関係もない。",
+        "furigana": "{私|わたし}はそのこととは{何|なん}の{関係|かんけい}もない。",
+        "en": "I have nothing to do with that matter.",
+        "tatoeba_id": 160398
+      }
+    ],
+    "review_note": "Pass094: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "cb0c9565f6aaa755a78e2075966307faba6db63e",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I am not concerned with the matter.",
+            "replacement": "I have nothing to do with that matter."
+          }
+        ],
+        "basis": "関係 relationship/connection not mere acquaintance. 何の関係もない denies involvement, not emotional worry; both demonstratives and question restored."
+      }
+    ]
+  },
+  "N4:vocab:ab366b6c9d": {
+    "meanings": [
+      "mind; spirit",
+      "mood; disposition"
+    ],
+    "examples": [
+      {
+        "ja": "彼は親切というよりむしろ気がやさしい。",
+        "furigana": "{彼|かれ}は{親切|しんせつ}というよりむしろ{気|き}がやさしい。",
+        "en": "He is more gentle than kind.",
+        "tatoeba_id": 103674
+      },
+      {
+        "ja": "彼は気が多いやつだ。",
+        "furigana": "{彼|かれ}は{気|き}が{多|おお}いやつだ。",
+        "en": "His interests keep shifting; he cannot settle on one thing.",
+        "tatoeba_id": 108576
+      }
+    ],
+    "review_note": "Pass094: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "cb0c9565f6aaa755a78e2075966307faba6db63e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "spirit",
+              "mood"
+            ],
+            "replacement": [
+              "mind; spirit",
+              "mood; disposition"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "He's interested in many things.",
+            "replacement": "His interests keep shifting; he cannot settle on one thing."
+          }
+        ],
+        "basis": "気 psychological mood/disposition here not supernatural soul. というよりむしろ correction of description, not merely stronger kindness. 気が多い idiom includes shifting/unsettled interests (Imidas), not just neutral many interests; no unsupported romantic infidelity asserted."
+      }
+    ]
+  },
+  "N4:vocab:bbf69b64f8": {
+    "meanings": [
+      "technology",
+      "technique; skill"
+    ],
+    "examples": [
+      {
+        "ja": "近代技術は多くの物を与えてくれる。",
+        "furigana": "{近代|きんだい}{技術|ぎじゅつ}は{多|おお}くの{物|もの}を{与|あた}えてくれる。",
+        "en": "Modern technology gives us many things.",
+        "tatoeba_id": 179799
+      },
+      {
+        "ja": "私はそのピアニストのすばらしい技術に感心している。",
+        "furigana": "{私|わたし}はそのピアニストのすばらしい{技術|ぎじゅつ}に{感心|かんしん}している。",
+        "en": "I am impressed by that pianist's wonderful skill.",
+        "tatoeba_id": 160323
+      }
+    ],
+    "review_note": "Pass094: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "cb0c9565f6aaa755a78e2075966307faba6db63e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "art",
+              "technology",
+              "skill"
+            ],
+            "replacement": [
+              "technology",
+              "technique; skill"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I admire the pianist for her great skill.",
+            "replacement": "I am impressed by that pianist's wonderful skill."
+          }
+        ],
+        "basis": "技術 technology/technique/skill, art as skill not generic fine arts. Technology giver/us recipients; admiration directed to pianist skill, not piano/panel. Japanese pianist gender unspecified, English her removed rather than invented."
+      }
+    ]
+  },
+  "N4:vocab:b284605582": {
+    "examples": [
+      {
+        "ja": "でもよー、オラのおとうさんは良い気しねーよ、きっと。",
+        "furigana": "でもよー、オラのおとうさんは{良|よ}い{気|き}しねーよ、きっと。",
+        "en": "But, you know, my dad surely would not feel good about it.",
+        "tatoeba_id": 202091
+      },
+      {
+        "ja": "あなたの家族はきっと親切でしょう。",
+        "furigana": "あなたの{家族|かぞく}はきっと{親切|しんせつ}でしょう。",
+        "en": "Your family must surely be kind.",
+        "tatoeba_id": 233420
+      }
+    ],
+    "review_note": "Pass094: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "cb0c9565f6aaa755a78e2075966307faba6db63e",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "But I don't think Dad would like me to.",
+            "replacement": "But, you know, my dad surely would not feel good about it."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Your family must be very nice.",
+            "replacement": "Your family must surely be kind."
+          }
+        ],
+        "basis": "きっと speaker confidence/inference, not duty. Dialect オラ my/しねー negative; father would not feel good, not dislike speaker personally. No unstated act supplied. 親切 kind, not beautiful; でしょう conjecture, not obligation/wish."
+      }
+    ]
   }
 }
