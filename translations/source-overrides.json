@@ -1768,5 +1768,92 @@
       }
     ],
     "review_note": "Semantic pass079: align action listing, interrogative roles and opinion/proposal construction; original errors and corrections described in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-3ae700014369": {
+    "formation": "どうやって + verb question in polite or plain form; e.g. 作りますか / 勉強しましたか.",
+    "notes": "Ask about the means, method or procedure used to perform an action. The verb can be polite or plain; it is not restricted to casual form.",
+    "review_note": "Semantic pass080: distinguish method questions, indefinite/universal/negative places; correct result-state examples and overrestricted source formations. Original repaired examples retained in original_example_* metadata; detailed reasons in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-543ffec912e9": {
+    "formation": "ときどき used adverbially in a clause with a properly formed predicate.",
+    "notes": "Indicates occasional frequency, not always. Does not by itself assert that timing is impossible to predict. Nouns and adjectives still require appropriate predicate structure.",
+    "review_note": "Semantic pass080: distinguish method questions, indefinite/universal/negative places; correct result-state examples and overrestricted source formations. Original repaired examples retained in original_example_* metadata; detailed reasons in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-655755ec324a": {
+    "formation": "どこですか; どこで + action verb; どこに + existence/residence; どこへ/に + movement verb.",
+    "notes": "どこ asks which location. で marks an action location, に can mark location or destination, へ direction. These are case particles, not question words or question particles.",
+    "review_note": "Semantic pass080: distinguish method questions, indefinite/universal/negative places; correct result-state examples and overrestricted source formations. Original repaired examples retained in original_example_* metadata; detailed reasons in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-40685a4d4bcc": {
+    "meaning": "Not anywhere; nowhere, with a negative predicate.",
+    "notes": "Negates all relevant locations. It does not inherently express inability: 行かない is not going, while 行けない is inability to go. 売ってない contracts 売っていない.",
+    "original_example_1": {
+      "ja": "彼はどこにも見つからないです。",
+      "en": "He cannot be found anywhere.",
+      "romaji": "Kare wa doko ni mo mitsukaranai desu."
+    },
+    "examples": [
+      {
+        "ja": "どこにも傘が売ってないです。",
+        "en": "Umbrellas are not sold anywhere.",
+        "romaji": "Doko ni mo kasa ga uttenai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼はどこにも見つからないです。",
+        "en": "He cannot be found anywhere.",
+        "romaji": "Kare wa doko ni mo mitsukaranai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "どこにも勉強できる場所がないです。",
+        "en": "There is no place to study anywhere.",
+        "romaji": "Doko ni mo benkyou dekiru basho ga nai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "どこにも美味しいビーガン料理がないです。",
+        "en": "There are no delicious vegan dishes anywhere.",
+        "romaji": "Doko ni mo oishii bi-gan ryouri ga nai desu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass080: distinguish method questions, indefinite/universal/negative places; correct result-state examples and overrestricted source formations. Original repaired examples retained in original_example_* metadata; detailed reasons in review-ledger.jsonl."
+  },
+  "N5:grammar:hana-12544353390d": {
+    "formation": "どこにも + polite negative predicate, e.g. いません / ありません / 置いていません.",
+    "notes": "Negates all relevant locations using a polite negative. いません is used for absent people/animals; ありません for absent objects. 名前が書いてありません describes absence of a written name as a resulting state, not a name performing the action of writing.",
+    "original_example_3": {
+      "ja": "どこにも彼女の名前が書いてありません。",
+      "en": "Her name is not written anywhere.",
+      "romaji": "Doko ni mo kanojo no namae ga kaite arimasen."
+    },
+    "examples": [
+      {
+        "ja": "どこにもあの猫がいません。",
+        "en": "The cat is not anywhere.",
+        "romaji": "Doko ni mo ano neko ga imasen.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "どこにもお金を置いていません。",
+        "en": "I have not left any money anywhere.",
+        "romaji": "Doko ni mo okane wo oiteimasen.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この町にはどこにも美味しいラーメン屋がありません。",
+        "en": "There are no delicious ramen shops anywhere in this town.",
+        "romaji": "Kono machi ni wa doko ni mo oishii raamenya ga arimasen.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "どこにも彼女の名前が書いてありません。",
+        "en": "Her name is not written anywhere.",
+        "romaji": "Doko ni mo kanojo no namae ga kaite arimasen.",
+        "source": "hanabira.org"
+      }
+    ],
+    "review_note": "Semantic pass080: distinguish method questions, indefinite/universal/negative places; correct result-state examples and overrestricted source formations. Original repaired examples retained in original_example_* metadata; detailed reasons in review-ledger.jsonl."
   }
 }
