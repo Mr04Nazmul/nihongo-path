@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-30",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 8628,
-  "pending_fields": 70550,
+  "ai_semantic_checked_fields": 8746,
+  "pending_fields": 70432,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 1534
+    "N4": 1652
   },
-  "authored_entry_glosses": 1039,
+  "authored_entry_glosses": 1059,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "dd89673ae0",
+      "id": "694ea10b56",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "dd89673ae0",
+      "id": "694ea10b56",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "dd89673ae0",
+      "id": "694ea10b56",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "dd89673ae0",
+      "id": "694ea10b56",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "dd89673ae0",
+      "id": "694ea10b56",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "dd89673ae0",
+      "id": "694ea10b56",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "fd00937783",
+      "id": "ddfb670acf",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "fd00937783",
+      "id": "ddfb670acf",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "fd00937783",
+      "id": "ddfb670acf",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "fd00937783",
+      "id": "ddfb670acf",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "fd00937783",
+      "id": "ddfb670acf",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "fd00937783",
+      "id": "ddfb670acf",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "88125cd960",
+      "id": "d1805965ec",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "88125cd960",
+      "id": "d1805965ec",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "88125cd960",
+      "id": "d1805965ec",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "88125cd960",
+      "id": "d1805965ec",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "88125cd960",
+      "id": "d1805965ec",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "88125cd960",
+      "id": "d1805965ec",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "f9a20b5203",
+      "id": "eacd8a5221",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "f9a20b5203",
+      "id": "eacd8a5221",
       "language": "bn",
       "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass099: N4 vocabulary indices240–259:114 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected exams extending into next month/finishing touches, from beginning/Gray first arrival, slope descent with repeated falls/deserted road, searching obligation, intransitive retreat/hanging vs lower/hang transitive, flourishing not flowers, reduce radio volume not switch off, humble-I giving and coffee after meal, short-while-ago microphone/phone, lonely-feeling vs unsupported missing-them and poetic deeper sinking, month/week after next and Thursday/December, salad offer/lemon taste, noise and touch prohibitions, industrial country dependency, thick-soled sandal fall/sprain warning, sandwich duration/lunch suitability, unable-to-visit regret and unspecified-actor regret, and town-growth/city population. Nine English source entries senses/nuances corrected or expanded with old values retained; Japanese, stable IDs and attribution unchanged. No new unresolved ambiguity; historical context limitations remain archived. No native-speaker certification. Resume N4 vocabulary index260."
+  "latest_pass": "Pass100: N4 vocabulary indices260–279:118 Bengali/Nepali meaning/example fields reviewed. Corrected written-character vs personality, clock-time/game negation, chess/ski how-to, shikaru scold vs particular homophone (POS/dictionary ID/other spelling corrected using existing N3叱る record and publisher dictionary definition; old metadata retained), test relief/Monday, carelessness and accident question, earthquake gas imperative/damaged building, university newspaper subscription and habitual tennis, underwear false sense/soaked through, dinner preparation, reliable work/racket grip, one-or-two failures and retry, three dictionary volumes, not-for-sale and3dollars per dozen, duration/leave-me-alone, island easy approach typo and deserted vs desert, Chiba/Tokyo resident roles, telephone office connection, social-bottom life not literal darkness, and company-president acquaintance. Nine source entries updated with old edited values retained. One ambiguous uncle example archived in full and replaced by labeled AI-authored Tanaka-office example; original kinship context not claimed recovered. Island Japanese/furigana typo documented; all stable IDs, example indices and source attribution retained or archived. No new unresolved ambiguity; historical limitations preserved. No native-speaker certification. Resume N4 vocabulary index280."
 }

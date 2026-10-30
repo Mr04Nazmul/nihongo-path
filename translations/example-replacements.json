@@ -552,5 +552,32 @@
       "bn": "পড়ে গিয়ে হাঁটুতে আঘাত পেয়েছি।",
       "ne": "लडेर घुँडामा चोट लाग्यो।"
     }
+  },
+  "N4:vocab:9690043102:examples.0": {
+    "original_commit": "6e45809b89230bc89b31ccf472934015f070d7ea",
+    "original_example": {
+      "ja": "私のおじはこの事務所で働いている。",
+      "en": "My uncle works in this office.",
+      "tatoeba_id": 164261
+    },
+    "original_translations": {
+      "bn": "আমার চাচা এ অফিসে কাজ করে।",
+      "ne": "मेरो परिवार यो कार्यालयमा छ ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "Original おじ uncle does not distinguish parental side/age or uncle by marriage required by natural BN/NE kinship terms. Archive original full example/translations/attribution; explicit AI-authored Tanaka-office replacement avoids guessed kinship, original context not claimed recovered. つないでください telephone connection request not physically take speaker to office.",
+    "reviewed_on": "2026-10-30",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "田中さんはこの事務所で働いています。",
+      "en": "Tanaka works in this office.",
+      "romaji": "Tanaka-san wa kono jimusho de hataraite imasu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "তানাকা এই অফিসে কাজ করেন।",
+      "ne": "तनाका यस कार्यालयमा काम गर्नुहुन्छ।"
+    }
   }
 }

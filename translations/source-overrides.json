@@ -5497,5 +5497,334 @@
         "basis": "残念 regret/disappointment. お伺いできない inability to visit humble form not positive coming. Second Japanese omits actor, neutral regrettable occurrence avoids English unsupported first-person blame; regret distinct from explicit apology/forgiveness demand."
       }
     ]
+  },
+  "N4:vocab:dd89673ae0": {
+    "meanings": [
+      "written character; letter",
+      "handwriting"
+    ],
+    "review_note": "Pass100: Source senses/metadata and one Japanese/furigana typo corrected with edited old values in source_corrections. Stable entry IDs and example indices retained. Original ambiguous uncle example and attribution archived in example-replacements.json and replaced by a labeled AI-authored Tanaka sentence. Other Japanese and original attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "6e45809b89230bc89b31ccf472934015f070d7ea",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "character"
+            ],
+            "replacement": [
+              "written character; letter",
+              "handwriting"
+            ]
+          }
+        ],
+        "basis": "字 written character/handwriting not moral personality. Skill of handwriting and wider spacing between letters, requests/tag question restored; no specific script invented."
+      }
+    ]
+  },
+  "N4:vocab:f9a20b5203": {
+    "meanings": [
+      "to scold; to reprimand"
+    ],
+    "pos": [
+      "v5r",
+      "vt"
+    ],
+    "jmdict_id": 1319580,
+    "other_forms": [
+      "叱る"
+    ],
+    "examples": [
+      {
+        "ja": "親は子供が悪さをするのをしかる。",
+        "furigana": "{親|おや}は{子供|こども}が{悪|わる}さをするのをしかる。",
+        "en": "Parents scold their children for misbehavior.",
+        "tatoeba_id": 144815
+      },
+      {
+        "ja": "彼は来れば必ず私たちをしかる。",
+        "furigana": "{彼|かれ}は{来|く}れば{必|かなら}ず{私|わたし}たちをしかる。",
+        "en": "Whenever he comes, he scolds us.",
+        "tatoeba_id": 99133
+      }
+    ],
+    "review_note": "Pass100: Source senses/metadata and one Japanese/furigana typo corrected with edited old values in source_corrections. Stable entry IDs and example indices retained. Original ambiguous uncle example and attribution archived in example-replacements.json and replaced by a labeled AI-authored Tanaka sentence. Other Japanese and original attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "6e45809b89230bc89b31ccf472934015f070d7ea",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "a particular"
+            ],
+            "replacement": [
+              "to scold; to reprimand"
+            ]
+          },
+          {
+            "field": "pos",
+            "original": [
+              "adj-pn"
+            ],
+            "replacement": [
+              "v5r",
+              "vt"
+            ]
+          },
+          {
+            "field": "jmdict_id",
+            "original": 1394730,
+            "replacement": 1319580
+          },
+          {
+            "field": "other_forms",
+            "original": [
+              "然る"
+            ],
+            "replacement": [
+              "叱る"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Parents punish their children for misbehavior.",
+            "replacement": "Parents scold their children for misbehavior."
+          }
+        ],
+        "basis": "しかる here 叱る scold transitive verb, not homophone 然る particular adjective. Correct wrong gloss/POS/other_forms and dictionary link using matching existing N3叱る1319580 plus publisher dictionary scold definition; original metadata archived. Parents scold misbehavior; whenever he comes he scolds us, not kills/beats or finds guilty."
+      }
+    ]
+  },
+  "N4:vocab:62ebad7ac3": {
+    "meanings": [
+      "era; period; stage of life"
+    ],
+    "examples": [
+      {
+        "ja": "大学時代に私は英字新聞をとっていた。",
+        "furigana": "{大学|だいがく}{時代|じだい}に{私|わたし}は{英字新聞|えいじしんぶん}をとっていた。",
+        "en": "I subscribed to an English-language newspaper when I was at university.",
+        "tatoeba_id": 137613
+      },
+      {
+        "ja": "高校時代はよくテニスをしたものです。",
+        "furigana": "{高校|こうこう}{時代|じだい}はよくテニスをしたものです。",
+        "en": "I used to play tennis in high school.",
+        "tatoeba_id": 173205
+      }
+    ],
+    "review_note": "Pass100: Source senses/metadata and one Japanese/furigana typo corrected with edited old values in source_corrections. Stable entry IDs and example indices retained. Original ambiguous uncle example and attribution archived in example-replacements.json and replaced by a labeled AI-authored Tanaka sentence. Other Japanese and original attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "6e45809b89230bc89b31ccf472934015f070d7ea",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "era"
+            ],
+            "replacement": [
+              "era; period; stage of life"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I took an English newspaper when I was in college.",
+            "replacement": "I subscribed to an English-language newspaper when I was at university."
+          }
+        ],
+        "basis": "時代 era/period not when/new. 新聞をとっていた subscribed to paper in university days not writing/taking physical paper; よく…したもの habitual frequent tennis senior-school days not starting now."
+      }
+    ]
+  },
+  "N4:vocab:ecb83e16fd": {
+    "meanings": [
+      "preparation; arrangements",
+      "to prepare"
+    ],
+    "review_note": "Pass100: Source senses/metadata and one Japanese/furigana typo corrected with edited old values in source_corrections. Stable entry IDs and example indices retained. Original ambiguous uncle example and attribution archived in example-replacements.json and replaced by a labeled AI-authored Tanaka sentence. Other Japanese and original attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "6e45809b89230bc89b31ccf472934015f070d7ea",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to prepare"
+            ],
+            "replacement": [
+              "preparation; arrangements",
+              "to prepare"
+            ]
+          }
+        ],
+        "basis": "支度 preparation noun/suru. すぐに at once command and trip; mother prepares dinner ongoing not parents wishing to eat/merely preparing to cook unspecified meal."
+      }
+    ]
+  },
+  "N4:vocab:48fce6928c": {
+    "examples": [
+      {
+        "ja": "君にはもっとしっかり仕事をしてもらいたい。",
+        "furigana": "{君|きみ}にはもっとしっかり{仕事|しごと}をしてもらいたい。",
+        "en": "I want you to do your work more reliably and properly.",
+        "tatoeba_id": 178641
+      },
+      {
+        "ja": "ラケットをしっかりにぎりなさい。",
+        "en": "Hold the racket tight.",
+        "tatoeba_id": 192637
+      }
+    ],
+    "review_note": "Pass100: Source senses/metadata and one Japanese/furigana typo corrected with edited old values in source_corrections. Stable entry IDs and example indices retained. Original ambiguous uncle example and attribution archived in example-replacements.json and replaced by a labeled AI-authored Tanaka sentence. Other Japanese and original attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "6e45809b89230bc89b31ccf472934015f070d7ea",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I want you to work harder.",
+            "replacement": "I want you to do your work more reliably and properly."
+          }
+        ],
+        "basis": "しっかり firmly/properly/reliably, adverb not strong adjective. More dependable work desired, not merely physical labor intensity. ラケット racket not rocket/record; grasp tightly imperative."
+      }
+    ]
+  },
+  "N4:vocab:03712fac9d": {
+    "examples": [
+      {
+        "ja": "ここしばらく彼にまるで会わない。",
+        "furigana": "ここしばらく{彼|かれ}にまるで{会|あ}わない。",
+        "en": "I haven't seen anything of him for some time.",
+        "tatoeba_id": 224699
+      },
+      {
+        "ja": "どうかしばらく私を一人にさせて。",
+        "furigana": "どうかしばらく{私|わたし}を{一人|ひとり}にさせて。",
+        "en": "Please leave me alone for a while.",
+        "tatoeba_id": 201673
+      }
+    ],
+    "review_note": "Pass100: Source senses/metadata and one Japanese/furigana typo corrected with edited old values in source_corrections. Stable entry IDs and example indices retained. Original ambiguous uncle example and attribution archived in example-replacements.json and replaced by a labeled AI-authored Tanaka sentence. Other Japanese and original attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "6e45809b89230bc89b31ccf472934015f070d7ea",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Please don't interrupt me for a while.",
+            "replacement": "Please leave me alone for a while."
+          }
+        ],
+        "basis": "しばらく a while duration. ここしばらく…まるで会わない not seen him at all for some time. 一人にさせて leave speaker alone not do not keep from something or ask other to wait; no fixed days implied."
+      }
+    ]
+  },
+  "N4:vocab:b1573ec234": {
+    "examples": [
+      {
+        "ja": "その島にはとても近づきやすい。",
+        "furigana": "その{島|しま}にはとても{近|ちか}づきやすい。",
+        "en": "The island is very easy to reach.",
+        "tatoeba_id": 207508
+      },
+      {
+        "ja": "島にはまったく人気がなかった。",
+        "furigana": "{島|しま}にはまったく{人気|ひとけ}がなかった。",
+        "en": "The island was completely deserted.",
+        "tatoeba_id": 3222725
+      }
+    ],
+    "review_note": "Pass100: Source senses/metadata and one Japanese/furigana typo corrected with edited old values in source_corrections. Stable entry IDs and example indices retained. Original ambiguous uncle example and attribution archived in example-replacements.json and replaced by a labeled AI-authored Tanaka sentence. Other Japanese and original attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "6e45809b89230bc89b31ccf472934015f070d7ea",
+        "corrections": [
+          {
+            "field": "examples.0.ja",
+            "original": "その島にはとても近づきにやすい。",
+            "replacement": "その島にはとても近づきやすい。"
+          },
+          {
+            "field": "examples.0.furigana",
+            "original": "その{島|しま}にはとても{近|ちか}づきにやすい。",
+            "replacement": "その{島|しま}にはとても{近|ちか}づきやすい。"
+          }
+        ],
+        "basis": "島 island. Correct source typo近づきにやすい→近づきやすい in Japanese and furigana, old text retained in source_corrections; entry/example IDs retained. 人気ひとけ human presence absent, not popularity/geographical desert/large island; past negative exact."
+      }
+    ]
+  },
+  "N4:vocab:9690043102": {
+    "examples": [
+      {
+        "ja": "田中さんはこの事務所で働いています。",
+        "en": "Tanaka works in this office.",
+        "romaji": "Tanaka-san wa kono jimusho de hataraite imasu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "事務所の方につないでください。",
+        "furigana": "{事務所|じむしょ}の{方|ほう}につないでください。",
+        "en": "Please connect me to the office on the telephone.",
+        "tatoeba_id": 150747
+      }
+    ],
+    "review_note": "Pass100: Source senses/metadata and one Japanese/furigana typo corrected with edited old values in source_corrections. Stable entry IDs and example indices retained. Original ambiguous uncle example and attribution archived in example-replacements.json and replaced by a labeled AI-authored Tanaka sentence. Other Japanese and original attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "6e45809b89230bc89b31ccf472934015f070d7ea",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Put on me to the office.",
+            "replacement": "Please connect me to the office on the telephone."
+          }
+        ],
+        "basis": "Original おじ uncle does not distinguish parental side/age or uncle by marriage required by natural BN/NE kinship terms. Archive original full example/translations/attribution; explicit AI-authored Tanaka-office replacement avoids guessed kinship, original context not claimed recovered. つないでください telephone connection request not physically take speaker to office."
+      }
+    ]
+  },
+  "N4:vocab:a7dc742b01": {
+    "examples": [
+      {
+        "ja": "彼の一生は社会の下積みで終わった。",
+        "furigana": "{彼|かれ}の{一生|いっしょう}は{社会|しゃかい}の{下積|したづ}みで{終|お}わった。",
+        "en": "His whole life ended with him still at the bottom of society.",
+        "tatoeba_id": 118414
+      },
+      {
+        "ja": "それは社会のためになるだろう。",
+        "furigana": "それは{社会|しゃかい}のためになるだろう。",
+        "en": "That will benefit the community.",
+        "tatoeba_id": 205092
+      }
+    ],
+    "review_note": "Pass100: Source senses/metadata and one Japanese/furigana typo corrected with edited old values in source_corrections. Stable entry IDs and example indices retained. Original ambiguous uncle example and attribution archived in example-replacements.json and replaced by a labeled AI-authored Tanaka sentence. Other Japanese and original attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "6e45809b89230bc89b31ccf472934015f070d7ea",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "He lived and died in obscurity.",
+            "replacement": "His whole life ended with him still at the bottom of society."
+          }
+        ],
+        "basis": "社会 society/community not merely public adjective. 下積み socially low/unrecognized status per Daijisen not literal darkness; entire life ended there, no claim recovered occupation. だろう likely benefit inferential not bare certain result."
+      }
+    ]
   }
 }
