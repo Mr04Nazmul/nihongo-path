@@ -7869,5 +7869,497 @@
         "basis": "楽しむ enjoy, not mentally enjoy self literally; Grey teacher honorific kept with male English Mr. Negative past not inability; all boys skiing completed not girls switching or scouts/countries."
       }
     ]
+  },
+  "N4:vocab:06aec1d647": {
+    "meanings": [
+      "for; for the sake of; in order to",
+      "because of; owing to"
+    ],
+    "examples": [
+      {
+        "ja": "それは、おまえの声をよく聞くためだよ。",
+        "furigana": "それは、おまえの{声|こえ}をよく{聞|き}くためだよ。",
+        "en": "It is in order to hear your voice well.",
+        "tatoeba_id": 205610
+      },
+      {
+        "ja": "あなたのためなら喜んでどんなことでもします。",
+        "furigana": "あなたのためなら{喜|よろこ}んでどんなことでもします。",
+        "en": "For you, I will gladly do anything.",
+        "tatoeba_id": 233516
+      }
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "in order to"
+            ],
+            "replacement": [
+              "for; for the sake of; in order to",
+              "because of; owing to"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I am ready to do anything for you.",
+            "replacement": "For you, I will gladly do anything."
+          }
+        ],
+        "basis": "ため purpose and for-benefit, not obligation. First hear your voice well purpose; second gladly anything for addressee, conditional benefit not self."
+      }
+    ]
+  },
+  "N4:vocab:6cf505ee55": {
+    "meanings": [
+      "no good; useless; hopeless",
+      "not allowed; must not"
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "no good"
+            ],
+            "replacement": [
+              "no good; useless; hopeless",
+              "not allowed; must not"
+            ]
+          }
+        ],
+        "basis": "だめ no good/futile/prohibited not new. もうだめ resignation no hope, not task completed. Same plan sentence translation intentionally consistent with reviewed 全然 entry."
+      }
+    ]
+  },
+  "N4:vocab:19f08c094e": {
+    "examples": [
+      {
+        "ja": "今、ちょっとお金が足りなくてね。",
+        "furigana": "{今|いま}、ちょっとお{金|かね}が{足|た}りなくてね。",
+        "en": "I'm a bit short of money now.",
+        "tatoeba_id": 172932
+      },
+      {
+        "ja": "ときどきお金が足りなくなります。",
+        "furigana": "ときどきお{金|かね}が{足|た}りなくなります。",
+        "en": "Sometimes I do not have enough money.",
+        "tatoeba_id": 201065
+      }
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Sometimes I run out of money.",
+            "replacement": "Sometimes I do not have enough money."
+          }
+        ],
+        "basis": "足りる sufficiency; lack negative now and sometimes becomes insufficient, not stepping out of money or unable to spend. English run out overstates total exhaustion corrected."
+      }
+    ]
+  },
+  "N4:vocab:73a3e59782": {
+    "examples": [
+      {
+        "ja": "男性の方は上着を着用してください。",
+        "furigana": "{男性|だんせい}の{方|かた}は{上着|うわぎ}を{着用|ちゃくよう}してください。",
+        "en": "Men, please wear jackets.",
+        "tatoeba_id": 127151
+      },
+      {
+        "ja": "男性たちはバーベキューをしている。",
+        "furigana": "{男性|だんせい}たちはバーベキューをしている。",
+        "en": "The men are having a barbecue.",
+        "tatoeba_id": 127159
+      }
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "Jackets are requested for men.",
+            "replacement": "Men, please wear jackets."
+          }
+        ],
+        "basis": "男性 male/men; polite jacket-wearing request not jacket demand or ownership; barbecue ongoing activity not Barcelona."
+      }
+    ]
+  },
+  "N4:vocab:aaac8221c9": {
+    "meanings": [
+      "indoor heating; a heating system"
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "heating"
+            ],
+            "replacement": [
+              "indoor heating; a heating system"
+            ]
+          }
+        ],
+        "basis": "暖房 indoor heating system not heat sensation or hot season; question actual method and completed turning off, not temperature switch."
+      }
+    ]
+  },
+  "N4:vocab:83a456da88": {
+    "meanings": [
+      "to check; to check off; to mark as done"
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to check"
+            ],
+            "replacement": [
+              "to check; to check off; to mark as done"
+            ]
+          }
+        ],
+        "basis": "チェックする check or mark-off; completion triggers mark for each task, not merely quickly checking; Yanni decided to check Facebook, not already did."
+      }
+    ]
+  },
+  "N4:vocab:43965bbba0": {
+    "examples": [
+      {
+        "ja": "あなたは集中する力を失ってしまった。",
+        "furigana": "あなたは{集中|しゅうちゅう}する{力|ちから}を{失|うしな}ってしまった。",
+        "en": "You've lost the ability to concentrate.",
+        "tatoeba_id": 231860
+      },
+      {
+        "ja": "私はありったけの力を出して走った。",
+        "furigana": "{私|わたし}はありったけの{力|ちから}を{出|だ}して{走|はし}った。",
+        "en": "I ran with all the strength I had.",
+        "tatoeba_id": 161485
+      }
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I ran as fast as I could.",
+            "replacement": "I ran with all the strength I had."
+          }
+        ],
+        "basis": "力 strength/power/ability noun not strong adjective. Lost concentration negative result not ability still present; all available effort not outcome of winning, English speed narrowed to explicit exertion."
+      }
+    ]
+  },
+  "N4:vocab:f527f52c5c": {
+    "examples": [
+      {
+        "ja": "最近エリザベスにちっともあってない。",
+        "furigana": "{最近|さいきん}エリザベスにちっともあってない。",
+        "en": "I have not met Elizabeth at all lately.",
+        "tatoeba_id": 170722
+      },
+      {
+        "ja": "ちっとも気にしていない。",
+        "en": "I am not the least bit worried.",
+        "tatoeba_id": 202987
+      }
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I have not seen anything of Elizabeth lately.",
+            "replacement": "I have not met Elizabeth at all lately."
+          }
+        ],
+        "basis": "ちっとも total negative with predicate, not some or recently already met. Meet Elizabeth not see anything of her; no worry even slightest."
+      }
+    ]
+  },
+  "N4:vocab:18035049f8": {
+    "meanings": [
+      "affectionate name suffix for children or familiar people (not restricted to females)"
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "suffix for familiar female person"
+            ],
+            "replacement": [
+              "affectionate name suffix for children or familiar people (not restricted to females)"
+            ]
+          }
+        ],
+        "basis": "ちゃん affectionate suffix for children/familiar people, not female-only or enough (suffix homophone). Preserve Haru and Nanako names, daughter and cheerful disposition; transliterated suffix teaches social usage."
+      }
+    ]
+  },
+  "N4:vocab:4e6d200127": {
+    "meanings": [
+      "attention; caution; warning (also with suru)"
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "caution"
+            ],
+            "replacement": [
+              "attention; caution; warning (also with suru)"
+            ]
+          }
+        ],
+        "basis": "注意 attention/caution/admonition; warning not to be late, more careful future with money not increased expense."
+      }
+    ]
+  },
+  "N4:vocab:3f26d1cef7": {
+    "examples": [
+      {
+        "ja": "注射をしましょう。",
+        "furigana": "{注射|ちゅうしゃ}をしましょう。",
+        "en": "I will give you an injection.",
+        "tatoeba_id": 126332
+      },
+      {
+        "ja": "痛み止めの注射をします。",
+        "furigana": "{痛|いた}み{止|ど}めの{注射|ちゅうしゃ}をします。",
+        "en": "I'll give you a painkilling injection.",
+        "tatoeba_id": 125671
+      }
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I'll give you a shot.",
+            "replacement": "I will give you an injection."
+          }
+        ],
+        "basis": "注射 injection; shot medical sense not bullet. しましょう offer/proposed administering retained using English explicit giver/addressee; pain relief not painful injection or disease injection. Language example, no medical advice."
+      }
+    ]
+  },
+  "N4:vocab:16db6a0f53": {
+    "meanings": [
+      "geography",
+      "the layout and roads of an area"
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "geography"
+            ],
+            "replacement": [
+              "geography",
+              "the layout and roads of an area"
+            ]
+          }
+        ],
+        "basis": "地理 geography/local layout; 地理に明るい knowledgeable not physical brightness, pretty good with lay of land not doing well on earth."
+      }
+    ]
+  },
+  "N4:vocab:ef537ea4a9": {
+    "meanings": [
+      "to catch; to seize; to grasp",
+      "to get hold of (e.g. a taxi)"
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to seize"
+            ],
+            "replacement": [
+              "to catch; to seize; to grasp",
+              "to get hold of (e.g. a taxi)"
+            ]
+          }
+        ],
+        "basis": "捕まえる seize/catch/obtain taxi, not movement/short. Man grasps boys hand, agent/patient preserved; ability to obtain taxi not mere existence."
+      }
+    ]
+  },
+  "N4:vocab:ba74488833": {
+    "meanings": [
+      "moon",
+      "month"
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "moon"
+            ],
+            "replacement": [
+              "moon",
+              "month"
+            ]
+          }
+        ],
+        "basis": "月 moon and month both examples. Speculative future travel not verified present space-travel forecast; Bob subject/monthly frequency/restored written letter."
+      }
+    ]
+  },
+  "N4:vocab:356e03170b": {
+    "meanings": [
+      "to be attached; to be equipped with",
+      "to develop or acquire (e.g. strength)"
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to be attached"
+            ],
+            "replacement": [
+              "to be attached; to be equipped with",
+              "to develop or acquire (e.g. strength)"
+            ]
+          }
+        ],
+        "basis": "付く intransitive attached/equipped or strength acquired, not attaching transitive. Our car not my, eat-more necessary conditional negative both clauses retained."
+      }
+    ]
+  },
+  "N4:vocab:c206b05b9d": {
+    "examples": [
+      {
+        "ja": "彼はスプーンをスープの中につけた。",
+        "furigana": "{彼|かれ}はスプーンをスープの{中|なか}につけた。",
+        "en": "He dipped his spoon into the soup.",
+        "tatoeba_id": 113349
+      },
+      {
+        "ja": "彼女は汚れた皿を流しに浸けた。",
+        "furigana": "{彼女|かのじょ}は{汚|よご}れた{皿|さら}を{流|なが}しに{浸|つ}けた。",
+        "en": "She soaked the dirty dishes in the sink.",
+        "tatoeba_id": 90990
+      }
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "She put the dirty dishes in the sink.",
+            "replacement": "She soaked the dirty dishes in the sink."
+          }
+        ],
+        "basis": "漬ける soaking/pickling; examples kanaつけた/variant浸けた immersion. Spoon not cup, plates not food; sink retained and soaking restored in English."
+      }
+    ]
+  },
+  "N4:vocab:7d940762d2": {
+    "examples": [
+      {
+        "ja": "何時がご都合よいでしょうか。",
+        "furigana": "{何時|なんじ}がご{都合|つごう}よいでしょうか。",
+        "en": "What time will be right for you?",
+        "tatoeba_id": 187463
+      },
+      {
+        "ja": "昼食後ではご都合はいかがですか。",
+        "furigana": "{昼食後|ちゅうしょくご}ではご{都合|つごう}はいかがですか。",
+        "en": "Would after lunch be convenient for you?",
+        "tatoeba_id": 126374
+      }
+    ],
+    "review_note": "Pass106: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One malformed Japanese availability question and its furigana corrected with original text archived. Entry IDs, other original Japanese, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "d053caf5fcc9416d92f1a97a39bbcd63835af08d",
+        "corrections": [
+          {
+            "field": "examples.1.ja",
+            "original": "昼食後ではご都合いただけますか。",
+            "replacement": "昼食後ではご都合はいかがですか。"
+          },
+          {
+            "field": "examples.1.furigana",
+            "original": "{昼食後|ちゅうしょくご}ではご{都合|つごう}いただけますか。",
+            "replacement": "{昼食後|ちゅうしょくご}ではご{都合|つごう}はいかがですか。"
+          }
+        ],
+        "basis": "都合 convenience/availability not beauty. Polite scheduling question. Original ex1 ご都合いただけます malformed noun+itadaku; AI correction to ご都合はいかがですか preserves lunch-after question, exact old Japanese/furigana archived, not native-certified or original-author-restored."
+      }
+    ]
   }
 }

@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-30",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 9344,
-  "pending_fields": 69834,
+  "ai_semantic_checked_fields": 9464,
+  "pending_fields": 69714,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 2250
+    "N4": 2370
   },
-  "authored_entry_glosses": 1159,
+  "authored_entry_glosses": 1179,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "06aec1d647",
+      "id": "bbe4edb30f",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "06aec1d647",
+      "id": "bbe4edb30f",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "06aec1d647",
+      "id": "bbe4edb30f",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "06aec1d647",
+      "id": "bbe4edb30f",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "06aec1d647",
+      "id": "bbe4edb30f",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "06aec1d647",
+      "id": "bbe4edb30f",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "6cf505ee55",
+      "id": "a1db204b87",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "6cf505ee55",
+      "id": "a1db204b87",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "6cf505ee55",
+      "id": "a1db204b87",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "6cf505ee55",
+      "id": "a1db204b87",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "6cf505ee55",
+      "id": "a1db204b87",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "6cf505ee55",
+      "id": "a1db204b87",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "19f08c094e",
+      "id": "d177796b00",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "19f08c094e",
+      "id": "d177796b00",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "19f08c094e",
+      "id": "d177796b00",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "19f08c094e",
+      "id": "d177796b00",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "19f08c094e",
+      "id": "d177796b00",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "19f08c094e",
+      "id": "d177796b00",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "73a3e59782",
+      "id": "ce21381e4f",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "73a3e59782",
+      "id": "ce21381e4f",
       "language": "bn",
       "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass105: N4 vocabulary indices360–379:120 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected approximation vs completion, most people/usual Sundays, type vs typing, considerable degree and autumn vs summer/October, typhoon school closure/newspaper attribution, intransitive sideways collapse and imminent appearance, explanatory because/consequential advice, certain vs definition/recollection, exact17-to60 and6-plus4 arithmetic, ask vs visit homophones and in-person call-at vs phone, uncertain correctness, tatami vs soil and arms/legs-spread idiom/no-longer passive, temple built in780 and years of construction, noise prohibition/dust raising, London7am educational example/pen not pencil, topmost shelf/father benefactive, eager letter anticipation/swimming, negative past Grey-teacher enjoyment/all boys skiing, occasional visits/written correspondence. Fifteen English source entries senses or nuances corrected/expanded with original edited values archived. All original Japanese, IDs, dictionary metadata, example indices and attribution preserved. Educational examples about London time, historical temple and mat production are not asserted as independently verified current facts. No new unresolved ambiguity; historical context limitations retained. No native-speaker certification. Resume N4 vocabulary index380."
+  "latest_pass": "Pass106: N4 vocabulary indices380–399:120 Bengali/Nepali meaning/example fields reviewed. Corrected purpose/benefit and gladly-anything conditional, hopelessness/failed plan, insufficient money vs exhausted money, jacket-wearing request/barbecue, home heating/off switch, blood relation/covered knife, per-task checkoff/Yanni decision, lost concentration/all strength, no recent Elizabeth meeting/no worry, affectionate chan without female-only restriction and Haru/Nanako names, no-lateness warning/future monetary care, junior-high memories/enrollment, injection shot vs gunshot and pain relief, zero people/free parking, local geography idiom, man grasps boys hand/taxi availability, moon vs month with Bob monthly letter, attached car equipment/negative strength condition, spoon immersion/dirty plates soaking, polite availability. Seventeen source entries corrected/expanded with old edited values archived; one malformed Japanese lunch-availability question and its furigana corrected explicitly, not presented as unedited original. All entry IDs/dictionary metadata/example indices preserved; other Japanese and attribution retained. Lunar-travel example remains speculative educational language, not verified current forecast; no current medical/parking claim. No new unresolved ambiguity; historical context limitations retained. No native-speaker certification. Resume N4 vocabulary index400."
 }
