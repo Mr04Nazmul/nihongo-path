@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-30",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 8984,
-  "pending_fields": 70194,
+  "ai_semantic_checked_fields": 9104,
+  "pending_fields": 70074,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 1890
+    "N4": 2010
   },
-  "authored_entry_glosses": 1099,
+  "authored_entry_glosses": 1119,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "d2937b2999",
+      "id": "da94019cdd",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "d2937b2999",
+      "id": "da94019cdd",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "d2937b2999",
+      "id": "da94019cdd",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "d2937b2999",
+      "id": "da94019cdd",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "d2937b2999",
+      "id": "da94019cdd",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "d2937b2999",
+      "id": "da94019cdd",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "49ac3c55c7",
+      "id": "ba20bc66d0",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "49ac3c55c7",
+      "id": "ba20bc66d0",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "49ac3c55c7",
+      "id": "ba20bc66d0",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "49ac3c55c7",
+      "id": "ba20bc66d0",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "49ac3c55c7",
+      "id": "ba20bc66d0",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "49ac3c55c7",
+      "id": "ba20bc66d0",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "9071f08832",
+      "id": "8c83cac81c",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "9071f08832",
+      "id": "8c83cac81c",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "9071f08832",
+      "id": "8c83cac81c",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "9071f08832",
+      "id": "8c83cac81c",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "9071f08832",
+      "id": "8c83cac81c",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "9071f08832",
+      "id": "8c83cac81c",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "97a079585a",
+      "id": "9b3ce398bd",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "97a079585a",
+      "id": "9b3ce398bd",
       "language": "bn",
       "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass102: N4 vocabulary indices300–319:118 Bengali/Nepali meaning/example fields reviewed. Corrected notification question/phone roles, investigating not nose-wandering and house inspection, population amount vs growth and Britain, Shinto shrine vs throne and200year construction date, kindness vs beauty/inference and recipient gratitude, worried boy/caring person, newspaper employment4year tenure, swimming summer-vacation afternoons, yesterday water-supply cutoff/tap-water habit, considerable duration vs enough and patient long matter, math inability vs assault/test, suit conspicuousness/tailoring received, suitcase causative and one-empty-case scope, too-salty-to-drink negation/unnoticed summer passing, uncrowded carriage/bus front, past plural screen words, intensity/amazing vs terrifying and Madonna not medicine, study/industrialization progress, complete breathlessness/teacher recovery and snail-feeler extension/blood trickle not pressure. Ten English source entries senses/nuances corrected or expanded with prior values retained. Japanese, stable IDs and attribution unchanged. No new unresolved ambiguity; historic source-context limitations preserved. No native-speaker certification. Resume N4 vocabulary index320."
+  "latest_pass": "Pass103: N4 vocabulary indices320–339:120 Bengali/Nepali meaning/example fields reviewed. Corrected steak cooking and potato accompaniment without unsupported baked detail, discard-plan/idea imperatives, bought stereo/record playback, sand vs apple and benefactor-betrayal proverb, wonderful past day/exclamation, future acquired ski ability/children sliding, corner table preference and conversation, intransitive completion just before10/excuse-me passage, pickpocket crowd/warning, consequent then, livelihood/family support, CD-player production/1980start, politics refusal/Brown writing, Western baths and culture, world noun/figurative love/shared best-job judgment, saved seat/negative assumption, explanation/todays special dish, anatomical back/buttons/tightness, earnest zehi invitation/desire and pet-care inability/dog intention. Eleven English source entries senses/nuances corrected or expanded, edited values archived. One kinship-ambiguous grandmother example archived in full and replaced by explicitly AI-authored Tanaka passing-by sentence; original family context not claimed recovered. All stable IDs/example indices preserved, other Japanese unchanged and attribution retained or archived. No new unresolved ambiguity; historical context limitations preserved. No native-speaker certification. Resume N4 vocabulary index340."
 }

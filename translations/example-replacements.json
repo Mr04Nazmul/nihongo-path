@@ -579,5 +579,33 @@
       "bn": "তানাকা এই অফিসে কাজ করেন।",
       "ne": "तनाका यस कार्यालयमा काम गर्नुहुन्छ।"
     }
+  },
+  "N4:vocab:416c1b3679:examples.1": {
+    "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+    "original_example": {
+      "ja": "すると、たまたま少女のおばあちゃんが通りかかる。",
+      "furigana": "すると、たまたま{少女|しょうじょ}のおばあちゃんが{通|とお}りかかる。",
+      "en": "Along comes the grandmother and sees her granddaughter.",
+      "tatoeba_id": 214099
+    },
+    "original_translations": {
+      "bn": "দাদা আসে এবং তার নাতনিকে দেখে।",
+      "ne": "त्यसपछि उनी भन्छिन्, तिनको दाजुभाइ देख्थे ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "すると temporal then or consequent then. First conditional consequence plusでしょう inference. Original grandmother passage lacks maternal/paternal identity needed by natural BN/NE kinship terms and English adds granddaughter-seeing absent JP: archive complete original. Explicit AI-authored Tanaka passing-by preserves connector/random encounter, no original family context claimed recovered.",
+    "reviewed_on": "2026-10-30",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "すると、たまたま田中さんが通りかかりました。",
+      "en": "Then Tanaka happened to pass by.",
+      "romaji": "Suruto, tamatama Tanaka-san ga toorikakarimashita.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "তারপর ঘটনাচক্রে তানাকা সেখান দিয়ে যাচ্ছিলেন।",
+      "ne": "त्यसपछि संयोगले तनाका त्यही बाटो हुँदै जाँदै हुनुहुन्थ्यो।"
+    }
   }
 }

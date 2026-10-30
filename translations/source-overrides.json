@@ -6493,5 +6493,356 @@
         "basis": "すっと quick unobstructed/smooth or straight movement (Daijisen). Snail extends feelers (角 hornlike tentacles), not branch dropping on shoulder/love. Blood trickles down neck not blood piece or blood pressure increasing; no injury cause inferred."
       }
     ]
+  },
+  "N4:vocab:d2937b2999": {
+    "examples": [
+      {
+        "ja": "ステーキの焼き方はどうなさいますか。",
+        "furigana": "ステーキの{焼|や}き{方|かた}はどうなさいますか。",
+        "en": "How would you like your steak cooked?",
+        "tatoeba_id": 214623
+      },
+      {
+        "ja": "ステーキにポテトをつけてください。",
+        "en": "Please add potatoes to the steak.",
+        "tatoeba_id": 214626
+      }
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "How would you like your steak?",
+            "replacement": "How would you like your steak cooked?"
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I would like a steak with a baked potato.",
+            "replacement": "Please add potatoes to the steak."
+          }
+        ],
+        "basis": "ステーキ steak. 焼き方 asks cooking preference not whose desire/personal like. ポテト potatoes accompaniment; English baked not specified by Japanese so remove added preparation, no meat species invented."
+      }
+    ]
+  },
+  "N4:vocab:49ac3c55c7": {
+    "examples": [
+      {
+        "ja": "そんな計画は捨ててしまいなさい。",
+        "furigana": "そんな{計画|けいかく}は{捨|す}ててしまいなさい。",
+        "en": "Abandon that plan completely.",
+        "tatoeba_id": 204154
+      },
+      {
+        "ja": "そんなばかげた考えは捨てなさい。",
+        "furigana": "そんなばかげた{考|かんが}えは{捨|す}てなさい。",
+        "en": "Put away such a foolish idea.",
+        "tatoeba_id": 204213
+      }
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "Put the plan on the scrap heap.",
+            "replacement": "Abandon that plan completely."
+          }
+        ],
+        "basis": "捨てる discard literally or figuratively. Both abandon plan/foolish idea imperatives, not place on actual scrap heap or past plan leaving itself."
+      }
+    ]
+  },
+  "N4:vocab:97a079585a": {
+    "examples": [
+      {
+        "ja": "後ろ足で砂をかけるようなことをした。",
+        "furigana": "{後|うし}ろ{足|あし}で{砂|すな}をかけるようなことをした。",
+        "en": "He betrayed his benefactor and caused further harm on leaving.",
+        "tatoeba_id": 174298
+      },
+      {
+        "ja": "ガラスは砂から作られる。",
+        "furigana": "ガラスは{砂|すな}から{作|つく}られる。",
+        "en": "Glass is made from sand.",
+        "tatoeba_id": 226186
+      }
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "He raised his heel against me.",
+            "replacement": "He betrayed his benefactor and caused further harm on leaving."
+          }
+        ],
+        "basis": "砂 sand not apple. 後ろ足で砂をかける idiomatic betrayal of benefactor plus departing harm per Kanjipedia, not literal raised heel/hand of help; no invented me as victim. Glass material from sand not drinking glass distinction lost."
+      }
+    ]
+  },
+  "N4:vocab:1e1b53a2d3": {
+    "meanings": [
+      "to finish; to be completed; to be settled (intransitive)"
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to finish"
+            ],
+            "replacement": [
+              "to finish; to be completed; to be settled (intransitive)"
+            ]
+          }
+        ],
+        "basis": "済む intransitive finish not finish-something transitive. Just before10 clock time not10tasks. 済みません fixed excuse-me courtesy then ask passage, not command addressee apologize. No AM/PM invented."
+      }
+    ]
+  },
+  "N4:vocab:416c1b3679": {
+    "examples": [
+      {
+        "ja": "するとあなたは幸せでしょう。",
+        "furigana": "するとあなたは{幸|しあわ}せでしょう。",
+        "en": "Then you will probably be happy.",
+        "tatoeba_id": 214097
+      },
+      {
+        "ja": "すると、たまたま田中さんが通りかかりました。",
+        "en": "Then Tanaka happened to pass by.",
+        "romaji": "Suruto, tamatama Tanaka-san ga toorikakarimashita.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "meanings": [
+      "then; thereupon",
+      "in that case; consequently"
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "then"
+            ],
+            "replacement": [
+              "then; thereupon",
+              "in that case; consequently"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Then you will be happy.",
+            "replacement": "Then you will probably be happy."
+          }
+        ],
+        "basis": "すると temporal then or consequent then. First conditional consequence plusでしょう inference. Original grandmother passage lacks maternal/paternal identity needed by natural BN/NE kinship terms and English adds granddaughter-seeing absent JP: archive complete original. Explicit AI-authored Tanaka passing-by preserves connector/random encounter, no original family context claimed recovered."
+      }
+    ]
+  },
+  "N4:vocab:7817c4eed6": {
+    "meanings": [
+      "daily life; livelihood",
+      "to live; to make a living"
+    ],
+    "examples": [
+      {
+        "ja": "どのようにして生活していきますか。",
+        "furigana": "どのようにして{生活|せいかつ}していきますか。",
+        "en": "How will you go on making a living?",
+        "tatoeba_id": 200354
+      },
+      {
+        "ja": "父親は家族の生活をまかなう。",
+        "furigana": "{父親|ちちおや}は{家族|かぞく}の{生活|せいかつ}をまかなう。",
+        "en": "A father provides for his family.",
+        "tatoeba_id": 84300
+      }
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to live"
+            ],
+            "replacement": [
+              "daily life; livelihood",
+              "to live; to make a living"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "How are you getting along?",
+            "replacement": "How will you go on making a living?"
+          }
+        ],
+        "basis": "生活 living/livelihood noun/suru. どのようにして生活していきますか future onward livelihood not people getting along together. 父親まかなう provides family living costs not merely cares/emotional support; no particular income."
+      }
+    ]
+  },
+  "N4:vocab:75acde1d68": {
+    "meanings": [
+      "production",
+      "to produce"
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to produce"
+            ],
+            "replacement": [
+              "production",
+              "to produce"
+            ]
+          }
+        ],
+        "basis": "生産 production noun/suru. Factory active ongoing CD-player manufacture; this automobile production start1980 past not present beginning. No invented brand/model/history verification claim."
+      }
+    ]
+  },
+  "N4:vocab:75b0305c60": {
+    "examples": [
+      {
+        "ja": "政治については語りたくない。",
+        "furigana": "{政治|せいじ}については{語|かた}りたくない。",
+        "en": "I'd rather not say anything about politics.",
+        "tatoeba_id": 143206
+      },
+      {
+        "ja": "ブラウンさんは政治についての本を書いた。",
+        "furigana": "ブラウンさんは{政治|せいじ}についての{本|ほん}を{書|か}いた。",
+        "en": "Brown wrote a book about politics.",
+        "tatoeba_id": 197082
+      }
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Mrs. Brown wrote a book on politics.",
+            "replacement": "Brown wrote a book about politics."
+          }
+        ],
+        "basis": "政治 politics/governance. 語りたくない speaker unwilling not politics never exists. Brown wrote book not bought; さん does not specify Mrs so English unsupported gender title removed."
+      }
+    ]
+  },
+  "N4:vocab:123ee74d43": {
+    "examples": [
+      {
+        "ja": "あなたはそれをどう説明しますか。",
+        "furigana": "あなたはそれをどう{説明|せつめい}しますか。",
+        "en": "How do you account for that?",
+        "tatoeba_id": 232557
+      },
+      {
+        "ja": "本日の特別料理について説明します。",
+        "furigana": "{本日|ほんじつ}の{特別|とくべつ}{料理|りょうり}について{説明|せつめい}します。",
+        "en": "I will explain the special dish for today.",
+        "tatoeba_id": 81466
+      }
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Let me tell you about our special.",
+            "replacement": "I will explain the special dish for today."
+          }
+        ],
+        "basis": "説明 explanation. Account-for means explain not consider/pay/responsibility question. 本日の特別料理 todays special dish restored, not abstract our special matter; speaker explanatory act not pluralwe without basis."
+      }
+    ]
+  },
+  "N4:vocab:bdf6b26213": {
+    "meanings": [
+      "by all means; definitely",
+      "very much; earnestly (emphasizing a wish or request)"
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "without fail"
+            ],
+            "replacement": [
+              "by all means; definitely",
+              "very much; earnestly (emphasizing a wish or request)"
+            ]
+          }
+        ],
+        "basis": "ぜひ emphatic wish/earnest request, not failure or coercive legal must. Party warm strong invitation viaおいでください; secondたい wants to try seeing not already likes or flat absent intensity."
+      }
+    ]
+  },
+  "N4:vocab:dac7bb4374": {
+    "meanings": [
+      "care; looking after",
+      "to look after"
+    ],
+    "review_note": "Pass103: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs and example indices retained; original Japanese and attribution retained except the explicitly archived ambiguous grandmother example, replaced with a labeled AI-authored sentence. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "0ad36616df525acf65816743cd51ed850f0a451c",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to look after"
+            ],
+            "replacement": [
+              "care; looking after",
+              "to look after"
+            ]
+          }
+        ],
+        "basis": "世話 care/look after noun/suru not look command. First negative ability and pets exact, no moral judgment reason invented. Second つもり intention to care this dog not mere subjunctive do it someday; no ownership inferred."
+      }
+    ]
   }
 }
