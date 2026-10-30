@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-30",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 9224,
-  "pending_fields": 69954,
+  "ai_semantic_checked_fields": 9344,
+  "pending_fields": 69834,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 2130
+    "N4": 2250
   },
-  "authored_entry_glosses": 1139,
+  "authored_entry_glosses": 1159,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c0afe72b73",
+      "id": "06aec1d647",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c0afe72b73",
+      "id": "06aec1d647",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c0afe72b73",
+      "id": "06aec1d647",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c0afe72b73",
+      "id": "06aec1d647",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c0afe72b73",
+      "id": "06aec1d647",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c0afe72b73",
+      "id": "06aec1d647",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4e5dab579c",
+      "id": "6cf505ee55",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4e5dab579c",
+      "id": "6cf505ee55",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4e5dab579c",
+      "id": "6cf505ee55",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4e5dab579c",
+      "id": "6cf505ee55",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4e5dab579c",
+      "id": "6cf505ee55",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4e5dab579c",
+      "id": "6cf505ee55",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a174ca4443",
+      "id": "19f08c094e",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a174ca4443",
+      "id": "19f08c094e",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a174ca4443",
+      "id": "19f08c094e",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a174ca4443",
+      "id": "19f08c094e",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a174ca4443",
+      "id": "19f08c094e",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "a174ca4443",
+      "id": "19f08c094e",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "b442490fff",
+      "id": "73a3e59782",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "b442490fff",
+      "id": "73a3e59782",
       "language": "bn",
       "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass104: N4 vocabulary indices340–359:120 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected total negation vs partial negation, war onset and uncertainty, institutional seniority, sou appearance vs really with impending rain and Hitomi name, consultation, rearing vs rear direction and passive upbringing, figurative prospective graduation, walking-stick and ten elapsed years, gentle voice vs software/tantrum, female grandparent and wearing clothes until ragged, consequence and privileged merit-student status, moreover vs to-it particle construction, crowding/never-heard absurdity, imminent bedtime/departure, careless past action and why, scalar negative and excess-eating conditional, hospital discharge vs admission with probability/hour-ago, elder brother/university and latter-of-two. Fourteen English source entries corrected or expanded; edited values archived. All original Japanese, IDs, dictionary metadata, example indices and attribution preserved. Grandparent paternal/maternal side not specified by source: Bengali alternatives retained explicitly rather than assigning either side; original side not claimed recovered. No new unresolved ambiguity; historical original-context limitations retained. No native-speaker certification. Resume N4 vocabulary index360."
+  "latest_pass": "Pass105: N4 vocabulary indices360–379:120 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected approximation vs completion, most people/usual Sundays, type vs typing, considerable degree and autumn vs summer/October, typhoon school closure/newspaper attribution, intransitive sideways collapse and imminent appearance, explanatory because/consequential advice, certain vs definition/recollection, exact17-to60 and6-plus4 arithmetic, ask vs visit homophones and in-person call-at vs phone, uncertain correctness, tatami vs soil and arms/legs-spread idiom/no-longer passive, temple built in780 and years of construction, noise prohibition/dust raising, London7am educational example/pen not pencil, topmost shelf/father benefactive, eager letter anticipation/swimming, negative past Grey-teacher enjoyment/all boys skiing, occasional visits/written correspondence. Fifteen English source entries senses or nuances corrected/expanded with original edited values archived. All original Japanese, IDs, dictionary metadata, example indices and attribution preserved. Educational examples about London time, historical temple and mat production are not asserted as independently verified current facts. No new unresolved ambiguity; historical context limitations retained. No native-speaker certification. Resume N4 vocabulary index380."
 }

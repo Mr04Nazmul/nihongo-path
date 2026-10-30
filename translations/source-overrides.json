@@ -7383,5 +7383,491 @@
         "basis": "大学 student tertiary university not school; 兄 elder brother, no younger sibling. Progressive engineering study retained."
       }
     ]
+  },
+  "N4:vocab:c0afe72b73": {
+    "meanings": [
+      "roughly; approximately; mostly; generally",
+      "outline; gist"
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "generally"
+            ],
+            "replacement": [
+              "roughly; approximately; mostly; generally",
+              "outline; gist"
+            ]
+          }
+        ],
+        "basis": "大体 approximation/general outline, not only usual frequency. Roughly same size and about-ready incompleteness preserved, not fully ready."
+      }
+    ]
+  },
+  "N4:vocab:4e5dab579c": {
+    "meanings": [
+      "usually; generally",
+      "most; almost all"
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "usually"
+            ],
+            "replacement": [
+              "usually; generally",
+              "most; almost all"
+            ]
+          }
+        ],
+        "basis": "たいてい most people and habitual usually; night sleep not mere spending night, father and Sunday not Saturday retained."
+      }
+    ]
+  },
+  "N4:vocab:a174ca4443": {
+    "meanings": [
+      "type; style",
+      "typing (also with suru)"
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "type",
+              "style"
+            ],
+            "replacement": [
+              "type; style",
+              "typing (also with suru)"
+            ]
+          }
+        ],
+        "basis": "タイプ includes kind/style and typing with suru. First not interesting rather than difficult; typing completed rather than report ongoing."
+      }
+    ]
+  },
+  "N4:vocab:b442490fff": {
+    "meanings": [
+      "considerably; greatly; a good deal"
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "greatly"
+            ],
+            "replacement": [
+              "considerably; greatly; a good deal"
+            ]
+          }
+        ],
+        "basis": "だいぶ considerable degree, pain has diminished not sadness; 秋めく autumnal not summer or specifically October. No present seasonal fact claim."
+      }
+    ]
+  },
+  "N4:vocab:23afff6d4b": {
+    "meanings": [
+      "to fall over; to collapse",
+      "to be laid low by illness; to fail or go under"
+    ],
+    "examples": [
+      {
+        "ja": "彼は横にばったり倒れた。",
+        "furigana": "{彼|かれ}は{横|よこ}にばったり{倒|たお}れた。",
+        "en": "He suddenly fell over sideways.",
+        "tatoeba_id": 109533
+      },
+      {
+        "ja": "その木は今にも倒れそうだった。",
+        "furigana": "その{木|き}は{今|いま}にも{倒|たお}れそうだった。",
+        "en": "The tree looked as if it might fall at any moment.",
+        "tatoeba_id": 206541
+      }
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to break down"
+            ],
+            "replacement": [
+              "to fall over; to collapse",
+              "to be laid low by illness; to fail or go under"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "He fell flat on the floor.",
+            "replacement": "He suddenly fell over sideways."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The tree was ready to fall down.",
+            "replacement": "The tree looked as if it might fall at any moment."
+          }
+        ],
+        "basis": "倒れる intransitive collapse/fall not transitive break something. 横に sideways and sudden ばったり, no floor specified in JP; 今にも倒れそう imminent appearance in past not voluntary readiness."
+      }
+    ]
+  },
+  "N4:vocab:ced135c81e": {
+    "meanings": [
+      "so; therefore",
+      "because (in an explanatory construction)"
+    ],
+    "examples": [
+      {
+        "ja": "１日中テニスをしていたのだから。",
+        "en": "Because he had been playing tennis all day.",
+        "tatoeba_id": 235690
+      },
+      {
+        "ja": "だから家の中にいたほうがいいよ。",
+        "furigana": "だから{家|いえ}の{中|なか}にいたほうがいいよ。",
+        "en": "So it is better to stay inside the house.",
+        "tatoeba_id": 203824
+      }
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "so",
+              "therefore"
+            ],
+            "replacement": [
+              "so; therefore",
+              "because (in an explanatory construction)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "He was playing tennis all day.",
+            "replacement": "Because he had been playing tennis all day."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "So we'd better stay home.",
+            "replacement": "So it is better to stay inside the house."
+          }
+        ],
+        "basis": "だから conjunction consequence and sentence-final explanatory のだから. First past progressive all day with because explanation, subject from English; second advice better stay inside not desire or command."
+      }
+    ]
+  },
+  "N4:vocab:2b610cb1a7": {
+    "meanings": [
+      "certain; sure; reliable",
+      "if I remember correctly (adverbial use)"
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "definite"
+            ],
+            "replacement": [
+              "certain; sure; reliable",
+              "if I remember correctly (adverbial use)"
+            ]
+          }
+        ],
+        "basis": "確か adjectival certain/reliable not definition. Both examples certainty of propositions, not uncertain recollection; adverbial recollection sense distinguished in gloss."
+      }
+    ]
+  },
+  "N4:vocab:12d94456b3": {
+    "meanings": [
+      "to add; to add to; to supplement"
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to add a number"
+            ],
+            "replacement": [
+              "to add; to add to; to supplement"
+            ]
+          }
+        ],
+        "basis": "足す add quantities not imperative gloss; exact17 and60, six plus four equals ten. Never70 or700million; question does not state answer43."
+      }
+    ]
+  },
+  "N4:vocab:d73148e8d0": {
+    "examples": [
+      {
+        "ja": "お尋ねしてもよろしいでしょうか。",
+        "furigana": "お{尋|たず}ねしてもよろしいでしょうか。",
+        "en": "May I ask you something?",
+        "tatoeba_id": 227009
+      },
+      {
+        "ja": "見知らぬ人が駅への道を尋ねた。",
+        "furigana": "{見知|みし}らぬ{人|ひと}が{駅|えき}への{道|みち}を{尋|たず}ねた。",
+        "en": "A stranger inquired about the way to the station.",
+        "tatoeba_id": 175140
+      }
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "May I have the honor of asking you?",
+            "replacement": "May I ask you something?"
+          }
+        ],
+        "basis": "尋ねる ask/inquire distinguished from homophone visit. Polite permission to ask not permission already granted or answer; stranger asks directions not unreliable person telling them."
+      }
+    ]
+  },
+  "N4:vocab:b5579bc4a6": {
+    "examples": [
+      {
+        "ja": "彼は畳の上に大の字になった。",
+        "furigana": "{彼|かれ}は{畳|たたみ}の{上|うえ}に{大|だい}の{字|じ}になった。",
+        "en": "He lay down on the tatami with his arms and legs spread out.",
+        "tatoeba_id": 103952
+      },
+      {
+        "ja": "このわらのマット（日本語で畳）は、もはや手で作られない。",
+        "furigana": "このわらのマット（{日本語|にほんご}で{畳|たたみ}）は、もはや{手|て}で{作|つく}られない。",
+        "en": "This straw mat, called tatami in Japanese, is no longer made by hand.",
+        "tatoeba_id": 222975
+      }
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "He lay on the mat at full length.",
+            "replacement": "He lay down on the tatami with his arms and legs spread out."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "These straw mats, called \"tatami\" in Japanese, are no longer made by hand.",
+            "replacement": "This straw mat, called tatami in Japanese, is no longer made by hand."
+          }
+        ],
+        "basis": "畳 tatami straw mat not soil; 大の字 arms/legs spread like 大. Second no-longer passive negative with this-mat demonstrative, not universal current claim about all tatami production."
+      }
+    ]
+  },
+  "N4:vocab:c5741f54d6": {
+    "examples": [
+      {
+        "ja": "この寺院は７８０年に建てられた。",
+        "furigana": "この{寺院|じいん}は７８０{年|ねん}に{建|た}てられた。",
+        "en": "This temple was built in the year 780.",
+        "tatoeba_id": 221630
+      },
+      {
+        "ja": "それを建てるのに何年もかかった。",
+        "furigana": "それを{建|た}てるのに{何年|なんねん}もかかった。",
+        "en": "It took many years to build it.",
+        "tatoeba_id": 204608
+      }
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "This temple dates back to 780.",
+            "replacement": "This temple was built in the year 780."
+          }
+        ],
+        "basis": "建てる construct building not stand object up. Temple construction exact year780 not ranked780 or literal returning; multiyear elapsed construction retained."
+      }
+    ]
+  },
+  "N4:vocab:cad7f1010a": {
+    "meanings": [
+      "to stand something up; to erect",
+      "to make or raise (a noise, dust, etc.)"
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to stand something up"
+            ],
+            "replacement": [
+              "to stand something up; to erect",
+              "to make or raise (a noise, dust, etc.)"
+            ]
+          }
+        ],
+        "basis": "立てる transitive stand/raise; 物音を立てる make noise and dust raising. Prohibition not assertion no noise; car departed raising dust not touching dust or trailer."
+      }
+    ]
+  },
+  "N4:vocab:9c96fd3cb4": {
+    "meanings": [
+      "shelf; shelves; rack"
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "shelves"
+            ],
+            "replacement": [
+              "shelf; shelves; rack"
+            ]
+          }
+        ],
+        "basis": "棚 shelf not selfie/branch/temple. Topmost shelf not vague top place; father as giver did for speaker benefactive past, book singular retained."
+      }
+    ]
+  },
+  "N4:vocab:fb53d716c6": {
+    "meanings": [
+      "pleasure; enjoyment",
+      "anticipation; something to look forward to"
+    ],
+    "examples": [
+      {
+        "ja": "お便り楽しみにお待ちしております。",
+        "en": "I am eagerly looking forward to your letter.",
+        "tatoeba_id": 161715
+      },
+      {
+        "ja": "水泳が私の楽しみの１つです。",
+        "en": "Swimming is one thing I enjoy.",
+        "tatoeba_id": 143698
+      }
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "joy"
+            ],
+            "replacement": [
+              "pleasure; enjoyment",
+              "anticipation; something to look forward to"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I am looking forward to hearing from you.",
+            "replacement": "I am eagerly looking forward to your letter."
+          }
+        ],
+        "basis": "楽しみ pleasure and looking forward, not gold-price rise. お便り written correspondence, polite anticipation; swimming one enjoyment not generic source."
+      }
+    ]
+  },
+  "N4:vocab:9f86b83cad": {
+    "meanings": [
+      "to enjoy; to have a good time"
+    ],
+    "examples": [
+      {
+        "ja": "グレイ先生は仕事を楽しんでいませんでした。",
+        "en": "Mr Grey, the teacher, was not enjoying his work.",
+        "tatoeba_id": 225442
+      },
+      {
+        "ja": "少年たちはみなスキーを楽しんだ。",
+        "furigana": "{少年|しょうねん}たちはみなスキーを{楽|たの}しんだ。",
+        "en": "All the boys enjoyed skiing.",
+        "tatoeba_id": 146622
+      }
+    ],
+    "review_note": "Pass105: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "456dba442b5d12051728a604ecf5c7cf57c85813",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to enjoy oneself"
+            ],
+            "replacement": [
+              "to enjoy; to have a good time"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Mr Grey did not enjoy his job.",
+            "replacement": "Mr Grey, the teacher, was not enjoying his work."
+          }
+        ],
+        "basis": "楽しむ enjoy, not mentally enjoy self literally; Grey teacher honorific kept with male English Mr. Negative past not inability; all boys skiing completed not girls switching or scouts/countries."
+      }
+    ]
   }
 }
