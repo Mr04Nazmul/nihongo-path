@@ -6844,5 +6844,544 @@
         "basis": "世話 care/look after noun/suru not look command. First negative ability and pets exact, no moral judgment reason invented. Second つもり intention to care this dog not mere subjunctive do it someday; no ownership inferred."
       }
     ]
+  },
+  "N4:vocab:ba20bc66d0": {
+    "meanings": [
+      "not at all (with a negative expression)",
+      "completely; entirely"
+    ],
+    "examples": [
+      {
+        "ja": "私はビールはぜんぜん飲みません。",
+        "furigana": "{私|わたし}はビールはぜんぜん{飲|の}みません。",
+        "en": "I do not drink beer at all.",
+        "tatoeba_id": 159061
+      },
+      {
+        "ja": "計画は雨でぜんぜんだめになった。",
+        "furigana": "{計画|けいかく}は{雨|あめ}でぜんぜんだめになった。",
+        "en": "The plan was altogether spoiled by the rain.",
+        "tatoeba_id": 176432
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "not entirely (used in a negative sentence)"
+            ],
+            "replacement": [
+              "not at all (with a negative expression)",
+              "completely; entirely"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I never touch beer.",
+            "replacement": "I do not drink beer at all."
+          }
+        ],
+        "basis": "全然 with negation means not at all, not partial not entirely; negative だめ allows complete failure. No inability to touch beer."
+      }
+    ]
+  },
+  "N4:vocab:9b3ce398bd": {
+    "meanings": [
+      "senior; an earlier entrant or more experienced member (at school, work, etc.)"
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "senior"
+            ],
+            "replacement": [
+              "senior; an earlier entrant or more experienced member (at school, work, etc.)"
+            ]
+          }
+        ],
+        "basis": "先輩 denotes institutional/experience senior, not old object or simply male; first explicitly work-relative, second respects him as senior."
+      }
+    ]
+  },
+  "N4:vocab:554ab81272": {
+    "meanings": [
+      "so; like that; yes (agreement)",
+      "seeming; looking as if; likely to (auxiliary appearance use in these examples)"
+    ],
+    "examples": [
+      {
+        "ja": "まもなく雨が降りそうだ。",
+        "furigana": "まもなく{雨|あめ}が{降|ふ}りそうだ。",
+        "en": "It looks as if it will rain soon.",
+        "tatoeba_id": 195298
+      },
+      {
+        "ja": "ひとみはとても楽しそうにみえた。",
+        "furigana": "ひとみはとても{楽|たの}しそうにみえた。",
+        "en": "Hitomi looked very happy.",
+        "tatoeba_id": 197488
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "really"
+            ],
+            "replacement": [
+              "so; like that; yes (agreement)",
+              "seeming; looking as if; likely to (auxiliary appearance use in these examples)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "It is going to rain soon.",
+            "replacement": "It looks as if it will rain soon."
+          }
+        ],
+        "basis": "そう has so/agreement and auxiliary appearance uses; both actual examples are appearance, not really or hearsay. 降りそう likelihood and 楽しそう past impression retained; Hitomi name restored."
+      }
+    ]
+  },
+  "N4:vocab:aa663833e4": {
+    "meanings": [
+      "consultation; discussion to seek advice (also with suru)"
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to discuss"
+            ],
+            "replacement": [
+              "consultation; discussion to seek advice (also with suru)"
+            ]
+          }
+        ],
+        "basis": "相談 is consultation/talking over for advice, noun plus suru; desire for consultation and let-us proposal retained."
+      }
+    ]
+  },
+  "N4:vocab:6a89d1feee": {
+    "meanings": [
+      "graduation; completion of a course of study",
+      "moving on from a phase or interest (figurative)"
+    ],
+    "examples": [
+      {
+        "ja": "私はポップ・ミュージックはそろそろ卒業しようと思っているの。",
+        "furigana": "{私|わたし}はポップ・ミュージックはそろそろ{卒業|そつぎょう}しようと{思|おも}っているの。",
+        "en": "I am thinking it is about time to move on from pop music.",
+        "tatoeba_id": 158934
+      },
+      {
+        "ja": "卒業したらどうするつもりですか。",
+        "furigana": "{卒業|そつぎょう}したらどうするつもりですか。",
+        "en": "What will you do after graduation?",
+        "tatoeba_id": 139676
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "graduation"
+            ],
+            "replacement": [
+              "graduation; completion of a course of study",
+              "moving on from a phase or interest (figurative)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I feel I'm growing out of pop music.",
+            "replacement": "I am thinking it is about time to move on from pop music."
+          }
+        ],
+        "basis": "卒業 graduation/completion, extended outgrowing a phase; first is prospective intention しようと思っている, not completed musical growth; second asks intended next step, no university restriction."
+      }
+    ]
+  },
+  "N4:vocab:d2ab60015b": {
+    "meanings": [
+      "soft; mild; gentle",
+      "software (abbreviation)"
+    ],
+    "examples": [
+      {
+        "ja": "スミスさんはソフトな語り口の人物です。",
+        "furigana": "スミスさんはソフトな{語|かた}り{口|くち}の{人物|じんぶつ}です。",
+        "en": "Mr Smith is a softly-spoken person.",
+        "tatoeba_id": 3234378
+      },
+      {
+        "ja": "その子はプレイステーションの新しいソフトが欲しいとだだをこねた。",
+        "furigana": "その{子|こ}はプレイステーションの{新|あたら}しいソフトが{欲|ほ}しいとだだをこねた。",
+        "en": "The child threw a tantrum, wanting new PlayStation software.",
+        "tatoeba_id": 210246
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "soft"
+            ],
+            "replacement": [
+              "soft; mild; gentle",
+              "software (abbreviation)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "When the kid wanted the latest PlayStation software, he acted like a spoiled child.",
+            "replacement": "The child threw a tantrum, wanting new PlayStation software."
+          }
+        ],
+        "basis": "ソフト soft/mild and software abbreviation both appear; tantrum over new PlayStation software, not destroyed child; no male sex inferred from 子."
+      }
+    ]
+  },
+  "N4:vocab:0f0ed38b4c": {
+    "examples": [
+      {
+        "ja": "私は祖母が大好きです。",
+        "furigana": "{私|わたし}は{祖母|そぼ}が{大好|だいす}きです。",
+        "en": "I love my grandmother very much.",
+        "tatoeba_id": 155382
+      },
+      {
+        "ja": "祖母は服をボロボロになるまで着る。",
+        "furigana": "{祖母|そぼ}は{服|ふく}をボロボロになるまで{着|き}る。",
+        "en": "My grandmother wears clothes until they are ragged.",
+        "tatoeba_id": 140653
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "My grandmother wears a dress to rags.",
+            "replacement": "My grandmother wears clothes until they are ragged."
+          }
+        ],
+        "basis": "祖母 female grandparent not grandfather/parents. Paternal/maternal side not specified; Bengali alternatives explicitly retained without assigning side. Wears clothes until ragged, not wears for rags."
+      }
+    ]
+  },
+  "N4:vocab:67c8e8ac31": {
+    "meanings": [
+      "because of that; so; therefore",
+      "and then; so (continuing a conversation)"
+    ],
+    "examples": [
+      {
+        "ja": "それで、その金はどこから出るんだよ？",
+        "furigana": "それで、その{金|かね}はどこから{出|で}るんだよ？",
+        "en": "And where is the money coming from?",
+        "tatoeba_id": 205786
+      },
+      {
+        "ja": "試験に通ったよ。それで、特待生になるんだ。",
+        "furigana": "{試験|しけん}に{通|とお}ったよ。それで、{特待生|とくたいせい}になるんだ。",
+        "en": "I passed the examination. So I will become a specially privileged merit student.",
+        "tatoeba_id": 151105
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "because of that"
+            ],
+            "replacement": [
+              "because of that; so; therefore",
+              "and then; so (continuing a conversation)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I passed the examination, and I'm going to be an honor student.",
+            "replacement": "I passed the examination. So I will become a specially privileged merit student."
+          }
+        ],
+        "basis": "それで consequence or continuing question; 特待生 is academically selected student receiving privileges, not merely honor/respect. Exact monetary benefit unspecified, not invented."
+      }
+    ]
+  },
+  "N4:vocab:074e70b529": {
+    "meanings": [
+      "moreover; besides; in addition",
+      "to it; into it (sore plus particle ni, as in the water example)"
+    ],
+    "examples": [
+      {
+        "ja": "それに、みんなに仲間もできるしね。",
+        "furigana": "それに、みんなに{仲間|なかま}もできるしね。",
+        "en": "Besides, everyone will also get companions.",
+        "tatoeba_id": 205709
+      },
+      {
+        "ja": "それにもっと水をたしなさい。",
+        "furigana": "それにもっと{水|みず}をたしなさい。",
+        "en": "Add more water to it.",
+        "tatoeba_id": 205647
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "moreover"
+            ],
+            "replacement": [
+              "moreover; besides; in addition",
+              "to it; into it (sore plus particle ni, as in the water example)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "And, we get each other's company to boot.",
+            "replacement": "Besides, everyone will also get companions."
+          }
+        ],
+        "basis": "それに conjunction moreover in ex0; ex1 demonstrative それ plus particle に = to it, not temporal then. Company means companionship not business; everyone gets companions."
+      }
+    ]
+  },
+  "N4:vocab:e35f288b22": {
+    "examples": [
+      {
+        "ja": "いや、それほど混んでなかったよ。",
+        "furigana": "いや、それほど{混|こ}んでなかったよ。",
+        "en": "No, it was not that crowded.",
+        "tatoeba_id": 228507
+      },
+      {
+        "ja": "それほどばかげた意見は聞いた事がない。",
+        "furigana": "それほどばかげた{意見|いけん}は{聞|き}いた{事|こと}がない。",
+        "en": "I have never heard an opinion that absurd.",
+        "tatoeba_id": 204788
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "No, the traffic wasn't too bad.",
+            "replacement": "No, it was not that crowded."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "That's the most absurd idea I've ever heard.",
+            "replacement": "I have never heard an opinion that absurd."
+          }
+        ],
+        "basis": "それほど extent; first crowding no traffic restriction in JP, negative and past preserved. Second never heard an opinion that absurd, not occasional hearing or merely unbelievable."
+      }
+    ]
+  },
+  "N4:vocab:0039e17a55": {
+    "meanings": [
+      "soon; about time; before long",
+      "slowly; gradually"
+    ],
+    "examples": [
+      {
+        "ja": "そろそろ寝る時間だぞ。",
+        "furigana": "そろそろ{寝|ね}る{時間|じかん}だぞ。",
+        "en": "It's time you went to bed.",
+        "tatoeba_id": 204450
+      },
+      {
+        "ja": "もうそろそろ出発の時間です。",
+        "furigana": "もうそろそろ{出発|しゅっぱつ}の{時間|じかん}です。",
+        "en": "It is already nearly time to depart.",
+        "tatoeba_id": 194401
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "gradually",
+              "soon"
+            ],
+            "replacement": [
+              "soon; about time; before long",
+              "slowly; gradually"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "It's about time to start.",
+            "replacement": "It is already nearly time to depart."
+          }
+        ],
+        "basis": "そろそろ about time/soon; contextual imminent bedtime and departure, not haste or gradual sleep. Preserve もう near/already time."
+      }
+    ]
+  },
+  "N4:vocab:73688428ee": {
+    "examples": [
+      {
+        "ja": "どうしてそんなことが起こったの？",
+        "furigana": "どうしてそんなことが{起|お}こったの？",
+        "en": "Why did such a thing happen?",
+        "tatoeba_id": 201543
+      },
+      {
+        "ja": "そんな事をするとはうかつだった。",
+        "furigana": "そんな{事|こと}をするとはうかつだった。",
+        "en": "It was careless of me to do something like that.",
+        "tatoeba_id": 204115
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "How did such a thing come about?",
+            "replacement": "Why did such a thing happen?"
+          }
+        ],
+        "basis": "そんな that sort; どうして cause why rather than how object arrives; うかつ careless past action, not helplessness or present desire."
+      }
+    ]
+  },
+  "N4:vocab:ced7c01cf1": {
+    "meanings": [
+      "discharge from hospital (also with suru)"
+    ],
+    "examples": [
+      {
+        "ja": "彼女は１時間前に退院しました。",
+        "en": "She was discharged from hospital an hour ago.",
+        "tatoeba_id": 93617
+      },
+      {
+        "ja": "彼女はまもなく退院するでしょう。",
+        "furigana": "{彼女|かのじょ}はまもなく{退院|たいいん}するでしょう。",
+        "en": "She will probably be discharged from hospital soon.",
+        "tatoeba_id": 91453
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to leave hospital"
+            ],
+            "replacement": [
+              "discharge from hospital (also with suru)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "She left the hospital an hour ago.",
+            "replacement": "She was discharged from hospital an hour ago."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "She will leave the hospital soon.",
+            "replacement": "She will probably be discharged from hospital soon."
+          }
+        ],
+        "basis": "退院 discharge from inpatient care not admission/going to hospital. One hour ago not duration there; でしょう probabilistic future retained, no medical advice."
+      }
+    ]
+  },
+  "N4:vocab:138dee4a26": {
+    "examples": [
+      {
+        "ja": "私の兄は大学生です。",
+        "en": "My older brother is a university student.",
+        "tatoeba_id": 163789
+      },
+      {
+        "ja": "その大学生は工学を学んでいます。",
+        "furigana": "その{大学生|だいがくせい}は{工学|こうがく}を{学|まな}んでいます。",
+        "en": "That college student is studying engineering.",
+        "tatoeba_id": 522655
+      }
+    ],
+    "review_note": "Pass104: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "a5121290cd4c9e7726620711792c75b27740b159",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "My brother is a college student.",
+            "replacement": "My older brother is a university student."
+          }
+        ],
+        "basis": "大学 student tertiary university not school; 兄 elder brother, no younger sibling. Progressive engineering study retained."
+      }
+    ]
   }
 }
