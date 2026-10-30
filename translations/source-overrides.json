@@ -5826,5 +5826,342 @@
         "basis": "社会 society/community not merely public adjective. 下積み socially low/unrecognized status per Daijisen not literal darkness; entire life ended there, no claim recovered occupation. だろう likely benefit inferential not bare certain result."
       }
     ]
+  },
+  "N4:vocab:eacd8a5221": {
+    "meanings": [
+      "habit; custom; customary practice"
+    ],
+    "review_note": "Pass101: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12e27521bc6dcda1691536af722f6aed5497289e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "custom",
+              "manners"
+            ],
+            "replacement": [
+              "habit; custom; customary practice"
+            ]
+          }
+        ],
+        "basis": "習慣 habit/custom not manager/temple. Custom originated in China past; Ken personal name not general giving order, early rising habitual not unspecified beginning."
+      }
+    ]
+  },
+  "N4:vocab:93f910e281": {
+    "meanings": [
+      "attendance",
+      "to attend; to be present"
+    ],
+    "review_note": "Pass101: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12e27521bc6dcda1691536af722f6aed5497289e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to attend"
+            ],
+            "replacement": [
+              "attendance",
+              "to attend; to be present"
+            ]
+          }
+        ],
+        "basis": "出席 attendance not fortune. Inability question plus why retained; majority of attendees students not vague students exist. No gender restriction."
+      }
+    ]
+  },
+  "N4:vocab:c614552d23": {
+    "meanings": [
+      "departure",
+      "to depart; to set out"
+    ],
+    "review_note": "Pass101: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12e27521bc6dcda1691536af722f6aed5497289e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to depart"
+            ],
+            "replacement": [
+              "departure",
+              "to depart; to set out"
+            ]
+          }
+        ],
+        "basis": "出発 departure. First advice depart at once not speaker past could-leave/increase; second deliberative question whether early departure better not how start happened."
+      }
+    ]
+  },
+  "N4:vocab:7c6d792073": {
+    "meanings": [
+      "hobby",
+      "taste; aesthetic preference"
+    ],
+    "examples": [
+      {
+        "ja": "趣味については話しましたか？",
+        "furigana": "{趣味|しゅみ}については{話|はな}しましたか？",
+        "en": "Did you talk about your hobby?",
+        "tatoeba_id": 231897
+      },
+      {
+        "ja": "インテリアの趣味がいいですね。",
+        "furigana": "インテリアの{趣味|しゅみ}がいいですね。",
+        "en": "You have good taste in interior decoration.",
+        "tatoeba_id": 228380
+      }
+    ],
+    "review_note": "Pass101: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12e27521bc6dcda1691536af722f6aed5497289e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "hobby"
+            ],
+            "replacement": [
+              "hobby",
+              "taste; aesthetic preference"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "You've done a wonderful job on the interior decoration.",
+            "replacement": "You have good taste in interior decoration."
+          }
+        ],
+        "basis": "趣味 hobby and aesthetic taste (publisher dictionary), not merely good completed job/strange invention. Hobby conversation past question and interior taste evaluation restored without inventing decorator action."
+      }
+    ]
+  },
+  "N4:vocab:6ce523bcb6": {
+    "meanings": [
+      "preparation",
+      "to prepare"
+    ],
+    "review_note": "Pass101: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12e27521bc6dcda1691536af722f6aed5497289e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to prepare"
+            ],
+            "replacement": [
+              "preparation",
+              "to prepare"
+            ]
+          }
+        ],
+        "basis": "準備 noun/suru preparation. Until-ready waiting request, not hanging/surviving/awareness. Mother prepares lunch for speaker benefactive completed, not parents recipients or obligation to eat."
+      }
+    ]
+  },
+  "N4:vocab:c151fe4163": {
+    "meanings": [
+      "introduction",
+      "to introduce"
+    ],
+    "examples": [
+      {
+        "ja": "あなたを私の両親に紹介したい。",
+        "en": "I would like to introduce you to my parents.",
+        "tatoeba_id": 231428
+      },
+      {
+        "ja": "兄のトムを紹介させていただきます。",
+        "furigana": "{兄|あに}のトムを{紹介|しょうかい}させていただきます。",
+        "en": "Please let me introduce my elder brother, Tom.",
+        "tatoeba_id": 176623
+      }
+    ],
+    "review_note": "Pass101: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12e27521bc6dcda1691536af722f6aed5497289e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "introduction"
+            ],
+            "replacement": [
+              "introduction",
+              "to introduce"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I want you to meet my parents.",
+            "replacement": "I would like to introduce you to my parents."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I'd like you to meet my brother, Tom.",
+            "replacement": "Please let me introduce my elder brother, Tom."
+          }
+        ],
+        "basis": "紹介 introduction. Speaker introduces addressee to own parents not wants self see parents. 兄 explicitly elder brother Tom (BNবড়ভাই NEदाजु), not younger/unspecified brother. させていただきます polite introducing act; no unresolved kinship side."
+      }
+    ]
+  },
+  "N4:vocab:6111e87e72": {
+    "meanings": [
+      "invitation",
+      "to invite"
+    ],
+    "review_note": "Pass101: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12e27521bc6dcda1691536af722f6aed5497289e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to invite"
+            ],
+            "replacement": [
+              "invitation",
+              "to invite"
+            ]
+          }
+        ],
+        "basis": "招待 noun/suru invite. Thanks for addressee invitation; speaker invited passive past, not vague invitation exists or speaker invites others."
+      }
+    ]
+  },
+  "N4:vocab:b377c7b2ea": {
+    "meanings": [
+      "to know; to understand",
+      "to consent; to accept"
+    ],
+    "examples": [
+      {
+        "ja": "人はすべて死すべきものと承知している。",
+        "furigana": "{人|ひと}はすべて{死|し}すべきものと{承知|しょうち}している。",
+        "en": "We know that all men are mortal.",
+        "tatoeba_id": 144566
+      },
+      {
+        "ja": "よろしい。お申し出は承知しました。",
+        "furigana": "よろしい。お{申|もう}し{出|で}は{承知|しょうち}しました。",
+        "en": "All right. I accept your offer.",
+        "tatoeba_id": 192707
+      }
+    ],
+    "review_note": "Pass101: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12e27521bc6dcda1691536af722f6aed5497289e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to consent"
+            ],
+            "replacement": [
+              "to know; to understand",
+              "to consent; to accept"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "All right. I'll accept your offer.",
+            "replacement": "All right. I accept your offer."
+          }
+        ],
+        "basis": "承知 knowledge/understanding and acceptance per Daijisen, not consent only. 死すべきもの mortality inevitability not all already dead/morality or instruction should die. お申し出 offer belongs to addressee, accepted politely not speakers offer accepted by others."
+      }
+    ]
+  },
+  "N4:vocab:1ad2f6d941": {
+    "meanings": [
+      "meal; eating",
+      "to have a meal"
+    ],
+    "examples": [
+      {
+        "ja": "食事は母に作ってもらっています。",
+        "furigana": "{食事|しょくじ}は{母|はは}に{作|つく}ってもらっています。",
+        "en": "My mother prepares my meals for me.",
+        "tatoeba_id": 145829
+      },
+      {
+        "ja": "食事はじつにおいしかったですね。",
+        "furigana": "{食事|しょくじ}はじつにおいしかったですね。",
+        "en": "The meal was great, wasn't it?",
+        "tatoeba_id": 145839
+      }
+    ],
+    "review_note": "Pass101: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12e27521bc6dcda1691536af722f6aed5497289e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to have a meal"
+            ],
+            "replacement": [
+              "meal; eating",
+              "to have a meal"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I'm cooked meals by my mother.",
+            "replacement": "My mother prepares my meals for me."
+          }
+        ],
+        "basis": "食事 meal/eating. 母に作ってもらっています mother giver/cook, speaker receives ongoing service not cooks mother/parents eating. Second past delicious assessment tag, not merely cooking permissible."
+      }
+    ]
+  },
+  "N4:vocab:2ae7b1cb3b": {
+    "meanings": [
+      "groceries; foodstuffs"
+    ],
+    "review_note": "Pass101: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "12e27521bc6dcda1691536af722f6aed5497289e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "groceries"
+            ],
+            "replacement": [
+              "groceries; foodstuffs"
+            ]
+          }
+        ],
+        "basis": "食料品 groceries/foodstuffs not only grains/prepared restaurant meals. High-quality goods sold at specified shop; 扱っていますか stocking/dealing question not do you eat Japanese food."
+      }
+    ]
   }
 }
