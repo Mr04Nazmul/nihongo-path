@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-10-30",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 8866,
-  "pending_fields": 70312,
+  "ai_semantic_checked_fields": 8984,
+  "pending_fields": 70194,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 1772
+    "N4": 1890
   },
-  "authored_entry_glosses": 1079,
+  "authored_entry_glosses": 1099,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "1a680b4cf9",
+      "id": "d2937b2999",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "1a680b4cf9",
+      "id": "d2937b2999",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "1a680b4cf9",
+      "id": "d2937b2999",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "1a680b4cf9",
+      "id": "d2937b2999",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "1a680b4cf9",
+      "id": "d2937b2999",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "1a680b4cf9",
+      "id": "d2937b2999",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "beb32f751c",
+      "id": "49ac3c55c7",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "beb32f751c",
+      "id": "49ac3c55c7",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "beb32f751c",
+      "id": "49ac3c55c7",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "beb32f751c",
+      "id": "49ac3c55c7",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "beb32f751c",
+      "id": "49ac3c55c7",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "beb32f751c",
+      "id": "49ac3c55c7",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7962f0cea1",
+      "id": "9071f08832",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7962f0cea1",
+      "id": "9071f08832",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7962f0cea1",
+      "id": "9071f08832",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7962f0cea1",
+      "id": "9071f08832",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7962f0cea1",
+      "id": "9071f08832",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "7962f0cea1",
+      "id": "9071f08832",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "40c673da45",
+      "id": "97a079585a",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "40c673da45",
+      "id": "97a079585a",
       "language": "bn",
       "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass101: N4 vocabulary indices280–299:120 Bengali/Nepali meaning/example fields semantically reviewed against Japanese and English. Corrected obstruction/car-chair requests, fruit-jam transformation/tasting, freely spend-or-save and excess conditional, habit/custom and Ken early rising, address form/permission, judo not jihad and technique-vs-strength, enough money/water preparation, attendance inability/majority, departure advice, hobby vs interior taste, wait until ready and mother-to-speaker lunch, introduction roles and explicit elder brother Tom, Nagoya not Nepal primary schooling, novel not Nobel and all-day reading, passive invitation, knowing mortality vs consent and accepting addressee offer, cannot refrain thinking of future, mother cooks meals for speaker not cooking mother, grocery quality/stock question and slender woman/skimming. Ten English source entries senses/nuances corrected or expanded with prior values retained. Japanese, stable IDs and attribution unchanged. No new unresolved ambiguity; historical original-context limitations preserved. No native-speaker certification. Resume N4 vocabulary index300."
+  "latest_pass": "Pass102: N4 vocabulary indices300–319:118 Bengali/Nepali meaning/example fields reviewed. Corrected notification question/phone roles, investigating not nose-wandering and house inspection, population amount vs growth and Britain, Shinto shrine vs throne and200year construction date, kindness vs beauty/inference and recipient gratitude, worried boy/caring person, newspaper employment4year tenure, swimming summer-vacation afternoons, yesterday water-supply cutoff/tap-water habit, considerable duration vs enough and patient long matter, math inability vs assault/test, suit conspicuousness/tailoring received, suitcase causative and one-empty-case scope, too-salty-to-drink negation/unnoticed summer passing, uncrowded carriage/bus front, past plural screen words, intensity/amazing vs terrifying and Madonna not medicine, study/industrialization progress, complete breathlessness/teacher recovery and snail-feeler extension/blood trickle not pressure. Ten English source entries senses/nuances corrected or expanded with prior values retained. Japanese, stable IDs and attribution unchanged. No new unresolved ambiguity; historic source-context limitations preserved. No native-speaker certification. Resume N4 vocabulary index320."
 }

@@ -6163,5 +6163,335 @@
         "basis": "食料品 groceries/foodstuffs not only grains/prepared restaurant meals. High-quality goods sold at specified shop; 扱っていますか stocking/dealing question not do you eat Japanese food."
       }
     ]
+  },
+  "N4:vocab:1a680b4cf9": {
+    "examples": [
+      {
+        "ja": "彼女はそれをどのようにして知らせたのですか。",
+        "furigana": "{彼女|かのじょ}はそれをどのようにして{知|し}らせたのですか。",
+        "en": "How did she convey that information?",
+        "tatoeba_id": 183080
+      },
+      {
+        "ja": "電話でそのニュースを知らせてね。",
+        "furigana": "{電話|でんわ}でそのニュースを{知|し}らせてね。",
+        "en": "Phone me the news.",
+        "tatoeba_id": 124721
+      }
+    ],
+    "review_note": "Pass102: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "f1185589900b11b1ffc86ae0de87593627b24644",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "How did she tell them?",
+            "replacement": "How did she convey that information?"
+          }
+        ],
+        "basis": "知らせる notify/tell verb not notice noun. How she conveyed that information, recipient omitted in Japanese so no invented them. Second phone news to speaker per paired English, not phone itself contains news."
+      }
+    ]
+  },
+  "N4:vocab:beb32f751c": {
+    "examples": [
+      {
+        "ja": "ちょっと調べてることがあるから。",
+        "furigana": "ちょっと{調|しら}べてることがあるから。",
+        "en": "Because there is something I am looking into a little.",
+        "tatoeba_id": 202728
+      },
+      {
+        "ja": "家は買う前によく調べるべきだ。",
+        "furigana": "{家|いえ}は{買|か}う{前|#1392580}によく{調|しら}べるべきだ。",
+        "en": "You should go over a house before buying it.",
+        "tatoeba_id": 232179
+      }
+    ],
+    "review_note": "Pass102: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "f1185589900b11b1ffc86ae0de87593627b24644",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I just wanna nose around a bit.",
+            "replacement": "Because there is something I am looking into a little."
+          }
+        ],
+        "basis": "調べる investigate/check. First てる ongoing investigation and から explanatory unfinished cause, not literally nose wandering or mere wish. よく調べる before buying house careful inspection should, not merely visit/live in it."
+      }
+    ]
+  },
+  "N4:vocab:c904982ded": {
+    "examples": [
+      {
+        "ja": "あなたの家族はきっと親切でしょう。",
+        "furigana": "あなたの{家族|かぞく}はきっと{親切|しんせつ}でしょう。",
+        "en": "Your family must surely be kind.",
+        "tatoeba_id": 233420
+      },
+      {
+        "ja": "とても親切にしていただきました。",
+        "furigana": "とても{親切|しんせつ}にしていただきました。",
+        "en": "You've been very good to me.",
+        "tatoeba_id": 200584
+      }
+    ],
+    "review_note": "Pass102: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "f1185589900b11b1ffc86ae0de87593627b24644",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "Your family must be very nice.",
+            "replacement": "Your family must surely be kind."
+          }
+        ],
+        "basis": "親切 kindness/helpful not love/beauty. きっと…でしょう confident inference not duty or want beauty. にしていただきました recipient speaker gratefully received kindness, not speaker being good to others; addressee based on paired English."
+      }
+    ]
+  },
+  "N4:vocab:ff60f2830f": {
+    "meanings": [
+      "worry; concern",
+      "to worry; to care about someone"
+    ],
+    "review_note": "Pass102: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "f1185589900b11b1ffc86ae0de87593627b24644",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to worry"
+            ],
+            "replacement": [
+              "worry; concern",
+              "to worry; to care about someone"
+            ]
+          }
+        ],
+        "basis": "心配 worry/care noun/suru. Boy anxiety leads illness not country anxiety growing. Someone caring for speaker beneficialくれる makes fortunate, not speaker being aware; no clinical causation advice added."
+      }
+    ]
+  },
+  "N4:vocab:cdddb30c94": {
+    "meanings": [
+      "considerably; very; quite a lot"
+    ],
+    "examples": [
+      {
+        "ja": "私たちはもうずいぶん長くここにいます。",
+        "furigana": "{私|わたし}たちはもうずいぶん{長|なが}くここにいます。",
+        "en": "We have already been here quite a long time.",
+        "tatoeba_id": 166144
+      },
+      {
+        "ja": "それはずいぶん気の長い話だ。",
+        "furigana": "それはずいぶん{気|き}の{長|なが}い{話|はなし}だ。",
+        "en": "That is a matter that takes a great deal of time and patience.",
+        "tatoeba_id": 205500
+      }
+    ],
+    "review_note": "Pass102: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "f1185589900b11b1ffc86ae0de87593627b24644",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "extremely"
+            ],
+            "replacement": [
+              "considerably; very; quite a lot"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "We've been here long enough.",
+            "replacement": "We have already been here quite a long time."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "It's a very slow business.",
+            "replacement": "That is a matter that takes a great deal of time and patience."
+          }
+        ],
+        "basis": "ずいぶん considerably/very, not additional/enough threshold. Already here long time without implying enough and should leave. 気の長い話 slow/patience-taking matter, not specifically business enterprise. Dictionary supports emphatic degree and leisurely/patient sense."
+      }
+    ]
+  },
+  "N4:vocab:6701f8cbba": {
+    "meanings": [
+      "to pass; to go beyond; to exceed",
+      "too much (as verb or adjective suffix ～すぎる)"
+    ],
+    "examples": [
+      {
+        "ja": "このスープは、しょっぱ過ぎて飲めないよ。",
+        "furigana": "このスープは、しょっぱ{過|す}ぎて{飲|の}めないよ。",
+        "en": "This soup is too salty to drink.",
+        "tatoeba_id": 223657
+      },
+      {
+        "ja": "いつのまにか夏も過ぎてしまった。",
+        "furigana": "いつのまにか{夏|なつ}も{過|す}ぎてしまった。",
+        "en": "Before I knew it, summer had passed too.",
+        "tatoeba_id": 228806
+      }
+    ],
+    "review_note": "Pass102: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "f1185589900b11b1ffc86ae0de87593627b24644",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to exceed"
+            ],
+            "replacement": [
+              "to pass; to go beyond; to exceed",
+              "too much (as verb or adjective suffix ～すぎる)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "This soup is too salty to eat.",
+            "replacement": "This soup is too salty to drink."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Summer has gone all too soon.",
+            "replacement": "Before I knew it, summer had passed too."
+          }
+        ],
+        "basis": "過ぎる exceed/pass, suffix too much. Too-salty soup prevents consumption negative, not delicious/necessary. いつのまにか unnoticed passing summer completion, not temperature increasing or explicit regret all-too-soon beyond source."
+      }
+    ]
+  },
+  "N4:vocab:270801de39": {
+    "examples": [
+      {
+        "ja": "それらの単語は彼のコンピューター・スクリーンに現れたのだった。",
+        "furigana": "それらの{単語|たんご}は{彼|かれ}のコンピューター・スクリーンに{現|あらわ}れたのだった。",
+        "en": "Those words had appeared on his computer screen.",
+        "tatoeba_id": 204737
+      }
+    ],
+    "review_note": "Pass102: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "f1185589900b11b1ffc86ae0de87593627b24644",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "The words would appear on his computer screen.",
+            "replacement": "Those words had appeared on his computer screen."
+          }
+        ],
+        "basis": "スクリーン screen. Plural those words appeared past explanatory のだった, not one word future/habitual would or negative didnot appear; his computer ownership retained."
+      }
+    ]
+  },
+  "N4:vocab:ded62a84d0": {
+    "meanings": [
+      "terrible; dreadful",
+      "amazing; great; wonderful",
+      "extreme; tremendous in degree or number"
+    ],
+    "review_note": "Pass102: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "f1185589900b11b1ffc86ae0de87593627b24644",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "terrific"
+            ],
+            "replacement": [
+              "terrible; dreadful",
+              "amazing; great; wonderful",
+              "extreme; tremendous in degree or number"
+            ]
+          }
+        ],
+        "basis": "凄い intensity/amazing/terrible context dependent (JMdict primary and Daijisen) not always frightening. Strong light falling on baseball grounds; huge audience for Madonna not medical conference, exact singer name no contemporary event claim."
+      }
+    ]
+  },
+  "N4:vocab:5c8702fe01": {
+    "examples": [
+      {
+        "ja": "英語の勉強は進んでいますか？",
+        "furigana": "{英語|えいご}の{勉強|べんきょう}は{進|すす}んでいますか？",
+        "en": "How are you getting along with your English study?",
+        "tatoeba_id": 189159
+      },
+      {
+        "ja": "その国はさらに工業化が進んでいる。",
+        "furigana": "その{国|くに}はさらに{工業化|こうぎょうか}が{進|すす}んでいる。",
+        "en": "Industrialization in that country has advanced still further.",
+        "tatoeba_id": 210611
+      }
+    ],
+    "review_note": "Pass102: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "f1185589900b11b1ffc86ae0de87593627b24644",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "The country is well on the way to industrialization.",
+            "replacement": "Industrialization in that country has advanced still further."
+          }
+        ],
+        "basis": "進む advance/progress intransitive not for progress. Question on English study advancement not where to go. さらに工業化が進んでいる further industrialization advanced/progressing, not merely on correct path/value judgment."
+      }
+    ]
+  },
+  "N4:vocab:424826c446": {
+    "meanings": [
+      "quickly and smoothly; without obstruction",
+      "straight",
+      "suddenly (of swift movement or change)"
+    ],
+    "review_note": "Pass102: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-10-30",
+        "original_commit": "f1185589900b11b1ffc86ae0de87593627b24644",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "straight",
+              "all of a sudden"
+            ],
+            "replacement": [
+              "quickly and smoothly; without obstruction",
+              "straight",
+              "suddenly (of swift movement or change)"
+            ]
+          }
+        ],
+        "basis": "すっと quick unobstructed/smooth or straight movement (Daijisen). Snail extends feelers (角 hornlike tentacles), not branch dropping on shoulder/love. Blood trickles down neck not blood piece or blood pressure increasing; no injury cause inferred."
+      }
+    ]
   }
 }
