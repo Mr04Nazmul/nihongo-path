@@ -8839,5 +8839,461 @@
         "basis": "電灯 electric lamp/light; Lucy affirmative switched on past not must. とされている reported attribution preserved, not independent claim Edison sole inventor; existing educational source not history verification."
       }
     ]
+  },
+  "N4:vocab:84e17fcbc2": {
+    "examples": [
+      {
+        "ja": "私は、彼女から電報を受け取った。",
+        "furigana": "{私|わたし}は、{彼女|かのじょ}から{電報|でんぽう}を{受|う}け{取|と}った。",
+        "en": "I received a telegram from her.",
+        "tatoeba_id": 162168
+      },
+      {
+        "ja": "着いたら電報で知らせるよ。",
+        "furigana": "{着|つ}いたら{電報|でんぽう}で{知|し}らせるよ。",
+        "en": "I will send you a telegram when I arrive.",
+        "tatoeba_id": 126612
+      }
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I will wire you when I get there.",
+            "replacement": "I will send you a telegram when I arrive."
+          }
+        ],
+        "basis": "電報 telegram message; received from her roles preserved, wire means send telegram after arrival not pull physically or want to come."
+      }
+    ]
+  },
+  "N4:vocab:80eba2fabb": {
+    "examples": [
+      {
+        "ja": "私たちは毎年展覧会を開く。",
+        "en": "We hold an exhibition every year.",
+        "tatoeba_id": 165110
+      },
+      {
+        "ja": "私は近いうちにその展覧会を見に行くつもりだ。",
+        "furigana": "{私|わたし}は{近|ちか}いうちにその{展覧会|てんらんかい}を{見|み}に{行|い}くつもりだ。",
+        "en": "I intend to go and see that exhibition soon.",
+        "tatoeba_id": 157575
+      }
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I am going to visit the art exhibition one of these days.",
+            "replacement": "I intend to go and see that exhibition soon."
+          }
+        ],
+        "basis": "展覧会 exhibition, yearly habitual organizer we; 近いうち near future not one-day duration, intention not mere future event."
+      }
+    ]
+  },
+  "N4:vocab:53162e310d": {
+    "meanings": [
+      "metropolis; metropolitan prefecture (Tokyo administrative usage)"
+    ],
+    "examples": [
+      {
+        "ja": "「都庁舎でもらえますよ」と係員が付け加えた。",
+        "en": "\"You can get it at the Metropolitan Government Office,\" the clerk added.",
+        "tatoeba_id": 236216
+      },
+      {
+        "ja": "都庁舎に行き、そこでまた列の中で待った。",
+        "en": "Went to the metropolitan government building and waited in line there again.",
+        "tatoeba_id": 124528
+      }
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "metropolitan"
+            ],
+            "replacement": [
+              "metropolis; metropolitan prefecture (Tokyo administrative usage)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The woman left and went to the courthouse, where she waited in line again.",
+            "replacement": "Went to the metropolitan government building and waited in line there again."
+          }
+        ],
+        "basis": "都 to administrative metropolis (Tokyo usage); 都庁舎 metropolitan government building not courthouse. Japanese ex1 omitted subject: subject left implicit without unsupported woman, source English rewritten subject-neutral."
+      }
+    ]
+  },
+  "N4:vocab:c64697ccaa": {
+    "meanings": [
+      "tool; implement; equipment",
+      "means; instrument for doing something"
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "tool",
+              "means"
+            ],
+            "replacement": [
+              "tool; implement; equipment",
+              "means; instrument for doing something"
+            ]
+          }
+        ],
+        "basis": "道具 tools/means instrumental not dictionary meaning of means. Negative useful for nothing, when not why onset tools."
+      }
+    ]
+  },
+  "N4:vocab:9ef4ab5d2a": {
+    "meanings": [
+      "finally; at last; in the end"
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "finally",
+              "after all"
+            ],
+            "replacement": [
+              "finally; at last; in the end"
+            ]
+          }
+        ],
+        "basis": "とうとう eventual result, affirmative Tom quit not negative; now can buy house ability not giving house or unable enter."
+      }
+    ]
+  },
+  "N4:vocab:69678bc04e": {
+    "examples": [
+      {
+        "ja": "コンドルは動物園では決して育たない。",
+        "furigana": "コンドルは{動物園|どうぶつえん}では{決|けっ}して{育|そだ}たない。",
+        "en": "Condors never grow up in zoos.",
+        "tatoeba_id": 217495
+      },
+      {
+        "ja": "私たちは動物園でサルをみました。",
+        "furigana": "{私|わたし}たちは{動物園|どうぶつえん}でサルをみました。",
+        "en": "We saw the monkey at the zoo.",
+        "tatoeba_id": 165392
+      }
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "Condors have never bred in zoos.",
+            "replacement": "Condors never grow up in zoos."
+          }
+        ],
+        "basis": "動物園 zoo not Chinese. 育たない grow up not breed; strong negative source claim translated faithfully as educational sentence, not verified assertion about real condor conservation. Second saw monkey(s), plural unspecified."
+      }
+    ]
+  },
+  "N4:vocab:fc60a66d5c": {
+    "meanings": [
+      "far away; in the distance",
+      "a distant place"
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "distant"
+            ],
+            "replacement": [
+              "far away; in the distance",
+              "a distant place"
+            ]
+          }
+        ],
+        "basis": "遠く distance/distant place not foresight. ぼんやり dim indistinct light not dark light, far-away intensity retained."
+      }
+    ]
+  },
+  "N4:vocab:e9c1a3ae2c": {
+    "meanings": [
+      "to pass through; to go by",
+      "to be known as (a name)"
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to go through"
+            ],
+            "replacement": [
+              "to pass through; to go by",
+              "to be known as (a name)"
+            ]
+          }
+        ],
+        "basis": "通る pass along/by not visit church. 名で通る known by name Bess idiom not movement or Bollywood."
+      }
+    ]
+  },
+  "N4:vocab:cc2bd01f0a": {
+    "examples": [
+      {
+        "ja": "特別料理がございますが。",
+        "furigana": "{特別|とくべつ}{料理|りょうり}がございますが。",
+        "en": "We have a special dish.",
+        "tatoeba_id": 123440
+      },
+      {
+        "ja": "ベジタリアン用の特別メニューはありますか？",
+        "furigana": "ベジタリアン{用|よう}の{特別|とくべつ}メニューはありますか？",
+        "en": "Do you have a special menu for vegetarians?",
+        "tatoeba_id": 170275
+      }
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "We have something special for you, sir.",
+            "replacement": "We have a special dish."
+          }
+        ],
+        "basis": "特別 special. 料理 specifically dish not unspecified something, no unsupported male sir/addressee-specific offer; vegetarian not visitor, menu question retained."
+      }
+    ]
+  },
+  "N4:vocab:8743cb4286": {
+    "meanings": [
+      "barber; barbershop"
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "barber"
+            ],
+            "replacement": [
+              "barber; barbershop"
+            ]
+          }
+        ],
+        "basis": "床屋 barber/barbershop not browser/children/Barcelona. 行ってきた completed there-and-back, second intention not completed visit."
+      }
+    ]
+  },
+  "N4:vocab:3753f20423": {
+    "meanings": [
+      "limited express train; a fast service with fewer stops"
+    ],
+    "examples": [
+      {
+        "ja": "時計がおくれていたので、私は特急にのりそこねた。",
+        "furigana": "{時計|とけい}がおくれていたので、{私|わたし}は{特急|とっきゅう}にのりそこねた。",
+        "en": "Because my watch was slow, I missed the limited express.",
+        "tatoeba_id": 150518
+      },
+      {
+        "ja": "特急のホームは何番ですか。",
+        "furigana": "{特急|とっきゅう}のホームは{何番|なんばん}ですか。",
+        "en": "What's the track for the limited express?",
+        "tatoeba_id": 123466
+      }
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "limited express train (faster than an express train)"
+            ],
+            "replacement": [
+              "limited express train; a fast service with fewer stops"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "As my watch was slow, I missed the special express.",
+            "replacement": "Because my watch was slow, I missed the limited express."
+          }
+        ],
+        "basis": "特急 limited express service category not restricted availability or exposure/expression. Watch behind correct time caused missed train, numbered platform question. Faster/less stops service gloss not current timetable guarantee."
+      }
+    ]
+  },
+  "N4:vocab:bc1e0c2895": {
+    "meanings": [
+      "to deliver; to bring to a recipient",
+      "to report; to notify an authority"
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to reach"
+            ],
+            "replacement": [
+              "to deliver; to bring to a recipient",
+              "to report; to notify an authority"
+            ]
+          }
+        ],
+        "basis": "届ける transitive deliver/report not intransitive reach. Benefactive request addressee delivers to speaker; speaker reported stolen car, not speaker/police stole it."
+      }
+    ]
+  },
+  "N4:vocab:1200266b8d": {
+    "examples": [
+      {
+        "ja": "先週、田中さんの家に泊まりました。",
+        "en": "I stayed at Tanaka's house last week.",
+        "romaji": "Senshuu, Tanaka-san no ie ni tomarimashita.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "私たちは駅前のホテルに泊まった。",
+        "furigana": "{私|わたし}たちは{駅前|えきまえ}のホテルに{泊|と}まった。",
+        "en": "We stayed at a hotel in front of the station.",
+        "tatoeba_id": 166045
+      }
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [],
+        "basis": "泊まる overnight lodging not fall/fight. Original おじ uncle family side/relative by marriage unspecified; full original archived and explicitly AI-authored Tanaka house sentence substituted, original kinship not claimed recovered. Last week retained; station-front hotel past we."
+      }
+    ]
+  },
+  "N4:vocab:3aadcbc234": {
+    "meanings": [
+      "to stop something",
+      "to fasten; to fix in place"
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to stop something"
+            ],
+            "replacement": [
+              "to stop something",
+              "to fasten; to fix in place"
+            ]
+          }
+        ],
+        "basis": "止める transitive stop/fasten, not purpose-only stop gloss. Jim stopped before bank not lifted car; Roy proper name not Ronaldo, medal fastened by pin."
+      }
+    ]
+  },
+  "N4:vocab:ccfefc657c": {
+    "meanings": [
+      "rapidly; steadily; one after another; more and more",
+      "bang-bang; repeated loud pounding"
+    ],
+    "examples": [
+      {
+        "ja": "だれかがドアをどんどんたたいている。",
+        "en": "Someone is battering at the door.",
+        "tatoeba_id": 203241
+      },
+      {
+        "ja": "道をふさがないで先にどんどん歩いて！",
+        "furigana": "{道|みち}をふさがないで{先|さき}にどんどん{歩|ある}いて！",
+        "en": "Do not block the way; keep moving briskly ahead!",
+        "tatoeba_id": 123575
+      }
+    ],
+    "review_note": "Pass108: English sense/nuance aligned to Japanese; previous edited values preserved in source_corrections. One ambiguous uncle example replaced by explicitly AI-authored Tanaka lodging sentence; full original and attribution archived. Entry IDs, other original Japanese and example indices retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "more and more"
+            ],
+            "replacement": [
+              "rapidly; steadily; one after another; more and more",
+              "bang-bang; repeated loud pounding"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Move along, please!",
+            "replacement": "Do not block the way; keep moving briskly ahead!"
+          }
+        ],
+        "basis": "どんどん pounding sound or unimpeded rapid progress as well as increase. First ongoing beating door not calling/dropping door; second dont block way restored rather than generic please move."
+      }
+    ]
   }
 }

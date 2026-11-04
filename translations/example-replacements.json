@@ -607,5 +607,33 @@
       "bn": "তারপর ঘটনাচক্রে তানাকা সেখান দিয়ে যাচ্ছিলেন।",
       "ne": "त्यसपछि संयोगले तनाका त्यही बाटो हुँदै जाँदै हुनुहुन्थ्यो।"
     }
+  },
+  "N4:vocab:1200266b8d:examples.0": {
+    "original_commit": "ab50a4fe773fa69405213518b0bcaa9e0abc3513",
+    "original_example": {
+      "ja": "私は先週おじの家に泊まりました。",
+      "furigana": "{私|わたし}は{先週|せんしゅう}おじの{家|いえ}に{泊|と}まりました。",
+      "en": "I stayed with my uncle last week.",
+      "tatoeba_id": 155487
+    },
+    "original_translations": {
+      "bn": "গত সপ্তাহে আমার চাচার সঙ্গে থাকতাম।",
+      "ne": "यसै दिन मेरो चाँदीको साथ छ ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original ambiguity not claimed resolved",
+    "reason": "泊まる overnight lodging not fall/fight. Original おじ uncle family side/relative by marriage unspecified; full original archived and explicitly AI-authored Tanaka house sentence substituted, original kinship not claimed recovered. Last week retained; station-front hotel past we.",
+    "reviewed_on": "2026-11-04",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "先週、田中さんの家に泊まりました。",
+      "en": "I stayed at Tanaka's house last week.",
+      "romaji": "Senshuu, Tanaka-san no ie ni tomarimashita.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "গত সপ্তাহে তানাকার বাড়িতে রাত কাটিয়েছিলাম।",
+      "ne": "गत हप्ता तनाकाको घरमा बास बसेँ।"
+    }
   }
 }
