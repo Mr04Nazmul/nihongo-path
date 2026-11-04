@@ -635,5 +635,36 @@
       "bn": "গত সপ্তাহে তানাকার বাড়িতে রাত কাটিয়েছিলাম।",
       "ne": "गत हप्ता तनाकाको घरमा बास बसेँ।"
     }
+  },
+  "N4:vocab:ee0c991348:examples.0": {
+    "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+    "original_example": {
+      "ja": "フクロウは昼間は目が見えない。",
+      "furigana": "フクロウは{昼間|ひるま}は{目|め}が{見|み}えない。",
+      "en": "Owls cannot see in the daytime.",
+      "tatoeba_id": 197181
+    },
+    "original_translations": {
+      "bn": "দিনের সময়ে কুকুরগুলো দেখতে পায় না।",
+      "ne": "यसले दिनभरि नै देखेको छ ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "source assertion superseded; original retained, not factually endorsed",
+    "reason": "昼間 daytime not one day. Original owls-cannot-see-daytime assertion contradicted by wildlife authority; full original/attribution archived and explicitly AI-authored neutral library example substituted. Second friend visited speaker daytime past. No claim original owl assertion valid.",
+    "reviewed_on": "2026-11-05",
+    "native_speaker_review": "not performed",
+    "references": [
+      "https://newsrelease.adfg.alaska.gov/index.cfm?adfg=owls.features"
+    ],
+    "replacement_example": {
+      "ja": "昼間は図書館で勉強します。",
+      "en": "I study at the library during the daytime.",
+      "romaji": "Hiruma wa toshokan de benkyou shimasu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "দিনের বেলায় গ্রন্থাগারে পড়াশোনা করি।",
+      "ne": "म दिउँसो पुस्तकालयमा पढ्छु।"
+    }
   }
 }

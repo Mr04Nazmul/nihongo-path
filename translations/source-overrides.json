@@ -10669,5 +10669,381 @@
       }
     ],
     "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:5d8e0ae01f": {
+    "meanings": [
+      "to pull out; to bring out",
+      "to withdraw (money)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to withdraw"
+            ],
+            "replacement": [
+              "to pull out; to bring out",
+              "to withdraw (money)"
+            ]
+          }
+        ],
+        "basis": "引き出す pull out/bring out/withdraw; best qualities idiom not reconstruct or already tried, bank withdrawal past, no banking instruction."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:36d0fd2044": {
+    "meanings": [
+      "facial hair; beard; moustache"
+    ],
+    "examples": [
+      {
+        "ja": "お父さんがバスルームでひげを剃っている。",
+        "furigana": "お{父|とう}さんがバスルームでひげを{剃|そ}っている。",
+        "en": "Dad is shaving in the bathroom.",
+        "tatoeba_id": 226759
+      },
+      {
+        "ja": "この店の店長はひげが生えています。",
+        "furigana": "この{店|みせ}の{店長|てんちょう}はひげが{生|は}えています。",
+        "en": "The manager of this store has a beard.",
+        "tatoeba_id": 220430
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "beard"
+            ],
+            "replacement": [
+              "facial hair; beard; moustache"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The manager of this store is growing a beard.",
+            "replacement": "The manager of this store has a beard."
+          }
+        ],
+        "basis": "ひげ facial hair not bird; shaving not stealing/climbing. 生えています has beard state, not evidence intentionally growing beard."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:546e786cde": {
+    "meanings": [
+      "airfield; airport"
+    ],
+    "examples": [
+      {
+        "ja": "その島の飛行場は、今では草がぼうぼうだ。",
+        "furigana": "その{島|しま}の{飛行場|ひこうじょう}は、{今|いま}では{草|くさ}がぼうぼうだ。",
+        "en": "The airfield on the island is now covered with weeds.",
+        "tatoeba_id": 207492
+      },
+      {
+        "ja": "父がついでに私を飛行場まで送ってくれることになっている。",
+        "furigana": "{父|ちち}がついでに{私|わたし}を{飛行場|ひこうじょう}まで{送|おく}ってくれることになっている。",
+        "en": "It is arranged that my father will drop me at the airport along the way.",
+        "tatoeba_id": 84881
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "airport"
+            ],
+            "replacement": [
+              "airfield; airport"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "My father is dropping me off at the airport along the way.",
+            "replacement": "It is arranged that my father will drop me at the airport along the way."
+          }
+        ],
+        "basis": "飛行場 airfield/airport; overgrown grass not raw covering/death. Father arranged to drop speaker while already along way, benefactive future arrangement not father alone traveling."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:eced3a159f": {
+    "meanings": [
+      "art museum; art gallery"
+    ],
+    "examples": [
+      {
+        "ja": "このバスは美術館まで行きますか。",
+        "en": "Does this bus go as far as the art museum?",
+        "tatoeba_id": 223341
+      },
+      {
+        "ja": "この美術館の入場料は30ドルです。",
+        "furigana": "この{美術館|びじゅつかん}の{入場料|にゅうじょうりょう}は30ドルです。",
+        "en": "Admission to this art museum is thirty dollars.",
+        "tatoeba_id": 220127
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "art gallery"
+            ],
+            "replacement": [
+              "art museum; art gallery"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Does this bus go to the museum?",
+            "replacement": "Does this bus go as far as the art museum?"
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Admission to the museum is thirty dollars.",
+            "replacement": "Admission to this art museum is thirty dollars."
+          }
+        ],
+        "basis": "美術館 art museum not unqualified general museum; bus subject route question not speaker. Admission fee exact30dollars not doorway, no current venue-price recommendation."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:ab4a88a2c0": {
+    "examples": [
+      {
+        "ja": "彼はびっくりするほどのアクロバットができる。",
+        "furigana": "{彼|かれ}はびっくりするほどのアクロバットができる。",
+        "en": "He can do the most amazing acrobatics.",
+        "tatoeba_id": 111167
+      },
+      {
+        "ja": "彼らはそのニュースを聞いたらびっくりするでしょう。",
+        "furigana": "{彼|かれ}らはそのニュースを{聞|き}いたらびっくりするでしょう。",
+        "en": "They will probably be surprised when they hear the news.",
+        "tatoeba_id": 97991
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "They will be surprised to hear the news.",
+            "replacement": "They will probably be surprised when they hear the news."
+          }
+        ],
+        "basis": "びっくりする surprised; ability amazing acrobatics not mere description, conditional hearing and でしょう expectation retained rather than certainty or current surprising news."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:d801b8b37a": {
+    "examples": [
+      {
+        "ja": "去年の秋、私たちはニューヨークに引っ越した。",
+        "furigana": "{去年|きょねん}の{秋|あき}、{私|わたし}たちはニューヨークに{引|ひ}っ{越|こ}した。",
+        "en": "We moved to New York last fall.",
+        "tatoeba_id": 182222
+      },
+      {
+        "ja": "私は引っ越してきたばかりです。",
+        "furigana": "{私|わたし}は{引|ひ}っ{越|こ}してきたばかりです。",
+        "en": "I have only just moved here.",
+        "tatoeba_id": 158409
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I just moved.",
+            "replacement": "I have only just moved here."
+          }
+        ],
+        "basis": "引っ越す move residence not move a house physically or drive house/bus. Last autumn we moved completed, just recently moved here not simply left."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:dddceb65a5": {
+    "meanings": [
+      "to open; to unfold",
+      "to bloom; to hold or organize (an event)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to open an event"
+            ],
+            "replacement": [
+              "to open; to unfold",
+              "to bloom; to hold or organize (an event)"
+            ]
+          }
+        ],
+        "basis": "開く hiraku covers opening/blooming and holding event not only inaugurate event. Rosebuds not breasts/frames; party suggestion not why no party."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:1fb9d39cd6": {
+    "meanings": [
+      "building (abbreviation of building; especially a multistorey building)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "building or bill"
+            ],
+            "replacement": [
+              "building (abbreviation of building; especially a multistorey building)"
+            ]
+          }
+        ],
+        "basis": "ビル abbreviation building, not invoice bill homophone. Corrected English building-or-bill source sense; no examples present, no invented reviewed examples. Dictionary ID unchanged."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:ee0c991348": {
+    "examples": [
+      {
+        "ja": "昼間は図書館で勉強します。",
+        "en": "I study at the library during the daytime.",
+        "romaji": "Hiruma wa toshokan de benkyou shimasu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "昼間、友人が私に会いに来た。",
+        "furigana": "{昼間|ひるま}、{友人|ゆうじん}が{私|わたし}に{会|あ}いに{来|き}た。",
+        "en": "A friend of mine came to see me during the day.",
+        "tatoeba_id": 126410
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [],
+        "basis": "昼間 daytime not one day. Original owls-cannot-see-daytime assertion contradicted by wildlife authority; full original/attribution archived and explicitly AI-authored neutral library example substituted. Second friend visited speaker daytime past. No claim original owl assertion valid."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:ced6d3f112": {
+    "examples": [
+      {
+        "ja": "ＦＡＸで地図を送っていただけませんか。",
+        "furigana": "ＦＡＸで{地図|ちず}を{送|おく}っていただけませんか。",
+        "en": "Could you send me a map by facsimile?",
+        "tatoeba_id": 234850
+      },
+      {
+        "ja": "昔ならいざ知らず、今はＦＡＸも、メールもある。",
+        "furigana": "{昔|むかし}ならいざ{知|し}らず、{今|いま}はＦＡＸも、メールもある。",
+        "en": "Whatever may have been true in the past, we now have fax and email.",
+        "tatoeba_id": 75944
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I don't know about the past, but now we have faxes and emails.",
+            "replacement": "Whatever may have been true in the past, we now have fax and email."
+          }
+        ],
+        "basis": "ファックス fax. Polite benefactive map transmission not photo; 昔ならいざ知らず concession about past vs now both fax/email, not simply phone or literal ignorance of all past."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:59bc2e87aa": {
+    "meanings": [
+      "to increase; to grow in number or amount (intransitive)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to increase"
+            ],
+            "replacement": [
+              "to increase; to grow in number or amount (intransitive)"
+            ]
+          }
+        ],
+        "basis": "増える intransitive increase not transitive increase something. River water amount suddenly rose due heavy rain, not just flow speed or rain caused by river; city population ongoing."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:1d83ae6a5a": {
+    "meanings": [
+      "complex; complicated; complexity"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "c5c3befe6bc35d9bfefc2eeedb61cf3caa6e2064",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "complexity",
+              "complication"
+            ],
+            "replacement": [
+              "complex; complicated; complexity"
+            ]
+          }
+        ],
+        "basis": "複雑 complex adjective/noun; degree plus speculative だろうか question not how-method; future causative complication not simply currently complicated."
+      }
+    ],
+    "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
   }
 }
