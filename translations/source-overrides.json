@@ -11360,5 +11360,443 @@
       }
     ],
     "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:845a23790b": {
+    "examples": [
+      {
+        "ja": "この法律はすべての人に適用される。",
+        "furigana": "この{法律|ほうりつ}はすべての{人|ひと}に{適用|てきよう}される。",
+        "en": "This law applies to everybody.",
+        "tatoeba_id": 219821
+      },
+      {
+        "ja": "私は法律にたずさわろう。",
+        "furigana": "{私|わたし}は{法律|ほうりつ}にたずさわろう。",
+        "en": "I will engage in legal work.",
+        "tatoeba_id": 152833
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I will follow the law.",
+            "replacement": "I will engage in legal work."
+          }
+        ],
+        "basis": "法律 law. Universal application present, not future; たずさわろう volitional engage in legal work, not obey/follow law. KanjiPedia confirms involvement/work sense."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:1587d6fbcf": {
+    "examples": [
+      {
+        "ja": "僕をかもだと思っているんだろう。",
+        "furigana": "{僕|ぼく}をかもだと{思|おも}っているんだろう。",
+        "en": "You take me for a sucker, don't you?",
+        "tatoeba_id": 81699
+      },
+      {
+        "ja": "僕は毎朝ここで走っています。",
+        "en": "I run here every morning.",
+        "romaji": "Boku wa maiasa koko de hashitte imasu.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "meanings": [
+      "I (casual first-person pronoun, typically used by boys and men)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "I (used by males)"
+            ],
+            "replacement": [
+              "I (casual first-person pronoun, typically used by boys and men)"
+            ]
+          }
+        ],
+        "basis": "僕 first-person typically male casual pronoun, not useful men. かも figuratively gullible target/sucker not duck or perfume. Original 悪運が強い has both wrongdoing-unpunished and colloquial escaping misfortune senses in Daijisen; no context determines which. Full source archived and replaced by explicitly AI-authored unambiguous first-person running sentence; original intent not claimed recovered, native review not performed."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:b3f18d07d4": {
+    "meanings": [
+      "extent; degree",
+      "approximately; about (after a quantity)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "extent"
+            ],
+            "replacement": [
+              "extent; degree",
+              "approximately; about (after a quantity)"
+            ]
+          }
+        ],
+        "basis": "ほど extent/degree and approximate amount, not details or up. Counterfactual wish match Susie ability not already can; upstream not down, village singular about3km."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:7e5b1397b9": {
+    "meanings": [
+      "mostly; almost all",
+      "hardly any (with a negative)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "mostly"
+            ],
+            "replacement": [
+              "mostly; almost all",
+              "hardly any (with a negative)"
+            ]
+          }
+        ],
+        "basis": "ほとんど mostly/almost with negative means hardly any, not sometimes. Kate ability not frequency, preparation past not prepared sufficiently present."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:36dc0ccd26": {
+    "meanings": [
+      "translation; to translate (with suru)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "translation"
+            ],
+            "replacement": [
+              "translation; to translate (with suru)"
+            ]
+          }
+        ],
+        "basis": "翻訳 translation/suru. Word-for-word manner not merely a word. てくれないか request for favor, not question quality of existing French translation."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:7c74c440e5": {
+    "meanings": [
+      "to go; to come (humble)",
+      "to be overwhelmed or troubled",
+      "to be captivated; to be infatuated"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(humble) to go",
+              "to come"
+            ],
+            "replacement": [
+              "to go; to come (humble)",
+              "to be overwhelmed or troubled",
+              "to be captivated; to be infatuated"
+            ]
+          }
+        ],
+        "basis": "参る humble go/come not clean; examples are distinct lexical senses captivated and troubled/overwhelmed, not physical coming. Daijisen distinguishes these; add senses so examples match entry gloss."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:cb6d7546fb": {
+    "meanings": [
+      "to lose (a contest); to be defeated"
+    ],
+    "examples": [
+      {
+        "ja": "３対０で彼には負けています。",
+        "furigana": "３{対|たい}０で{彼|かれ}には{負|ま}けています。",
+        "en": "I am losing to him, three to zero.",
+        "tatoeba_id": 235276
+      },
+      {
+        "ja": "私は友人の前で負けたくなかった。",
+        "furigana": "{私|わたし}は{友人|ゆうじん}の{前|#1392580}で{負|ま}けたくなかった。",
+        "en": "I didn't want to be defeated in front of my friends.",
+        "tatoeba_id": 152501
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to lose"
+            ],
+            "replacement": [
+              "to lose (a contest); to be defeated"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "He's beating me, three to zip.",
+            "replacement": "I am losing to him, three to zero."
+          }
+        ],
+        "basis": "負ける lose contest not misplace possession. Ongoing3:0 behind not assault/zipper or threefold. Did not want defeat past negative desire, not refusal see friends."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:d3422596a8": {
+    "meanings": [
+      "earnest; serious; conscientious"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "serious"
+            ],
+            "replacement": [
+              "earnest; serious; conscientious"
+            ]
+          }
+        ],
+        "basis": "まじめ earnest/conscientious not grave medical seriousness/importance. Sam affirmative work attitude, Tom negative study attitude; preserve names not generic pronoun."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:9c0ee7cfcc": {
+    "examples": [
+      {
+        "ja": "バリウムをまず一口飲んでください。",
+        "furigana": "バリウムをまず{一口|ひとくち}{飲|の}んでください。",
+        "en": "First, please drink one mouthful of barium.",
+        "tatoeba_id": 197862
+      },
+      {
+        "ja": "まず私に話させてください。",
+        "furigana": "まず{私|わたし}に{話|はな}させてください。",
+        "en": "Please let me speak first.",
+        "tatoeba_id": 195599
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "First, swallow one dose of barium.",
+            "replacement": "First, please drink one mouthful of barium."
+          }
+        ],
+        "basis": "まず first not then. Source medical-context language example 一口 one mouthful not unspecified dose; not authored dosing advice. Let speaker speak first permissive causative not request others speak."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:0fa3edce9b": {
+    "meanings": [
+      "or; alternatively"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "or",
+              "otherwise"
+            ],
+            "replacement": [
+              "or; alternatively"
+            ]
+          }
+        ],
+        "basis": "または disjunctive alternatives not conditional consequence otherwise. Offer not preference survey. ９号車 ninth rail car not nine cars or cooking action."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:91094911c0": {
+    "meanings": [
+      "to make a mistake; to mistake one thing for another"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to make a mistake"
+            ],
+            "replacement": [
+              "to make a mistake; to mistake one thing for another"
+            ]
+          }
+        ],
+        "basis": "間違える mistake including confuse A for B. Margarine mistaken as butter not reverse, no injury or new instruction use ingredient."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:b7644eb3fc": {
+    "meanings": [
+      "to go around; to turn",
+      "to pass (a time)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to go around"
+            ],
+            "replacement": [
+              "to go around; to turn",
+              "to pass (a time)"
+            ]
+          }
+        ],
+        "basis": "回る circular/go around and time pass. Went behind car then pushed past not instruction drive. Just after noon not middle future."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:8077c744a0": {
+    "meanings": [
+      "manga; comics; cartoons"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "comic"
+            ],
+            "replacement": [
+              "manga; comics; cartoons"
+            ]
+          }
+        ],
+        "basis": "漫画 drawn comics not comedy or committee. やめること instruction stop not start, second habitual present not past."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:59944588a8": {
+    "meanings": [
+      "the very middle; center"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "middle"
+            ],
+            "replacement": [
+              "the very middle; center"
+            ]
+          }
+        ],
+        "basis": "真ん中 spatial middle/center not medium quality/average. Truck stopped past, caught sight acquaintance in crowd not acquaintance among them assertion."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:0c27b9183f": {
+    "meanings": [
+      "to be visible; to be in sight; to appear"
+    ],
+    "examples": [
+      {
+        "ja": "すべてのものがすばらしく見えた。",
+        "furigana": "すべてのものがすばらしく{見|み}えた。",
+        "en": "Everything looked nice.",
+        "tatoeba_id": 214484
+      },
+      {
+        "ja": "あそこに赤い家が見えるでしょう。",
+        "furigana": "あそこに{赤|あか}い{家|いえ}が{見|み}えるでしょう。",
+        "en": "You can see a red house over there, can't you?",
+        "tatoeba_id": 234410
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to be in sight"
+            ],
+            "replacement": [
+              "to be visible; to be in sight; to appear"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "You will see a red house over there.",
+            "replacement": "You can see a red house over there, can't you?"
+          }
+        ],
+        "basis": "見える intransitive visible/appear not actively looking. Everything looked past; でしょう seeks expected recognition red house there, no mandatory future time from English will."
+      }
+    ],
+    "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
   }
 }

@@ -694,5 +694,33 @@
       "bn": "তানাকা আমাকে একটি উপহার দিয়েছিলেন।",
       "ne": "तनाकाले मलाई एउटा उपहार दिनुभयो।"
     }
+  },
+  "N4:vocab:1587d6fbcf:examples.1": {
+    "original_commit": "17c60884d93a4152d1e56815b07c67547b667238",
+    "original_example": {
+      "ja": "僕は何をやっても悪運が強いんだ。",
+      "furigana": "{僕|ぼく}は{何|なに}をやっても{悪運|あくうん}が{強|つよ}いんだ。",
+      "en": "I've got the devil's own luck in everything.",
+      "tatoeba_id": 81987
+    },
+    "original_translations": {
+      "bn": "শয়তানের ভাগ্য সবকিছুতেই আছে।",
+      "ne": "यसमा सबै भाग्यशाली छ ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original wrongdoing-versus-misfortune idiom context not claimed resolved",
+    "reason": "僕 first-person typically male casual pronoun, not useful men. かも figuratively gullible target/sucker not duck or perfume. Original 悪運が強い has both wrongdoing-unpunished and colloquial escaping misfortune senses in Daijisen; no context determines which. Full source archived and replaced by explicitly AI-authored unambiguous first-person running sentence; original intent not claimed recovered, native review not performed.",
+    "reviewed_on": "2026-11-05",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "僕は毎朝ここで走っています。",
+      "en": "I run here every morning.",
+      "romaji": "Boku wa maiasa koko de hashitte imasu.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "আমি প্রতিদিন সকালে এখানে দৌড়াই।",
+      "ne": "म हरेक बिहान यहाँ दौडन्छु।"
+    }
   }
 }
