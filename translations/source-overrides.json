@@ -9295,5 +9295,478 @@
         "basis": "どんどん pounding sound or unimpeded rapid progress as well as increase. First ongoing beating door not calling/dropping door; second dont block way restored rather than generic please move."
       }
     ]
+  },
+  "N4:vocab:9f64a96651": {
+    "meanings": [
+      "to heal; to recover; to get well (intransitive)"
+    ],
+    "examples": [
+      {
+        "ja": "２週間もすれば自然に治ります。",
+        "en": "It will heal naturally after about two weeks.",
+        "tatoeba_id": 235478
+      },
+      {
+        "ja": "治るのにしばらくかかりますね。",
+        "furigana": "{治|なお}るのにしばらくかかりますね。",
+        "en": "It will take a while to heal, will it not?",
+        "tatoeba_id": 150179
+      }
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to be cured",
+              "to heal"
+            ],
+            "replacement": [
+              "to heal; to recover; to get well (intransitive)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "It will go away by itself in two weeks.",
+            "replacement": "It will heal naturally after about two weeks."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "It will take a while to go away.",
+            "replacement": "It will take a while to heal, will it not?"
+          }
+        ],
+        "basis": "治る intransitive heal/recover not treat/cure someone. Approximate two weeks and naturally; takes a while not no time. Medical-context educational examples only, no diagnosis or prediction for a user."
+      }
+    ]
+  },
+  "N4:vocab:b43872b197": {
+    "meanings": [
+      "to be fixed; to be repaired",
+      "to improve; to be corrected (a fault or habit)"
+    ],
+    "examples": [
+      {
+        "ja": "いったい、いつになったらそのケチは直るの？",
+        "furigana": "いったい、いつになったらそのケチは{直|なお}るの？",
+        "en": "When will that stinginess of yours ever improve?",
+        "tatoeba_id": 228942
+      },
+      {
+        "ja": "それは直らないよ。新しいのを買った方がいいよ。",
+        "furigana": "それは{直|なお}らないよ。{新|あたら}しいのを{買|か}った{方|ほう}がいいよ。",
+        "en": "It will not be fixable. You had better buy a new one.",
+        "tatoeba_id": 204978
+      }
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to be fixed",
+              "to be repaired"
+            ],
+            "replacement": [
+              "to be fixed; to be repaired",
+              "to improve; to be corrected (a fault or habit)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "When will you ever loosen your purse strings?",
+            "replacement": "When will that stinginess of yours ever improve?"
+          },
+          {
+            "field": "examples.1.en",
+            "original": "You can't fix it. You should buy a new one.",
+            "replacement": "It will not be fixable. You had better buy a new one."
+          }
+        ],
+        "basis": "直る intransitive repair/improve. ケチ stinginess/purse-strings idiom not pocket title; negative repairability and advice better buy not mandatory purchase."
+      }
+    ]
+  },
+  "N4:vocab:d3b3911a79": {
+    "meanings": [
+      "quite; considerably",
+      "not easily; taking a long time (with a negative predicate)"
+    ],
+    "examples": [
+      {
+        "ja": "試験中はなかなか大変だった。",
+        "en": "It was tough going during the exams.",
+        "tatoeba_id": 151059
+      },
+      {
+        "ja": "アンはなかなかやって来なかった。",
+        "furigana": "アンはなかなかやって{来|こ}なかった。",
+        "en": "Ann took a long time to arrive.",
+        "tatoeba_id": 229495
+      }
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "considerably"
+            ],
+            "replacement": [
+              "quite; considerably",
+              "not easily; taking a long time (with a negative predicate)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Ann was long coming.",
+            "replacement": "Ann took a long time to arrive."
+          }
+        ],
+        "basis": "なかなか degree with positive, delayed realization with negative. Exam past considerable difficulty; Ann was long in coming not came for long duration, no Michael name."
+      }
+    ]
+  },
+  "N4:vocab:2adec6b9b4": {
+    "meanings": [
+      "to pass away; to die (respectful or euphemistic)"
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to die"
+            ],
+            "replacement": [
+              "to pass away; to die (respectful or euphemistic)"
+            ]
+          }
+        ],
+        "basis": "亡くなる respectful death, three elapsed years not ongoing repeated dying; second two years ago not death age."
+      }
+    ]
+  },
+  "N4:vocab:1d28dbb450": {
+    "meanings": [
+      "to disappear; to be lost",
+      "to run out; to cease to be available"
+    ],
+    "examples": [
+      {
+        "ja": "あなたの青いペンがなくなってしまいました。",
+        "furigana": "あなたの{青|あお}いペンがなくなってしまいました。",
+        "en": "Your blue pen has gone missing.",
+        "tatoeba_id": 233128
+      },
+      {
+        "ja": "残り時間があまりなくなってきた。",
+        "furigana": "{残|のこ}り{時間|じかん}があまりなくなってきた。",
+        "en": "There is not much time left.",
+        "tatoeba_id": 169281
+      }
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to disappear",
+              "to get lost"
+            ],
+            "replacement": [
+              "to disappear; to be lost",
+              "to run out; to cease to be available"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I misplaced your blue pen.",
+            "replacement": "Your blue pen has gone missing."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The sands are running out.",
+            "replacement": "There is not much time left."
+          }
+        ],
+        "basis": "無くなる disappear/be lost/run out. Pen subject lost, JP no explicit I misplaced agent; time running out not literal sand or moon. Blue pen not pencil."
+      }
+    ]
+  },
+  "N4:vocab:74c23dc218": {
+    "examples": [
+      {
+        "ja": "ステーキの焼き方はどうなさいますか。",
+        "furigana": "ステーキの{焼|や}き{方|かた}はどうなさいますか。",
+        "en": "How would you like your steak cooked?",
+        "tatoeba_id": 214623
+      },
+      {
+        "ja": "どうぞごゆっくりなさって下さい。",
+        "furigana": "どうぞごゆっくりなさって{下|くだ}さい。",
+        "en": "Please relax and take your time.",
+        "tatoeba_id": 201333
+      }
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "How would you like your steak?",
+            "replacement": "How would you like your steak cooked?"
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Please make yourself at home.",
+            "replacement": "Please relax and take your time."
+          }
+        ],
+        "basis": "なさる honorific do, respect to subject not peaceful/obligation or humble. Steak 焼き方 doneness/preparation question, no level invented. ごゆっくり relaxation/hospitality not literally make a home."
+      }
+    ]
+  },
+  "N4:vocab:3a915c9be5": {
+    "meanings": [
+      "to ring; to sound (intransitive)"
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to sound"
+            ],
+            "replacement": [
+              "to ring; to sound (intransitive)"
+            ]
+          }
+        ],
+        "basis": "鳴る intransitive ring/sound; conditional immediately answer, ongoing ringing bell heard in past, bell not hour or necessarily doorbell."
+      }
+    ]
+  },
+  "N4:vocab:626ae1ff39": {
+    "examples": [
+      {
+        "ja": "なるべく安いほうがいいです。",
+        "furigana": "なるべく{安|やす}いほうがいいです。",
+        "en": "The cheaper it is, as far as possible, the better.",
+        "tatoeba_id": 199061
+      },
+      {
+        "ja": "なるべくゆっくり話してもらえますか。",
+        "furigana": "なるべくゆっくり{話|はな}してもらえますか。",
+        "en": "Could you speak as slowly as possible?",
+        "tatoeba_id": 199062
+      }
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I would like the least expensive one.",
+            "replacement": "The cheaper it is, as far as possible, the better."
+          }
+        ],
+        "basis": "なるべく best practicable extent, not unable win. Prefer cheaper/as cheap as possible not limited desire; polite benefactive slow-speaking request."
+      }
+    ]
+  },
+  "N4:vocab:76a4fc9d6d": {
+    "meanings": [
+      "I see; now I understand; indeed"
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "now I understand"
+            ],
+            "replacement": [
+              "I see; now I understand; indeed"
+            ]
+          }
+        ],
+        "basis": "なるほど interjection understanding/acknowledgment, gotcha means understood not captured person or Gosha/Ghetto name."
+      }
+    ]
+  },
+  "N4:vocab:0ddf8d04c2": {
+    "meanings": [
+      "diary; personal journal"
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "journal"
+            ],
+            "replacement": [
+              "diary; personal journal"
+            ]
+          }
+        ],
+        "basis": "日記 personal diary not news/newspaper. Wrote that matter, continued until death not just before or for their deaths."
+      }
+    ]
+  },
+  "N4:vocab:178daf8296": {
+    "meanings": [
+      "hospital admission; inpatient stay (also with suru)"
+    ],
+    "examples": [
+      {
+        "ja": "入院しなければいけませんか。",
+        "furigana": "{入院|にゅういん}しなければいけませんか。",
+        "en": "Do I have to be admitted to hospital?",
+        "tatoeba_id": 122085
+      },
+      {
+        "ja": "一週間入院していたんです。",
+        "furigana": "{一週間|いっしゅうかん}{入院|にゅういん}していたんです。",
+        "en": "I was in the hospital for a week.",
+        "tatoeba_id": 190557
+      }
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to hospitalise"
+            ],
+            "replacement": [
+              "hospital admission; inpatient stay (also with suru)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Do I have to stay in the hospital?",
+            "replacement": "Do I have to be admitted to hospital?"
+          }
+        ],
+        "basis": "入院 admission/inpatient stay noun+suru not transitive hospitalize another. Obligation question and one week not one day preserved."
+      }
+    ]
+  },
+  "N4:vocab:433da13afb": {
+    "meanings": [
+      "school or university enrollment; admission (also with suru)"
+    ],
+    "examples": [
+      {
+        "ja": "私はこの学校に２年前に入学した。",
+        "furigana": "{私|わたし}はこの{学校|がっこう}に２{年|ねん}{前|#1392580}に{入学|にゅうがく}した。",
+        "en": "I entered this school two years ago.",
+        "tatoeba_id": 160948
+      },
+      {
+        "ja": "私の息子は、高校に入学した。",
+        "en": "My son enrolled in senior high school.",
+        "tatoeba_id": 163138
+      }
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to enter school or university"
+            ],
+            "replacement": [
+              "school or university enrollment; admission (also with suru)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "My son entered high school.",
+            "replacement": "My son enrolled in senior high school."
+          }
+        ],
+        "basis": "入学 enrollment not mere entering door/going to school. Two years ago enrollment not school age; 高校 senior high not junior/middle."
+      }
+    ]
+  },
+  "N4:vocab:ea2fe2f5de": {
+    "examples": [
+      {
+        "ja": "私も似た話を聞いたことがある。",
+        "furigana": "{私|わたし}も{似|に}た{話|はなし}を{聞|き}いたことがある。",
+        "en": "I also heard a similar story.",
+        "tatoeba_id": 236771
+      },
+      {
+        "ja": "あなたの妹はだれに似ていますか。",
+        "furigana": "あなたの{妹|いもうと}はだれに{似|に}ていますか。",
+        "en": "Who does your younger sister resemble?",
+        "tatoeba_id": 233011
+      }
+    ],
+    "review_note": "Pass109: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "9267d66e1fa0de5b9d3a408ae3f48abb3dc967bf",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Who does your sister take after?",
+            "replacement": "Who does your younger sister resemble?"
+          }
+        ],
+        "basis": "似る resemble not obligatory similar. Experience also similar story, 妹 younger sister and take after resemblance not physically take away/search sister."
+      }
+    ]
   }
 }
