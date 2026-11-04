@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-04",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 9936,
-  "pending_fields": 69242,
+  "ai_semantic_checked_fields": 10056,
+  "pending_fields": 69122,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 2842
+    "N4": 2962
   },
-  "authored_entry_glosses": 1259,
+  "authored_entry_glosses": 1279,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2404bdfdb3",
+      "id": "916e92f3da",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2404bdfdb3",
+      "id": "916e92f3da",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2404bdfdb3",
+      "id": "916e92f3da",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2404bdfdb3",
+      "id": "916e92f3da",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2404bdfdb3",
+      "id": "916e92f3da",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "2404bdfdb3",
+      "id": "916e92f3da",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4610276c99",
+      "id": "5d8e0ae01f",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4610276c99",
+      "id": "5d8e0ae01f",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4610276c99",
+      "id": "5d8e0ae01f",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4610276c99",
+      "id": "5d8e0ae01f",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4610276c99",
+      "id": "5d8e0ae01f",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "4610276c99",
+      "id": "5d8e0ae01f",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "32ca6422d6",
+      "id": "36d0fd2044",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "32ca6422d6",
+      "id": "36d0fd2044",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "32ca6422d6",
+      "id": "36d0fd2044",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "32ca6422d6",
+      "id": "36d0fd2044",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "32ca6422d6",
+      "id": "36d0fd2044",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "32ca6422d6",
+      "id": "36d0fd2044",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "d02b870af1",
+      "id": "546e786cde",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "d02b870af1",
+      "id": "546e786cde",
       "language": "bn",
       "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass110: N4 vocabulary indices460–479:120 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected Mary-gives-me doll/steady gaze, stolen money cannot give up/apparent stolen suitcase, coating door past-progressive and arranged house painting, tree shelter avoiding wet/completely soaked, radio-price question/absurd past price, explicit102Fahrenheit and figurative student-movement ardor, earnest actual feeding/began piano, oversleep vs late bedtime, becoming sleepy vs asleep, precaution alarm/TV involuntary sleep, three pages/scarcely money past, throat burning/scratchy not neck, transfer imperative vs past Tokyo trains, childrens vehicle/no invented cars, lotus leaves here/winter leaf loss, failed-system cases/emergency conditional, tomorrow morning work not newly commencing job/two exam sections, multiplier vs double/fivefold mountain/10cents-times10 dollar arithmetic, humble passport permission, dentist examination vs looking at dentist. Fifteen English source entries senses/nuances corrected or expanded; edited original values archived. Original Japanese, entry IDs, dictionary metadata, example indices and attribution unchanged. Medical-context examples reviewed as language only, not individualized clinical advice; arithmetic not exchange-rate guidance. No new unresolved ambiguity; historical context limitations retained. No native-speaker certification. Resume N4 vocabulary index480."
+  "latest_pass": "Pass111: N4 vocabulary indices480–499:120 Bengali/Nepali meaning/example fields reviewed. Corrected work progressing/carry impossibility, fathers business40years, sofa space/place to read, expected arrival vs obligation with Tom/John, shame-caused inability/lost temper, PC no longer starts/know how, pronunciation not general speech, two uncertainty negatives, spring blossom anticipation/invitation, woods not forester/bamboo/insect bites, paying vs brush dust/uncertain affordability, broadcast on-air/stale repetitive show, unavoidable opposition/contrary knowledge, snatched handbag victim, fire not four/shaver flames, shorter winter daylight/unsuitable cold-day clothes, Nancy piano/hearsay confirmation, cold beer idiom/completely chilled extremities, illumination not low weight/completed arrival, up-ahead shining and not-all-gold proverb negation. Twelve English source entries senses/nuances corrected or expanded with edited values archived. All original Japanese, IDs, dictionary metadata, example indices and attribution retained. Source examples reviewed as language; no medical/financial/current-broadcast guidance claimed. No new unresolved ambiguity; historical context limitations retained. No native-speaker certification. Resume N4 vocabulary index500."
 }

@@ -10299,5 +10299,375 @@
         "basis": "歯医者 dentist/practice not dental adjective or teeth. Today visit completed; 見てもらいなさい have dentist examine immediately, not merely speaker look at dentist. Educational dialogue, no individualized clinical advice."
       }
     ]
+  },
+  "N4:vocab:2404bdfdb3": {
+    "meanings": [
+      "to carry; to transport",
+      "to proceed; to progress (work or events)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to transport"
+            ],
+            "replacement": [
+              "to carry; to transport",
+              "to proceed; to progress (work or events)"
+            ]
+          }
+        ],
+        "basis": "運ぶ carry/transport or work proceeds. Smooth progress not simply correct or instantly; too heavy caused inability to carry, not merely bag heavy."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:4610276c99": {
+    "examples": [
+      {
+        "ja": "いつゴルフを始めたのですか。",
+        "furigana": "いつゴルフを{始|はじ}めたのですか。",
+        "en": "When did you begin playing golf?",
+        "tatoeba_id": 232836
+      },
+      {
+        "ja": "父はこの事業を４０年前に始めた。",
+        "furigana": "{父|ちち}はこの{事業|じぎょう}を４０{年|ねん}{前|#1392580}に{始|はじ}めた。",
+        "en": "My father started this business forty years ago.",
+        "tatoeba_id": 84729
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Father established his business 40 years ago.",
+            "replacement": "My father started this business forty years ago."
+          }
+        ],
+        "basis": "始める transitive start; when began past, father established this business40years ago not generic worked or unsupported his father."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:d02b870af1": {
+    "meanings": [
+      "expected to; supposed to; should (a reasoned expectation)"
+    ],
+    "examples": [
+      {
+        "ja": "トムは今にもここに来るはずです。",
+        "furigana": "トムは{今|いま}にもここに{来|く}るはずです。",
+        "en": "Tom is expected to arrive here any minute.",
+        "tatoeba_id": 199940
+      },
+      {
+        "ja": "ジョンは今にもここへ来るはずだ。",
+        "furigana": "ジョンは{今|いま}にもここへ{来|く}るはずだ。",
+        "en": "John is expected to arrive here any minute now.",
+        "tatoeba_id": 215315
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "it should be so"
+            ],
+            "replacement": [
+              "expected to; supposed to; should (a reasoned expectation)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Tom should be here any minute.",
+            "replacement": "Tom is expected to arrive here any minute."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "John should be here any minute now.",
+            "replacement": "John is expected to arrive here any minute now."
+          }
+        ],
+        "basis": "はず epistemic expected arrival not must obligation. Tom and John names, now any minute retained, not first-person arriving or Jan already here."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:8825d6d645": {
+    "examples": [
+      {
+        "ja": "花見ができる春が待ち遠しい。",
+        "furigana": "{花見|はなみ}ができる{春|はる}が{待|ま}ち{遠|どお}しい。",
+        "en": "I eagerly await spring, when cherry blossoms can be viewed.",
+        "tatoeba_id": 186587
+      },
+      {
+        "ja": "お花見に行きませんか？",
+        "en": "Why don't we go and see the cherry blossoms?",
+        "tatoeba_id": 227390
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I can't wait for spring to come so we can sit under the cherry trees.",
+            "replacement": "I eagerly await spring, when cherry blossoms can be viewed."
+          }
+        ],
+        "basis": "花見 blossom viewing not imperative see. Eager spring anticipation permits viewing, unsupported sitting under trees removed; negative-form question invitation not asking reason for not viewing."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:a2962b07bc": {
+    "meanings": [
+      "woods; grove; a stand of trees"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "woods",
+              "forester"
+            ],
+            "replacement": [
+              "woods; grove; a stand of trees"
+            ]
+          }
+        ],
+        "basis": "林 woods/grove not forester occupation, forum or Bengali person. Bamboo conspicuous, insects bit speaker many times not chickens/general injuries."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:a6b7fa4afc": {
+    "meanings": [
+      "to pay; to settle a bill",
+      "to brush off; to sweep away"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to pay"
+            ],
+            "replacement": [
+              "to pay; to settle a bill",
+              "to brush off; to sweep away"
+            ]
+          }
+        ],
+        "basis": "払う pay and brush/sweep off. Brush dust not washing; uncertainty ability pay not generic can do or definite possible. ざます mannered politeness does not change proposition."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:76e19fba1a": {
+    "examples": [
+      {
+        "ja": "今晩どんな番組がありますか。",
+        "furigana": "{今晩|こんばん}どんな{番組|ばんぐみ}がありますか。",
+        "en": "What's on the air this evening?",
+        "tatoeba_id": 171263
+      },
+      {
+        "ja": "この番組はマンネリになっている。",
+        "furigana": "この{番組|ばんぐみ}はマンネリになっている。",
+        "en": "This program has fallen into a stale, repetitive pattern.",
+        "tatoeba_id": 220150
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "This program has become stereotyped.",
+            "replacement": "This program has fallen into a stale, repetitive pattern."
+          }
+        ],
+        "basis": "番組 broadcast program, on-air not literal atmosphere. マンネリ stale repetitive formula not steroids or social stereotype; evening schedule question not actual researched listing."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:d48ed47f5e": {
+    "meanings": [
+      "opposition; objection",
+      "opposite; contrary"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "opposition"
+            ],
+            "replacement": [
+              "opposition; objection",
+              "opposite; contrary"
+            ]
+          }
+        ],
+        "basis": "反対 opposition/opposite. せざるをえない cannot avoid opposing, not idea itself paradox. Know nothing contrary negative knowledge not obligation to go opposite."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:70eb9aa3ff": {
+    "examples": [
+      {
+        "ja": "私のハンドバッグをどうしたの？",
+        "en": "What did you do with my handbag?",
+        "tatoeba_id": 164128
+      },
+      {
+        "ja": "私はハンドバッグをひったくられた。",
+        "furigana": "{私|わたし}はハンドバッグをひったくられた。",
+        "en": "My handbag was snatched away from me.",
+        "tatoeba_id": 159083
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "What did you do with my purse?",
+            "replacement": "What did you do with my handbag?"
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I was robbed of my purse.",
+            "replacement": "My handbag was snatched away from me."
+          }
+        ],
+        "basis": "ハンドバッグ handbag not hand path. First past what did with bag not ongoing doing; passive victim snatched bag, not speaker stole purse."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:f9f80b1a36": {
+    "examples": [
+      {
+        "ja": "いすをもっと火の近くに寄せなさい。",
+        "furigana": "いすをもっと{火|ひ}の{近|ちか}くに{寄|よ}せなさい。",
+        "en": "Draw your chair closer to the fire.",
+        "tatoeba_id": 229095
+      },
+      {
+        "ja": "電気シェーバーから火が出ました。",
+        "furigana": "{電気|でんき}シェーバーから{火|ひ}が{出|で}ました。",
+        "en": "Flames came out of the electric shaver.",
+        "tatoeba_id": 124855
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "My electric razor is on fire.",
+            "replacement": "Flames came out of the electric shaver."
+          }
+        ],
+        "basis": "火 fire not four numeral. Move chair closer no ownership restriction; fire came from shaver past affirmative not electronic fuel or did-not catch fire."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:28c2a94407": {
+    "examples": [
+      {
+        "ja": "冷えたビールがあればたまらないね。",
+        "furigana": "{冷|ひ}えたビールがあればたまらないね。",
+        "en": "A cold beer would hit the spot!",
+        "tatoeba_id": 77675
+      },
+      {
+        "ja": "手足がすっかり冷えきってしまった。",
+        "furigana": "{手足|てあし}がすっかり{冷|ひ}えきってしまった。",
+        "en": "My hands and feet have become completely cold.",
+        "tatoeba_id": 148526
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "My hands and feet have got as cold as ice.",
+            "replacement": "My hands and feet have become completely cold."
+          }
+        ],
+        "basis": "冷える grow cold not grow amount of cold. Conditional cold beer very welcome, hit spot idiom not physical strike. Extremities completely cold, no literal ice in JP, no individual health/alcohol advice."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
+  },
+  "N4:vocab:8b7dab271d": {
+    "examples": [
+      {
+        "ja": "上部前方で何かが光っている。",
+        "en": "Something is shining up ahead and above.",
+        "tatoeba_id": 146199
+      },
+      {
+        "ja": "光るものすべてが金ではない。",
+        "furigana": "{光|ひか}るものすべてが{金|きん}ではない。",
+        "en": "All that glitters is not gold.",
+        "tatoeba_id": 174071
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5ad01fd8cdeaf013ecffba4a46e803b4018909ea",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "Something is flashing up ahead.",
+            "replacement": "Something is shining up ahead and above."
+          }
+        ],
+        "basis": "光る shine/glitter not noun glitters or two-glitter corruption. Up-ahead ongoing shining; proverb not all glittering things gold, not all things non-gold or all things gold. No gold valuation advice."
+      }
+    ],
+    "review_note": "Pass111: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. All Japanese sentences, stable IDs, example indices and attribution retained. No native-speaker certification."
   }
 }
