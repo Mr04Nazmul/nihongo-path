@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 11094,
-  "pending_fields": 68084,
+  "ai_semantic_checked_fields": 11214,
+  "pending_fields": 67964,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 4000
+    "N4": 4120
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "chuu-juu",
+      "id": "ou-you",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tsumori",
+      "id": "you-to-omou",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tsumori",
+      "id": "you-to-omou",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tsumori",
+      "id": "you-to-omou",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tsumori",
+      "id": "you-to-omou",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tsumori",
+      "id": "you-to-omou",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tsumori",
+      "id": "you-to-omou",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tsumori",
+      "id": "you-to-omou",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tsumori",
+      "id": "you-to-omou",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass120: N4 grammar indices10–19:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected deliberate transitive resultant state/が versus completed preparationを, map affixed/plates arranged/beer already in fridge not drinking or injection; relative completionとき before trip versus after arrival/childhood swimming; sustained間 versus bounded間に with mother asleep not speaker; appearanceそう stems/いいよさそう/ないなさそう and curry spicy not tasty, forecast hearsayそう full clauses with past/negative scope and tomorrow snow/bookstore closure/older brother doctor evidential markers; indirect-evidenceらしい not heard-only including light-off inference and ramen not generic cuisine; よう evidence conjecture not certain diagnosis/pregnancy, nobody negative and coat evidence; casualみたい comparison and direct noun/na linkage/みたいな, next-door room not doorway; excessiveすぎる stem formation/ichidan conjugation and last-night drinking/current headache, oversize shoes, too-easy not difficult; nominal manner方かた withの object andするnounのしかた. Seven source entries received formation/notes or English scope corrections, exact old/new values archived. Grandparent maternal/paternal lineage remains unknown in three originals: Bengali alternatives explicitly retained and durable per-field unresolved notes record this; no family context recovery or native-speaker certification claimed. Stable IDs, original Japanese examples, tags, level structure and attribution unchanged. Historical context limitations retained. Resume N4 grammar index20."
+  "latest_pass": "Pass121: N4 grammar indices20–29:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected 中 ongoing/all-day/world scope and lexical reading caution, personalつもり intention versus event and negative intention/no-intention contrast, 予定 arrangement not guaranteed occurrence and move house Osaka/three end/eight AM departure, ownことにする decision versus presented settledことになる and Nagoya next-year spring/coming Sunday barbecue/wedding speech, formal ability/permissionことができる and borrowing two weeks not lending/two days/younger sister piano/Fuji invisible, potential godan e-row versus ichidan ru removal and irregulars/が orを/casual ra-dropping, exactly about200kanji not percent or2000/older brother spicy-food inability, passive affected speaker not essay praises teacher/foot stepped/temple built600years ago and not all passive harm, causative maker/performer including godanう→わ and intransitiveをorに not absoluteを/mother makes brother eat/coach daily running/son allowed alone past, causative-passive imposed childhood practice/whole30minutes not30minuteslater/company song and godan short-form exceptす/irregularこさせられる. Six source entries received formation/notes or English precision corrections, exact old/new values archived. Original Japanese examples, stable IDs, level structure, tags and attribution unchanged. No new unresolved ambiguity; historical context limitations and native-speaker review remain unresolved. Resume N4 grammar index30."
 }

@@ -14210,5 +14210,153 @@
       }
     ],
     "review_note": "Pass120: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:chuu-juu": {
+    "notes": "ちゅう commonly marks an ongoing activity or a period (会議中, 午前中); じゅう commonly marks an entire span or area (一日中, 世界中). Time-limit uses also occur, and readings are word-dependent rather than determined by one absolute rule.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "882970375a4ada4ee3b4116b2db384cb3eed98db",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "ちゅう marks an ongoing activity or a period (会議中, 午前中, 今週中); じゅう means 'throughout' a time or place (一日中, 世界中).",
+            "replacement": "ちゅう commonly marks an ongoing activity or a period (会議中, 午前中); じゅう commonly marks an entire span or area (一日中, 世界中). Time-limit uses also occur, and readings are word-dependent rather than determined by one absolute rule."
+          }
+        ],
+        "basis": "中 chuu ongoing/within-period vs juu entire span/space, readings lexical not absolute. Phone conversation ongoing not incoming call, all yesterday not every day, song known globally."
+      }
+    ],
+    "review_note": "Pass121: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:yotei": {
+    "notes": "Presents a plan, schedule or arrangement, often involving other people, rather than only personal intention. A scheduled event can still change; 予定 does not guarantee it will happen.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "882970375a4ada4ee3b4116b2db384cb3eed98db",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Refers to a fixed schedule or arrangement, often involving other people; more objective than つもり.",
+            "replacement": "Presents a plan, schedule or arrangement, often involving other people, rather than only personal intention. A scheduled event can still change; 予定 does not guarantee it will happen."
+          }
+        ],
+        "basis": "予定 arrangement/scheduled not generic management or certainty, move residence not just visit Osaka, next month, end3 not begin/through8, morning8 departure no invented PM."
+      }
+    ],
+    "review_note": "Pass121: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:eru-rareru-potential": {
+    "formation": "Group 1: final u-row kana to corresponding e-row kana + る (読む→読める); Group 2: drop final る + られる (食べる→食べられる); する→できる; 来る→来られる (こられる)",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "882970375a4ada4ee3b4116b2db384cb3eed98db",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-dict (Group 1: final u → e) + る / Verb-nai stem + られる (Group 2)",
+            "replacement": "Group 1: final u-row kana to corresponding e-row kana + る (読む→読める); Group 2: drop final る + られる (食べる→食べられる); する→できる; 来る→来られる (こられる)"
+          }
+        ],
+        "basis": "Potential godan u-row to e-row+ru vs ichidan remove ru+rareru, irregulars and variableを/が not mandatoryreplacement; casual ra-dropping not standard allcontexts. 200 not2percent/2000, older brother spicy-food inability not cannot all food, tomorrow arrival ability question."
+      }
+    ],
+    "review_note": "Pass121: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:reru-rareru-passive": {
+    "formation": "Group 1: remove ない from nai-form + れる; Group 2: drop final る + られる; する→される; 来る→来られる (こられる)",
+    "notes": "The affected participant is foregrounded. A doer can be marked with に, or によって in suitable agentive descriptions; it can also be omitted. Some passives express adversity, but passive voice does not always imply harm. Distinguish identical-looking potential forms by context.",
+    "examples": [
+      {
+        "ja": "先生に作文をほめられました。",
+        "furigana": "{先生|せんせい}に{作文|さくぶん}をほめられました。",
+        "en": "I was praised by my teacher for my essay."
+      },
+      {
+        "ja": "電車の中で足を踏まれた。",
+        "furigana": "{電車|でんしゃ}の{中|なか}で{足|あし}を{踏|ふ}まれた。",
+        "en": "Someone stepped on my foot on the train."
+      },
+      {
+        "ja": "この寺は六百年前に建てられました。",
+        "furigana": "この{寺|てら}は{六百|ろっぴゃく}{年|ねん}{前|まえ}に{建|た}てられました。",
+        "en": "This temple was built six hundred years ago."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "882970375a4ada4ee3b4116b2db384cb3eed98db",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-nai stem + れる (Group 1) / Verb-nai stem + られる (Group 2)",
+            "replacement": "Group 1: remove ない from nai-form + れる; Group 2: drop final る + られる; する→される; 来る→来られる (こられる)"
+          },
+          {
+            "field": "notes",
+            "original": "Irregular: する → される, 来る → 来られる. The doer is marked with に. Often shows that the subject was troubled by someone's action (雨に降られた).",
+            "replacement": "The affected participant is foregrounded. A doer can be marked with に, or によって in suitable agentive descriptions; it can also be omitted. Some passives express adversity, but passive voice does not always imply harm. Distinguish identical-looking potential forms by context."
+          },
+          {
+            "field": "examples.0.en",
+            "original": "My essay was praised by my teacher.",
+            "replacement": "I was praised by my teacher for my essay."
+          }
+        ],
+        "basis": "Passive affected perspective not essay praising teacher. First source has affected speaker and essayを, English adjusted. Foot stepped not walked repeatedly on train, temple built600years ago not merely age. Agentに/によって not mandatoryall, not all passive adversity; distinguish potential homophone."
+      }
+    ],
+    "review_note": "Pass121: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:seru-saseru": {
+    "formation": "Group 1: remove ない from nai-form + せる (買う→買わせる); Group 2: drop final る + させる; する→させる; 来る→来させる (こさせる)",
+    "notes": "The causer is the subject. With transitive verbs the performer normally takes に; with intransitive verbs を or に is possible according to construction and context. Avoid two object を markers. Context determines causing versus permitting; the intransitive performer is not invariably marked を.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "882970375a4ada4ee3b4116b2db384cb3eed98db",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-nai stem + せる (Group 1) / Verb-nai stem + させる (Group 2)",
+            "replacement": "Group 1: remove ない from nai-form + せる (買う→買わせる); Group 2: drop final る + させる; する→させる; 来る→来させる (こさせる)"
+          },
+          {
+            "field": "notes",
+            "original": "Irregular: する → させる, 来る → 来させる. With intransitive verbs the person takes を; with transitive verbs, に. Context decides 'make' or 'let'.",
+            "replacement": "The causer is the subject. With transitive verbs the performer normally takes に; with intransitive verbs を or に is possible according to construction and context. Avoid two object を markers. Context determines causing versus permitting; the intransitive performer is not invariably marked を."
+          }
+        ],
+        "basis": "Causative maker/permitter distinct doer, godanう→わ example and irregularこ, transitiveに/intransitiveをorに contextual not absoluteをonly. Mother makes brother eat, coach causes running past, son permitted trip completed decision not forced/future allow. No silent removal of actor."
+      }
+    ],
+    "review_note": "Pass121: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:serareru-saserareru": {
+    "formation": "Group 1: remove ない from nai-form + せられる, often shortened to + される (待たせられる→待たされる); no shortening for す-final verbs (話させられる). Group 2: drop final る + させられる. する→させられる; 来る→来させられる (こさせられる)",
+    "notes": "The person made to act is the subject and the causer takes に. Often conveys unwillingness or inconvenience. Group 1 short forms are common, except with verbs ending in す. Do not confuse the short causative-passive suffix with the ordinary passive of する.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "882970375a4ada4ee3b4116b2db384cb3eed98db",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-nai stem + せられる (Group 1; short form される) / Verb-nai stem + させられる (Group 2)",
+            "replacement": "Group 1: remove ない from nai-form + せられる, often shortened to + される (待たせられる→待たされる); no shortening for す-final verbs (話させられる). Group 2: drop final る + させられる. する→させられる; 来る→来させられる (こさせられる)"
+          },
+          {
+            "field": "notes",
+            "original": "Irregular: する → させられる, 来る → 来させられる. The short Group 1 form (待たされる) is common in speech, but not with verbs ending in す (話させられる).",
+            "replacement": "The person made to act is the subject and the causer takes に. Often conveys unwillingness or inconvenience. Group 1 short forms are common, except with verbs ending in す. Do not confuse the short causative-passive suffix with the ordinary passive of する."
+          }
+        ],
+        "basis": "Causative-passive affected doer forced/kept not parent practices piano or ordinary voluntary wait. Mother causes daily childhood practice, whole30minutes duration not30minuteslater, past company drinking gathering song. Godanshortexceptす and irregularする/くる; adversity typical not absoluteallpossibleuses."
+      }
+    ],
+    "review_note": "Pass121: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
