@@ -14028,5 +14028,187 @@
       }
     ],
     "review_note": "Pass119: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:te-aru": {
+    "formation": "Transitive Verb-te + ある (object が for resulting state; を can remain for completed preparation)",
+    "notes": "Describes a state resulting from purposeful action, normally using transitive verbs. が focuses on the resulting state of the affected thing; を can remain when completed preparation is emphasized. Intransitive Verb-te + いる describes the state without itself asserting a deliberate actor.",
+    "examples": [
+      {
+        "ja": "入り口に地図がはってあります。",
+        "furigana": "{入|い}り{口|ぐち}に{地図|ちず}がはってあります。",
+        "en": "There's a map put up at the entrance."
+      },
+      {
+        "ja": "テーブルの上にお皿が並べてあった。",
+        "furigana": "テーブルの{上|うえ}にお{皿|さら}が{並|なら}べてあった。",
+        "en": "Plates had been set out on the table."
+      },
+      {
+        "ja": "ビールなら冷蔵庫に入れてあるよ。",
+        "furigana": "ビールなら{冷蔵庫|れいぞうこ}に{入|い}れてあるよ。",
+        "en": "As for beer, it has been put in the fridge."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "4ec180ab636b5d536cd5243c25b41b1c18c2ad5b",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-te + ある",
+            "replacement": "Transitive Verb-te + ある (object が for resulting state; を can remain for completed preparation)"
+          },
+          {
+            "field": "notes",
+            "original": "Used with transitive verbs, and the object usually takes が. It implies someone did it on purpose, unlike 〜ている with intransitive verbs (窓が開いている).",
+            "replacement": "Describes a state resulting from purposeful action, normally using transitive verbs. が focuses on the resulting state of the affected thing; を can remain when completed preparation is emphasized. Intransitive Verb-te + いる describes the state without itself asserting a deliberate actor."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "If you want beer, I've put some in the fridge.",
+            "replacement": "As for beer, it has been put in the fridge."
+          }
+        ],
+        "basis": "てある deliberate transitive action resulting state; が state focus versus を completed preparation retained, not all verbs/intransitive or compulsory が. Map affixed not merely exists; arranged plates past state; beer already placed not habitual put/drink/hospital injection. Japanese no explicit beer actor so source English neutralized."
+      }
+    ],
+    "review_note": "Pass120: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:toki": {
+    "notes": "Verb form marks relative completion at the main event, not just calendar tense. In these movement examples 行くとき is before or during the going, and 行ったとき is after reaching the destination. Nouns use の and na-adjectives use な.",
+    "examples": [
+      {
+        "ja": "子どものとき、よく川で泳ぎました。",
+        "furigana": "{子|こ}どものとき、よく{川|かわ}で{泳|およ}ぎました。",
+        "en": "When I was a child, I often swam in the river."
+      },
+      {
+        "ja": "日本へ行くとき、新しいかばんを買いました。",
+        "furigana": "{日本|にほん}へ{行|い}くとき、{新|あたら}しいかばんを{買|か}いました。",
+        "en": "I bought a new bag before my trip to Japan."
+      },
+      {
+        "ja": "日本へ行ったとき、友達にお土産を買いました。",
+        "furigana": "{日本|にほん}へ{行|い}ったとき、{友達|ともだち}にお{土産|みやげ}を{買|か}いました。",
+        "en": "When I went to Japan, I bought souvenirs for my friends."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "4ec180ab636b5d536cd5243c25b41b1c18c2ad5b",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The verb's tense shows the order: 行くとき means before or on the way (the going isn't finished yet); 行ったとき means after arriving. Often written 時 in kanji.",
+            "replacement": "Verb form marks relative completion at the main event, not just calendar tense. In these movement examples 行くとき is before or during the going, and 行ったとき is after reaching the destination. Nouns use の and na-adjectives use な."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "When I went to Japan, I bought souvenirs for my friends there.",
+            "replacement": "When I went to Japan, I bought souvenirs for my friends."
+          }
+        ],
+        "basis": "とき relative completion/timing, full clause versus nounの/naな/i-adj. Childhood habitual swimming not sitting in river; before trip vs after arriving souvenirs for friends, not claim friends necessarily resident there."
+      }
+    ],
+    "review_note": "Pass120: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:aida-aida-ni": {
+    "formation": "Verb-plain (including Verb-te + いる) / i-Adj / na-Adj + な / Noun + の + 間（に）",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "4ec180ab636b5d536cd5243c25b41b1c18c2ad5b",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-te + いる / Verb-dict / Noun + の + 間（に）",
+            "replacement": "Verb-plain (including Verb-te + いる) / i-Adj / na-Adj + な / Noun + の + 間（に）"
+          }
+        ],
+        "basis": "間 sustained whole interval vs 間に bounded occurrence, full adjective/noun/verb attachment clarified. Grandfather source 祖父 does not determine paternal/maternal; Bengali explicitly retains both alternatives, Nepali neutral हजुरबुबा. Original lineage not recovered. Mother asleep not speaker; whole waiting interval past reading."
+      }
+    ],
+    "review_note": "Pass120: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:sou-da-appearance": {
+    "formation": "Verb-masu stem + そうだ / i-Adj without final い + そうだ / na-Adj stem + そうだ",
+    "notes": "Judgment from perceived signs or an imminent event, distinct from hearsay. いい becomes よさそう and ない becomes なさそう. Some directly visible qualities are normally stated directly; かわいそう means pitiful, not looks cute.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "4ec180ab636b5d536cd5243c25b41b1c18c2ad5b",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-stem / i-Adj stem / na-Adj + そうだ",
+            "replacement": "Verb-masu stem + そうだ / i-Adj without final い + そうだ / na-Adj stem + そうだ"
+          },
+          {
+            "field": "notes",
+            "original": "A judgment from what you see. いい → よさそう, ない → なさそう. Not used with adjectives for plainly visible traits (赤い, かわいい); かわいそう means 'pitiful'.",
+            "replacement": "Judgment from perceived signs or an imminent event, distinct from hearsay. いい becomes よさそう and ない becomes なさそう. Some directly visible qualities are normally stated directly; かわいそう means pitiful, not looks cute."
+          }
+        ],
+        "basis": "Appearance sou attaches stems with good/negative exceptions versus full-clause hearsay. Curry spicy not tasty, dark sky predicted rain not actual snow; grandfather looked well past and long time no meeting. Bengali grandfather lineage kept explicit alternatives; no invented source family context."
+      }
+    ],
+    "review_note": "Pass120: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:sou-da-hearsay": {
+    "notes": "Attaches to the full plain clause, unlike appearance そうだ after stems. Put past or negation in the reported clause (降ったそうだ, 降らないそうだ); do not confuse reporting that something did not happen with denying that it looks likely.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "4ec180ab636b5d536cd5243c25b41b1c18c2ad5b",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Attaches to full plain forms, unlike the 'looks like' そうだ, which attaches to stems. It has no past or negative form.",
+            "replacement": "Attaches to the full plain clause, unlike appearance そうだ after stems. Put past or negation in the reported clause (降ったそうだ, 降らないそうだ); do not confuse reporting that something did not happen with denying that it looks likely."
+          }
+        ],
+        "basis": "Hearsay full plain clause vs stem appearance; retained hearsay in every translation, tomorrow snow/next-month bookstore permanent closure, Lin older brother not own son. Source absolute no past/negative form note replaced by clear clause scope, avoids implying reported events cannot be past or negative."
+      }
+    ],
+    "review_note": "Pass120: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:rashii": {
+    "notes": "Conjecture based on reported information or indirect evidence; it is not restricted to hearing or reading. The separate characteristic/typical-of use, as in 男らしい, is a different sense.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "4ec180ab636b5d536cd5243c25b41b1c18c2ad5b",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Based on something heard or read, so the speaker sounds a little detached. The 'typical of' らしい (男らしい) is a separate N3 point.",
+            "replacement": "Conjecture based on reported information or indirect evidence; it is not restricted to hearing or reading. The separate characteristic/typical-of use, as in 男らしい, is a different sense."
+          }
+        ],
+        "basis": "らしい indirect evidence/hearsay not heard/read exclusively, source light-off inference corrected. New cafe opening and ramen specifically, preserve evidential hedge not assert direct certainty, light is off not on, already asleep not future. No source gender/number asserted."
+      }
+    ],
+    "review_note": "Pass120: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:kata": {
+    "formation": "Verb-masu stem + 方（かた）; suru nouns use Noun + の + しかた",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "4ec180ab636b5d536cd5243c25b41b1c18c2ad5b",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-stem + 方",
+            "replacement": "Verb-masu stem + 方（かた）; suru nouns use Noun + の + しかた"
+          }
+        ],
+        "basis": "方 kata nominalized manner viaますstem, objectの notを, suru nounのしかた. Machine how-use request not listener future action, negative cannot read kanji not habitual can. Grandmother not parents; Bengali retains paternal/maternal alternatives because祖母lineage not given, Nepali neutralहजुरआमा; no context recovery claimed."
+      }
+    ],
+    "review_note": "Pass120: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
