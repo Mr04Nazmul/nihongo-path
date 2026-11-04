@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 10854,
-  "pending_fields": 68324,
+  "ai_semantic_checked_fields": 10974,
+  "pending_fields": 68204,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 3760
+    "N4": 3880
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ageru-kureru-morau",
+      "id": "te-aru",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-ageru",
+      "id": "toki",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-ageru",
+      "id": "toki",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-ageru",
+      "id": "toki",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-ageru",
+      "id": "toki",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-ageru",
+      "id": "toki",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-ageru",
+      "id": "toki",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-ageru",
+      "id": "toki",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-ageru",
+      "id": "toki",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass118: N4 vocabulary indices620–636:84 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected contact initiation and arrival emphasis, word processor borrowing/benefactive purchase, transitive boil not drink versus intransitive boil/figurative economic boom, break-up not death/last-week versus last-month, reason explanation, forgotten belongings not article/younger sister and frequency, rarely smiled negative, girls:boys3:2 and3miles not kilometres, intransitive shatter, kun suffix not standalone boy/title equivalence or male-only, contrast connector, sentence-final koto not nominal thing, seven distinct check senses, calling-out moshi not conditional if or receiving call, quitting activity not pausing to do it, refuse noun waste not reject and entranceway sweeping. Eleven English source entries changed or expanded, plus one Japanese typo 稿模様 to 縞模様 with exact old/new values in correction history. One scientifically unsupported only-humans-laugh example fully archived with translations/attribution and replaced by explicitly AI-authored funny-story laughter sentence; UCLA primary research summary consulted. Stable IDs/dictionary metadata/example indices retained. Other original Japanese and attribution unchanged. No native-speaker certification; historical context limitations retained. N4 vocabulary sequence reviewed; remaining N4 grammar/kanji fields still require review. Resume next unreviewed N4 field using hash ledger."
+  "latest_pass": "Pass119: N4 grammar indices0–9:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Rewrote giver/receiver subjects, recipient に and donor に/から, empathy-sensitive くれる (not fixed membership only), benefactive actor versus beneficiary, superior-directed あげる caution, honorific くださる versus humble いただく/くださいます, ていく away/sequence/future change versus てくる return/toward/emergence, てしまう complete versus regret not always accidental and ちゃう/じゃう contractions, ておく advance preparation/state maintenance and とく/どく, experiential てみる. Corrected younger sibling/homework not housework, lost-person route and heavy offer, moving house, father driving, mother making bento not eating, senior report review, photo without unsupported ownership, not-understood teacher explanation, essay correction/restaurant information, rain appearance/umbrella take, colder projection, tea invitation, return intent/convenience store, comprehension/hunger onset, forgotten umbrella versus intentional abandonment, full book one night, cake completed not future command, drinks chilled not consumed/alcohol and AC left on, shirt try-on and new ramen shop. Four source entries received precise role/formation/notes or English corrections, old/new values archived. Original Japanese examples, stable IDs, level structure and attribution unchanged. No native-speaker certification. Historical context limitations retained. Resume N4 grammar index10."
 }

@@ -13913,5 +13913,120 @@
       }
     ],
     "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:grammar:ageru-kureru-morau": {
+    "formation": "Giver + は/が + Receiver + に + Object + を + あげる/くれる; Receiver + は/が + Giver + に/から + Object + を + もらう",
+    "notes": "くれる normally presents a benefit to the speaker or someone the speaker identifies with; empathy and viewpoint matter, not only fixed group membership. With a human giver, もらう can mark the giver with に or から.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "9fa5e470ee777c9e6aac02bbb07bf0e6e15e2ee5",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Noun (receiver) + に + Noun + を + あげる / Noun (giver) + が + Noun + を + くれる / Noun (giver) + に + Noun + を + もらう",
+            "replacement": "Giver + は/が + Receiver + に + Object + を + あげる/くれる; Receiver + は/が + Giver + に/から + Object + を + もらう"
+          },
+          {
+            "field": "notes",
+            "original": "くれる is used only when the receiver is the speaker or someone in the speaker's group. With もらう the giver can be marked with に or から.",
+            "replacement": "くれる normally presents a benefit to the speaker or someone the speaker identifies with; empathy and viewpoint matter, not only fixed group membership. With a human giver, もらう can mark the giver with に or から."
+          }
+        ],
+        "basis": "Giving/receiving direction, giver versus recipient subject, に/から marking and empathy rather than rigid membership; old game younger brother, older sister birthday bag, travel souvenir not abstract memory. Source formation expanded to explicit participants and notes only restriction corrected using JPF empathy discussion."
+      }
+    ],
+    "review_note": "Pass119: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:te-morau": {
+    "formation": "Receiver of benefit + は/が + Person doing the action + に + Verb-te + もらう",
+    "examples": [
+      {
+        "ja": "先輩にレポートを見てもらった。",
+        "furigana": "{先輩|せんぱい}にレポートを{見|み}てもらった。",
+        "en": "I had a senior student look over my report."
+      },
+      {
+        "ja": "友達に写真を撮ってもらった。",
+        "furigana": "{友達|ともだち}に{写真|しゃしん}を{撮|と}ってもらった。",
+        "en": "I had a friend take a photo for me."
+      },
+      {
+        "ja": "分からないところを先生に説明してもらいました。",
+        "furigana": "{分|わ}からないところを{先生|せんせい}に{説明|せつめい}してもらいました。",
+        "en": "I had the teacher explain the parts I didn't understand."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "9fa5e470ee777c9e6aac02bbb07bf0e6e15e2ee5",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-te + もらう",
+            "replacement": "Receiver of benefit + は/が + Person doing the action + に + Verb-te + もらう"
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I had a friend take my picture.",
+            "replacement": "I had a friend take a photo for me."
+          }
+        ],
+        "basis": "てもらう beneficiary subject and actor に, not speaker reviews own report/teacher misunderstood. Senior not generic student, photo taking not drawing; Japanese photo ownership unspecified so English my picture softened. Negative not-understood parts preserved, benefit not always coercion."
+      }
+    ],
+    "review_note": "Pass119: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:te-kuru": {
+    "examples": [
+      {
+        "ja": "ちょっとコンビニに行ってきます。",
+        "furigana": "ちょっとコンビニに{行|い}ってきます。",
+        "en": "I will pop out to the convenience store and come back."
+      },
+      {
+        "ja": "日本語が少しずつ分かってきた。",
+        "furigana": "{日本語|にほんご}が{少|すこ}しずつ{分|わ}かってきた。",
+        "en": "I've gradually started to understand Japanese."
+      },
+      {
+        "ja": "おなかがすいてきた。",
+        "en": "I'm starting to get hungry."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "9fa5e470ee777c9e6aac02bbb07bf0e6e15e2ee5",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I'm just popping out to the convenience store.",
+            "replacement": "I will pop out to the convenience store and come back."
+          }
+        ],
+        "basis": "てくる toward speaker/return/past-to-now/emergence not all simply return. Going store includes return intention, convenience not convenient adjective, comprehension onset not language usage, hunger begins not steady hungry."
+      }
+    ],
+    "review_note": "Pass119: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:te-miru": {
+    "notes": "Expresses trying an action to experience it or see its result. It does not by itself mean merely intending or struggling to perform a difficult action.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "9fa5e470ee777c9e6aac02bbb07bf0e6e15e2ee5",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Means trying something out to see the result, not making an effort to do something difficult.",
+            "replacement": "Expresses trying an action to experience it or see its result. It does not by itself mean merely intending or struggling to perform a difficult action."
+          }
+        ],
+        "basis": "てみる experiential trial not mere difficult-attempt intention/visual watching. Shirt try-on permission not wear failure, newly opened ramen shop actually visited, desire try cooking myself not only want Japanese food."
+      }
+    ],
+    "review_note": "Pass119: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
