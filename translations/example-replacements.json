@@ -666,5 +666,33 @@
       "bn": "দিনের বেলায় গ্রন্থাগারে পড়াশোনা করি।",
       "ne": "म दिउँसो पुस्तकालयमा पढ्छु।"
     }
+  },
+  "N4:vocab:cb716261e6:examples.1": {
+    "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+    "original_example": {
+      "ja": "おじは私にプレゼントをくれた。",
+      "furigana": "おじは{私|わたし}にプレゼントをくれた。",
+      "en": "My uncle gave me a present.",
+      "tatoeba_id": 227709
+    },
+    "original_translations": {
+      "bn": "আমার চাচা আমাকে উপহার দিলেন।",
+      "ne": "मेरो पिताले एक उपहार दिए ।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "not recovered; original kinship ambiguity not claimed resolved",
+    "reason": "プレゼント gift not present time/presence. Harmonica dad-gift question does not specify whose father; avoid English unsupported his. Original uncle kinship example fully archived, replaced with explicitly AI-authored Tanaka giving gift, original family context not claimed recovered.",
+    "reviewed_on": "2026-11-05",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "田中さんは私にプレゼントをくれました。",
+      "en": "Tanaka gave me a present.",
+      "romaji": "Tanaka-san wa watashi ni purezento o kuremashita.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "তানাকা আমাকে একটি উপহার দিয়েছিলেন।",
+      "ne": "तनाकाले मलाई एउटा उपहार दिनुभयो।"
+    }
   }
 }

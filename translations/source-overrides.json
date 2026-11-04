@@ -11045,5 +11045,320 @@
       }
     ],
     "review_note": "Pass112: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One factually incorrect owl example replaced by explicitly AI-authored library example; full original archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:c00788993b": {
+    "meanings": [
+      "review; revision of material already studied"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "revision"
+            ],
+            "replacement": [
+              "review; revision of material already studied"
+            ]
+          }
+        ],
+        "basis": "復習 reviewing learned material not editing text, passing over class or examining test. First completed review question second attempt past."
+      }
+    ],
+    "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:346a5da3c2": {
+    "meanings": [
+      "department head; head of a division"
+    ],
+    "examples": [
+      {
+        "ja": "社長は新しい部長を任命した。",
+        "furigana": "{社長|しゃちょう}は{新|あたら}しい{部長|ぶちょう}を{任命|にんめい}した。",
+        "en": "The company president appointed a new department head.",
+        "tatoeba_id": 149169
+      },
+      {
+        "ja": "誰も部長をごまかせません。",
+        "furigana": "{誰|だれ}も{部長|ぶちょう}をごまかせません。",
+        "en": "Nobody can deceive the department head.",
+        "tatoeba_id": 135696
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "head of a section"
+            ],
+            "replacement": [
+              "department head; head of a division"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "The president appointed a new manager.",
+            "replacement": "The company president appointed a new department head."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Nobody can put anything over on the bureau chief.",
+            "replacement": "Nobody can deceive the department head."
+          }
+        ],
+        "basis": "部長 department head not generic section or chairman; 社長 company president not state president. Put anything over on idiom deceive, not give something to chief."
+      }
+    ],
+    "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:f6b676e45f": {
+    "examples": [
+      {
+        "ja": "あまり太ったのでカラーの前が合わなかった。",
+        "furigana": "あまり{太|ふと}ったのでカラーの{前|#1392580}が{合|あ}わなかった。",
+        "en": "He got so stout that his collar did not meet.",
+        "tatoeba_id": 230305
+      },
+      {
+        "ja": "太らないように気をつけているの？",
+        "furigana": "{太|ふと}らないように{気|き}をつけているの？",
+        "en": "Are you taking care not to gain weight?",
+        "tatoeba_id": 138219
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Are you watching your weight?",
+            "replacement": "Are you taking care not to gain weight?"
+          }
+        ],
+        "basis": "太る weight gain not loss or becoming bad. Collar front ends did not meet due increased size, not shoulder invisible. Question avoiding gain not visually watching weight, not personal health advice."
+      }
+    ],
+    "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:45d920815a": {
+    "meanings": [
+      "boat; vessel"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "ship"
+            ],
+            "replacement": [
+              "boat; vessel"
+            ]
+          }
+        ],
+        "basis": "舟 boat/vessel, examples variant船 broad vessels. Scheduled departure3 not sailing toward3; many actively sailing not mere existence."
+      }
+    ],
+    "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:25d649bd20": {
+    "meanings": [
+      "inconvenient; inconvenience"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "inconvenience"
+            ],
+            "replacement": [
+              "inconvenient; inconvenience"
+            ]
+          }
+        ],
+        "basis": "不便 inconvenient not impossible. Hypothetical lack of telephones, evening formal dress not generic nightclothes or evening time alone."
+      }
+    ],
+    "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:927b45c2eb": {
+    "meanings": [
+      "to begin to fall (rain or snow)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to start to rain"
+            ],
+            "replacement": [
+              "to begin to fall (rain or snow)"
+            ]
+          }
+        ],
+        "basis": "降り出す beginning precipitation. Besides currently starting vs appearance future about to start, not assert already raining in second."
+      }
+    ],
+    "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:cb716261e6": {
+    "examples": [
+      {
+        "ja": "ハーモニカはお父さんからのプレゼントですか。",
+        "furigana": "ハーモニカはお{父|とう}さんからのプレゼントですか。",
+        "en": "Is the harmonica a present from Dad?",
+        "tatoeba_id": 198403
+      },
+      {
+        "ja": "田中さんは私にプレゼントをくれました。",
+        "en": "Tanaka gave me a present.",
+        "romaji": "Tanaka-san wa watashi ni purezento o kuremashita.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "meanings": [
+      "gift; present"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "present"
+            ],
+            "replacement": [
+              "gift; present"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Is the harmonica a present from his father?",
+            "replacement": "Is the harmonica a present from Dad?"
+          }
+        ],
+        "basis": "プレゼント gift not present time/presence. Harmonica dad-gift question does not specify whose father; avoid English unsupported his. Original uncle kinship example fully archived, replaced with explicitly AI-authored Tanaka giving gift, original family context not claimed recovered."
+      }
+    ],
+    "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:9eaa627a73": {
+    "examples": [
+      {
+        "ja": "文法なんかくそくらえだ。",
+        "furigana": "{文法|ぶんぽう}なんかくそくらえだ。",
+        "en": "To hell with grammar!",
+        "tatoeba_id": 83659
+      },
+      {
+        "ja": "あなたはもっと文法を勉強しなくてはいけない。",
+        "furigana": "あなたはもっと{文法|ぶんぽう}を{勉強|べんきょう}しなくてはいけない。",
+        "en": "You must study grammar more.",
+        "tatoeba_id": 232352
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "Grammar be hanged.",
+            "replacement": "To hell with grammar!"
+          }
+        ],
+        "basis": "文法 grammar not customers/graphics/graduates. くそくらえ rude dismissive curse, not literal hanging violence; colloquial force retained. Must study more obligation explicit."
+      }
+    ],
+    "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:3597362058": {
+    "meanings": [
+      "foreign trade; international commerce"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "trade"
+            ],
+            "replacement": [
+              "foreign trade; international commerce"
+            ]
+          }
+        ],
+        "basis": "貿易 international trade not generic any shop trade. Reliance stronger than simply trading; English people subject tea commodity at that time restored. Educational statements, not current economic analysis."
+      }
+    ],
+    "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:96799b1b11": {
+    "meanings": [
+      "broadcast; broadcasting (also with suru)"
+    ],
+    "examples": [
+      {
+        "ja": "ニュースは毎時放送しています。",
+        "en": "We broadcast news every hour.",
+        "tatoeba_id": 198755
+      },
+      {
+        "ja": "そのショーは午後７時に放送される。",
+        "furigana": "そのショーは{午後|ごご}７{時|じ}に{放送|ほうそう}される。",
+        "en": "The show will be on the air at 7 p.m.",
+        "tatoeba_id": 213041
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "b8dfd55bab9618d7bfafe4321000c1908a4bda3f",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to broadcast"
+            ],
+            "replacement": [
+              "broadcast; broadcasting (also with suru)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "We broadcast news on the hour.",
+            "replacement": "We broadcast news every hour."
+          }
+        ],
+        "basis": "放送 broadcasting noun/suru. 毎時 every hour not one hour long or necessarily exact-hour guarantee;7pm evening not noon or airplane, passive future."
+      }
+    ],
+    "review_note": "Pass113: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One kinship-ambiguous uncle example replaced by explicitly AI-authored Tanaka gift example; full original archived, original family context not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
   }
 }
