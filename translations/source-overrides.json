@@ -9768,5 +9768,536 @@
         "basis": "似る resemble not obligatory similar. Experience also similar story, 妹 younger sister and take after resemblance not physically take away/search sister."
       }
     ]
+  },
+  "N4:vocab:88710a5d10": {
+    "examples": [
+      {
+        "ja": "盗まれたお金があきらめられない。",
+        "furigana": "{盗|ぬす}まれたお{金|かね}があきらめられない。",
+        "en": "I cannot give up hope about the stolen money.",
+        "tatoeba_id": 124148
+      },
+      {
+        "ja": "スーツケースが盗まれたようです。",
+        "furigana": "スーツケースが{盗|ぬす}まれたようです。",
+        "en": "I think my suitcase was stolen.",
+        "tatoeba_id": 215074
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I won't give up on the stolen money.",
+            "replacement": "I cannot give up hope about the stolen money."
+          }
+        ],
+        "basis": "盗む steal; stolen money cannot relinquish hope, not cannot steal money. Suitcase passive theft and ようです apparent uncertainty retained, not definite stolen luggage."
+      }
+    ]
+  },
+  "N4:vocab:6631558c00": {
+    "meanings": [
+      "to paint; to apply a coating",
+      "to plaster; to spread or smear"
+    ],
+    "examples": [
+      {
+        "ja": "ジョンがドアにペンキを塗っていた。",
+        "furigana": "ジョンがドアにペンキを{塗|ぬ}っていた。",
+        "en": "John was painting the door.",
+        "tatoeba_id": 215528
+      },
+      {
+        "ja": "私は家にペンキを塗ってもらった。",
+        "furigana": "{私|わたし}は{家|いえ}にペンキを{塗|ぬ}ってもらった。",
+        "en": "I had my house painted.",
+        "tatoeba_id": 158042
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to paint",
+              "to plaster"
+            ],
+            "replacement": [
+              "to paint; to apply a coating",
+              "to plaster; to spread or smear"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "John has been painting the door.",
+            "replacement": "John was painting the door."
+          }
+        ],
+        "basis": "塗る paint/apply coating not draw pictures or plastic. Door past-progressive painted by John; てもらった arranged/received house painting by another not habitual self painting."
+      }
+    ]
+  },
+  "N4:vocab:cdabcdd725": {
+    "examples": [
+      {
+        "ja": "木のおかげで雨にぬれずにすんだ。",
+        "furigana": "{木|き}のおかげで{雨|あめ}にぬれずにすんだ。",
+        "en": "The trees kept me out of the rain.",
+        "tatoeba_id": 80133
+      },
+      {
+        "ja": "私はすっかりぬれてしまった。",
+        "furigana": "{私|わたし}はすっかりぬれてしまった。",
+        "en": "I got completely wet.",
+        "tatoeba_id": 160527
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I've got wet inside out.",
+            "replacement": "I got completely wet."
+          }
+        ],
+        "basis": "ぬれる intransitive get wet; trees prevented need to get wet thanks-to, not trees extracted speaker; completely soaked not literal inside-out."
+      }
+    ]
+  },
+  "N4:vocab:4fbc32438d": {
+    "meanings": [
+      "heat; fever",
+      "enthusiasm; ardor"
+    ],
+    "examples": [
+      {
+        "ja": "１０２゜Ｆの熱があります。",
+        "furigana": "１０２゜Ｆの{熱|ねつ}があります。",
+        "en": "I have a fever of 102 degrees Fahrenheit.",
+        "tatoeba_id": 236102
+      },
+      {
+        "ja": "彼は学生運動熱に浮かされている。",
+        "furigana": "{彼|かれ}は{学生運動|がくせいうんどう}{熱|ねつ}に{浮|う}かされている。",
+        "en": "He is carried away by enthusiasm for the student movement.",
+        "tatoeba_id": 108825
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "fever"
+            ],
+            "replacement": [
+              "heat; fever",
+              "enthusiasm; ardor"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I have a fever of 102 degrees.",
+            "replacement": "I have a fever of 102 degrees Fahrenheit."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "He is being carried away by a student movement.",
+            "replacement": "He is carried away by enthusiasm for the student movement."
+          }
+        ],
+        "basis": "熱 heat/fever and figurative ardor. Explicit source102°F retained, not ambiguous102°C. Movement enthusiasm carries person away not expulsion or a student activity. Language examples only, not medical assessment."
+      }
+    ]
+  },
+  "N4:vocab:9de5a5daff": {
+    "meanings": [
+      "enthusiastic; earnest; devoted"
+    ],
+    "examples": [
+      {
+        "ja": "彼女は熱心に小鳥にえさをやった。",
+        "furigana": "{彼女|かのじょ}は{熱心|ねっしん}に{小鳥|ことり}にえさをやった。",
+        "en": "She earnestly fed the small birds.",
+        "tatoeba_id": 87587
+      },
+      {
+        "ja": "彼女は熱心にピアノをひきだした。",
+        "furigana": "{彼女|かのじょ}は{熱心|ねっしん}にピアノをひきだした。",
+        "en": "She began playing the piano enthusiastically.",
+        "tatoeba_id": 87589
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "enthusiasm"
+            ],
+            "replacement": [
+              "enthusiastic; earnest; devoted"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "She was eager to feed the birds.",
+            "replacement": "She earnestly fed the small birds."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "She played the piano with enthusiasm.",
+            "replacement": "She began playing the piano enthusiastically."
+          }
+        ],
+        "basis": "熱心 enthusiasm/earnestness; actual feeding not mere eagerness to begin; ひきだした began playing piano, not unspecified past or future will play. 小鳥 small birds retained."
+      }
+    ]
+  },
+  "N4:vocab:1af14ddd32": {
+    "meanings": [
+      "oversleeping; sleeping late in the morning (also with suru)"
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "sleeping in late"
+            ],
+            "replacement": [
+              "oversleeping; sleeping late in the morning (also with suru)"
+            ]
+          }
+        ],
+        "basis": "寝坊 oversleep/late rising not late bedtime. Sometimes habitual and prevent oversleep not blanket do not sleep."
+      }
+    ]
+  },
+  "N4:vocab:ac5fa7fe3b": {
+    "examples": [
+      {
+        "ja": "テレビを見ているとすぐ眠くなる。",
+        "furigana": "テレビを{見|み}ているとすぐ{眠|ねむ}くなる。",
+        "en": "I quickly become sleepy while watching television.",
+        "tatoeba_id": 201962
+      },
+      {
+        "ja": "コーヒーを飲むと眠くならない。",
+        "furigana": "コーヒーを{飲|の}むと{眠|ねむ}くならない。",
+        "en": "When I drink coffee, I do not become sleepy.",
+        "tatoeba_id": 224860
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I fall asleep easily while watching television.",
+            "replacement": "I quickly become sleepy while watching television."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Coffee keeps me awake.",
+            "replacement": "When I drink coffee, I do not become sleepy."
+          }
+        ],
+        "basis": "眠い sleepy not asleep/thinking. 眠くなる become sleepy not necessarily actually fall asleep; coffee conditional not becoming sleepy, not job. No sleep/health advice claim."
+      }
+    ]
+  },
+  "N4:vocab:3575e37548": {
+    "examples": [
+      {
+        "ja": "もし眠るといけないので目覚し時計をセットしなさい。",
+        "furigana": "もし{眠|ねむ}るといけないので{目覚|めざま}し{時計|どけい}をセットしなさい。",
+        "en": "Set the alarm clock, since falling asleep could be a problem.",
+        "tatoeba_id": 237325
+      },
+      {
+        "ja": "テレビを見ていて眠ってしまった。",
+        "furigana": "テレビを{見|み}ていて{眠|ねむ}ってしまった。",
+        "en": "Watching TV, I fell asleep.",
+        "tatoeba_id": 201963
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "In case you sleep, set the alarm.",
+            "replacement": "Set the alarm clock, since falling asleep could be a problem."
+          }
+        ],
+        "basis": "眠る sleep. First precaution alarm because sleeping could be problematic, not if false or after already asleep; second involuntary completed falling asleep while TV."
+      }
+    ]
+  },
+  "N4:vocab:6a3d0e7070": {
+    "examples": [
+      {
+        "ja": "のどがヒリヒリします。",
+        "en": "My throat burns.",
+        "tatoeba_id": 198567
+      },
+      {
+        "ja": "今日起きたら喉がいがらっぽかったです。",
+        "en": "When I got up today, my throat felt scratchy.",
+        "tatoeba_id": 171456
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "When I got up today, my throat felt a little sore.",
+            "replacement": "When I got up today, my throat felt scratchy."
+          }
+        ],
+        "basis": "のど throat not external neck; burning/scratchiness symptoms language, today on waking past not began getting up now. No medical advice."
+      }
+    ]
+  },
+  "N4:vocab:0787fd5472": {
+    "examples": [
+      {
+        "ja": "乗り物は子供向けである。",
+        "furigana": "{乗|の}り{物|もの}は{子供|こども}{向|む}けである。",
+        "en": "This vehicle is intended for children.",
+        "tatoeba_id": 146171
+      },
+      {
+        "ja": "車やバスやトラックはすべて乗り物である。",
+        "furigana": "{車|くるま}やバスやトラックはすべて{乗|の}り{物|もの}である。",
+        "en": "Cars, buses, and trucks are all vehicles.",
+        "tatoeba_id": 148987
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "Rides in the cars are for kids.",
+            "replacement": "This vehicle is intended for children."
+          }
+        ],
+        "basis": "乗り物 vehicle/ride not only car; first children-oriented vehicle, English unsupported cars removed, not driving for nations. Examples do not specify amusement context; broad vehicle rendering retained."
+      }
+    ]
+  },
+  "N4:vocab:254439ebbe": {
+    "examples": [
+      {
+        "ja": "こちらには大きなハスの葉があります。",
+        "furigana": "こちらには{大|おお}きなハスの{葉|は}があります。",
+        "en": "There are large lotus leaves over here.",
+        "tatoeba_id": 224180
+      },
+      {
+        "ja": "多くの木は冬になると葉がなくなる。",
+        "furigana": "{多|おお}くの{木|き}は{冬|ふゆ}になると{葉|は}がなくなる。",
+        "en": "Many trees are bare in winter.",
+        "tatoeba_id": 138295
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "We have very big lotus leaves.",
+            "replacement": "There are large lotus leaves over here."
+          }
+        ],
+        "basis": "葉 leaf; こちら here/toward us and lotus leaves not take lotus. Many trees lose leaves in winter not only exist in winter or trees big."
+      }
+    ]
+  },
+  "N4:vocab:d051720806": {
+    "meanings": [
+      "part-time work",
+      "part; section"
+    ],
+    "examples": [
+      {
+        "ja": "ごめんね。明日は朝からパートがあるのよ。",
+        "en": "Sorry, I have part-time work from tomorrow morning.",
+        "tatoeba_id": 76720
+      },
+      {
+        "ja": "その試験は２つのパートに分かれていた。",
+        "furigana": "その{試験|しけん}は２つのパートに{分|わ}かれていた。",
+        "en": "The exam was divided into two parts.",
+        "tatoeba_id": 210043
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "part time"
+            ],
+            "replacement": [
+              "part-time work",
+              "part; section"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Sorry, I have a part-time job starting tomorrow morning.",
+            "replacement": "Sorry, I have part-time work from tomorrow morning."
+          }
+        ],
+        "basis": "パート part-time work and part/section. Tomorrow morning shift not necessarily starting a new job; exam divided two sections past not present."
+      }
+    ]
+  },
+  "N4:vocab:b7dd1f219b": {
+    "meanings": [
+      "times; -fold (after a number)",
+      "double; twice (used alone)"
+    ],
+    "examples": [
+      {
+        "ja": "あの山はこの山の５倍の高さである。",
+        "furigana": "あの{山|やま}はこの{山|やま}の５{倍|ばい}の{高|たか}さである。",
+        "en": "That mountain is five times as high as this one.",
+        "tatoeba_id": 230998
+      },
+      {
+        "ja": "１０セントの１０倍は１ドルである。",
+        "furigana": "１０セントの１０{倍|ばい}は１ドルである。",
+        "en": "Ten times ten cents equals one dollar.",
+        "tatoeba_id": 236095
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "double"
+            ],
+            "replacement": [
+              "times; -fold (after a number)",
+              "double; twice (used alone)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Ten dimes are equal to one dollar.",
+            "replacement": "Ten times ten cents equals one dollar."
+          }
+        ],
+        "basis": "倍 standalone double vs suffix multiplier. Fivefold mountain comparison not fivefold growth; 10cents times10 equals1dollar, dimes not eggs/dollars. Arithmetic example not exchange-rate advice."
+      }
+    ]
+  },
+  "N4:vocab:88a295c433": {
+    "meanings": [
+      "looking at; seeing (humble; often with suru)"
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(humble) to look at"
+            ],
+            "replacement": [
+              "looking at; seeing (humble; often with suru)"
+            ]
+          }
+        ],
+        "basis": "拝見 humble look at, respect to owner/other party not empty/subject honorific. Speaker seeks permission to see addressee passport; not my passport already seen."
+      }
+    ]
+  },
+  "N4:vocab:9bb337edc6": {
+    "examples": [
+      {
+        "ja": "今日歯医者へ行きました。",
+        "en": "Today I went to the dentist's.",
+        "tatoeba_id": 171440
+      },
+      {
+        "ja": "すぐ歯医者に見てもらいなさい。",
+        "furigana": "すぐ{歯医者|はいしゃ}に{見|み}てもらいなさい。",
+        "en": "Have a dentist examine you at once.",
+        "tatoeba_id": 214781
+      }
+    ],
+    "review_note": "Pass110: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "96a5cb2155f8064c29eca6bbbe07ed531899ab5b",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "You'd better see a dentist at once.",
+            "replacement": "Have a dentist examine you at once."
+          }
+        ],
+        "basis": "歯医者 dentist/practice not dental adjective or teeth. Today visit completed; 見てもらいなさい have dentist examine immediately, not merely speaker look at dentist. Educational dialogue, no individualized clinical advice."
+      }
+    ]
   }
 }
