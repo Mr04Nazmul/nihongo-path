@@ -8361,5 +8361,483 @@
         "basis": "都合 convenience/availability not beauty. Polite scheduling question. Original ex1 ご都合いただけます malformed noun+itadaku; AI correction to ご都合はいかがですか preserves lunch-after question, exact old Japanese/furigana archived, not native-certified or original-author-restored."
       }
     ]
+  },
+  "N4:vocab:bbe4edb30f": {
+    "meanings": [
+      "to convey; to tell; to communicate",
+      "to hand down; to pass on"
+    ],
+    "examples": [
+      {
+        "ja": "その話は親から子へと伝えられた。",
+        "furigana": "その{話|はなし}は{親|おや}から{子|こ}へと{伝|つた}えられた。",
+        "en": "The story was handed down from parent to child.",
+        "tatoeba_id": 206036
+      },
+      {
+        "ja": "ご用でしたら父に伝えましょうか。",
+        "furigana": "ご{用|よう}でしたら{父|ちち}に{伝|つた}えましょうか。",
+        "en": "If you have a message or request, shall I tell my father?",
+        "tatoeba_id": 217000
+      }
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to report"
+            ],
+            "replacement": [
+              "to convey; to tell; to communicate",
+              "to hand down; to pass on"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "The story was handed down from father to son.",
+            "replacement": "The story was handed down from parent to child."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Can I tell my father what you want?",
+            "replacement": "If you have a message or request, shall I tell my father?"
+          }
+        ],
+        "basis": "伝える communicate/convey/pass down. 親から子 parent-to-child not inherently father-son; polite offer pass message to own father, not ask addressee what speaker wants."
+      }
+    ]
+  },
+  "N4:vocab:a1db204b87": {
+    "meanings": [
+      "to continue; to last; to go on (intransitive)"
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to be continued"
+            ],
+            "replacement": [
+              "to continue; to last; to go on (intransitive)"
+            ]
+          }
+        ],
+        "basis": "続く intransitive continue, no obligation to continue. Duration question and hopeful conditional maintained; second not assertion weather already remained."
+      }
+    ]
+  },
+  "N4:vocab:776c4df05f": {
+    "meanings": [
+      "wife (often used of ones own wife when speaking to others)"
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(humble) wife"
+            ],
+            "replacement": [
+              "wife (often used of ones own wife when speaking to others)"
+            ]
+          }
+        ],
+        "basis": "妻 modern wife, often ones own wife when speaking to others, not husband-and-wife or empty wife. No example fields present; no fabricated examples/review."
+      }
+    ]
+  },
+  "N4:vocab:342df55815": {
+    "examples": [
+      {
+        "ja": "私は来年留学するつもりです。",
+        "furigana": "{私|わたし}は{来年|らいねん}{留学|りゅうがく}するつもりです。",
+        "en": "I intend to study abroad next year.",
+        "tatoeba_id": 152381
+      },
+      {
+        "ja": "私は二十日までに帰るつもりです。",
+        "furigana": "{私|わたし}は{二十日|はつか}までに{帰|かえ}るつもりです。",
+        "en": "I intend to be back by the 20th.",
+        "tatoeba_id": 154765
+      }
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I expect to be back by the 20th.",
+            "replacement": "I intend to be back by the 20th."
+          }
+        ],
+        "basis": "つもり intention not prediction already going or hope alone. Next year not current year; by20 deadline inclusive, not on20 or unspecified number20."
+      }
+    ]
+  },
+  "N4:vocab:0319cd1801": {
+    "meanings": [
+      "to take along; to bring along (a person or animal)"
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to lead"
+            ],
+            "replacement": [
+              "to take along; to bring along (a person or animal)"
+            ]
+          }
+        ],
+        "basis": "連れる take/bring animate companion not lead politically. 母を連れて行かなくてはいけない obligation take mother; man and big dog not woman, inward entry."
+      }
+    ]
+  },
+  "N4:vocab:aa30940947": {
+    "meanings": [
+      "polite; courteous",
+      "careful; thorough"
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "polite"
+            ],
+            "replacement": [
+              "polite; courteous",
+              "careful; thorough"
+            ]
+          }
+        ],
+        "basis": "丁寧 polite/careful. 点 dots and はらい sweeping strokes, not points/soup. Write quickly and carefully proposal retained. おじぎ bow not chest or mere kind words."
+      }
+    ]
+  },
+  "N4:vocab:fa043680e3": {
+    "meanings": [
+      "suitable; appropriate",
+      "moderate; just right",
+      "careless; perfunctory (depending on context)"
+    ],
+    "examples": [
+      {
+        "ja": "あなたが適当だと思う本なら何でも読みなさい。",
+        "furigana": "あなたが{適当|てきとう}だと{思|おも}う{本|ほん}なら{何|なん}でも{読|よ}みなさい。",
+        "en": "Read whatever books you think proper.",
+        "tatoeba_id": 236792
+      },
+      {
+        "ja": "靴下は適当な大きさのものがよい。",
+        "en": "Socks of the proper size are best.",
+        "tatoeba_id": 179231
+      }
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "suitability"
+            ],
+            "replacement": [
+              "suitable; appropriate",
+              "moderate; just right",
+              "careless; perfunctory (depending on context)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Stockings should be of the proper size.",
+            "replacement": "Socks of the proper size are best."
+          }
+        ],
+        "basis": "適当 appropriate/moderate or careless by context, not only noun suitability. Both examples positive appropriate sense; any suitable book and proper-size socks not shares/stock."
+      }
+    ]
+  },
+  "N4:vocab:02dea2f4f6": {
+    "examples": [
+      {
+        "ja": "１日中テニスをしていたのだから。",
+        "en": "Because he had been playing tennis all day.",
+        "tatoeba_id": 235690
+      },
+      {
+        "ja": "父と私は日曜日にはテニスをした。",
+        "furigana": "{父|ちち}と{私|わたし}は{日曜日|にちようび}にはテニスをした。",
+        "en": "My father and I used to play tennis on Sundays.",
+        "tatoeba_id": 84831
+      }
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "He was playing tennis all day.",
+            "replacement": "Because he had been playing tennis all day."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "My father and I played tennis on Sunday.",
+            "replacement": "My father and I used to play tennis on Sundays."
+          }
+        ],
+        "basis": "テニス explanatory のだから retained consistent with reviewed だから entry, past progressive. Second father and I not friends, Sundays not Saturday; 日曜日には past recurring reading."
+      }
+    ]
+  },
+  "N4:vocab:be7c090b8e": {
+    "meanings": [
+      "glove; gloves"
+    ],
+    "examples": [
+      {
+        "ja": "この手袋は両方がそろっていない。",
+        "furigana": "この{手袋|てぶくろ}は{両方|りょうほう}がそろっていない。",
+        "en": "This pair of gloves is not complete.",
+        "tatoeba_id": 221299
+      },
+      {
+        "ja": "ポールは出かける前に手袋をした。",
+        "furigana": "ポールは{出|で}かける{前|#1392580}に{手袋|てぶくろ}をした。",
+        "en": "Paul put on gloves before going out.",
+        "tatoeba_id": 196468
+      }
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "glove"
+            ],
+            "replacement": [
+              "glove; gloves"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Their gloves are not in pairs.",
+            "replacement": "This pair of gloves is not complete."
+          }
+        ],
+        "basis": "手袋 gloves not interference/global. 両方がそろっていない pair not complete; no unsupported cause or ownership. Paul puts on before going out, not onion use."
+      }
+    ]
+  },
+  "N4:vocab:a9687d55e3": {
+    "meanings": [
+      "Buddhist temple"
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "temple"
+            ],
+            "replacement": [
+              "Buddhist temple"
+            ]
+          }
+        ],
+        "basis": "寺 Buddhist temple contextual distinction from Shinto shrine; former existence right here not present; construction-time question not why."
+      }
+    ]
+  },
+  "N4:vocab:67fb8c065d": {
+    "meanings": [
+      "point; dot; spot",
+      "aspect; respect; matter"
+    ],
+    "examples": [
+      {
+        "ja": "どんな小さな点でも見ることができる。",
+        "furigana": "どんな{小|ちい}さな{点|てん}でも{見|み}ることができる。",
+        "en": "I can see the tiniest spot.",
+        "tatoeba_id": 199403
+      },
+      {
+        "ja": "すべての点であなたに同意します。",
+        "furigana": "すべての{点|てん}であなたに{同意|どうい}します。",
+        "en": "I agree with you in every respect.",
+        "tatoeba_id": 214406
+      }
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "point",
+              "dot"
+            ],
+            "replacement": [
+              "point; dot; spot",
+              "aspect; respect; matter"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I agreed with you in all your views.",
+            "replacement": "I agree with you in every respect."
+          }
+        ],
+        "basis": "点 dot/point/aspect; ability even tiniest not only place, agreement all aspects present Japanese します not English past agreed."
+      }
+    ]
+  },
+  "N4:vocab:29b43fab16": {
+    "examples": [
+      {
+        "ja": "店員はその荷物にラベルをつけた。",
+        "furigana": "{店員|てんいん}はその{荷物|にもつ}にラベルをつけた。",
+        "en": "The clerk labeled the baggage.",
+        "tatoeba_id": 124975
+      },
+      {
+        "ja": "ぎこちない笑いをした店員が答えた。",
+        "furigana": "ぎこちない{笑|わら}いをした{店員|てんいん}が{答|こた}えた。",
+        "en": "The shop assistant replied with an awkward smile.",
+        "tatoeba_id": 226066
+      }
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "The smirking male clerk replied.",
+            "replacement": "The shop assistant replied with an awkward smile."
+          }
+        ],
+        "basis": "店員 clerk/shop staff not doctor/Trump. ぎこちない awkward unnatural smile not smirk; no gender specified by JP, unsupported male removed."
+      }
+    ]
+  },
+  "N4:vocab:5fd0c77ef5": {
+    "examples": [
+      {
+        "ja": "天気予報が当たったよ。",
+        "furigana": "{天気予報|てんきよほう}が{当|あ}たったよ。",
+        "en": "The weather forecast was right.",
+        "tatoeba_id": 125101
+      },
+      {
+        "ja": "天気予報はめったにあたらない。",
+        "furigana": "{天気予報|てんきよほう}はめったにあたらない。",
+        "en": "Weather forecasts rarely turn out to be correct.",
+        "tatoeba_id": 125078
+      }
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Weather reports rarely come true.",
+            "replacement": "Weather forecasts rarely turn out to be correct."
+          }
+        ],
+        "basis": "天気予報 forecast; first actual past correctness not future maybe. めったにあたらない rarely accurate, negative frequency not often true. Educational example not general forecast-reliability claim."
+      }
+    ]
+  },
+  "N4:vocab:db2fc03fcf": {
+    "meanings": [
+      "electric lamp; electric light"
+    ],
+    "examples": [
+      {
+        "ja": "ルーシーは電灯のスイッチをつけた。",
+        "furigana": "ルーシーは{電灯|でんとう}のスイッチをつけた。",
+        "en": "Lucy turned on the light switch.",
+        "tatoeba_id": 192401
+      },
+      {
+        "ja": "電灯の発明はエジソンによるとされている。",
+        "furigana": "{電灯|でんとう}の{発明|はつめい}はエジソンによるとされている。",
+        "en": "The invention of the electric light is said to be credited to Edison.",
+        "tatoeba_id": 124765
+      }
+    ],
+    "review_note": "Pass107: English sense/nuance aligned to unchanged Japanese; previous edited values preserved in source_corrections. Entry IDs, all original Japanese sentences, example indices and attribution retained. No native-speaker certification.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-04",
+        "original_commit": "5eb3179ed03a68fa4afc9d56b2e83b5d7beb36ab",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "electric light"
+            ],
+            "replacement": [
+              "electric lamp; electric light"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The invention of electric light is accredited to Edison.",
+            "replacement": "The invention of the electric light is said to be credited to Edison."
+          }
+        ],
+        "basis": "電灯 electric lamp/light; Lucy affirmative switched on past not must. とされている reported attribution preserved, not independent claim Edison sole inventor; existing educational source not history verification."
+      }
+    ]
   }
 }
