@@ -11798,5 +11798,664 @@
       }
     ],
     "review_note": "Pass114: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One context-ambiguous luck idiom example replaced by explicitly AI-authored first-person running example; full original archived, original idiom intent not claimed recovered. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:fcf790e186": {
+    "meanings": [
+      "miso; fermented soybean paste",
+      "special good point; clever feature (figurative)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "bean paste"
+            ],
+            "replacement": [
+              "miso; fermented soybean paste",
+              "special good point; clever feature (figurative)"
+            ]
+          }
+        ],
+        "basis": "味噌 literal fermented soybean seasoning and figurative selling point/clever feature. Example is figurative portability not actual paste; carry not use. Daijisen distinguishes these senses."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:a4e2dc046c": {
+    "meanings": [
+      "to be found; to be discovered"
+    ],
+    "examples": [
+      {
+        "ja": "運悪く仕事が見つからなかった。",
+        "furigana": "{運悪|うんわる}く{仕事|しごと}が{見|み}つからなかった。",
+        "en": "Unfortunately, no work could be found.",
+        "tatoeba_id": 228050
+      },
+      {
+        "ja": "同じ物はどこにでも見つかります。",
+        "furigana": "{同|おな}じ{物|もの}はどこにでも{見|み}つかります。",
+        "en": "You can find the same thing anywhere.",
+        "tatoeba_id": 123691
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to be discovered"
+            ],
+            "replacement": [
+              "to be found; to be discovered"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "He had no luck in finding work.",
+            "replacement": "Unfortunately, no work could be found."
+          }
+        ],
+        "basis": "見つかる intransitive be found, contrasted next transitive 見つける. First negative past no work found not lucky, Japanese no expressed he so English unsupported male subject removed. Second anywhere same item not cooking."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:64f85b7fdf": {
+    "meanings": [
+      "to find; to discover"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to discover"
+            ],
+            "replacement": [
+              "to find; to discover"
+            ]
+          }
+        ],
+        "basis": "見つける transitive finding not searching ongoing. Secondhand bookstore not bookfair/second hand body. Completed finding something really good with exclamatory force."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:eb7247f404": {
+    "meanings": [
+      "all; everyone"
+    ],
+    "examples": [
+      {
+        "ja": "私の親族は皆この町に住んでいる。",
+        "en": "All my relatives live in this city.",
+        "tatoeba_id": 163250
+      },
+      {
+        "ja": "父は皆で電車を待とうといった。",
+        "en": "Father said, \"Let us all wait for the train.\"",
+        "tatoeba_id": 84618
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "everybody"
+            ],
+            "replacement": [
+              "all; everyone"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "My father insisted on our waiting for the train.",
+            "replacement": "Father said, \"Let us all wait for the train.\""
+          }
+        ],
+        "basis": "皆 all/everyone, relatives not only household. Father said quoted volitional lets all wait, not himself waited or explicit insisted. No unsupported coercion from English."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:6978e278b2": {
+    "meanings": [
+      "to face; to head toward"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to face"
+            ],
+            "replacement": [
+              "to face; to head toward"
+            ]
+          }
+        ],
+        "basis": "向かう face/head toward destination. Bound for not forced/bound, autumn retained and south not southwest; not merely static facing birds."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:1687840ea3": {
+    "meanings": [
+      "to welcome; to go to meet or pick up",
+      "to greet the arrival of a time or occasion"
+    ],
+    "examples": [
+      {
+        "ja": "６時にホテルに車で迎えて下さい。",
+        "furigana": "６{時|じ}にホテルに{車|くるま}で{迎|むか}えて{下|くだ}さい。",
+        "en": "Please come by car to pick me up at the hotel at six.",
+        "tatoeba_id": 235056
+      },
+      {
+        "ja": "よいお年をお迎えください。",
+        "en": "I wish you a Happy New Year.",
+        "tatoeba_id": 4801264
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to go out to meet"
+            ],
+            "replacement": [
+              "to welcome; to go to meet or pick up",
+              "to greet the arrival of a time or occasion"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Please pick me up at the hotel at six o'clock.",
+            "replacement": "Please come by car to pick me up at the hotel at six."
+          }
+        ],
+        "basis": "迎える receive/welcome/pick up, includes new year arrival. Exact6 not6:30 and no AM invented, car explicit. New Year courteous wish not literal go out meet year."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:58cd37c48b": {
+    "meanings": [
+      "the past; old days; formerly"
+    ],
+    "examples": [
+      {
+        "ja": "この本を読むたびに昔を思い出す。",
+        "furigana": "この{本|ほん}を{読|よ}むたびに{昔|むかし}を{思|おも}い{出|だ}す。",
+        "en": "Whenever I read this book, I remember the old days.",
+        "tatoeba_id": 219503
+      },
+      {
+        "ja": "この古い建物は昔、きれいだった。",
+        "furigana": "この{古|ふる}い{建物|たてもの}は{昔|むかし}、きれいだった。",
+        "en": "This old building used to be beautiful.",
+        "tatoeba_id": 222052
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "olden days",
+              "former"
+            ],
+            "replacement": [
+              "the past; old days; formerly"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I never read this book without being reminded of my old days.",
+            "replacement": "Whenever I read this book, I remember the old days."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "This old building has seen better days.",
+            "replacement": "This old building used to be beautiful."
+          }
+        ],
+        "basis": "昔 old days. たびに each reading recalls past not never read; second formerly beautiful past state, not physical better days seen or current renovation."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:505c1fd62e": {
+    "meanings": [
+      "bug; insect; small crawling creature"
+    ],
+    "examples": [
+      {
+        "ja": "鳥は虫を探していた。",
+        "furigana": "{鳥|とり}は{虫|むし}を{探|さが}していた。",
+        "en": "The bird was looking for bugs.",
+        "tatoeba_id": 125784
+      },
+      {
+        "ja": "その虫はまだ生きているんだ。",
+        "furigana": "その{虫|むし}はまだ{生|い}きているんだ。",
+        "en": "The bug is still alive.",
+        "tatoeba_id": 207838
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "insect"
+            ],
+            "replacement": [
+              "bug; insect; small crawling creature"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "The bird was looking for worms.",
+            "replacement": "The bird was looking for bugs."
+          }
+        ],
+        "basis": "虫 broad small bugs/worms in everyday Japanese not exclusively scientific insect class. No worm species specified original; translated broad bug. Not eye, software bug, engineer or father; search past and still alive retained."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:88be7d523a": {
+    "meanings": [
+      "son"
+    ],
+    "examples": [
+      {
+        "ja": "母親は息子にやかましく言って聞かせた。",
+        "en": "The mother scolded her son to make him understand.",
+        "tatoeba_id": 82781
+      },
+      {
+        "ja": "息子はないものねだりをしている。",
+        "furigana": "{息子|むすこ}はないものねだりをしている。",
+        "en": "My son is asking for things he cannot have.",
+        "tatoeba_id": 140059
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(humble) son"
+            ],
+            "replacement": [
+              "son"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "The mother whipped sense into her boy.",
+            "replacement": "The mother scolded her son to make him understand."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "My son asks for the moon.",
+            "replacement": "My son is asking for things he cannot have."
+          }
+        ],
+        "basis": "息子 son, can be own son without inherent humble inflection; mother noisy admonition not physical whipping. ないものねだり wanting unavailable/impossible things, not literal moon or silver; English assumes own son, ordinary Japanese implicit family reading."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:5c27cba3be": {
+    "meanings": [
+      "daughter; young woman"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(humble) daughter"
+            ],
+            "replacement": [
+              "daughter; young woman"
+            ]
+          }
+        ],
+        "basis": "娘 daughter or young woman, not wife/son and not inherently humble only. Helen surname retained, none students universal negative not all students positive."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:3d1727a56f": {
+    "meanings": [
+      "impossible; unreasonable; beyond one's capacity"
+    ],
+    "examples": [
+      {
+        "ja": "それは無理な注文だ。",
+        "en": "That is an unreasonable demand.",
+        "tatoeba_id": 204826
+      },
+      {
+        "ja": "悪いけど、どうしたって無理だわ。",
+        "furigana": "{悪|わる}いけど、どうしたって{無理|むり}だわ。",
+        "en": "I'm sorry, but it's just not possible.",
+        "tatoeba_id": 191503
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "impossible"
+            ],
+            "replacement": [
+              "impossible; unreasonable; beyond one's capacity"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Your demands are unreasonable.",
+            "replacement": "That is an unreasonable demand."
+          }
+        ],
+        "basis": "無理 impossible/unreasonable/overstrain context. That unreasonable demand not invented your or his demands. Speaker apology not instruction listener apologize; どうしたって no matter what impossibility."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:d9c64cdfa1": {
+    "meanings": [
+      "to eat; to drink (honorific, respecting the person eating or drinking)"
+    ],
+    "examples": [
+      {
+        "ja": "ここで召し上がりますか、それともお持ち帰りですか。",
+        "furigana": "ここで{召|め}し{上|あ}がりますか、それともお{持|も}ち{帰|かえ}りですか。",
+        "en": "Is this to eat here, or to go?",
+        "tatoeba_id": 224548
+      },
+      {
+        "ja": "ぜひパイをお召し上がりください。",
+        "furigana": "ぜひパイをお{召|め}し{上|あ}がりください。",
+        "en": "Please do try the pie.",
+        "tatoeba_id": 214013
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(polite) to eat"
+            ],
+            "replacement": [
+              "to eat; to drink (honorific, respecting the person eating or drinking)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "You have to have a piece of pie.",
+            "replacement": "Please do try the pie."
+          }
+        ],
+        "basis": "召し上がる honorific elevates eater/drinker, not generic politeness or humble speaker eat. Eat here/takeaway not go away. ぜひ polite encouragement not must-have legal obligation; pie not onion, no unsupported piece amount."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:6307098126": {
+    "meanings": [
+      "rare; uncommon; unusual"
+    ],
+    "examples": [
+      {
+        "ja": "これは珍しい種類の魚です。",
+        "furigana": "これは{珍|めずら}しい{種類|しゅるい}の{魚|さかな}です。",
+        "en": "This is a rare kind of fish.",
+        "tatoeba_id": 218188
+      },
+      {
+        "ja": "町中で、珍しい物を見つけました。",
+        "furigana": "{町中|まちなか}で、{珍|めずら}しい{物|もの}を{見|み}つけました。",
+        "en": "I found something uncommon in the town.",
+        "tatoeba_id": 75867
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "rare"
+            ],
+            "replacement": [
+              "rare; uncommon; unusual"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "This is a strange kind of fish.",
+            "replacement": "This is a rare kind of fish."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I found something interesting in the town.",
+            "replacement": "I found something uncommon in the town."
+          }
+        ],
+        "basis": "珍しい uncommon/rare/novel not necessarily weird or merely interesting. Fish kind uncommon and speaker found past, not passive item found or excitement only."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:5434f0c376": {
+    "meanings": [
+      "to say; to tell (humble, respecting the recipient)"
+    ],
+    "examples": [
+      {
+        "ja": "お礼の申し上げようもありません。",
+        "furigana": "お{礼|れい}の{申|もう}し{上|あ}げようもありません。",
+        "en": "I can never thank you enough.",
+        "tatoeba_id": 226522
+      },
+      {
+        "ja": "いますぐは何も申し上げられません。",
+        "furigana": "いますぐは{何|なに}も{申|もう}し{上|あ}げられません。",
+        "en": "I cannot say anything right now.",
+        "tatoeba_id": 228549
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(humble) to say",
+              "to tell"
+            ],
+            "replacement": [
+              "to say; to tell (humble, respecting the recipient)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I am unable to say anything offhand.",
+            "replacement": "I cannot say anything right now."
+          }
+        ],
+        "basis": "申し上げる humble say/tell to honored recipient not Quran/religious act. Gratitude beyond expression not no thanks; unable anything right now not insult/offhand rudeness or never despair. Bunka humbleI distinction."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:8e7b945555": {
+    "meanings": [
+      "to say; to give one's name (humble/formal speaker-side expression)"
+    ],
+    "examples": [
+      {
+        "ja": "こちらはスミスと申します。ジョンソンさんはおいででしょうか。",
+        "furigana": "こちらはスミスと{申|もう}します。ジョンソンさんはおいででしょうか。",
+        "en": "This is Smith speaking. Is Mr Johnson in?",
+        "tatoeba_id": 224154
+      },
+      {
+        "ja": "アンドレアと申します。",
+        "furigana": "アンドレアと{申|もう}します。",
+        "en": "My name is Andrea.",
+        "tatoeba_id": 342132
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(humble) to be called",
+              "to say"
+            ],
+            "replacement": [
+              "to say; to give one's name (humble/formal speaker-side expression)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "This is Mr Smith speaking. Is Mr Johnson in?",
+            "replacement": "This is Smith speaking. Is Mr Johnson in?"
+          }
+        ],
+        "basis": "申す humbleII/formal speaker-side say/name, not prayer or origins. Smith speaking not third-person introduced; Johnson honorific no unsupported Smith gender title. Andrea person name not Android."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:0f494574f0": {
+    "examples": [
+      {
+        "ja": "明るくなってきた。もうすぐ朝だ。",
+        "furigana": "{明|あか}るくなってきた。もうすぐ{朝|あさ}だ。",
+        "en": "It's getting light. Morning is coming.",
+        "tatoeba_id": 80708
+      },
+      {
+        "ja": "この車はもうすぐスクラップだ。",
+        "furigana": "この{車|くるま}はもうすぐスクラップだ。",
+        "en": "This car will soon become scrap.",
+        "tatoeba_id": 76735
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "This car will soon have to go for scrap.",
+            "replacement": "This car will soon become scrap."
+          }
+        ],
+        "basis": "もうすぐ soon not hurry. Progressive daylight and nearing morning not already got up. Car becomes scrap not scale or drives away; no invented necessity beyond soon fate."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:6e13cee4dc": {
+    "meanings": [
+      "most; the most"
+    ],
+    "examples": [
+      {
+        "ja": "ケンは三人のなかでもっとも速く走ります。",
+        "en": "Ken runs fastest of the three.",
+        "tatoeba_id": 225135
+      },
+      {
+        "ja": "もっともやさしい問題から始めた方がいい。",
+        "furigana": "もっともやさしい{問題|もんだい}から{始|はじ}めた{方|ほう}がいい。",
+        "en": "You had better begin with the easiest questions.",
+        "tatoeba_id": 193334
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f4ef8bfdcf397c55d1e81418c1375e93ab969ecb",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "extremely"
+            ],
+            "replacement": [
+              "most; the most"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "You had better begin with easier questions.",
+            "replacement": "You had better begin with the easiest questions."
+          }
+        ],
+        "basis": "最も superlative most not merely extremely/excessive. Ken proper name retained and fastest among3; easiest not comparative easier/permission can, 方がいい advice not obligation."
+      }
+    ],
+    "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
   }
 }
