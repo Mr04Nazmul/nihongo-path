@@ -722,5 +722,32 @@
       "bn": "আমি প্রতিদিন সকালে এখানে দৌড়াই।",
       "ne": "म हरेक बिहान यहाँ दौडन्छु।"
     }
+  },
+  "N4:vocab:f2a77c1c6d:examples.0": {
+    "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+    "original_example": {
+      "ja": "こ、こら！ナニやっとるかぁぁ！！",
+      "en": "H-Hey! What're you up to!!",
+      "tatoeba_id": 74701
+    },
+    "original_translations": {
+      "bn": "হে হে, তুমি কি এগিয়ে যাও!",
+      "ne": "म त कहिलेकाहीँ कहिले हुन्छ...!"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "original understood as doing (やっておる), not the target adverb; no context reconstruction claimed",
+    "reason": "やっと at last/with effort/barely. Original first falsely matched substring やっとる (やっておる doing) rather than adverb やっと; full original archived and explicitly AI-authored homework example substituted with correct target. No original context reconstruction/native review claimed. Second rain finally stopped this morning, not rain never occurred or still ongoing.",
+    "reviewed_on": "2026-11-05",
+    "native_speaker_review": "not performed",
+    "replacement_example": {
+      "ja": "やっと宿題が終わりました。",
+      "en": "At last, the homework is finished.",
+      "romaji": "Yatto shukudai ga owarimashita.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "অবশেষে বাড়ির কাজ শেষ হলো।",
+      "ne": "अन्ततः गृहकार्य सकियो।"
+    }
   }
 }

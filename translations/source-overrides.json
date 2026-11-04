@@ -12457,5 +12457,523 @@
       }
     ],
     "review_note": "Pass115: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Japanese, stable IDs, example indices and attribution retained unchanged. No native-speaker certification."
+  },
+  "N4:vocab:c858640672": {
+    "meanings": [
+      "to return; to go back; to revert"
+    ],
+    "examples": [
+      {
+        "ja": "やってしまったことは元に戻らない。",
+        "en": "What is done cannot be undone.",
+        "tatoeba_id": 193096
+      },
+      {
+        "ja": "少し戻ってみたらいいんじゃない。",
+        "furigana": "{少|すこ}し{戻|もど}ってみたらいいんじゃない。",
+        "en": "Why not try going back a little?",
+        "tatoeba_id": 146772
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to turn back"
+            ],
+            "replacement": [
+              "to return; to go back; to revert"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "We'd better go back a little.",
+            "replacement": "Why not try going back a little?"
+          }
+        ],
+        "basis": "戻る intransitive return/back not rebuild or imperative. Completed action cannot revert, not action never done. Second tentative suggestion try going back not desire or going forward."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:96e10e7209": {
+    "meanings": [
+      "cotton; cotton fabric"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "cotton"
+            ],
+            "replacement": [
+              "cotton; cotton fabric"
+            ]
+          }
+        ],
+        "basis": "木綿 cotton/fabric not company/quota/raw. Blouse material and2shirts bought past, not existing two generic clothes."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:ad62110b55": {
+    "meanings": [
+      "to receive",
+      "to have someone do something for one (te-morau)"
+    ],
+    "examples": [
+      {
+        "ja": "あさって彼にここへ来てもらうつもりです。",
+        "furigana": "あさって{彼|かれ}にここへ{来|き}てもらうつもりです。",
+        "en": "I intend to have him come here the day after tomorrow.",
+        "tatoeba_id": 234491
+      },
+      {
+        "ja": "新しいスーツを仕立ててもらった。",
+        "furigana": "{新|あたら}しいスーツを{仕立|した}ててもらった。",
+        "en": "I had a new suit made.",
+        "tatoeba_id": 145487
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to receive"
+            ],
+            "replacement": [
+              "to receive",
+              "to have someone do something for one (te-morau)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I will have him come here the day after tomorrow.",
+            "replacement": "I intend to have him come here the day after tomorrow."
+          }
+        ],
+        "basis": "もらう receiving and てもらう beneficial action by another. あさって day after tomorrow not tomorrow; intention have him come not certain arrival/speaker comes. Suit tailored for speaker not speaker sewed himself."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:f0e069d89e": {
+    "examples": [
+      {
+        "ja": "私は森の中で野うさぎをみつけた。",
+        "furigana": "{私|わたし}は{森|もり}の{中|なか}で{野|の}うさぎをみつけた。",
+        "en": "I spotted a wild rabbit in the forest.",
+        "tatoeba_id": 155701
+      },
+      {
+        "ja": "この森では多くの動物が見られる。",
+        "furigana": "この{森|もり}では{多|おお}くの{動物|どうぶつ}が{見|み}られる。",
+        "en": "You can see many animals in this forest.",
+        "tatoeba_id": 221022
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I caught sight of the rabbit in the middle of the forest.",
+            "replacement": "I spotted a wild rabbit in the forest."
+          }
+        ],
+        "basis": "森 forest. 野うさぎ wild rabbit/hare omitted by drafts; inside forest not necessarily geometric middle. Potential many animals can be seen not only one current sighting."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:506aca7161": {
+    "meanings": [
+      "to bake; to grill; to burn",
+      "to tan (skin)"
+    ],
+    "examples": [
+      {
+        "ja": "この夏はこんがり焼こうと思います。",
+        "furigana": "この{夏|なつ}はこんがり{焼|や}こうと{思|おも}います。",
+        "en": "I intend to get a good tan this summer.",
+        "tatoeba_id": 222865
+      },
+      {
+        "ja": "このお肉をもうすこし焼いてくださいませんか。",
+        "furigana": "このお{肉|にく}をもうすこし{焼|や}いてくださいませんか。",
+        "en": "Could you cook this meat a little more?",
+        "tatoeba_id": 223928
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to bake",
+              "to grill"
+            ],
+            "replacement": [
+              "to bake; to grill; to burn",
+              "to tan (skin)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I am going to try to get a good tan.",
+            "replacement": "I intend to get a good tan this summer."
+          }
+        ],
+        "basis": "焼く transitive cook/burn/tan, first summer tanning intention not unit ton or missing summer. Second polite request cook more not eat more. Translate source wish, no personal tanning recommendation."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:2ef2e06612": {
+    "meanings": [
+      "promise; to promise (with suru)"
+    ],
+    "examples": [
+      {
+        "ja": "約束したことを思い出して下さい。",
+        "furigana": "{約束|やくそく}したことを{思|おも}い{出|だ}して{下|くだ}さい。",
+        "en": "Please remember what you promised.",
+        "tatoeba_id": 79554
+      },
+      {
+        "ja": "約束どおりにピアノをひいた。",
+        "furigana": "{約束|やくそく}どおりにピアノをひいた。",
+        "en": "The piano was played as promised.",
+        "tatoeba_id": 79549
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "promise"
+            ],
+            "replacement": [
+              "promise; to promise (with suru)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I must remind you of your promise.",
+            "replacement": "Please remember what you promised."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "She played the piano as promised.",
+            "replacement": "The piano was played as promised."
+          }
+        ],
+        "basis": "約束 promise noun/suru not reading. Request remember own promised act, not first-person obligation remind. Played piano as promised past affirmative no inability or invented frequency; Japanese actor unexpressed so no gender invented."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:8011fa51a8": {
+    "meanings": [
+      "to be useful; to be helpful"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to be helpful"
+            ],
+            "replacement": [
+              "to be useful; to be helpful"
+            ]
+          }
+        ],
+        "basis": "役に立つ useful intransitive phrase. Beyond that limit cannot help negative not in addition or positive assistance. Every little bit even small useful no missing predicate."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:7d2bcb5a30": {
+    "meanings": [
+      "to burn; to be burned",
+      "to be cooked; to be toasted"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to burn",
+              "to be roasted"
+            ],
+            "replacement": [
+              "to burn; to be burned",
+              "to be cooked; to be toasted"
+            ]
+          }
+        ],
+        "basis": "焼ける intransitive burn/be cooked not roast something transitive. Toast cooking insufficient not quantity insufficient; dozens houses not exactly10/person count. Fire past with no perpetrator invented."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:f2a77c1c6d": {
+    "examples": [
+      {
+        "ja": "やっと宿題が終わりました。",
+        "en": "At last, the homework is finished.",
+        "romaji": "Yatto shukudai ga owarimashita.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      },
+      {
+        "ja": "今朝になってやっと雨がやんだ。",
+        "furigana": "{今朝|けさ}になってやっと{雨|あめ}がやんだ。",
+        "en": "It was not till this morning that it stopped raining.",
+        "tatoeba_id": 172307
+      }
+    ],
+    "meanings": [
+      "at last; finally",
+      "barely; with difficulty"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "at last"
+            ],
+            "replacement": [
+              "at last; finally",
+              "barely; with difficulty"
+            ]
+          }
+        ],
+        "basis": "やっと at last/with effort/barely. Original first falsely matched substring やっとる (やっておる doing) rather than adverb やっと; full original archived and explicitly AI-authored homework example substituted with correct target. No original context reconstruction/native review claimed. Second rain finally stopped this morning, not rain never occurred or still ongoing."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:7a0b48d3e5": {
+    "meanings": [
+      "as expected; as one thought",
+      "after all; still"
+    ],
+    "examples": [
+      {
+        "ja": "やっぱり何とかやってのけたね。",
+        "furigana": "やっぱり{何|なん}とかやってのけたね。",
+        "en": "You managed it after all.",
+        "tatoeba_id": 193053
+      },
+      {
+        "ja": "やっぱりしんどいものだろうな。",
+        "en": "As expected, that must be quite hard, I suppose.",
+        "tatoeba_id": 1619673
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "as I thought",
+              "absolutely"
+            ],
+            "replacement": [
+              "as expected; as one thought",
+              "after all; still"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "This must be annoying!",
+            "replacement": "As expected, that must be quite hard, I suppose."
+          }
+        ],
+        "basis": "やはり expectation/after all/still not absolutely. やってのけた succeeded undertaking not generic management. しんどい hard/tiring not only annoying; だろうな tentative supposition not obligation or factual diagnosis."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:10ee6bdb9e": {
+    "meanings": [
+      "to stop; to cease (intransitive)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to stop"
+            ],
+            "replacement": [
+              "to stop; to cease (intransitive)"
+            ]
+          }
+        ],
+        "basis": "止む intransitive cease not stop something. First just stopped + proposal, second future condition as soon stops + proposal not past assertion already stopped."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:d81bb54f03": {
+    "meanings": [
+      "hot water; hot bath water"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "hot water"
+            ],
+            "replacement": [
+              "hot water; hot bath water"
+            ]
+          }
+        ],
+        "basis": "湯 hot water/bath. Enjoyable warm bath exclamation not just water exists; soak bodily before sleep not drink water or women-only bathroom. Generic cultural language example translated, not universal individual habit asserted as independent research."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:ad11ce072b": {
+    "meanings": [
+      "export; to export (with suru)"
+    ],
+    "examples": [
+      {
+        "ja": "ドル安は輸出にはずみをつけています。",
+        "furigana": "ドル{安|やす}は{輸出|ゆしゅつ}にはずみをつけています。",
+        "en": "The weaker dollar is giving exports momentum.",
+        "tatoeba_id": 199679
+      },
+      {
+        "ja": "アフリカはヨーロッパに牛肉を輸出しています。",
+        "furigana": "アフリカはヨーロッパに{牛肉|ぎゅうにく}を{輸出|ゆしゅつ}しています。",
+        "en": "Africa is exporting beef to Europe.",
+        "tatoeba_id": 230383
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to export"
+            ],
+            "replacement": [
+              "export; to export (with suru)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "The cheap dollar is charging up exports.",
+            "replacement": "The weaker dollar is giving exports momentum."
+          }
+        ],
+        "basis": "輸出 export noun/suru. Weak dollar boosts export not charges fees/exports price. Africa origin Europe destination beef not generic meat or reverse. Source economic examples not fresh financial advice or verified current trade statistics."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:5d0d49b3fe": {
+    "meanings": [
+      "import; to import (with suru)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to import"
+            ],
+            "replacement": [
+              "import; to import (with suru)"
+            ]
+          }
+        ],
+        "basis": "輸入 import noun/suru. Germany and Brazil origin from not into; we import not he wants coffee, first imported completed attribute."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:63846aa88f": {
+    "examples": [
+      {
+        "ja": "ドアに指をはさみました。",
+        "furigana": "ドアに{指|ゆび}をはさみました。",
+        "en": "I caught my finger in the door.",
+        "tatoeba_id": 201873
+      },
+      {
+        "ja": "女の子の指がドアにはさまった。",
+        "furigana": "{女|おんな}の{子|こ}の{指|ゆび}がドアにはさまった。",
+        "en": "The girl's finger got caught in the door.",
+        "tatoeba_id": 147345
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "cca632e8958e87766ba2c6fcd1d7243e89394d0a",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "A little girl caught her fingers in the door.",
+            "replacement": "The girl's finger got caught in the door."
+          }
+        ],
+        "basis": "指 finger not English language. Caught bodypart in door not catching door or speaker arrested; second girl not adult woman, no unsupported little age or intentional catching."
+      }
+    ],
+    "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
   }
 }

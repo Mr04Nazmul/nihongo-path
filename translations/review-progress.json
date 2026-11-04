@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 10530,
-  "pending_fields": 68648,
+  "ai_semantic_checked_fields": 10650,
+  "pending_fields": 68528,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 3436
+    "N4": 3556
   },
-  "authored_entry_glosses": 1359,
+  "authored_entry_glosses": 1379,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c858640672",
+      "id": "fa8716c349",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c858640672",
+      "id": "fa8716c349",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c858640672",
+      "id": "fa8716c349",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c858640672",
+      "id": "fa8716c349",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c858640672",
+      "id": "fa8716c349",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "c858640672",
+      "id": "fa8716c349",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "96e10e7209",
+      "id": "7c9d2c46eb",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "96e10e7209",
+      "id": "7c9d2c46eb",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "96e10e7209",
+      "id": "7c9d2c46eb",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "96e10e7209",
+      "id": "7c9d2c46eb",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "96e10e7209",
+      "id": "7c9d2c46eb",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "96e10e7209",
+      "id": "7c9d2c46eb",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ad62110b55",
+      "id": "cbb67e1b4d",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ad62110b55",
+      "id": "cbb67e1b4d",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ad62110b55",
+      "id": "cbb67e1b4d",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ad62110b55",
+      "id": "cbb67e1b4d",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ad62110b55",
+      "id": "cbb67e1b4d",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "ad62110b55",
+      "id": "cbb67e1b4d",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "f0e069d89e",
+      "id": "c64fff23ae",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "vocab",
-      "id": "f0e069d89e",
+      "id": "c64fff23ae",
       "language": "bn",
       "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass115: N4 vocabulary indices560–579:118 Bengali/Nepali meaning/example fields semantically reviewed against Japanese and English. Corrected miso seasoning vs figurative useful feature, intransitive being found vs transitive finding, negative work search and secondhand bookstore, relatives/all-together quoted proposal vs English insistence, harbor/yachts, destination not coercion/autumn south, exact6 pickup by car not6:30 AM/new-year greeting, repeated memories and formerly beautiful building, bug not eye/engineer/software or unsupported worm specificity, son not genderless child and nonliteral discipline/unavailable-things idiom, daughter not wife/son/none-students negation, unreasonable demand and impossibility, honorific eating/drinking vs humble/ordinary polite and pie not onion/invitation not obligation, rare vs weird, humble speech versus prayer/Quran and immediate inability/gratitude, names Smith/Andrea not Android, soon vs hurry/daylight/scrap, hypothetical answer-phone request and unrealizable purchase, both permission dialogue turns/concert past, most/fastest/easiest not extremely/comparative. Seventeen English source entries corrected or expanded with exact prior values archived. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. No new unresolved ambiguity; historical context limitations retained. Native-speaker review remains outstanding. Resume N4 vocabulary index580."
+  "latest_pass": "Pass116: N4 vocabulary indices580–599:120 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected return/revert and tentative suggestion, cotton not company, day-after-tomorrow and planned beneficial action/tailored suit not self-made, wild rabbit and forest, tanning summer intent versus cooking more request, promise recall not obligation/no invented gender, useful negative extent, transitive burn versus intransitive cooked/burned and dozens not10, gentle not easy, thin similes not small/silent, finally rain stopped and expectation/hardship versus absolute/annoyance, cease intransitive and conditional leaving, soft touch and bed, hot bath soaking not drinking/women-only, export momentum/beef/direction and import speaker/Brazil, finger trapped not English/door-catching, ring purchase/nowhere found, dream blessing not command/failed dream. Fifteen English source entries corrected or expanded with exact prior values archived. False lexical match of やっとる doing under adverb やっと archived in full with original attribution/translations; explicitly AI-authored homework-completion example substituted, correct target adverb shown. No native-speaker certification or context reconstruction claimed. Stable IDs/dictionary metadata/example indices preserved; all other Japanese and attribution unchanged. Source cultural/economic/simile sentences translated as educational examples, not independently verified current generalizations or advice. Historical context limitations retained. Resume N4 vocabulary index600."
 }
