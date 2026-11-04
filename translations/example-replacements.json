@@ -749,5 +749,36 @@
       "bn": "অবশেষে বাড়ির কাজ শেষ হলো।",
       "ne": "अन्ततः गृहकार्य सकियो।"
     }
+  },
+  "N4:vocab:327c67b830:examples.1": {
+    "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+    "original_example": {
+      "ja": "動物のうちで笑うのは人間だけだ。",
+      "furigana": "{動物|どうぶつ}のうちで{笑|わら}うのは{人間|にんげん}だけだ。",
+      "en": "Man is the only animal that laughs.",
+      "tatoeba_id": 123767
+    },
+    "original_translations": {
+      "bn": "মানুষই একমাত্র প্রাণী যা হাসে।",
+      "ne": "मनुष्य एकमात्र प्राणी हो जो हँुदैन।"
+    },
+    "resolution": "explicitly-authored-replacement",
+    "original_context_status": "superseded factual generalization; not endorsed or claimed independently accurate",
+    "reason": "笑う laugh/smile. First male past rarely not frequent female positive. Original only-human-laughter claim conflicts UCLA primary research summary on animal play vocalizations; full original and attribution archived and explicitly AI-authored funny-story example substituted, not endorsed as science or claimed native-reviewed.",
+    "reviewed_on": "2026-11-05",
+    "native_speaker_review": "not performed",
+    "references": [
+      "https://newsroom.ucla.edu/releases/animals-laugh-too-ucla-analysis-suggests"
+    ],
+    "replacement_example": {
+      "ja": "面白い話を聞いて、みんなが笑いました。",
+      "en": "Everyone laughed after hearing a funny story.",
+      "romaji": "Omoshiroi hanashi o kiite, minna ga waraimashita.",
+      "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+    },
+    "replacement_translations": {
+      "bn": "মজার গল্প শুনে সবাই হেসে উঠল।",
+      "ne": "रमाइलो कथा सुनेर सबै हाँसे।"
+    }
   }
 }

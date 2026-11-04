@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 10770,
-  "pending_fields": 68408,
+  "ai_semantic_checked_fields": 10854,
+  "pending_fields": 68324,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 3676
+    "N4": 3760
   },
-  "authored_entry_glosses": 1399,
+  "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "6926bbe9d4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "6926bbe9d4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
+      "language": "bn",
+      "field": "formation"
+    },
+    {
+      "level": "N4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
+      "language": "bn",
+      "field": "guidance"
+    },
+    {
+      "level": "N4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "6926bbe9d4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "6926bbe9d4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
+      "language": "bn",
+      "field": "examples.2"
+    },
+    {
+      "level": "N4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "6926bbe9d4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
+      "language": "ne",
+      "field": "formation"
+    },
+    {
+      "level": "N4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
+      "language": "ne",
+      "field": "guidance"
+    },
+    {
+      "level": "N4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "6926bbe9d4",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "f079ca12a7",
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
+      "language": "ne",
+      "field": "examples.2"
+    },
+    {
+      "level": "N4",
+      "kind": "grammar",
+      "id": "te-ageru",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "f079ca12a7",
+      "kind": "grammar",
+      "id": "te-ageru",
+      "language": "bn",
+      "field": "formation"
+    },
+    {
+      "level": "N4",
+      "kind": "grammar",
+      "id": "te-ageru",
+      "language": "bn",
+      "field": "guidance"
+    },
+    {
+      "level": "N4",
+      "kind": "grammar",
+      "id": "te-ageru",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "f079ca12a7",
+      "kind": "grammar",
+      "id": "te-ageru",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "f079ca12a7",
+      "kind": "grammar",
+      "id": "te-ageru",
+      "language": "bn",
+      "field": "examples.2"
+    },
+    {
+      "level": "N4",
+      "kind": "grammar",
+      "id": "te-ageru",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
-      "kind": "vocab",
-      "id": "f079ca12a7",
+      "kind": "grammar",
+      "id": "te-ageru",
       "language": "ne",
-      "field": "examples.0"
-    },
-    {
-      "level": "N4",
-      "kind": "vocab",
-      "id": "f079ca12a7",
-      "language": "ne",
-      "field": "examples.1"
-    },
-    {
-      "level": "N4",
-      "kind": "vocab",
-      "id": "58c9a21aa1",
-      "language": "bn",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "vocab",
-      "id": "58c9a21aa1",
-      "language": "bn",
-      "field": "examples.0"
-    },
-    {
-      "level": "N4",
-      "kind": "vocab",
-      "id": "58c9a21aa1",
-      "language": "bn",
-      "field": "examples.1"
-    },
-    {
-      "level": "N4",
-      "kind": "vocab",
-      "id": "58c9a21aa1",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "vocab",
-      "id": "58c9a21aa1",
-      "language": "ne",
-      "field": "examples.0"
-    },
-    {
-      "level": "N4",
-      "kind": "vocab",
-      "id": "58c9a21aa1",
-      "language": "ne",
-      "field": "examples.1"
-    },
-    {
-      "level": "N4",
-      "kind": "vocab",
-      "id": "e1641974f4",
-      "language": "bn",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "vocab",
-      "id": "e1641974f4",
-      "language": "bn",
-      "field": "examples.0"
+      "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass117: N4 vocabulary indices600–619:120 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected shaking not collapse/deaths, purpose and barely sufficient breakfast bread, ready-for-use and hardly prepared, errands/apology, polluted air and prohibition on rubbing not washing, before-lesson study advice, scheduled meeting not completed meeting/next-week departure, booking not registration and both dialogue turns/not-yet/advance obligation, stop-by invitation/dog immediate approach, willingness and past delight, polite permission borrow not lend/motorbike, admission reason/sky appearance, library books normative usage, both and unmatched gloves/nonliteral cake proverb, ryokan homey atmosphere/benefactive booking, absence and house-sitting not care for her/unsupported trip, excessive air cooling not repair request, history preference/research desire, cash register not signup/casino, report finishing intention/when submitted not location. Sixteen English source entries corrected or expanded with exact prior values archived. Stable IDs, dictionary metadata, original Japanese, example indices and attribution unchanged. No new unresolved ambiguity; historical context limitations retained. Native-speaker review still outstanding. Resume N4 vocabulary index620."
+  "latest_pass": "Pass118: N4 vocabulary indices620–636:84 Bengali/Nepali meaning/example fields reviewed against Japanese and English. Corrected contact initiation and arrival emphasis, word processor borrowing/benefactive purchase, transitive boil not drink versus intransitive boil/figurative economic boom, break-up not death/last-week versus last-month, reason explanation, forgotten belongings not article/younger sister and frequency, rarely smiled negative, girls:boys3:2 and3miles not kilometres, intransitive shatter, kun suffix not standalone boy/title equivalence or male-only, contrast connector, sentence-final koto not nominal thing, seven distinct check senses, calling-out moshi not conditional if or receiving call, quitting activity not pausing to do it, refuse noun waste not reject and entranceway sweeping. Eleven English source entries changed or expanded, plus one Japanese typo 稿模様 to 縞模様 with exact old/new values in correction history. One scientifically unsupported only-humans-laugh example fully archived with translations/attribution and replaced by explicitly AI-authored funny-story laughter sentence; UCLA primary research summary consulted. Stable IDs/dictionary metadata/example indices retained. Other original Japanese and attribution unchanged. No native-speaker certification; historical context limitations retained. N4 vocabulary sequence reviewed; remaining N4 grammar/kanji fields still require review. Resume next unreviewed N4 field using hash ledger."
 }

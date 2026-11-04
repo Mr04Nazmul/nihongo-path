@@ -13510,5 +13510,408 @@
       }
     ],
     "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:6926bbe9d4": {
+    "meanings": [
+      "contact; communication; to get in touch (with suru)"
+    ],
+    "examples": [
+      {
+        "ja": "ここに来た時は、必ず連絡してね。",
+        "furigana": "ここに{来|き}た{時|とき}は、{必|かなら}ず{連絡|れんらく}してね。",
+        "en": "Be sure to get in touch with me when you come here.",
+        "tatoeba_id": 224384
+      },
+      {
+        "ja": "近いうちにこちらから連絡します。",
+        "furigana": "{近|ちか}いうちにこちらから{連絡|れんらく}します。",
+        "en": "We will contact you from our side soon.",
+        "tatoeba_id": 179918
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "contact"
+            ],
+            "replacement": [
+              "contact; communication; to get in touch (with suru)"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Please get in touch with me when you are here.",
+            "replacement": "Be sure to get in touch with me when you come here."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "You'll be hearing from us soon.",
+            "replacement": "We will contact you from our side soon."
+          }
+        ],
+        "basis": "連絡 contact noun/suru. When arrive here request with 必ず emphasis not speaker visits; こちらから initiates contact from our side not passive hearing unrelated sound."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:f079ca12a7": {
+    "examples": [
+      {
+        "ja": "このワープロをお借りしていいですか。",
+        "furigana": "このワープロをお{借|か}りしていいですか。",
+        "en": "May I borrow this word processor?",
+        "tatoeba_id": 222986
+      },
+      {
+        "ja": "父は私にワープロを買ってくれた。",
+        "furigana": "{父|ちち}は{私|わたし}にワープロを{買|か}ってくれた。",
+        "en": "Father bought me a word processor.",
+        "tatoeba_id": 84521
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "May I use this word processor?",
+            "replacement": "May I borrow this word processor?"
+          }
+        ],
+        "basis": "ワープロ word processor device/software not processing a single word. 借り permission borrow not generic use failure; father bought for speaker benefactive not father used word."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:58c9a21aa1": {
+    "meanings": [
+      "to boil (water); to heat (transitive)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to boil",
+              "to heat"
+            ],
+            "replacement": [
+              "to boil (water); to heat (transitive)"
+            ]
+          }
+        ],
+        "basis": "沸かす transitive boil water not drink, father or warmth noun. Some water request not little time boil; Jessie ongoing purpose make coffee not drink now."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:e1641974f4": {
+    "meanings": [
+      "to part; to separate; to break up (intransitive)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to separate"
+            ],
+            "replacement": [
+              "to part; to separate; to break up (intransitive)"
+            ]
+          }
+        ],
+        "basis": "別れる intransitive part/break up not separate something, discrimination or deaths. Correct names John not Jane, last week versus last month distinct, no marriage/divorce invented."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:f7e0744822": {
+    "meanings": [
+      "to boil; to grow hot (intransitive)",
+      "to be excited; to be booming (figurative)"
+    ],
+    "examples": [
+      {
+        "ja": "市の産業はみんな好景気に沸いている。",
+        "furigana": "{市|し}の{産業|さんぎょう}はみんな{好景気|こうけいき}に{沸|わ}いている。",
+        "en": "All the industries in the city are booming.",
+        "tatoeba_id": 168382
+      },
+      {
+        "ja": "薬缶のお湯が沸いている。",
+        "furigana": "{薬缶|やかん}のお{湯|ゆ}が{沸|わ}いている。",
+        "en": "The water in the kettle is boiling.",
+        "tatoeba_id": 79471
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to boil",
+              "to grow hot",
+              "to get excited"
+            ],
+            "replacement": [
+              "to boil; to grow hot (intransitive)",
+              "to be excited; to be booming (figurative)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The kettle is boiling.",
+            "replacement": "The water in the kettle is boiling."
+          }
+        ],
+        "basis": "沸く intransitive boil/excited figurative booming not economic badness. Kettle water boils not kettle eaten/person name cold. Economic example translated as language not current trade statistics."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:12abb2a2c6": {
+    "meanings": [
+      "an item left behind; a forgotten belonging"
+    ],
+    "examples": [
+      {
+        "ja": "今日忘れ物をした。",
+        "en": "I left behind something today.",
+        "tatoeba_id": 171417
+      },
+      {
+        "ja": "妹はせっかちだからよく忘れ物をする。",
+        "furigana": "{妹|いもうと}はせっかちだからよく{忘|わす}れ{物|もの}をする。",
+        "en": "My younger sister often leaves things behind because she is impatient.",
+        "tatoeba_id": 81395
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "lost article"
+            ],
+            "replacement": [
+              "an item left behind; a forgotten belonging"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "My sister is always in such a hurry that she often leaves things behind.",
+            "replacement": "My younger sister often leaves things behind because she is impatient."
+          }
+        ],
+        "basis": "忘れ物 left-behind possession not lost written article. Today completed omission not a bit behind, younger sister explicit 妹 and often not everything always."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:327c67b830": {
+    "examples": [
+      {
+        "ja": "しかし、彼はめったに笑いませんでした。",
+        "furigana": "しかし、{彼|かれ}はめったに{笑|わら}いませんでした。",
+        "en": "But he did not often smile.",
+        "tatoeba_id": 216291
+      },
+      {
+        "ja": "面白い話を聞いて、みんなが笑いました。",
+        "en": "Everyone laughed after hearing a funny story.",
+        "romaji": "Omoshiroi hanashi o kiite, minna ga waraimashita.",
+        "source": "AI-authored Nihongo Path example; superseded source and attribution preserved in translations/example-replacements.json."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [],
+        "basis": "笑う laugh/smile. First male past rarely not frequent female positive. Original only-human-laughter claim conflicts UCLA primary research summary on animal play vocalizations; full original and attribution archived and explicitly AI-authored funny-story example substituted, not endorsed as science or claimed native-reviewed."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:27046b71e1": {
+    "meanings": [
+      "to break; to split; to crack (intransitive)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to break"
+            ],
+            "replacement": [
+              "to break; to split; to crack (intransitive)"
+            ]
+          }
+        ],
+        "basis": "割れる intransitive break/split not brake or break something. にくい hard to not absolutely cannot, shattering complete pieces not just pieces exist."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:dict-b197cbc30ace": {
+    "meanings": [
+      "kun: familiar or lightly respectful name suffix for peers or juniors, often boys or young men"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "Mr",
+              "master",
+              "boy",
+              "Ms",
+              "miss",
+              "sir",
+              "madam"
+            ],
+            "replacement": [
+              "kun: familiar or lightly respectful name suffix for peers or juniors, often boys or young men"
+            ]
+          }
+        ],
+        "basis": "君 readくん name suffix not standalone boy/master or complete list of Mr/Ms synonyms; familiarity/light respect peers or juniors, common male usage not male-exclusive. Tony skill exclamation retained not inability to play; suffix function in gloss."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:dict-aa3233ba9a21": {
+    "meanings": [
+      "sentence-final particle expressing a command, mild exclamation, gentle question, or softened assertion"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "particle indicating a command",
+              "particle indicating mild enthusiasm",
+              "particle indicating a gentle interrogative",
+              "particle used to soften a judgment or conclusion"
+            ],
+            "replacement": [
+              "sentence-final particle expressing a command, mild exclamation, gentle question, or softened assertion"
+            ]
+          }
+        ],
+        "basis": "こと here sentence-final particle record not nominal thing/event entry. Distinct command/exclamation/question/soft assertion functions retained; not answer to question or nominalizer only. Daijisen/JPF instruction use verified, no absent examples counted."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:dict-c0024ee4933d": {
+    "examples": [
+      {
+        "ja": "彼の縞模様のスーツとチェックのネクタイは合わなかった。",
+        "en": "His striped suit and checked tie didn't match.",
+        "source": "tatoeba",
+        "source_sentence_id": "tatoeba-117458"
+      },
+      {
+        "ja": "エンジンをチェックしましたか。",
+        "en": "Have you checked the engine?",
+        "source": "tatoeba",
+        "source_sentence_id": "tatoeba-227860"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "examples.0.ja",
+            "original": "彼の稿模様のスーツとチェックのネクタイは合わなかった。",
+            "replacement": "彼の縞模様のスーツとチェックのネクタイは合わなかった。"
+          }
+        ],
+        "basis": "チェック multiple dictionary senses distinguish pattern, inspection, tick, watching, cheque, bill and chess threat. Source 稿模様 obvious typo corrected to 縞模様 striped, exact prior Japanese logged with attribution retained and explicit edited-source note. No checked-as-completed tie confusion; question engine already checked not checking identity."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:dict-dbd661dd08a6": {
+    "meanings": [
+      "excuse me!; listen! (interjection used when calling out to someone)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "excuse me! (when calling out to someone)"
+            ],
+            "replacement": [
+              "excuse me!; listen! (interjection used when calling out to someone)"
+            ]
+          }
+        ],
+        "basis": "もし here separate interjection JMdict2607730 excuse me when calling to someone, not conditional if, not when someone phones speaker. Calling direction corrected. No examples in source."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:ref-ebcf25eec266": {
+    "examples": [
+      {
+        "ja": "彼女は玄関のごみをはいた。",
+        "en": "She swept up the rubbish in the entranceway.",
+        "source": "tatoeba",
+        "source_sentence_id": "tatoeba-90216"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "5f6ea1d7560f1decbeb0731f2b651826823564ed",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "She swept the dirt from the porch.",
+            "replacement": "She swept up the rubbish in the entranceway."
+          }
+        ],
+        "basis": "ゴミ rubbish. Refuse noun waste not verb reject, not food/statue/leverage. Swept entranceway dirt not threw at curtain, no injury claim. Community level/frequency/source metadata retained."
+      }
+    ],
+    "review_note": "Pass118: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. One original Japanese typo 稿模様 corrected to 縞模様 with exact prior text archived; one factually problematic laughter example fully archived and replaced by explicitly AI-authored sentence. Other Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged or fully archived. AI semantic review; no native-speaker certification."
   }
 }
