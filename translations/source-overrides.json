@@ -12975,5 +12975,540 @@
       }
     ],
     "review_note": "Pass116: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. A substring-matched doing-verb example replaced by explicitly AI-authored homework example of target adverb; full original and translations archived. Other Japanese, stable IDs, example indices and attribution retained or archived. No native-speaker certification."
+  },
+  "N4:vocab:7c9d2c46eb": {
+    "meanings": [
+      "use; purpose; business; for (a purpose)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "use"
+            ],
+            "replacement": [
+              "use; purpose; business; for (a purpose)"
+            ]
+          }
+        ],
+        "basis": "用 purpose/business/use including for suffix. Reason for visit not what physically brought listener, bread barely sufficient not rarely eaten or abundant."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:cbb67e1b4d": {
+    "meanings": [
+      "preparation; to prepare (with suru)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "preparation"
+            ],
+            "replacement": [
+              "preparation; to prepare (with suru)"
+            ]
+          }
+        ],
+        "basis": "用意 preparation noun/suru. Ready for addressee use, not generic room ready. Hardly any preparation negative past, aligned identical reviewed ほとんど example not present low preparation."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:c64fff23ae": {
+    "meanings": [
+      "business; errand; engagement; things to do"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "things to do"
+            ],
+            "replacement": [
+              "business; errand; engagement; things to do"
+            ]
+          }
+        ],
+        "basis": "用事 errand/business engagement not obligation as dictionary gloss. Speaker apology and another commitment not instruction apologize; errand in town not my city ownership."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:de815ae4e6": {
+    "meanings": [
+      "preparation before a lesson; studying in advance"
+    ],
+    "examples": [
+      {
+        "ja": "予習を始めた方がいいですよ。",
+        "furigana": "{予習|よしゅう}を{始|はじ}めた{方|ほう}がいいですよ。",
+        "en": "You had better start studying the lesson in advance.",
+        "tatoeba_id": 79019
+      },
+      {
+        "ja": "君は予習をするべきだ。",
+        "furigana": "{君|きみ}は{予習|よしゅう}をするべきだ。",
+        "en": "You should study the lesson in advance.",
+        "tatoeba_id": 176829
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "preparation for a lesson"
+            ],
+            "replacement": [
+              "preparation before a lesson; studying in advance"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "You may as well begin to prepare your lessons.",
+            "replacement": "You had better start studying the lesson in advance."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "You should prepare your lessons.",
+            "replacement": "You should study the lesson in advance."
+          }
+        ],
+        "basis": "予習 before-lesson study not review or teacher prepares lessons. 方がいい advice not mere permission, べき normative should, no inability to start."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:a9fe0e98c1": {
+    "meanings": [
+      "plan; schedule; arrangement"
+    ],
+    "examples": [
+      {
+        "ja": "私は６時にボブに会う予定だった。",
+        "furigana": "{私|わたし}は６{時|じ}にボブに{会|あ}う{予定|よてい}だった。",
+        "en": "I was scheduled to meet Bob at six.",
+        "tatoeba_id": 161907
+      },
+      {
+        "ja": "来週ヨーロッパに発つ予定です。",
+        "furigana": "{来週|らいしゅう}ヨーロッパに{発|た}つ{予定|よてい}です。",
+        "en": "I'm planning to leave for Europe next week.",
+        "tatoeba_id": 78630
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "arrangement"
+            ],
+            "replacement": [
+              "plan; schedule; arrangement"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I was meeting Bob at six.",
+            "replacement": "I was scheduled to meet Bob at six."
+          }
+        ],
+        "basis": "予定 plan/schedule not management. Was scheduled meet Bob at6 not already met or meeting in progress; next week explicit destination Europe not after then."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:ed37fe04b5": {
+    "meanings": [
+      "reservation; booking; to reserve (with suru)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "reservation"
+            ],
+            "replacement": [
+              "reservation; booking; to reserve (with suru)"
+            ]
+          }
+        ],
+        "basis": "予約 reservation not signup or pretext. Both dialogue turns and not-yet retained. Advance reservation mandatory なければならない not later optional."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:7ffceb4055": {
+    "meanings": [
+      "to stop by; to approach; to draw near"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "to visit"
+            ],
+            "replacement": [
+              "to stop by; to approach; to draw near"
+            ]
+          }
+        ],
+        "basis": "寄る stop by/approach not whole journey. Negative question invitation not accusation didnt come; dog immediately ran toward speaker not never looked or previous relationship."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:5f81e206e3": {
+    "meanings": [
+      "good; all right; permissible (polite/formal)"
+    ],
+    "examples": [
+      {
+        "ja": "あなたに頼んでもよろしいですか。",
+        "furigana": "あなたに{頼|たの}んでもよろしいですか。",
+        "en": "May I request a favour of you?",
+        "tatoeba_id": 233649
+      },
+      {
+        "ja": "自転車を借りてもよろしいですか。",
+        "furigana": "{自転車|じてんしゃ}を{借|か}りてもよろしいですか。",
+        "en": "May I borrow the bicycle?",
+        "tatoeba_id": 150058
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "(respectful) OK",
+              "all right"
+            ],
+            "replacement": [
+              "good; all right; permissible (polite/formal)"
+            ]
+          },
+          {
+            "field": "examples.1.en",
+            "original": "May I borrow your bike?",
+            "replacement": "May I borrow the bicycle?"
+          }
+        ],
+        "basis": "よろしい polite/formal good/all right permissibility not peaceful or generic subject-honorific label. Permission request borrow bicycle not lend/motorcycle, no explicit owner in Japanese so no unsupported ownership asserted."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:977d6bf88c": {
+    "meanings": [
+      "use; utilization; to make use of (with suru)"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "utilization"
+            ],
+            "replacement": [
+              "use; utilization; to make use of (with suru)"
+            ]
+          }
+        ],
+        "basis": "利用 utilization/suru. Books belonging to library not only physical in-library usage/library alone; both should normative affirmative not past used or unable. Second Japanese no explicit you avoids unnecessary person."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:520cc83d87": {
+    "meanings": [
+      "both; both sides"
+    ],
+    "examples": [
+      {
+        "ja": "この手袋は両方がそろっていない。",
+        "furigana": "この{手袋|てぶくろ}は{両方|りょうほう}がそろっていない。",
+        "en": "These gloves do not make a matching pair.",
+        "tatoeba_id": 221299
+      },
+      {
+        "ja": "両方いいようにはできない。",
+        "furigana": "{両方|りょうほう}いいようにはできない。",
+        "en": "You cannot have the advantages of both sides at once.",
+        "tatoeba_id": 77975
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "both sides"
+            ],
+            "replacement": [
+              "both; both sides"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Their gloves are not in pairs.",
+            "replacement": "These gloves do not make a matching pair."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "You can't have your cake and eat it too.",
+            "replacement": "You cannot have the advantages of both sides at once."
+          }
+        ],
+        "basis": "両方 both not only rival sides. Gloves unmatched pairs not couples/deaths; both advantages cannot coexist idiom not literal cake inability eat."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:cd95253850": {
+    "meanings": [
+      "ryokan; Japanese-style inn"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "Japanese hotel"
+            ],
+            "replacement": [
+              "ryokan; Japanese-style inn"
+            ]
+          }
+        ],
+        "basis": "旅館 traditional Japanese inn not any hotel merely in Japan. Homey not healthy/air itself; room booked for speaker benefactive not house built in own home/install."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:0989d94de1": {
+    "meanings": [
+      "absence from home; being out",
+      "keeping house for someone who is away"
+    ],
+    "examples": [
+      {
+        "ja": "彼女に留守を頼んで外出しました。",
+        "furigana": "{彼女|かのじょ}に{留守|るす}を{頼|たの}んで{外出|がいしゅつ}しました。",
+        "en": "I went out after asking her to look after the house.",
+        "tatoeba_id": 393817
+      },
+      {
+        "ja": "家族で一週間留守にします。",
+        "furigana": "{家族|かぞく}で{一週間|いっしゅうかん}{留守|るす}にします。",
+        "en": "We will be away from home as a family for a week.",
+        "tatoeba_id": 186954
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "absence"
+            ],
+            "replacement": [
+              "absence from home; being out",
+              "keeping house for someone who is away"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I went on the trip, leaving the house in her care.",
+            "replacement": "I went out after asking her to look after the house."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "My family will be away for a week.",
+            "replacement": "We will be away from home as a family for a week."
+          }
+        ],
+        "basis": "留守 absence from home and keeping house for absent occupant. Leave house in her care then went out not go care for her or necessarily journey. Whole family away1week includes speaker not guaranteed week-long trip."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:8ff4f12975": {
+    "meanings": [
+      "air conditioning; room cooling"
+    ],
+    "examples": [
+      {
+        "ja": "冷房が効きすぎているのですが。",
+        "furigana": "{冷房|れいぼう}が{効|き}きすぎているのですが。",
+        "en": "The air conditioning is making it rather too cold.",
+        "tatoeba_id": 77629
+      },
+      {
+        "ja": "その部屋は冷房がついていますか。",
+        "furigana": "その{部屋|へや}は{冷房|れいぼう}がついていますか。",
+        "en": "Does the room have air conditioning?",
+        "tatoeba_id": 206940
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "air conditioning"
+            ],
+            "replacement": [
+              "air conditioning; room cooling"
+            ]
+          },
+          {
+            "field": "examples.0.en",
+            "original": "How do I fix the air-conditioner?",
+            "replacement": "The air conditioning is making it rather too cold."
+          }
+        ],
+        "basis": "冷房 cooling air conditioning. 効きすぎ too effective/too cold complaint with softening が not how repair; no breakdown invented. Second room air conditioning question not whole home temporal sometimes."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:bcb7922671": {
+    "examples": [
+      {
+        "ja": "私は地理より歴史が好きだ。",
+        "furigana": "{私|わたし}は{地理|ちり}より{歴史|れきし}が{好|す}きだ。",
+        "en": "I prefer history to geography.",
+        "tatoeba_id": 155123
+      },
+      {
+        "ja": "私は歴史を研究したいと思います。",
+        "furigana": "{私|わたし}は{歴史|れきし}を{研究|けんきゅう}したいと{思|おも}います。",
+        "en": "I want to research history.",
+        "tatoeba_id": 152284
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "I want to study history.",
+            "replacement": "I want to research history."
+          }
+        ],
+        "basis": "歴史 history. Preference history over geography not both equally; 研究 research/study scholarly desire not event completed."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:b80da200ff": {
+    "meanings": [
+      "cash register; checkout counter"
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "meanings",
+            "original": [
+              "register"
+            ],
+            "replacement": [
+              "cash register; checkout counter"
+            ]
+          }
+        ],
+        "basis": "レジ cash register/checkout not registration or register book/computer. On way out pay cashier not spend on street casino/increasing cost. Original awkward Japanese preserved, clear checkout request translated."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
+  },
+  "N4:vocab:d9f9f17224": {
+    "examples": [
+      {
+        "ja": "このレポートを終えたら休もうと思う。",
+        "furigana": "このレポートを{終|お}えたら{休|やす}もうと{思|おも}う。",
+        "en": "I intend to rest after finishing this report.",
+        "tatoeba_id": 222997
+      },
+      {
+        "ja": "いつレポートを提出するのですか。",
+        "furigana": "いつレポートを{提出|ていしゅつ}するのですか。",
+        "en": "When will the report be handed in?",
+        "tatoeba_id": 228688
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "d58f62d95d8dd1fede51953444777428296c4b2e",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "On finishing this report, I will rest.",
+            "replacement": "I intend to rest after finishing this report."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "When do we hand in the report?",
+            "replacement": "When will the report be handed in?"
+          }
+        ],
+        "basis": "レポート report noun/suru. Intention rest after finishing conditional not report already over; ask when submit not where report exists or present into report. No due date invented."
+      }
+    ],
+    "review_note": "Pass117: English senses/nuances aligned to original Japanese; edited prior values preserved in source_corrections. Original Japanese, dictionary metadata, stable IDs, example indices and attribution unchanged. AI semantic review; no native-speaker certification."
   }
 }
