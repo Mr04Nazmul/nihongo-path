@@ -15898,5 +15898,234 @@
       }
     ],
     "review_note": "Pass131: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-nikui-hard": {
+    "formation": "Verb masu-stem + にくい; inflect as an i-adjective: にくかった, にくくない.",
+    "notes": "にくい describes difficulty in doing an action, not total impossibility. づらい can foreground physical or emotional strain, but is not uniformly a stronger equivalent. These examples do not specify why the writing, meat or medicine is difficult to read/eat/take.",
+    "examples": [
+      {
+        "ja": "この字は読みにくいです。",
+        "en": "This writing is hard to read."
+      },
+      {
+        "ja": "この肉は食べにくい。",
+        "en": "This meat is hard to eat."
+      },
+      {
+        "ja": "この薬は飲みにくいです。",
+        "en": "This medicine is hard to take."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "3d8b7c5764e35717fa626a726e157d01580c295d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb stem + にくい",
+            "replacement": "Verb masu-stem + にくい; inflect as an i-adjective: にくかった, にくくない."
+          },
+          {
+            "field": "notes",
+            "original": "にくい attached to a verb stem creates an い-adjective meaning 'hard to do X'. It is the opposite of やすい. Note that a stronger form づらい exists, sometimes with a nuance of physical or emotional difficulty.",
+            "replacement": "にくい describes difficulty in doing an action, not total impossibility. づらい can foreground physical or emotional strain, but is not uniformly a stronger equivalent. These examples do not specify why the writing, meat or medicine is difficult to read/eat/take."
+          },
+          {
+            "field": "examples.0.en",
+            "original": "This handwriting is hard to read.",
+            "replacement": "This writing is hard to read."
+          }
+        ],
+        "basis": "Difficulty of actions not harshness/impossibility; object meat and taking medicine preserved, no invented reason such as bones or bitterness; zurai not uniformly stronger. Writing not necessarily specifically handwriting."
+      }
+    ],
+    "review_note": "Pass132: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-garu-third-person-emotion": {
+    "formation": "Suitable i-adjective: remove final い + がる, e.g. 寒がる, 嬉しがる, 痛がる, 欲しがる. Desire たい: remove final い + がる, e.g. 食べたがる. Some na-adjectives also occur, e.g. 嫌がる. Lexical compatibility matters.",
+    "notes": "がる commonly presents another person's observable emotion or desire; it does not mean every third-person feeling must use this form. Quotation, evidential expressions and narrative permit other ways to describe another's inner state. Current signs commonly use がっている; がる can describe disposition or repeated behavior. It conjugates as a godan verb.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "3d8b7c5764e35717fa626a726e157d01580c295d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "i-adj: drop い, add がる: 寒い → 寒がる, 嬉しい → 嬉しがる, 痛い → 痛がる. 〜たい form: drop い, add がる: 食べたい → 食べたがる (see tagaru-third-person-desire).",
+            "replacement": "Suitable i-adjective: remove final い + がる, e.g. 寒がる, 嬉しがる, 痛がる, 欲しがる. Desire たい: remove final い + がる, e.g. 食べたがる. Some na-adjectives also occur, e.g. 嫌がる. Lexical compatibility matters."
+          },
+          {
+            "field": "notes",
+            "original": "〜がる attaches to an adjective or a 〜たい form to express that a third person appears to feel a certain emotion, based on their observable behavior. Japanese treats one's own inner states (〜い, 〜たい) and the inner states of others differently: you can state your own feelings directly, but you must describe others' feelings as behaviorally observable — hence 〜がる ('show signs of being X'). Conjugates as a godan u-verb.",
+            "replacement": "がる commonly presents another person's observable emotion or desire; it does not mean every third-person feeling must use this form. Quotation, evidential expressions and narrative permit other ways to describe another's inner state. Current signs commonly use がっている; がる can describe disposition or repeated behavior. It conjugates as a godan verb."
+          }
+        ],
+        "basis": "Unrelated political Nepali removed. Younger brother not son/grandson, summer even cold sensitivity; woman wants child and dog walk not narrator travel. Observable desire and current/habitual distinction; not compulsory garu for every third-person statement."
+      }
+    ],
+    "review_note": "Pass132: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-mae-ni-before-doing": {
+    "formation": "Basic affirmative temporal pattern: verb dictionary (non-past) form + 前に; noun + の前に.",
+    "notes": "In this basic affirmative pattern the before-clause uses the dictionary form even if the main event is past: 日本に来る前に日本語を勉強しました. Preserve the order of the two events. This explanation is not a universal ban on every other negative or discourse construction containing 前に.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "3d8b7c5764e35717fa626a726e157d01580c295d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "V plain non-past + 前に (always dictionary form); noun + の + 前に.",
+            "replacement": "Basic affirmative temporal pattern: verb dictionary (non-past) form + 前に; noun + の前に."
+          },
+          {
+            "field": "notes",
+            "original": "〜前に marks a temporal 'before' clause. The verb in the 前に clause is ALWAYS in dictionary (plain non-past) form, regardless of whether the main clause describes a past, present, or future event — this is a common error point for learners who want to match tenses. For noun references, use noun + の + 前に.",
+            "replacement": "In this basic affirmative pattern the before-clause uses the dictionary form even if the main event is past: 日本に来る前に日本語を勉強しました. Preserve the order of the two events. This explanation is not a universal ban on every other negative or discourse construction containing 前に."
+          }
+        ],
+        "basis": "Before not during/after, imperative handwashing not negative washing, teeth brushing not teeth cold; past study precedes coming Japan not going at same time. Basic affirmative dictionary-form relative tense qualified, not universal ban on every negative clause."
+      }
+    ],
+    "review_note": "Pass132: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-ato-de-after-doing": {
+    "notes": "Vた後で places the second event after completion of the first; the second event can still be future. 後で locates an action later in time, while てから can foreground a required sequence or prerequisite. Do not teach 後で as universally more emphatic about completion than てから. In the last example 飲みに行きましょう invites going out for drinks after work, not a habitual statement.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "3d8b7c5764e35717fa626a726e157d01580c295d",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "〜後で marks a temporal 'after' clause, using the past form of the verb (Vた) even when the main clause is in the future. More emphatic about the completion of the preceding action than 〜てから. For noun references, use noun + の + 後で.",
+            "replacement": "Vた後で places the second event after completion of the first; the second event can still be future. 後で locates an action later in time, while てから can foreground a required sequence or prerequisite. Do not teach 後で as universally more emphatic about completion than てから. In the last example 飲みに行きましょう invites going out for drinks after work, not a habitual statement."
+          }
+        ],
+        "basis": "After completion not simultaneous eating/walking or entering school/library. Work finished then invitation go drinking not habitual statement. Source comparative completion claim vs te-kara corrected, past-form relative sequencing explained."
+      }
+    ],
+    "review_note": "Pass132: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-koto-ni-suru-decide": {
+    "formation": "Dictionary form + ことにする; nai-form + ことにする. Past decision ことにした. Maintained self-rule/habit in this use: ことにしている.",
+    "notes": "ことにする foregrounds the decision-maker's choice, not only decisions by the speaker. ことになる foregrounds the resulting decision or arrangement; it is not a morphological passive. In the second example ことにしている expresses a self-imposed continuing rule, not a decision currently in progress.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "3d8b7c5764e35717fa626a726e157d01580c295d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "V plain non-past + ことにする (decide to); V ない + ことにする (decide not to); past: ことにした; progressive: ことにしている.",
+            "replacement": "Dictionary form + ことにする; nai-form + ことにする. Past decision ことにした. Maintained self-rule/habit in this use: ことにしている."
+          },
+          {
+            "field": "notes",
+            "original": "〜ことにする expresses an active personal decision made by the speaker — 'I decided to do X'. Distinct from its passive counterpart 〜ことになる ('it has been decided'), where the decision comes from circumstance or others. The progressive form 〜ことにしている expresses a habitual decision or self-rule ('I make it a habit to'). Past form 〜ことにした = 'decided'.",
+            "replacement": "ことにする foregrounds the decision-maker's choice, not only decisions by the speaker. ことになる foregrounds the resulting decision or arrangement; it is not a morphological passive. In the second example ことにしている expresses a self-imposed continuing rule, not a decision currently in progress."
+          }
+        ],
+        "basis": "Decision not mere wanting, tomorrow onward daily exercise not completed daily practice, sweets not white/food and negative self-rule kept; study abroad decided. Naru not morphological passive, no speaker-only rule."
+      }
+    ],
+    "review_note": "Pass132: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-koto-ni-naru-be-decided": {
+    "formation": "Dictionary form / nai-form + ことになる. Decided arrangement: ことになった. Established rule, custom or schedule in this use: ことになっている.",
+    "notes": "ことになる foregrounds an outcome, decision or arrangement without foregrounding who decided; it does not guarantee the speaker had no part in deciding. ことになっている can express an established rule, custom or schedule. 転勤 is a job transfer, not merely travel or moving residence.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "3d8b7c5764e35717fa626a726e157d01580c295d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "V plain non-past + ことになる; V ない + ことになる; past: ことになった; progressive: ことになっている.",
+            "replacement": "Dictionary form / nai-form + ことになる. Decided arrangement: ことになった. Established rule, custom or schedule in this use: ことになっている."
+          },
+          {
+            "field": "notes",
+            "original": "〜ことになる expresses that a decision has been made by circumstance or others, without the speaker's direct agency — 'it was decided that X'. Its active counterpart is 〜ことにする ('I decided to do X'). The progressive form 〜ことになっている expresses an established rule, custom, or schedule. Past form 〜ことになった = 'it was (has been) decided'.",
+            "replacement": "ことになる foregrounds an outcome, decision or arrangement without foregrounding who decided; it does not guarantee the speaker had no part in deciding. ことになっている can express an established rule, custom or schedule. 転勤 is a job transfer, not merely travel or moving residence."
+          }
+        ],
+        "basis": "Tokyo not India, job transfer not generic move and no invented quotation. Shoes removed before home entry, meeting next week decided not obligation to decide. De-emphasized agency not absolute exclusion, established custom."
+      }
+    ],
+    "review_note": "Pass132: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-nasai-command": {
+    "meaning": "do it — directive commonly used from an authority position",
+    "notes": "Masu-stem + なさい is common from parents to children, teachers to students, and in written instructions. It can sound less abrupt than a bare imperative but is not inherently gentle. It is not a general substitute for polite adult requests; the issue is authority and relationship, not merely casual register.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "3d8b7c5764e35717fa626a726e157d01580c295d",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "(do it) — gentle command",
+            "replacement": "do it — directive commonly used from an authority position"
+          },
+          {
+            "field": "notes",
+            "original": "〜なさい is a gentle command form, formed by adding なさい to the verb stem. It is less polite than 〜てください but not as abrupt as the bare imperative (食べろ). It is typical of parents to children, teachers to students, and written instructions ('answer the following' = 答えなさい). The form is too casual for polite adult-to-adult requests.",
+            "replacement": "Masu-stem + なさい is common from parents to children, teachers to students, and in written instructions. It can sound less abrupt than a bare imperative but is not inherently gentle. It is not a general substitute for polite adult requests; the issue is authority and relationship, not merely casual register."
+          }
+        ],
+        "basis": "Commands not first-person future/past polite statements. Early/quick wake left broad via chito/taratari, homework not housework, vegetables not generic meal. Not inherently gentle; authority not merely casualness."
+      }
+    ],
+    "review_note": "Pass132: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-shi-reason-listing": {
+    "formation": "Plain predicate + し; present affirmative noun / na-adjective + だし. Polite forms ますし / ですし are also possible. Multiple し clauses can be chained.",
+    "notes": "し presents selected reasons or facts and can leave room for more, but does not logically guarantee unspoken additional reasons in every use. It is not primarily a chronological action sequence. The last example gives headache and fever as reasons to rest/take the day off today.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "3d8b7c5764e35717fa626a726e157d01580c295d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Plain-form predicate + し; can chain multiple. Noun / na-adj + だ + し.",
+            "replacement": "Plain predicate + し; present affirmative noun / na-adjective + だし. Polite forms ますし / ですし are also possible. Multiple し clauses can be chained."
+          },
+          {
+            "field": "notes",
+            "original": "〜し lists reasons or facts non-exhaustively — 'and moreover', 'for one thing'. The listed items are not the complete set; し implies there may be more. Often paired with a concluding clause that follows from the listed reasons. It is different from the sequential て-form in that it is for reasons/facts rather than actions in sequence.",
+            "replacement": "し presents selected reasons or facts and can leave room for more, but does not logically guarantee unspoken additional reasons in every use. It is not primarily a chronological action sequence. The last example gives headache and fever as reasons to rest/take the day off today."
+          }
+        ],
+        "basis": "Spacious room and quiet, both time and money negative, headache/fever/rest today not psychiatry/stress/day passing. Shi accepts polite forms; open listing not logically guaranteed hidden additional reasons."
+      }
+    ],
+    "review_note": "Pass132: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-ageru-give-outward": {
+    "meaning": "give to another person / being (giver-oriented perspective)",
+    "notes": "あげる can describe the speaker giving to another, or one third party giving to another; the giver need not always be in the speaker's in-group. Giving toward the speaker normally uses くれる. In respectful contexts さしあげる or reformulation may be appropriate depending on relationship and situation, not a universal ban on every use involving a superior. Preserve giver が/は, recipient に and thing を.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "3d8b7c5764e35717fa626a726e157d01580c295d",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "to give (outward, from in-group to out-group)",
+            "replacement": "give to another person / being (giver-oriented perspective)"
+          },
+          {
+            "field": "notes",
+            "original": "あげる is the basic verb for 'give', used when the giver is the speaker or in-group and the receiver is outside that group. Crucially, do NOT use あげる when giving TO yourself (use くれる in that direction), and do NOT use あげる for superiors (use さしあげる or reformulate). The full giving-verb system is: あげる (outward), くれる (toward speaker), もらう (receive).",
+            "replacement": "あげる can describe the speaker giving to another, or one third party giving to another; the giver need not always be in the speaker's in-group. Giving toward the speaker normally uses くれる. In respectful contexts さしあげる or reformulation may be appropriate depending on relationship and situation, not a universal ban on every use involving a superior. Preserve giver が/は, recipient に and thing を."
+          }
+        ],
+        "basis": "Giving donor→recipient not owning gift/eating dog food/gift for self. Friend gift past, dog feeding and this to you preserved. Ageru can describe third-party→third-party, not only in-group→out-group; politeness contextual not absolute ban."
+      }
+    ],
+    "review_note": "Pass132: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }

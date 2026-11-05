@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 12410,
-  "pending_fields": 66768,
+  "ai_semantic_checked_fields": 12530,
+  "pending_fields": 66648,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 5316
+    "N4": 5436
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-nikui-hard",
+      "id": "supp-kureru-give-toward",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-garu-third-person-emotion",
+      "id": "supp-morau-receive",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-garu-third-person-emotion",
+      "id": "supp-morau-receive",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-garu-third-person-emotion",
+      "id": "supp-morau-receive",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-garu-third-person-emotion",
+      "id": "supp-morau-receive",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-garu-third-person-emotion",
+      "id": "supp-morau-receive",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-garu-third-person-emotion",
+      "id": "supp-morau-receive",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-garu-third-person-emotion",
+      "id": "supp-morau-receive",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-garu-third-person-emotion",
+      "id": "supp-morau-receive",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass131: N4 grammar indices120–129:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Conjecture sunny weather not sunrise/eclipse and already returned home; hazu reasoned expectation not obligation, noun-no vs na-adjective-na source contradiction corrected and strong denial retained; te-wa-ikenai prohibition not lack of necessity, both cha/ja contractions; te-mo-ii permission not residence/ability/command; nakereba formation fixed duplicated na, early waking tomorrow, medicine and report within this week not yearly publication; ga/kedo contrast and soft preface, missing time and glad bought despite cost; naru change not similarity/static state, no guarantee of spontaneity/gradualness/human absence and ii-yoku formation; hajimeru onset not imperative, last year not this year, children singing not country; owaru completion not starting and compound object retained, homework not housework, movie completion then call without unsupported recipient; yasui ease/proneness not cheapness, pen instrument/explanation understanding/shoes walking preserved. Seven source entries corrected with exact old/new history including one English example precision correction. Original Japanese examples, stable IDs, source draft labels, level structure, audio, licenses and attribution preserved. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. AI semantic review, no native-speaker certification. Resume N4 grammar index130."
+  "latest_pass": "Pass132: N4 grammar indices130–139:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Difficulty of reading writing/eating meat/taking medicine not harshness or impossibility and zurai not universally stronger; unrelated political Nepali garu text removed, younger brother cold even summer not son/grandson, woman wants child and dog walk, adjective compatibility/current versus habitual signs and no compulsory garu for every third-person feeling; method nouns and kanji-writing request/sushi know-how/individual Japanese study methods; before teeth brushing/handwashing/Japan arrival study with order restored and relative tense qualified; after meal walk/school library/work then invitation drinking, corrected reversed comparative te-kara guidance; personal decision tomorrow daily exercise and sweets negative self-rule not white food/wish, naru not morphological passive; arranged job transfer to Tokyo not India, shoes off before entry and next-week meeting with agency de-emphasized not impossible; nasai authority commands wake/homework/vegetables not first-person statements and no inherent gentleness; shi spacious quiet room/both time-money negative/headache fever rest today not unrelated psychiatry, polite forms and no guaranteed hidden reasons; ageru donor-recipient roles friend gift/dog feeding/this to you not own gift/eating dog food/self recipient, third-party giving and contextual respect. Nine source entries corrected with exact old/new history including one English precision correction. Original Japanese examples, stable IDs, source draft labels, level structure, audio, licenses and attribution preserved. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. AI semantic review, no native-speaker certification. Resume N4 grammar index140."
 }
