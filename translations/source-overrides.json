@@ -17228,5 +17228,382 @@
       }
     ],
     "review_note": "Pass136: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-6b254479fbd6": {
+    "notes": "Negative potential morau question functions as an affirmative request for a beneficial action. It is polite but not the lexical humble verb itadaku. Degree of softness depends on context. Meeting participation does not explicitly mean substituting for the speaker.",
+    "examples": [
+      {
+        "ja": "この手紙を見てもらえませんか。",
+        "en": "Could you take a look at this letter for me?",
+        "romaji": "Kono tegami o mite moraemasen ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "荷物を持ってもらえませんか。",
+        "en": "Could you carry this luggage for me?",
+        "romaji": "Nimotsu o motte moraemasen ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "部屋を掃除してもらえませんか。",
+        "en": "Could you clean the room for me?",
+        "romaji": "Heya o souji shite moraemasen ka?",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "明日のミーティングに参加してもらえませんか。",
+        "en": "Could you attend tomorrow's meeting?",
+        "romaji": "Ashita no miitingu ni sanka shite moraemasen ka?",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "986705214f33f456f5834a6c9f7c845b1c37f768",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The ～てもらえませんか grammar point is a polite and indirect way of asking someone to do something for you or asking for a favor. It is formed by conjugating the verb into the て-form and adding もらえませんか. This form is used in conversations to show politeness and humility.",
+            "replacement": "Negative potential morau question functions as an affirmative request for a beneficial action. It is polite but not the lexical humble verb itadaku. Degree of softness depends on context. Meeting participation does not explicitly mean substituting for the speaker."
+          },
+          {
+            "field": "examples.3.en",
+            "original": "Could you attend tomorrow's meeting for me?",
+            "replacement": "Could you attend tomorrow's meeting?"
+          }
+        ],
+        "basis": "Negative potential question is an affirmative favor request: letter inspection, carrying luggage, cleaning room, tomorrow meeting participation. Remove English suggestion of attending as proxy, not encoded in Japanese. Polite morau potential is not lexical humble itadaku; no grant, never-looking, inability, or narrator going to meet."
+      }
+    ],
+    "review_note": "Pass137: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-26d796723133": {
+    "formation": "Verb dictionary/nonpast affirmative or nai-negative form + ように言う; addressee に.",
+    "notes": "Indirectly reports an instruction or request to do or not do an action. Generic casual form is too broad: do not mechanically substitute past ta-form here. The instruction does not assert actual compliance or completed action. Katazukeru means tidy up; room ownership is not stated.",
+    "examples": [
+      {
+        "ja": "先生は私たちに宿題をやるように言いました。",
+        "en": "The teacher told us to do our homework.",
+        "romaji": "Sensei wa watashitachi ni shukudai o yaru you ni iimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "母は弟に部屋を片付けるように言いました。",
+        "en": "My mother told my younger brother to tidy the room.",
+        "romaji": "Haha wa otouto ni heya wo katazukeru you ni iimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "上司は私に報告書を提出するように言いました。",
+        "en": "My boss told me to submit the report.",
+        "romaji": "Joushi wa watashi ni houkokusho wo teishutsu suru you ni iimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "友達が私に早く来るように言いました。",
+        "en": "My friend told me to come early.",
+        "romaji": "Tomodachi ga watashi ni hayaku kuru you ni iimashita.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "986705214f33f456f5834a6c9f7c845b1c37f768",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-casual + ように言う",
+            "replacement": "Verb dictionary/nonpast affirmative or nai-negative form + ように言う; addressee に."
+          },
+          {
+            "field": "notes",
+            "original": "The grammar point Verb ように言う is used when someone tells or instructs another person to do something. It can be translated as 'tell to do' or 'instruct to do' in English. The formation is created by adding ように言う to the casual form of a verb.",
+            "replacement": "Indirectly reports an instruction or request to do or not do an action. Generic casual form is too broad: do not mechanically substitute past ta-form here. The instruction does not assert actual compliance or completed action. Katazukeru means tidy up; room ownership is not stated."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "My mother told my younger brother to clean his room.",
+            "replacement": "My mother told my younger brother to tidy the room."
+          }
+        ],
+        "basis": "Indirect instructions teacher to us/homework, mother to younger brother/tidy room, boss to narrator/submit report, friend to narrator/come early. Correct generic casual formation to dictionary or nai. Not teacher refuses housework, teacher to me alone, prime minister, or completed compliance. Remove unsupported English room ownership."
+      }
+    ],
+    "review_note": "Pass137: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-6456f8955c1c": {
+    "formation": "Ichidan: remove る + られる (passive or potential). Godan passive: final u-row sound to a-row + れる; う → われる. Godan potential: e-row + る. する: passive される / potential できる; 来る: こられる for both.",
+    "notes": "Ichidan rareru can be passive or potential; context selects the reading. Here he receives teacher praise and friends laughter, the movie question is potential consistently with the supplied English, and she is selected as leader. Warawareru and erabareru are godan passive forms in this same voice family, not literally rareru-ending words. This entry addresses passive/potential uses, not all honorific rareru uses.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "986705214f33f456f5834a6c9f7c845b1c37f768",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "う-verb (passive): Replace the final う with われる / る-verb (passive & potential): Replace る with られる / Irregular: する → される, くる → こられる",
+            "replacement": "Ichidan: remove る + られる (passive or potential). Godan passive: final u-row sound to a-row + れる; う → われる. Godan potential: e-row + る. する: passive される / potential できる; 来る: こられる for both."
+          },
+          {
+            "field": "notes",
+            "original": "The られる grammar point can be used to express passive voice or potential form for verbs. Passive voice indicates that the action is being done to the subject, while potential form expresses the ability or possibility to do an action. The formation of られる depends on the type of verb (う, る, or irregular verbs).",
+            "replacement": "Ichidan rareru can be passive or potential; context selects the reading. Here he receives teacher praise and friends laughter, the movie question is potential consistently with the supplied English, and she is selected as leader. Warawareru and erabareru are godan passive forms in this same voice family, not literally rareru-ending words. This entry addresses passive/potential uses, not all honorific rareru uses."
+          }
+        ],
+        "basis": "Disambiguate contextually passive/potential, correct godan conjugation overgeneralization and irregular potential dekiru. Praised person is he, not teacher; laughed-at person is he, not active mocking by him; movie past potential question affirmative, she selected leader not simply being leader. Japanese examples include godan passive beyond literal rareru heading."
+      }
+    ],
+    "review_note": "Pass137: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-d29d5bb2de8f": {
+    "meaning": "An action or event occurs on some occasions; sometimes do something.",
+    "notes": "Dictionary-form V + koto-ga-aru describes occasions on which an event occurs, not the separate V-ta-koto-ga-aru experience construction. Past arimashita locates those occasions in the past. The last example has yoku, indicating frequency rather than only a single prior experience. Nebou means oversleep, not simply fall asleep.",
+    "examples": [
+      {
+        "ja": "彼は遅刻することがあります。",
+        "en": "He is sometimes late.",
+        "romaji": "Kare wa chikoku suru koto ga arimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "私は寝坊することがあります。",
+        "en": "I sometimes oversleep.",
+        "romaji": "Watashi wa nebou suru koto ga arimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女は歌を歌うことがあります。",
+        "en": "She sometimes sings songs.",
+        "romaji": "Kanojo wa uta o utau koto ga arimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "子供の頃、よく山に登ることがありました。",
+        "en": "As a child, I would often climb mountains.",
+        "romaji": "Kodomo no koro, yoku yama ni noboru koto ga arimashita.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "986705214f33f456f5834a6c9f7c845b1c37f768",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "Used to express that something happens sometimes or has happened before.",
+            "replacement": "An action or event occurs on some occasions; sometimes do something."
+          },
+          {
+            "field": "notes",
+            "original": "The grammar point る ことがある is used to express that something occurs sometimes or has occurred in the past. It indicates that the action is not a regular or constant event, but rather something that takes place occasionally or has happened at least once.",
+            "replacement": "Dictionary-form V + koto-ga-aru describes occasions on which an event occurs, not the separate V-ta-koto-ga-aru experience construction. Past arimashita locates those occasions in the past. The last example has yoku, indicating frequency rather than only a single prior experience. Nebou means oversleep, not simply fall asleep."
+          },
+          {
+            "field": "examples.3.en",
+            "original": "When I was a child, I sometimes climbed mountains.",
+            "replacement": "As a child, I would often climb mountains."
+          }
+        ],
+        "basis": "Dictionary koto-ga-aru occasional events distinguished from ta-koto-ga-aru prior experience. Restore late arrival, oversleep not merely falling asleep, present singing not past, childhood not country and yoku frequent mountain climbing. Correct English frequency and source meaning/notes conflation; past arimashita locates occasions in past."
+      }
+    ],
+    "review_note": "Pass137: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-d40c7b2fbc4c": {
+    "formation": "Verb dictionary form + ことにする; not only verbs ending in る.",
+    "notes": "Foregrounds a decision made by the deciding person. Dictionary form includes iku and kau, not just ru-ending verbs. Koto-ni-shimashita marks a decision already made; it does not assert that the main action has been carried out. The last koto-ni-shimasu presents the current decision.",
+    "examples": [
+      {
+        "ja": "来週、ジムに行くことにしました。",
+        "en": "I decided to go to the gym next week.",
+        "romaji": "Raishuu, jimu ni iku koto ni shimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この靴を買うことにしました。",
+        "en": "I decided to buy these shoes.",
+        "romaji": "Kono kutsu wo kau koto ni shimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "毎日、散歩をすることにしました。",
+        "en": "I decided to take a walk every day.",
+        "romaji": "Mainichi, sanpo wo suru koto ni shimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼に電話をかけることにします。",
+        "en": "I'll call him, then. (A decision.)",
+        "romaji": "Kare ni denwa wo kakeru koto ni shimasu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "986705214f33f456f5834a6c9f7c845b1c37f768",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-る + ことにする",
+            "replacement": "Verb dictionary form + ことにする; not only verbs ending in る."
+          },
+          {
+            "field": "notes",
+            "original": "The ～ることにする grammar point is used to express that someone has made a decision to do something or has decided on a specific course of action. It is formed by attaching ことにする to the verb in its る form.",
+            "replacement": "Foregrounds a decision made by the deciding person. Dictionary form includes iku and kau, not just ru-ending verbs. Koto-ni-shimashita marks a decision already made; it does not assert that the main action has been carried out. The last koto-ni-shimasu presents the current decision."
+          },
+          {
+            "field": "examples.3.en",
+            "original": "I’ve decided to call him.",
+            "replacement": "I'll call him, then. (A decision.)"
+          }
+        ],
+        "basis": "Decision rather than imperative, wish, accomplished purchase/travel/call or negative phone action. Dictionary form is not exclusively ru-ending; next week versus daily scopes maintained. Last koto-ni-shimasu current decision, not past shimasita: English revised to current decision wording."
+      }
+    ],
+    "review_note": "Pass137: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-c07f9572fd0c": {
+    "formation": "Verb dictionary form + ことになる; not only verbs ending in る.",
+    "notes": "Foregrounds an arrangement, decision or result, often externally determined or arising from circumstances, without requiring another person to be the sole decision maker in every use. In the last example work suddenly arises, so taking time off is arranged; the causal circumstances are odd and unrecoverable from the isolated sentence. Preserve literal Japanese rather than invent work cancellation or compensatory leave. Original source context/native confirmation remains unresolved. Leave duration is not specified.",
+    "examples": [
+      {
+        "ja": "今日は会議がなくなることになりました。",
+        "en": "It has been decided that there will be no meeting today.",
+        "romaji": "Kyou wa kaigi ga nakunaru koto ni narimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "来週、友達と旅行することになった。",
+        "en": "It has been arranged that I will travel with my friends next week.",
+        "romaji": "Raishuu, tomodachi to ryokou suru koto ni natta.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女が今度のプロジェクトのリーダーになることになりました。",
+        "en": "It has been decided that she will be the leader of the next project.",
+        "romaji": "Kanojo ga kondo no purojekuto no riida ni naru koto ni narimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "急に仕事が入ったので、休みを取ることになった。",
+        "en": "Because work suddenly came up, it was arranged that I would take time off.",
+        "romaji": "Kyuu ni shigoto ga haitta node, yasumi wo toru koto ni natta.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "986705214f33f456f5834a6c9f7c845b1c37f768",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-る + ことになる",
+            "replacement": "Verb dictionary form + ことになる; not only verbs ending in る."
+          },
+          {
+            "field": "notes",
+            "original": "The る ことになる grammar point is used to express that something has been decided or arranged. It often indicates a decision made by someone else or due to circumstances. It can be translated as 'it has been decided that' or 'it turns out that' in English. The formation requires a verb in る (dictionary) form.",
+            "replacement": "Foregrounds an arrangement, decision or result, often externally determined or arising from circumstances, without requiring another person to be the sole decision maker in every use. In the last example work suddenly arises, so taking time off is arranged; the causal circumstances are odd and unrecoverable from the isolated sentence. Preserve literal Japanese rather than invent work cancellation or compensatory leave. Original source context/native confirmation remains unresolved. Leave duration is not specified."
+          },
+          {
+            "field": "examples.3.en",
+            "original": "Due to sudden work, it has been decided that I will take a day off.",
+            "replacement": "Because work suddenly came up, it was arranged that I would take time off."
+          }
+        ],
+        "basis": "Arrangement/result foregrounded, not quotation of he-said, past trip, chief minister, or narrator explicitly choosing. Dictionary form not only ru endings. Final Japanese says work suddenly arose so leave arranged: causal circumstances not recoverable; preserve literal connection and flag unresolved, do not invent cancellation, compensatory leave or one-day duration. English removes unsupported one day."
+      }
+    ],
+    "review_note": "Pass137: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-9cb85d128714": {
+    "formation": "Verb dictionary form + ときに; e.g. 見るときに, 運動するときに.",
+    "notes": "Temporal when/at the time, not interrogative when. Dictionary form is not limited to ru-ending verbs. In these examples eating popcorn is habitual, lights are switched off on going to bed, hydration matters during exercise, and the narrator likes taking a camera along while traveling.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "986705214f33f456f5834a6c9f7c845b1c37f768",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-る + ときに",
+            "replacement": "Verb dictionary form + ときに; e.g. 見るときに, 運動するときに."
+          },
+          {
+            "field": "notes",
+            "original": "The ～るときに grammar point is used to indicate the time when a certain action or event happens. It can be translated as 'when' or 'at the time' in English. The formation involves attaching ときに to the verb in its dictionary (る) form.",
+            "replacement": "Temporal when/at the time, not interrogative when. Dictionary form is not limited to ru-ending verbs. In these examples eating popcorn is habitual, lights are switched off on going to bed, hydration matters during exercise, and the narrator likes taking a camera along while traveling."
+          }
+        ],
+        "basis": "Temporal when, not interrogative when. Habitual popcorn eating not ability or negative movie watching/powder; room lights off not desire; hydration importance during exercise; likes taking camera along not wants to travel/wants camera. Full dictionary formation retained."
+      }
+    ],
+    "review_note": "Pass137: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-c2757cb9b993": {
+    "meaning": "Be just about to begin an action; the immediate pre-action stage.",
+    "notes": "Dictionary V + tokoro describes the moment immediately before action. V-teiru-tokoro is the ongoing stage and V-ta-tokoro the just-completed stage. The first and last examples are about to eat/study, not already doing so. Tokoro-deshita locates the pre-action stage at a past reference time; the crying example does not establish whether crying actually followed.",
+    "examples": [
+      {
+        "ja": "彼は食べるところです。",
+        "en": "He is just about to eat.",
+        "romaji": "Kare wa taberu tokoro desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "私は出かけるところです。",
+        "en": "I am just about to leave.",
+        "romaji": "Watashi wa dekakeru tokoro desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女は泣くところでした。",
+        "en": "She was on the verge of crying.",
+        "romaji": "Kanojo wa naku tokoro deshita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "私たちは勉強するところです。",
+        "en": "We are just about to study.",
+        "romaji": "Watashitachi wa benkyou suru tokoro desu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "986705214f33f456f5834a6c9f7c845b1c37f768",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "Expresses the state or moment when an action is about to happen or is happening.",
+            "replacement": "Be just about to begin an action; the immediate pre-action stage."
+          },
+          {
+            "field": "notes",
+            "original": "The grammar point 'Verb る ところ' is used to express that one is just about to do something, or is in the process of doing it. It can be translated as 'just about to' or 'in the middle of' in English, depending on context.",
+            "replacement": "Dictionary V + tokoro describes the moment immediately before action. V-teiru-tokoro is the ongoing stage and V-ta-tokoro the just-completed stage. The first and last examples are about to eat/study, not already doing so. Tokoro-deshita locates the pre-action stage at a past reference time; the crying example does not establish whether crying actually followed."
+          },
+          {
+            "field": "examples.0.en",
+            "original": "He is in the process of eating.",
+            "replacement": "He is just about to eat."
+          },
+          {
+            "field": "examples.3.en",
+            "original": "We are in the middle of studying.",
+            "replacement": "We are just about to study."
+          }
+        ],
+        "basis": "Dictionary V-ru-tokoro immediate pre-action phase, not ongoing V-teiru-tokoro. Source meaning/notes and English eating/studying examples corrected to about-to stage, Japanese unchanged. Leave is about to depart not leaving object; past on-verge crying not habitual or completed crying; we plural retained."
+      }
+    ],
+    "review_note": "Pass137: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }

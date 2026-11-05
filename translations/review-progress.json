@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-06",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 13058,
-  "pending_fields": 66120,
+  "ai_semantic_checked_fields": 13198,
+  "pending_fields": 65980,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 5964
+    "N4": 6104
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "bn",
       "field": "examples.3"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-6b254479fbd6",
+      "id": "hana-0669c33a740a",
       "language": "ne",
       "field": "examples.3"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-48b8862fdb27",
+      "id": "hana-fa1b6198baec",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-48b8862fdb27",
+      "id": "hana-fa1b6198baec",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-48b8862fdb27",
+      "id": "hana-fa1b6198baec",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-48b8862fdb27",
+      "id": "hana-fa1b6198baec",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-48b8862fdb27",
+      "id": "hana-fa1b6198baec",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "hana-48b8862fdb27",
+      "id": "hana-fa1b6198baec",
       "language": "bn",
       "field": "examples.2"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass136: N4 grammar indices170–179:140 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Ta-toki temporal reference not universally past, movie crying/Japan photos/friend arrival games restored; original lateness subject unexpressed and English he not confirmed, neutral translations preserve omission with two field records unresolved pending source/native context. Humble request-wish other person copies/helps/guides/escorts not narrator copies or guides self and no specified station vehicle; itadakemasenka affirmative request post not write letter, carry luggage/read manual not textbook, next-room person quiet rather than explicitly asking intermediary; teiru-tokoro stage at past or present reference time, homework and movie watching plural we, cake not Coke and will come soon; teiru-aidani while not after, cook not eat, meeting underway not beginning simultaneously; kudasaimasenka affirmative requests coffee/door-close/tomorrow noon meeting without inserted meal/that document; te-kudasaru honorific beneficial action not imperative/explicit thanks, teacher helps actor not receiver, mother cooks not parents eating, friend escorts, department head not PM answers affirmative; kuremasenka open/look/help/pickup tomorrow without ongoing surveillance or inability; humble benefactive action tea/message/carry offer/call not answering phone with contextual imposition caution; moraitai other-person desired actors carry/news/Japanese teaching/staff explains check-in not completed action/self-explanation/inability. Nine source entries corrected with exact history including five English precision corrections. Original Japanese examples, stable IDs, community-reference labels, level structure, audio, licenses and attribution preserved. Two newly unresolved field records concern the same omitted lateness subject; historical limitations and external native-speaker review remain unresolved. AI semantic review, no native-speaker certification or recovered original context claim. Resume N4 grammar index180."
+  "latest_pass": "Pass137: N4 grammar indices180–189:140 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Moraemasenka affirmative favor requests letter/carry/clean/tomorrow participation not proxy or inability and not lexical humble itadaku; nai-koto-ga-aru occasional negation retained in absence/on-time/breakfast/phone, not never or lifetime experience; nai-hou-ga-ii advice not prohibition/no-need with negative secret-knowledge condition; you-ni-iu indirect instruction teacher to us/homework, mother younger brother/tidy, boss narrator/report, friend early arrival and dictionary-or-nai formation not arbitrary past; passive/potential teacher praise/target of laughter/affirmative past movie ability/leader selection, correct godan a-row/wa and e-row, irregular dekiru; dictionary koto-ga-aru occasional events not ta prior experience, oversleep not fall asleep, childhood frequent climbing consistent with yoku; koto-ni-suru own decision not action done or imperative, last nonpast decision; koto-ni-naru arrangement/result not quote/chief minister/past trip, unexplained work-to-leave causal link preserved literally with two unresolved field records and unspecified leave duration; dictionary toki temporal when not interrogative, habitual popcorn not ability/powder, lights off, hydration and camera taken along; dictionary tokoro immediate before eating/leaving/studying and past verge crying not ongoing or completed action, backed by Japan Foundation stage distinction. Eight source entries corrected with exact history including seven English example precision/phase corrections. Original Japanese examples, stable IDs, community-reference labels, level structure, audio, licenses and attribution preserved. Two newly unresolved field records concern the same work-to-leave causal context; historical limitations and external native-speaker review remain unresolved. AI semantic review, no native-speaker certification or recovered original context claim. Resume N4 grammar index190."
 }
