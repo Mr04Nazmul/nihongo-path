@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 11574,
-  "pending_fields": 67604,
+  "ai_semantic_checked_fields": 11692,
+  "pending_fields": 67486,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 4480
+    "N4": 4598
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-omou",
+      "id": "nakanaka-nai",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-iu-say",
+      "id": "zutsu",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-iu-say",
+      "id": "zutsu",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-iu-say",
+      "id": "zutsu",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-iu-say",
+      "id": "zutsu",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-iu-say",
+      "id": "zutsu",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-iu-say",
+      "id": "zutsu",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-iu-say",
+      "id": "zutsu",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "to-iu-say",
+      "id": "zutsu",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass124: N4 grammar indices50–59:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected てほしい other-person/event desire and no disclosure, observedたがる/がる rather than narrator desire and adjective compatibility, younger brother/sister and son bicycle, grandmother loneliness not mother and inability to meet grandchildren, possibilityかもしれない not fixed50percent or certainty, だろう sunny weather not sunrise/eclipse and already home past conjecture, reasonedはず expectation not duty/infallibility and ten-year residence not ten-years-ago, strongはずがない denial about open state not inability/permission to open, explanatoryんです pallor and delayed trains, embedded polarかどうか versus interrogativeか including clothing try-on/restaurant taste/meeting exact time/wallet not bag/window breaker. Six source entries received source meaning/formation/guidance corrections, exact old/new history preserved. Original Japanese examples, IDs, levels, tags, audio and attribution unchanged. One new unresolved Bengali grandmother-lineage context recorded with both alternatives retained; original context not recovered. Historical unresolved context and external native-speaker review remain; no native-speaker certification. Resume N4 grammar index60."
+  "latest_pass": "Pass125: N4 grammar indices60–69:118 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected quoted negation scope and speaker opinionと思う, direct/indirectと言う teacher tomorrow test/older brother late/itadakimasu, しか negative excludes alternatives with ni and not universal insufficiency/wallet500yen/coffee-only drinks in morning, nounばかり concentration/girls/meat no vegetables/recent rainy days not yesterday, subjectiveたばかり recentness not only moments/new umbrella lost, ところ three phase formations/about to leave/cooking dinner not eating/just arrived station, やすいにくい ease/difficulty/tendency/pen instrument/explanation/fish bones, stem始める終わる続ける last-year guitar/book lend after reading not cash loan/three-hour walking pain not injury, inceptive出す baby sudden cry and sunny until moment ago then rain, ほどない correct comparison direction/liveliness not beauty/test less difficult past and not all uses of hodo negative. Five source entries received formation/notes corrections with exact old/new history. Original Japanese examples, stable IDs, level structure, tags, audio and attribution unchanged. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. No native-speaker certification. Resume N4 grammar index70."
 }

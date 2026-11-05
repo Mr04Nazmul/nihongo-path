@@ -14858,5 +14858,101 @@
       }
     ],
     "review_note": "Pass124: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:to-omou": {
+    "notes": "Presents an opinion or conjecture. Negating the quoted proposition (来ないと思う) differs in scope from negating the belief (来るとは思わない). Another person’s standing opinion is commonly reported with と思っている; quotation and context also matter.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "7d96d303d7b20959a9cba66ee37df36f4ed8dbfb",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Japanese usually negates the quoted clause (来ないと思う) rather than 思う. For another person's opinion, use 〜と思っている.",
+            "replacement": "Presents an opinion or conjecture. Negating the quoted proposition (来ないと思う) differs in scope from negating the belief (来るとは思わない). Another person’s standing opinion is commonly reported with と思っている; quotation and context also matter."
+          }
+        ],
+        "basis": "Toomou speaker judgment and nominal da, negation within quoted clause not identical to no belief. Positive future popularity not failure, woman not coming today not already came, convenient trains retains I think."
+      }
+    ],
+    "review_note": "Pass125: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:shika-nai": {
+    "formation": "Noun or quantity + しか + negative predicate. Preserve required particles such as に (あなたにしか話していない); が/を are normally replaced.",
+    "notes": "Excludes alternatives using a negative predicate. Compared with だけ it emphasizes restriction and can suggest insufficiency, but insufficiency is not required in every use.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "7d96d303d7b20959a9cba66ee37df36f4ed8dbfb",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Noun + しか + Verb-nai",
+            "replacement": "Noun or quantity + しか + negative predicate. Preserve required particles such as に (あなたにしか話していない); が/を are normally replaced."
+          },
+          {
+            "field": "notes",
+            "original": "Always paired with a negative verb. Compared with だけ, it stresses that the amount is small or not enough.",
+            "replacement": "Excludes alternatives using a negative predicate. Compared with だけ it emphasizes restriction and can suggest insufficiency, but insufficiency is not required in every use."
+          }
+        ],
+        "basis": "Shika negative excludes alternatives, not absence of selected item; case ni preserved. Wallet not pocket and yen not union, only you told not desire, morning only coffee among drinks not only time of coffee drinking. Insufficiency not obligatory in every use."
+      }
+    ],
+    "review_note": "Pass125: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:tokoro-da": {
+    "formation": "Verb dictionary form + ところだ (about to); verb ている-form + ところだ (in progress); verb た-form + ところだ (just completed).",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "7d96d303d7b20959a9cba66ee37df36f4ed8dbfb",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-dict / Verb-te + いる / Verb-ta + ところだ",
+            "replacement": "Verb dictionary form + ところだ (about to); verb ている-form + ところだ (in progress); verb た-form + ところだ (just completed)."
+          }
+        ],
+        "basis": "Tokoro stage tied separately to dictionary/teiru/ta, no malformed stem ambiguity. About to leave not already out, cooking dinner not eating/call answered, just arrived rail station not habitual bus station."
+      }
+    ],
+    "review_note": "Pass125: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:dasu": {
+    "notes": "In this inceptive use, emphasizes a sudden, often unexpected beginning. 始める is more neutral and generally used for planned starts or requests. Distinguish other compound-verb uses and the separate meaning of putting something out.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "7d96d303d7b20959a9cba66ee37df36f4ed8dbfb",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Implies a sudden, often uncontrolled start. Unlike 〜始める, it is not used for planned actions or in requests.",
+            "replacement": "In this inceptive use, emphasizes a sudden, often unexpected beginning. 始める is more neutral and generally used for planned starts or requests. Distinguish other compound-verb uses and the separate meaning of putting something out."
+          }
+        ],
+        "basis": "Inceptive dasu sudden onset, not general habitual cry or physical extraction. Baby began crying past, sunny until just now not days ago, abrupt rain onset contrasts prior weather. Scope restriction concerns this inceptive use."
+      }
+    ],
+    "review_note": "Pass125: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hodo-nai": {
+    "notes": "The phrase before ほど is the standard of comparison and the negative predicate indicates a lower degree. This pattern is negative; ほど itself also occurs in affirmative constructions. Not as much does not mean not at all.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "7d96d303d7b20959a9cba66ee37df36f4ed8dbfb",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The item before ほど is the standard of comparison. Always followed by a negative.",
+            "replacement": "The phrase before ほど is the standard of comparison and the negative predicate indicates a lower degree. This pattern is negative; ほど itself also occurs in affirmative constructions. Not as much does not mean not at all."
+          }
+        ],
+        "basis": "Hodonai standard before hodo and negative lower degree not reversed comparison, no assertion all hodo negative. This summer less hot than last, hometown less lively not less beautiful or India, test less hard than expected past not equally hard."
+      }
+    ],
+    "review_note": "Pass125: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
