@@ -16609,5 +16609,277 @@
       }
     ],
     "review_note": "Pass134: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-3b466fe773ac": {
+    "notes": "Noun + の間に locates an event within a period, without requiring it to last throughout. Example 2 (zero-based) was repaired from the incomplete 子供たちが学校の間に to 子供たちが学校にいる間に, following the supplied English while the kids were at school. That repaired example uses a verb-clause + 間に contrast. Example 3 母の日に is an ordinary date expression, not an example of 間に. Original Japanese and romaji are retained in source_corrections; no original external context or native-speaker review is claimed.",
+    "examples": [
+      {
+        "ja": "昼休みの間に銀行に行きます。",
+        "en": "I will go to the bank during lunch break.",
+        "romaji": "Hiruyasumi no aida ni ginkou ni ikimasu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "夏休みの間に海外旅行に行く予定です。",
+        "en": "I plan to go on an overseas trip during the summer vacation.",
+        "romaji": "Natsuyasumi no aida ni kaigai ryokou ni iku yotei desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "子供たちが学校にいる間に買い物に行きました。",
+        "en": "I went shopping while the kids were at school.",
+        "romaji": "Kodomo-tachi ga gakkou ni iru aida ni kaimono ni ikimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "母の日にお母さんにプレゼントを送りました。",
+        "en": "I sent a gift to my mother on Mother’s Day.",
+        "romaji": "Haha no hi ni okaasan ni purezento o okurimashita.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "c8fe22507720aa6adc3226349566d8def1271e7d",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The Noun の 間に grammar point is used to indicate a specific period or time during which an action takes place. It is often translated as 'while' or 'during' in English. This grammar point requires a noun to represent the time or period.",
+            "replacement": "Noun + の間に locates an event within a period, without requiring it to last throughout. Example 2 (zero-based) was repaired from the incomplete 子供たちが学校の間に to 子供たちが学校にいる間に, following the supplied English while the kids were at school. That repaired example uses a verb-clause + 間に contrast. Example 3 母の日に is an ordinary date expression, not an example of 間に. Original Japanese and romaji are retained in source_corrections; no original external context or native-speaker review is claimed."
+          },
+          {
+            "field": "examples.2.ja",
+            "original": "子供たちが学校の間に買い物に行きました。",
+            "replacement": "子供たちが学校にいる間に買い物に行きました。"
+          },
+          {
+            "field": "examples.2.romaji",
+            "original": "Kodomo-tachi ga gakkou no aida ni kaimono ni ikimashita.",
+            "replacement": "Kodomo-tachi ga gakkou ni iru aida ni kaimono ni ikimashita."
+          }
+        ],
+        "basis": "During lunch break not eat at bank, overseas vacation plan not inability, children at school while narrator shopping. AI source repair adds omitted ni-iru using provided English, exact original Japanese/romaji archived, no claim original context recovered. Mother Day sent gift not generic parents/own gift; final example does not illustrate target."
+      }
+    ],
+    "review_note": "Pass135: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. One Japanese/romaji wording repair in hana-3b466fe773ac example2 is explicitly AI-authored from supplied English with exact original text retained. Other Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-c5376d30ba99": {
+    "formation": "(Giver が/は) + (recipient に) + thing を + あげる / あげます.",
+    "notes": "In the noun-object pattern the noun is the thing given. Doing an action for someone is separately expressed with Vてあげる; do not conflate that auxiliary with every Nをあげる sentence. Preserve giver and recipient. 時計 is a watch here; たい marks desire rather than completed giving.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "c8fe22507720aa6adc3226349566d8def1271e7d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Noun + を + あげる",
+            "replacement": "(Giver が/は) + (recipient に) + thing を + あげる / あげます."
+          },
+          {
+            "field": "notes",
+            "original": "The を あげる grammar point is used to express giving something to someone. It can be translated as 'give', 'offer', or 'present' in English. This construction is commonly used with nouns to indicate giving or offering a tangible item, action, or favor to someone else.",
+            "replacement": "In the noun-object pattern the noun is the thing given. Doing an action for someone is separately expressed with Vてあげる; do not conflate that auxiliary with every Nをあげる sentence. Preserve giver and recipient. 時計 is a watch here; たい marks desire rather than completed giving."
+          }
+        ],
+        "basis": "Give not own gift/flowers or parents time; father receiver of watch, woman receiver of desired letter not desire for her letter. Noun object vs te-benefactive separate, non-past not necessarily progressive."
+      }
+    ],
+    "review_note": "Pass135: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. One Japanese/romaji wording repair in hana-3b466fe773ac example2 is explicitly AI-authored from supplied English with exact original text retained. Other Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-7b19321c4bd0": {
+    "meaning": "honorific giving of a thing to the speaker or someone on the speaker's side",
+    "formation": "Giver が/は + (receiver に) + thing を + くださる. Polite くださいます; past くださった / くださいました.",
+    "notes": "This noun-object construction describes giving a thing, honoring the giver. Doing an action as a favor uses the separate Vてくださる construction. Rank alone does not determine honorific choice. おやつ is a snack; 上司 is a workplace superior, not a prime minister.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "c8fe22507720aa6adc3226349566d8def1271e7d",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "Used to express someone doing something as a favor or for the benefit of the speaker.",
+            "replacement": "honorific giving of a thing to the speaker or someone on the speaker's side"
+          },
+          {
+            "field": "formation",
+            "original": "Noun + を + くださる",
+            "replacement": "Giver が/は + (receiver に) + thing を + くださる. Polite くださいます; past くださった / くださいました."
+          },
+          {
+            "field": "notes",
+            "original": "The grammar point 'Nounをくださる' is a polite expression used to say that someone is giving or doing something for the benefit of the speaker. It is often used when referring to people who have a higher social status or when expressing gratitude for their actions.",
+            "replacement": "This noun-object construction describes giving a thing, honoring the giver. Doing an action as a favor uses the separate Vてくださる construction. Rank alone does not determine honorific choice. おやつ is a snack; 上司 is a workplace superior, not a prime minister."
+          }
+        ],
+        "basis": "Honorific giving noun object not generic doing favor; teacher affirmative giving not negative, mother snacks not motherland eating, boss not prime minister, past advice not present. Retains friend honorific without mandatory-rank rule."
+      }
+    ],
+    "review_note": "Pass135: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. One Japanese/romaji wording repair in hana-3b466fe773ac example2 is explicitly AI-authored from supplied English with exact original text retained. Other Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-5ce0a55d168d": {
+    "meaning": "humbly give a thing, honoring its recipient",
+    "formation": "(Giver が/は) + recipient に + thing を + さしあげる / さしあげます.",
+    "notes": "さしあげる is humbleI for あげる, honoring the recipient rather than merely decorating a sentence politely. Usage depends on relationship and context. ましょう in the guest example proposes offering tea, not an obligation or completed act. 先輩 is a senior in a shared institution/activity, not simply any elderly person.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "c8fe22507720aa6adc3226349566d8def1271e7d",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "A polite way of expressing to give something.",
+            "replacement": "humbly give a thing, honoring its recipient"
+          },
+          {
+            "field": "formation",
+            "original": "Noun + を + さしあげる",
+            "replacement": "(Giver が/は) + recipient に + thing を + さしあげる / さしあげます."
+          },
+          {
+            "field": "notes",
+            "original": "The grammar point Noun を さしあげる is used to say that you are giving something to someone in a polite way. When offering something to a person of higher status, this expression is used. It is used in conjunction with a noun and replaces the regular verb あげる (ageru) to give.",
+            "replacement": "さしあげる is humbleI for あげる, honoring the recipient rather than merely decorating a sentence politely. Usage depends on relationship and context. ましょう in the guest example proposes offering tea, not an obligation or completed act. 先輩 is a senior in a shared institution/activity, not simply any elderly person."
+          }
+        ],
+        "basis": "Humble giving not school reading or motherland flowers. Tea offer not must/already offered; senior delighted when receiving gift not old gift possession. Senpai institutional senior, BN alternatives avoid inventing school/work setting."
+      }
+    ],
+    "review_note": "Pass135: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. One Japanese/romaji wording repair in hana-3b466fe773ac example2 is explicitly AI-authored from supplied English with exact original text retained. Other Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-757c8f83e9ad": {
+    "formation": "Receiver は/が + giver に/から + thing を + もらう / もらいます.",
+    "notes": "Receiver is the subject and giver takes に or から. The noun-object pattern describes receiving a thing; Vてもらう separately expresses receiving a favor. お小遣い means pocket money/allowance, not a grant or a requirement to receive.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "c8fe22507720aa6adc3226349566d8def1271e7d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Noun + を + もらう",
+            "replacement": "Receiver は/が + giver に/から + thing を + もらう / もらいます."
+          },
+          {
+            "field": "notes",
+            "original": "The もらう (morau) grammar point is used to express the action of receiving or getting something from someone. It usually emphasizes that the action was done for you or you were the beneficiary of the action. The formation requires a noun followed by the particle を (wo) before 'もらう'.",
+            "replacement": "Receiver is the subject and giver takes に or から. The noun-object pattern describes receiving a thing; Vてもらう separately expresses receiving a favor. お小遣い means pocket money/allowance, not a grant or a requirement to receive."
+          }
+        ],
+        "basis": "Receiving not mere possession, singular teacher, father allowance not grant/must receive, woman source letter not unspecified then-arrival. Noun receipt vs te-benefactive separated."
+      }
+    ],
+    "review_note": "Pass135: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. One Japanese/romaji wording repair in hana-3b466fe773ac example2 is explicitly AI-authored from supplied English with exact original text retained. Other Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-2fded6d6842d": {
+    "formation": "Godan: final u-row sound to a-row + せられる; う → わせられる. Ichidan: remove る + させられる. する → させられる; 来る → 来させられる (こさせられる). Many godan verbs also have short a-row + される forms, e.g. 書かされる; す-ending verbs retain させられる, e.g. 話させられる.",
+    "notes": "Causative-passive places the compelled doer as subject and the causer with に, often expressing unwanted action. Children do the homework and teacher causes it; friend causes narrator to disclose confidential information; injured player rests and coach causes it. Do not reverse actor, causer or injury roles.",
+    "examples": [
+      {
+        "ja": "子供たちは先生に宿題をやらせられました。",
+        "en": "The children were made to do their homework by the teacher.",
+        "romaji": "Kodomo-tachi wa sensei ni shukudai wo yaraseraremashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼は会社にもっと働かせられた。",
+        "en": "He was forced to work more by the company.",
+        "romaji": "Kare wa kaisha ni motto hatarakaserareta.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "私は友達にその機密を話させられました。",
+        "en": "My friend made me disclose that confidential information.",
+        "romaji": "Watashi wa tomodachi ni sono kimitsu o hanasaseraremashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "怪我をした選手は、コーチに休ませられました。",
+        "en": "The injured player was forced to rest by the coach.",
+        "romaji": "Kega wo shita senshu wa, kouchi ni yasumaseraremashita.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "c8fe22507720aa6adc3226349566d8def1271e7d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Group 1 Verb: Replace ～う with ～わせられる, Group 2 Verb: Replace ～る with ～させられる, Group 3 Verb: する → させられる, くる → こさせられる",
+            "replacement": "Godan: final u-row sound to a-row + せられる; う → わせられる. Ichidan: remove る + させられる. する → させられる; 来る → 来させられる (こさせられる). Many godan verbs also have short a-row + される forms, e.g. 書かされる; す-ending verbs retain させられる, e.g. 話させられる."
+          },
+          {
+            "field": "notes",
+            "original": "The Verb させられる grammar point is the passive causative form of the verb. It is used to describe a situation where someone or something causes or forces another person to do something. This construction of passive causative is useful to show that the action was not done voluntarily by the person.",
+            "replacement": "Causative-passive places the compelled doer as subject and the causer with に, often expressing unwanted action. Children do the homework and teacher causes it; friend causes narrator to disclose confidential information; injured player rests and coach causes it. Do not reverse actor, causer or injury roles."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "I was made to reveal that secret by my friend.",
+            "replacement": "My friend made me disclose that confidential information."
+          }
+        ],
+        "basis": "Causative-passive affected doer vs coercer: children do homework teacher causes, company makes more work, narrator tells secret friend causes not tells friend by necessity, injured player rests not injured coach. Correct all godan endings and short forms excluding su."
+      }
+    ],
+    "review_note": "Pass135: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. One Japanese/romaji wording repair in hana-3b466fe773ac example2 is explicitly AI-authored from supplied English with exact original text retained. Other Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-0ec69dc37140": {
+    "formation": "Godan: final u-row sound to a-row + せる; う → わせる. Ichidan: remove る + させる. する → させる; 来る → 来させる (こさせる).",
+    "notes": "Causative expresses causing or permitting another to act. The causer is subject; with a transitive verb the doer commonly takes に and the object を, while intransitive constructions may use を for the doer. In the piano example permission was given in the past. 上司 is a workplace superior, not prime minister.",
+    "examples": [
+      {
+        "ja": "先生が生徒に宿題をさせました。",
+        "en": "The teacher made the students do homework.",
+        "romaji": "Sensei ga seito ni shukudai o sasemashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "母が私に部屋を掃除させました。",
+        "en": "My mother made me clean the room.",
+        "romaji": "Haha ga watashi ni heya o souji sasemashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女にピアノを弾かせてあげました。",
+        "en": "I let her play the piano.",
+        "romaji": "Kanojo ni piano o hikasete agemashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "上司は彼にそのプログラムを作らせました。",
+        "en": "The boss made him create the program.",
+        "romaji": "Joushi wa kare ni sono puroguramu o tsukurasemashita.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "c8fe22507720aa6adc3226349566d8def1271e7d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Group 1 Verbs: Change the last hiragana to ～せる, Group 2 Verbs: Remove ～る and add ～させる, Group 3 Verbs: する → させる, くる → こさせる",
+            "replacement": "Godan: final u-row sound to a-row + せる; う → わせる. Ichidan: remove る + させる. する → させる; 来る → 来させる (こさせる)."
+          },
+          {
+            "field": "notes",
+            "original": "The ～させる verb form is used to describe causing or allowing someone to do something. It can be translated as 'to make someone do something', 'to let someone do something', or 'to cause someone to do something' in English. The formation of the ～させる form depends on the verb it is attached to.",
+            "replacement": "Causative expresses causing or permitting another to act. The causer is subject; with a transitive verb the doer commonly takes に and the object を, while intransitive constructions may use を for the doer. In the piano example permission was given in the past. 上司 is a workplace superior, not prime minister."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "My mother made me clean my room.",
+            "replacement": "My mother made me clean the room."
+          }
+        ],
+        "basis": "Causative agent roles not wanting/negative homework, mother makes narrator clean not mother cleaning for narrator; past piano permission not future/play game; boss not prime minister and employee creates program not boss. Full godan a-row rule and u-wa exception."
+      }
+    ],
+    "review_note": "Pass135: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. One Japanese/romaji wording repair in hana-3b466fe773ac example2 is explicitly AI-authored from supplied English with exact original text retained. Other Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
