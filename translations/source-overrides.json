@@ -17605,5 +17605,316 @@
       }
     ],
     "review_note": "Pass137: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-0669c33a740a": {
+    "formation": "Verb masu-stem + 続ける (e.g. 読み続ける); related noun + を続ける is used in all four examples.",
+    "notes": "Continue an action continuously or regularly. The four supplied examples are all noun-wo-tsuzukeru (exercise, study, walk, work), not verb-stem compound tsuzukeru, although the meaning is related. Teach that distinction explicitly without silently replacing the Japanese examples. The library trip has continuing study as its purpose; the rain walk is past, and the work example is a past decision.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "92a138be1dfb866dd8077e036abae0b2135314d7",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-masu-stem + 続ける",
+            "replacement": "Verb masu-stem + 続ける (e.g. 読み続ける); related noun + を続ける is used in all four examples."
+          },
+          {
+            "field": "notes",
+            "original": "The grammar point 続ける (tsuzukeru) is attached to the masu-stem form of verbs, and it indicates the ongoing continuity of an action. It can be translated as 'to continue doing' or 'to keep doing' in English.",
+            "replacement": "Continue an action continuously or regularly. The four supplied examples are all noun-wo-tsuzukeru (exercise, study, walk, work), not verb-stem compound tsuzukeru, although the meaning is related. Teach that distinction explicitly without silently replacing the Japanese examples. The library trip has continuing study as its purpose; the rain walk is past, and the work example is a past decision."
+          }
+        ],
+        "basis": "Continue rather than begin or mere future/habit. All four Japanese examples are noun-wo-tsuzukeru, not masu-stem compounds; explicitly teach related construction without pretending target matches. Library trip purpose, completed despite-rain walk and decision-to-continue tense/roles restored. No rain continuing instead of people walking."
+      }
+    ],
+    "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-fa1b6198baec": {
+    "formation": "Verb plain form / i-adjective + かしら; na-adjective stem / noun + かしら, omitting present affirmative だ.",
+    "notes": "Expresses wondering or uncertainty, sometimes aloud in conversation, not surprise or certainty. Traditionally associated with feminine speech, but this is a stylistic association, not an absolute rule about who can use it. Examples do not assert that the narrator previously asked a question.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "92a138be1dfb866dd8077e036abae0b2135314d7",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-casual + かしら, い-Adjective + かしら, な-Adjective + かしら, Noun + かしら",
+            "replacement": "Verb plain form / i-adjective + かしら; na-adjective stem / noun + かしら, omitting present affirmative だ."
+          },
+          {
+            "field": "notes",
+            "original": "The ～かしら grammar point is used to express uncertainty or doubt about a situation. It can be translated as 'I wonder' or 'I'm not sure' in English. It is primarily used by females in casual conversations but can be used by males in some contexts as well. ～かしら is used with verbs, い-adjectives, な-adjectives, and nouns.",
+            "replacement": "Expresses wondering or uncertainty, sometimes aloud in conversation, not surprise or certainty. Traditionally associated with feminine speech, but this is a stylistic association, not an absolute rule about who can use it. Examples do not assert that the narrator previously asked a question."
+          }
+        ],
+        "basis": "Kashira uncertainty not surprise or certainty. Restore rain today, cake taste, his illness, her student status; no narrated I-asked, food command or grant. Noun/na-adjective present affirmative da omitted. Gender/register described as association rather than absolute speaker prohibition."
+      }
+    ],
+    "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-f59b3ade0081": {
+    "formation": "Verb plain form / i-adjective + かなあ; noun / na-adjective stem + かなあ, omitting present affirmative だ. Explanatory noun/na-adjective + なのかなあ is also possible.",
+    "notes": "Casual wondering or uncertainty, with lengthened aa conveying deliberation. It can be addressed to a listener or seek a response; a blanket ban on all direct use is incorrect. Register and relationship still matter for formal questions. Before noun/na-adjective explanatory no, use na-no-kana rather than mechanically replacing da with no. Examples wonder about tomorrow rain, cake taste, illness and student status; they do not assert knowing.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "92a138be1dfb866dd8077e036abae0b2135314d7",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-casual + かなあ, い-Adjective + かなあ, (な-Adjective/Noun) + (だ) + かなあ",
+            "replacement": "Verb plain form / i-adjective + かなあ; noun / na-adjective stem + かなあ, omitting present affirmative だ. Explanatory noun/na-adjective + なのかなあ is also possible."
+          },
+          {
+            "field": "notes",
+            "original": "The ～かなあ grammar point is used to express a feeling of uncertainty or wonder about a situation or statement. It can be translated as 'I wonder' or 'I'm not sure' in English. In casual spoken Japanese, when using nouns or な-adjectives before かなあ, the copula だ is often omitted or replaced with の (e.g., 学生かなあ or 学生なのかなあ). This grammar point should not be used when asking questions directly to someone, as it may come off as too direct or impolite.",
+            "replacement": "Casual wondering or uncertainty, with lengthened aa conveying deliberation. It can be addressed to a listener or seek a response; a blanket ban on all direct use is incorrect. Register and relationship still matter for formal questions. Before noun/na-adjective explanatory no, use na-no-kana rather than mechanically replacing da with no. Examples wonder about tomorrow rain, cake taste, illness and student status; they do not assert knowing."
+          }
+        ],
+        "basis": "Kanaa wondering not knowing, certainty, future rain assertion, food command or affirmative student claim. Tomorrow distinct from kashira today. Correct source optional da before kana and simplistic replacement-with-no explanation; N/na plus na-no-kana separate structure. Remove blanket ban on listener-directed use; context/register governs suitability."
+      }
+    ],
+    "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-5bec68cb57ba": {
+    "notes": "Sonna identifies a kind or quality associated with the listener or earlier discourse. Physical nearness to the listener is not required in every use. Retain the two negative predicates: cannot believe that kind of story, do not want to watch that kind of movie.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "92a138be1dfb866dd8077e036abae0b2135314d7",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The word 'そんな' is used before a noun to indicate 'that kind of' or 'that type of', typically referring to something near the listener or previously mentioned in the conversation. It specifies the noun based on context or shared understanding between the speaker and the listener.",
+            "replacement": "Sonna identifies a kind or quality associated with the listener or earlier discourse. Physical nearness to the listener is not required in every use. Retain the two negative predicates: cannot believe that kind of story, do not want to watch that kind of movie."
+          }
+        ],
+        "basis": "Sonna that kind rather than simple this or hearing/listener mistranslation. Both negatives essential: cannot believe story, do not want watch movie, not affirmative history belief or movie desire. Physical listener proximity not sole reference rule."
+      }
+    ],
+    "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-afc45a1103de": {
+    "meaning": "To that degree or extent; with negative predicates, not that much / not so.",
+    "formation": "そんなに + degree/quantity phrase or predicate; often negative, but also possible in affirmative clauses or questions.",
+    "notes": "Sonna-ni itself is not negative. The predicate supplies negation. Isoganakutemo ii is no need to hurry that much, not a prohibition. Se-ga-takaku-arimasen compares height, and the final sentence gives the opinion that eating that much is unnecessary.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "92a138be1dfb866dd8077e036abae0b2135314d7",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "Expresses 'not so much', 'not that', or 'not so ~'.",
+            "replacement": "To that degree or extent; with negative predicates, not that much / not so."
+          },
+          {
+            "field": "formation",
+            "original": "そんなに + Verb-negation, そんなに + Adjective-negation",
+            "replacement": "そんなに + degree/quantity phrase or predicate; often negative, but also possible in affirmative clauses or questions."
+          },
+          {
+            "field": "notes",
+            "original": "The grammar point そんなに is an adverb used to express that something is not as extreme as described or not to that extent. It is often translated as 'not so much', 'not that', or 'not so ~'. It is commonly followed by a negative form of a verb or adjective.",
+            "replacement": "Sonna-ni itself is not negative. The predicate supplies negation. Isoganakutemo ii is no need to hurry that much, not a prohibition. Se-ga-takaku-arimasen compares height, and the final sentence gives the opinion that eating that much is unnecessary."
+          }
+        ],
+        "basis": "Sonna-ni degree adverb not intrinsically negative or restricted to negative forms. Preserve no-need hurry not prohibition, narrator opinion difficulty not hard assertion, female height not generic high, unnecessary eating amount not necessary food. English negative opinion and Japanese opinion of negative proposition conveyed consistently."
+      }
+    ],
+    "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-eddd9c63be94": {
+    "formation": "Verb ta/da form + らいい; する → したらいい, 止む → 止んだらいい. Do not append たら to an already complete ta-form.",
+    "notes": "Depending on context and ending particles, expresses advice, a wish or hope. Ta-form morphology does not imply that the proposed event has already happened. The rain example hopes it stops; the recovery example wishes for getting well, not inability or a report of completed recovery.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "92a138be1dfb866dd8077e036abae0b2135314d7",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-casual-past + たらいい",
+            "replacement": "Verb ta/da form + らいい; する → したらいい, 止む → 止んだらいい. Do not append たら to an already complete ta-form."
+          },
+          {
+            "field": "notes",
+            "original": "The ～たらいい grammar point is used to express a desire, suggestion, or hope for a particular outcome. It can be translated as 'it would be good if', 'should', or 'I hope' in English. The formation is simple, and it is used with verbs in their casual past tense form.",
+            "replacement": "Depending on context and ending particles, expresses advice, a wish or hope. Ta-form morphology does not imply that the proposed event has already happened. The rain example hopes it stops; the recovery example wishes for getting well, not inability or a report of completed recovery."
+          }
+        ],
+        "basis": "Tara-ii suggestion/hope distinguished from accomplished event or simple if fragment. Correct formation past-plus-tara double ta error to ta/da form + ra. More study advice, rain stop hope, get-well wish, contact-him advice not failed contact/recovery. No false narration that rain stopped."
+      }
+    ],
+    "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-8978f9223100": {
+    "formation": "Direct action suggestion: verb ta/da form + らいかがですか. Distinct pattern: conditional clause + verb dictionary form + のはいかがですか.",
+    "notes": "Example0 is a direct V-tara-ikaga suggestion. Examples1–3 instead have a conditional tara clause followed by separate V-no-wa-ikaga suggestion; adjective/noun conditionals are not simply interchangeable with the direct action-suggestion formation. The last own-opinion condition is odd and lacks context, including what others are to be asked. Preserve literal text and record source/native context confirmation as unresolved rather than inventing a repaired intention.",
+    "examples": [
+      {
+        "ja": "図書館に行ったらいかがですか。",
+        "en": "How about going to the library?",
+        "romaji": "Toshokan ni ittara ikaga desu ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "寒かったらカーディガンを着るのはいかがですか。",
+        "en": "How about wearing a cardigan if it's cold?",
+        "romaji": "Samukattara kaadigan wo kiru no wa ikaga desu ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "部屋が暗かったら照明を付けるのはいかがですか。",
+        "en": "If the room is dark, how about turning on the lights?",
+        "romaji": "Heya ga kurakattara shoumei wo tsukeru no wa ikaga desu ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "自分の意見だったら他人に聞くのはいかがですか。",
+        "en": "If it is your own opinion, how about asking other people? (The intended context is unclear.)",
+        "romaji": "Jibun no iken dattara tanin ni kiku no wa ikaga desu ka.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "92a138be1dfb866dd8077e036abae0b2135314d7",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-casual, past + たら いかがですか, い-Adjective + かったら いかがですか, な-Adjective + だったら いかがですか, Noun + だったら いかがですか",
+            "replacement": "Direct action suggestion: verb ta/da form + らいかがですか. Distinct pattern: conditional clause + verb dictionary form + のはいかがですか."
+          },
+          {
+            "field": "notes",
+            "original": "The ～たら いかがですか grammar point is used to make polite suggestions, ask for opinions, or imply that something would be good or desirable if the condition is met. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
+            "replacement": "Example0 is a direct V-tara-ikaga suggestion. Examples1–3 instead have a conditional tara clause followed by separate V-no-wa-ikaga suggestion; adjective/noun conditionals are not simply interchangeable with the direct action-suggestion formation. The last own-opinion condition is odd and lacks context, including what others are to be asked. Preserve literal text and record source/native context confirmation as unresolved rather than inventing a repaired intention."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "What if you turn on the light if the room is dark?",
+            "replacement": "If the room is dark, how about turning on the lights?"
+          },
+          {
+            "field": "examples.3.en",
+            "original": "How about asking others if it's your own opinion?",
+            "replacement": "If it is your own opinion, how about asking other people? (The intended context is unclear.)"
+          }
+        ],
+        "basis": "Polite action suggestion not how/where to go, heat or merely dark-room question. Distinguish direct V-tara-ikaga example0 from conditional tara clauses followed by separate V-no-wa-ikaga examples1–3. Turn lights on, not reverse condition. Final own-opinion condition and what to ask others unrecoverable; literal awkward wording retained and flagged rather than invent revised intention."
+      }
+    ],
+    "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-38005d09e326": {
+    "notes": "V-tara-dou-desu-ka suggests an action or gives advice, not a question about where or how to perform it. Polite desu does not guarantee a gentle tone: depending on context, intonation or imposition the advice can sound critical. Skiing, a short rest, reading this book and returning home by taxi remain suggestions, not asserted actions or inability.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "92a138be1dfb866dd8077e036abae0b2135314d7",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The ～たら どうですか grammar point is used to make a suggestion or give advice to someone. It can be translated as 'what if', 'how about', or 'why don't you' in English. This structure is used with the た-form of verbs to make a gentle, polite suggestion.",
+            "replacement": "V-tara-dou-desu-ka suggests an action or gives advice, not a question about where or how to perform it. Polite desu does not guarantee a gentle tone: depending on context, intonation or imposition the advice can sound critical. Skiing, a short rest, reading this book and returning home by taxi remain suggestions, not asserted actions or inability."
+          }
+        ],
+        "basis": "Tara-dou suggestions not where/how, inability to read, driving a car at home or actual why-not accusation. Read book and taxi means of returning preserved. Correct categorical gentle claim: pragmatic force depends on tone/imposition despite polite desu."
+      }
+    ],
+    "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-0970d08603b0": {
+    "formation": "Verb ta/da form + り; i-adjective final い removed + かったり; na-adjective stem / noun + だったり. Combine representative items and finish with する, できる or an appropriate predicate.",
+    "notes": "Lists representative actions or states without specifying exhaustive coverage or chronological order. Ta-form morphology here does not alone imply past tense. State lists can present qualities or alternate states. The cooking/singing example is interpreted consistently with the supplied English as examples of competence; the weather example alternates hot and cold. Onsen-ni-hairu means bathing in a hot spring, not merely travel there.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "92a138be1dfb866dd8077e036abae0b2135314d7",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-ta + り + next verb-ta + り, い-Adjective + かったり + next verb-ta + り, な-Adjective + だったり + next verb-ta + り, Noun + だったり + next verb-ta + り",
+            "replacement": "Verb ta/da form + り; i-adjective final い removed + かったり; na-adjective stem / noun + だったり. Combine representative items and finish with する, できる or an appropriate predicate."
+          },
+          {
+            "field": "notes",
+            "original": "The ～たり～たり grammar point is used to list two or more actions or states, without specifying their order or importance. It implies that these actions or states are representative examples, and there may be others. This construction is useful for describing general or habitual actions.",
+            "replacement": "Lists representative actions or states without specifying exhaustive coverage or chronological order. Ta-form morphology here does not alone imply past tense. State lists can present qualities or alternate states. The cooking/singing example is interpreted consistently with the supplied English as examples of competence; the weather example alternates hot and cold. Onsen-ni-hairu means bathing in a hot spring, not merely travel there."
+          }
+        ],
+        "basis": "Representative actions/states not political states, negation, desires or guaranteed travel. Weekend films/read, her cooking/singing competence consistently with supplied English, resort possibility skiing/onsen bathing, alternating weather. Correct each adjective/nominal formation and no obligatory verb as second list item. Ta form morphology not past assertion; no chronological claim."
+      }
+    ],
+    "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-0337de49e6e1": {
+    "formation": "Noun or quoted plain clause + っていう + noun; topic expression ～っていうのは is also used.",
+    "notes": "Colloquial to-iu can identify, quote or introduce a topic, not automatically insert I mean into every sentence. Example1 (zero-based) kare-tteiu-dansei is anomalous as ordinary naming: kare is normally the pronoun he, and no real personal name Kare is established. Render the quoted pronoun literally; original intended referent/context remains unresolved. In example3, she is speaking about the shop, not the narrator, and the shop is not here.",
+    "examples": [
+      {
+        "ja": "ピザっていう料理が大好きです。",
+        "en": "I love the dish called pizza.",
+        "romaji": "Piza tte iu ryouri ga daisuki desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼っていう男性はすごく面白いです。",
+        "en": "The man referred to as “he” is really interesting. (The intended quoted reference is unclear.)",
+        "romaji": "Kare tte iu dansei wa sugoku omoshiroi desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この映画っていうのは本当に感動的だよ。",
+        "en": "This movie really is touching.",
+        "romaji": "Kono eiga tte iu no wa hontou ni kandouteki da yo.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女が言っているっていう店はここではない。",
+        "en": "The shop she is talking about is not here.",
+        "romaji": "Kanojo ga itte iru tte iu mise wa koko de wa nai.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "92a138be1dfb866dd8077e036abae0b2135314d7",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Noun/Adjective/Verb + っていう + Noun",
+            "replacement": "Noun or quoted plain clause + っていう + noun; topic expression ～っていうのは is also used."
+          },
+          {
+            "field": "notes",
+            "original": "The ～っていう grammar point is used for quoting, defining, or specifying a noun. It can be translated as 'called', 'that is to say', or 'I mean' in English. This expression is similar to ～という, but it is more casual and commonly used in spoken conversations.",
+            "replacement": "Colloquial to-iu can identify, quote or introduce a topic, not automatically insert I mean into every sentence. Example1 (zero-based) kare-tteiu-dansei is anomalous as ordinary naming: kare is normally the pronoun he, and no real personal name Kare is established. Render the quoted pronoun literally; original intended referent/context remains unresolved. In example3, she is speaking about the shop, not the narrator, and the shop is not here."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "That man (called ‘kare’) is really interesting.",
+            "replacement": "The man referred to as “he” is really interesting. (The intended quoted reference is unclear.)"
+          },
+          {
+            "field": "examples.2.en",
+            "original": "This movie, I mean, is really touching.",
+            "replacement": "This movie really is touching."
+          },
+          {
+            "field": "examples.3.en",
+            "original": "The store she's talking about, I mean, is not here.",
+            "replacement": "The shop she is talking about is not here."
+          }
+        ],
+        "basis": "Tte-iu colloquial quotation/naming/topic not narrator named pizza. Pizza strong liking, touching film not merely interesting, she speaks about shop not narrator and here-negation maintained. Second Japanese kare-tteiu-dansei is anomalous as ordinary personal naming; do not assert a real person named Kare. Render quoted pronoun literally, correct English fabricated naming and flag missing original context."
+      }
+    ],
+    "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
