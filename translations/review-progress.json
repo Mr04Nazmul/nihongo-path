@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-06",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 13530,
-  "pending_fields": 65648,
+  "ai_semantic_checked_fields": 13650,
+  "pending_fields": 65528,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 6436
+    "N4": 6556
   },
-  "authored_entry_glosses": 1416,
+  "authored_entry_glosses": 1476,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "会",
+      "id": "集",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "会",
+      "id": "集",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "同",
+      "id": "別",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "同",
+      "id": "別",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "事",
+      "id": "物",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "事",
+      "id": "物",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "自",
+      "id": "使",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "自",
+      "id": "使",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "社",
+      "id": "品",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "社",
+      "id": "品",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "発",
+      "id": "計",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "発",
+      "id": "計",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "者",
+      "id": "死",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "者",
+      "id": "死",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "地",
+      "id": "特",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "地",
+      "id": "特",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "業",
+      "id": "私",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "業",
+      "id": "私",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "方",
+      "id": "始",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "方",
+      "id": "始",
       "language": "ne",
       "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass139: N4 grammar indices200–213 (last fourteen):196 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. To-ii hope/contextual advice not fulfilled event, clear weather not sunrise/eclipse, subject-neutral exam hope and restaurant food; douiu type/details not generic why or obligation to be late; nai-to-ikenai obligation study tonight for tomorrow exam, exact nine departure, avoid cold not cause it and by-tomorrow completion not from tomorrow. Nakya whole-nai replacement corrected, homework deadline/soon departure prep/next-week project submission/ticket-before-train order; transitive owaru with wo retained after lexical investigation. Nakucha obligation not desire and abbreviated embassy/bank clauses interpreted as having to go. Nakute-wa-ikenai source food example reversed obligation/prohibition: AI editorial repair to ensure food not wasted preserves target obligation form, old/new Japanese/romaji/English stored. Nakereba-naranai formation and absolute predicate-class restriction corrected; book deadline, prevent class lateness, ticket before travel. No-desu/n-desu explanatory background not compulsory literal because/imperative look, nominal present na attachment versus past/negative; tomorrow busy, female English teacher, narrator cold illness, fatigue/kindness/homework and neutral train delay link retained. Mitai inference/resemblance not certainty, extra no removed in original illness example with exact history/romaji, dress cost without added very, ano/ima retained and no confirmed celebrity identity. Sono-ue additive complete software price/beauty-intelligence/actors not actresses/Tokyo food, sorede cause-result AC turned on/train delayed not cancelled/tired early-bed decision/exam celebration, soreni both Japanese-Korean abilities/cake price/personality retained, dakara reason-result and even-beginner ability/school absence/taxi advice not obligation. Ten source entries corrected with exact history including eight English precision corrections and two Japanese plus matching-romaji repairs. Stable IDs, community-reference labels, level structure, audio, licenses and attribution preserved. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. AI semantic review, no native-speaker certification or recovered original context claim. N4 grammar initial pass now covered; resume N4 kanji index0."
+  "latest_pass": "Pass140: N4 kanji indices0–59 (会 through 道):120 Bengali/Nepali meaning fields semantically reviewed against Japanese character/readings, source English senses and listed Japanese words. Each field stores exact previous/reviewed translation, correction flag, character-specific rationale, source/translation hashes and actual Japanese words checked; no example or grammar fields invented (all sixty entries have no examples). Shrine not headline, discharge not prohibition/suspension, vocation not doctor/sentence, ground not preface, direction not director, member headcount not serial number, erect not pronunciation, unfold/unseal not output/unknown, bear-up withstand not animal/cat, generation not population, light illumination not low weight, motion not Morang or shake drink, letter/document counter not commuter computer/engineer, speech not when, statue counter not pictures, paddy not powder/juice, lord not Gurung/chief minister, mental taste/heart not food/anatomy, non-prefix not new, construction verb not only building, employ put to use, occurrences not clock time, public/ruler title not only royal son, hold not Rukum, plains not plans/Russia, artist role not actor only, cheap low-price not short height, mansion not manager, heart radical61 not cardiac disease/extremist, doctrine not degree, writing figures as patterns not numerals/designer, layered boxes/fold not nest/flowers and road/course not syllabus only. 京 10^16 and 正 10^40 corrected from false multiplication; targeted dictionary references recorded for numerical values, public-title scope, statue counter, degree estimation and writing/proximity senses. Correct existing core glosses retained where sound. 文 rare source plan and 近 source early lack specific attested contexts; four field records explicitly remain unresolved for lexicographic/native/source clarification rather than unverified meanings presented as certain. Original Japanese source senses/readings/word lists, stable IDs, level structure, audio, bookmarks, ads, licenses and attribution preserved. AI semantic review only; native-speaker review not performed and historical ambiguities remain unresolved. Resume N4 kanji index60."
 }
