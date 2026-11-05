@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 11214,
-  "pending_fields": 67964,
+  "ai_semantic_checked_fields": 11334,
+  "pending_fields": 67844,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 4120
+    "N4": 4240
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "ou-you",
+      "id": "noni-although",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "you-to-omou",
+      "id": "noni-purpose",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "you-to-omou",
+      "id": "noni-purpose",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "you-to-omou",
+      "id": "noni-purpose",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "you-to-omou",
+      "id": "noni-purpose",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "you-to-omou",
+      "id": "noni-purpose",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "you-to-omou",
+      "id": "noni-purpose",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "you-to-omou",
+      "id": "noni-purpose",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "you-to-omou",
+      "id": "noni-purpose",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass121: N4 grammar indices20–29:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected 中 ongoing/all-day/world scope and lexical reading caution, personalつもり intention versus event and negative intention/no-intention contrast, 予定 arrangement not guaranteed occurrence and move house Osaka/three end/eight AM departure, ownことにする decision versus presented settledことになる and Nagoya next-year spring/coming Sunday barbecue/wedding speech, formal ability/permissionことができる and borrowing two weeks not lending/two days/younger sister piano/Fuji invisible, potential godan e-row versus ichidan ru removal and irregulars/が orを/casual ra-dropping, exactly about200kanji not percent or2000/older brother spicy-food inability, passive affected speaker not essay praises teacher/foot stepped/temple built600years ago and not all passive harm, causative maker/performer including godanう→わ and intransitiveをorに not absoluteを/mother makes brother eat/coach daily running/son allowed alone past, causative-passive imposed childhood practice/whole30minutes not30minuteslater/company song and godan short-form exceptす/irregularこさせられる. Six source entries received formation/notes or English precision corrections, exact old/new values archived. Original Japanese examples, stable IDs, level structure, tags and attribution unchanged. No new unresolved ambiguity; historical context limitations and native-speaker review remain unresolved. Resume N4 grammar index30."
+  "latest_pass": "Pass122: N4 grammar indices30–39:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed against Japanese and English. Corrected volitional shared invitation versus personal resolve, tentative and abandoned intentions, direct commands and cheering, prohibitive dictionary+na versus emotional ending, nasai firm directions, ba/tara/nara/to conditional distinctions and copula/negative/irregular formations, permission versus prohibition and invitation versus obligation, Kyoto autumn not summer, older brother, Sunday not Saturday, tea and right-turn/left-post-office directions, concessive difficulty improving rather than positive excellence or absolute no improvement. Eight source entries received precise formation/notes or English sense corrections with exact old/new values archived. Japanese examples, IDs, tags and attribution unchanged. Historical unresolved source contexts and need for native-speaker review remain unresolved; no native-speaker certification. Resume N4 grammar index40."
 }

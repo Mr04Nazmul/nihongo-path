@@ -14358,5 +14358,193 @@
       }
     ],
     "review_note": "Pass121: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:ou-you": {
+    "formation": "Group 1: final u-row kana to o-row kana + う (書く→書こう); Group 2: drop final る + よう (見る→見よう); する→しよう; 来る→来よう (こよう)",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "42dc320bcb7c3d55c69d94d46f3352cb2215a085",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-dict (Group 1: final u → o) + う / Verb-stem + よう (Group 2)",
+            "replacement": "Group 1: final u-row kana to o-row kana + う (書く→書こう); Group 2: drop final る + よう (見る→見よう); する→しよう; 来る→来よう (こよう)"
+          }
+        ],
+        "basis": "Volitional invitation versus individual resolve; godan o-row, ichidan ru removal and irregular koyou. Tired shared break, weekend together film, diary every day starting today, no obligation or habitual nonsense."
+      }
+    ],
+    "review_note": "Pass122: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:you-to-omou": {
+    "notes": "Reports a current or contemplated intention. と思う can express a newly formed decision; と思っている presents an intention held over time. Neither guarantees that the action will happen.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "42dc320bcb7c3d55c69d94d46f3352cb2215a085",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "〜と思う often reports a decision made just now; 〜と思っている shows a plan held for some time. Softer than つもり.",
+            "replacement": "Reports a current or contemplated intention. と思う can express a newly formed decision; と思っている presents an intention held over time. Neither guarantees that the action will happen."
+          }
+        ],
+        "basis": "Volitional plus thought retains tentative intention rather than completed action; summer seaside, early tomorrow park run, abandoned new-computer purchase. Omou not invariably a new instant decision."
+      }
+    ],
+    "review_note": "Pass122: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:e-ro": {
+    "formation": "Group 1: final u-row kana to e-row kana; Group 2: drop final る + ろ; する→しろ/せよ; 来る→来い (こい); くれる→くれ",
+    "notes": "Direct, potentially blunt commands, also used in emergencies, signs and cheering. Force depends on context; use is not restricted to men.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "42dc320bcb7c3d55c69d94d46f3352cb2215a085",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-dict (Group 1: final u → e) / Verb-stem + ろ (Group 2)",
+            "replacement": "Group 1: final u-row kana to e-row kana; Group 2: drop final る + ろ; する→しろ/せよ; 来る→来い (こい); くれる→くれ"
+          },
+          {
+            "field": "notes",
+            "original": "Irregular: する → しろ, 来る → 来い, くれる → くれ. Very blunt; heard mainly from men, on signs, in emergencies and in cheering (がんばれ).",
+            "replacement": "Direct, potentially blunt commands, also used in emergencies, signs and cheering. Force depends on context; use is not restricted to men."
+          }
+        ],
+        "basis": "Imperative forms with irregular shiro/seyo/koi/kure, pragmatic bluntness without gender exclusivity; urgent get up or be late, danger stop, cheering not literal go for object."
+      }
+    ],
+    "review_note": "Pass122: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:nasai": {
+    "examples": [
+      {
+        "ja": "もう九時よ。早く寝なさい。",
+        "furigana": "もう{九|く}{時|じ}よ。{早|はや}く{寝|ね}なさい。",
+        "en": "It's already nine. Go to bed now."
+      },
+      {
+        "ja": "次の文を読んで、質問に答えなさい。",
+        "furigana": "{次|つぎ}の{文|ぶん}を{読|よ}んで、{質問|しつもん}に{答|こた}えなさい。",
+        "en": "Read the following sentence and answer the question."
+      },
+      {
+        "ja": "ご飯の前に手を洗いなさい。",
+        "furigana": "ご{飯|はん}の{前|まえ}に{手|て}を{洗|あら}いなさい。",
+        "en": "Wash your hands before eating."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "42dc320bcb7c3d55c69d94d46f3352cb2215a085",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "Read the following passage and answer the questions.",
+            "replacement": "Read the following sentence and answer the question."
+          }
+        ],
+        "basis": "Masu stem nasai firm instruction not polite generic request. Already nine not after nine, following sentence and answer not duplicate question, hands washed before eating not because food."
+      }
+    ],
+    "review_note": "Pass122: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:ba": {
+    "formation": "All verb groups: final u-row kana to e-row kana + ば (書けば, 食べれば, すれば, 来れば [くれば]); i-adjective: drop い + ければ (いい→よければ); negative ない→なければ; na-adjective/noun + なら(ば) or であれば",
+    "notes": "Highlights the condition for a result. Requests or invitations after a volitional action with the same subject are restricted; state predicates or different subjects can permit them. This is not an absolute ban on requests after ば.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "42dc320bcb7c3d55c69d94d46f3352cb2215a085",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-ba / i-Adj stem + ければ / na-Adj + なら / Noun + なら",
+            "replacement": "All verb groups: final u-row kana to e-row kana + ば (書けば, 食べれば, すれば, 来れば [くれば]); i-adjective: drop い + ければ (いい→よければ); negative ない→なければ; na-adjective/noun + なら(ば) or であれば"
+          },
+          {
+            "field": "notes",
+            "original": "Focuses on the condition needed for a result. When the main clause is a request or invitation, たら is usually more natural unless the ば-clause is a state (ある, いる, adjectives).",
+            "replacement": "Highlights the condition for a result. Requests or invitations after a volitional action with the same subject are restricted; state predicates or different subjects can permit them. This is not an absolute ban on requests after ば."
+          }
+        ],
+        "basis": "Ba exact conjugation includes ichidan/irregulars, yokereba, negative nakereba and nominal deareba. Preserve condition not garbled negative obligation, cheap not easy, ask not think. Request restrictions depend on state and subjects, not absolute ban."
+      }
+    ],
+    "review_note": "Pass122: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:nara": {
+    "formation": "Plain verb / i-adjective + なら; na-adjective / noun: omit present affirmative だ before なら. Negative and past forms can precede なら (行かないなら, 学生だったなら).",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "42dc320bcb7c3d55c69d94d46f3352cb2215a085",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-plain / i-Adj / na-Adj / Noun + なら",
+            "replacement": "Plain verb / i-adjective + なら; na-adjective / noun: omit present affirmative だ before なら. Negative and past forms can precede なら (行かないなら, 学生だったなら)."
+          }
+        ],
+        "basis": "Nara assumes topic/situation, with plain verb/adjective and omitted present copula, allows prior advice action. Kyoto autumn not summer, older brother not old younger brother, sleepy not asleep or morning."
+      }
+    ],
+    "review_note": "Pass122: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:to": {
+    "notes": "Used for regular or automatic results, machine operation, directions and habits. In this conditional-result use, the following clause normally does not express a request, wish or invitation. Narrative sequences or discoveries also occur; distinguish this from quotation と.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "42dc320bcb7c3d55c69d94d46f3352cb2215a085",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "For natural results, how machines work, directions and habits. The main clause cannot be a request, wish or invitation.",
+            "replacement": "Used for regular or automatic results, machine operation, directions and habits. In this conditional-result use, the following clause normally does not express a request, wish or invitation. Narrative sequences or discoveries also occur; distinguish this from quotation と."
+          }
+        ],
+        "basis": "Conditional to automatic/habitual/navigation results, nonpast plain and negative plus copula for nouns/na-adjectives. Tea not refusal, spring not flower arriving, turn right then post office left not both right. Distinguish narrative discovery from quotation."
+      }
+    ],
+    "review_note": "Pass122: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:te-mo-de-mo": {
+    "examples": [
+      {
+        "ja": "雨が降っても、試合はあります。",
+        "furigana": "{雨|あめ}が{降|ふ}っても、{試合|しあい}はあります。",
+        "en": "Even if it rains, the game will go ahead."
+      },
+      {
+        "ja": "いくら練習しても、なかなか上手になりません。",
+        "furigana": "いくら{練習|れんしゅう}しても、なかなか{上手|じょうず}になりません。",
+        "en": "No matter how much I practice, I find it hard to improve."
+      },
+      {
+        "ja": "日曜日でも、この店は開いています。",
+        "furigana": "{日曜日|にちようび}でも、この{店|みせ}は{開|あ}いています。",
+        "en": "This shop is open even on Sundays."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "42dc320bcb7c3d55c69d94d46f3352cb2215a085",
+        "corrections": [
+          {
+            "field": "examples.1.en",
+            "original": "No matter how much I practice, I just don't get any better.",
+            "replacement": "No matter how much I practice, I find it hard to improve."
+          }
+        ],
+        "basis": "Concessive temo/demo actual or hypothetical, voiced te variant and negative nakutemo. Rain does not cancel game; nak anaka negative means difficulty improving not positive excellence, Sunday not Saturday. No more absolute zero improvement than Japanese supports."
+      }
+    ],
+    "review_note": "Pass122: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
