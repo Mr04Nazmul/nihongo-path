@@ -16362,5 +16362,252 @@
       }
     ],
     "review_note": "Pass133: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-kedomo-formal-but": {
+    "notes": "けれども can connect contrasting clauses or soften an introduction. It can sound fuller or more formal than けど, but register is contextual rather than a fixed ranking in every sentence. Present affirmative noun/na-adjective clauses retain だ before it. しっかりしている in the example concerns reliability, not bodily strength.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "61948d9fe23e62d93e572ea5fbc57893a2dfde9a",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "けれども is a more formal variant of けど ('but'), used in writing or polite spoken contexts. It can appear mid-sentence as a clausal connector (similar to が) or sentence-initially as a conjunction. Less formal than しかし but more formal than けど / けれど. The casual chain けど → けれど → けれども increases in formality.",
+            "replacement": "けれども can connect contrasting clauses or soften an introduction. It can sound fuller or more formal than けど, but register is contextual rather than a fixed ranking in every sentence. Present affirmative noun/na-adjective clauses retain だ before it. しっかりしている in the example concerns reliability, not bodily strength."
+          }
+        ],
+        "basis": "Past rain match held not future conditional, expensive not rising price/quality; reliable young person not physical strength. Connector copula/register contextual not rigid ladder."
+      }
+    ],
+    "review_note": "Pass134: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-you-ka-to-omou": {
+    "notes": "Volitional + かと思う presents a tentative option under consideration, generally less settled than volitional + と思う. The English half-considering is figurative, not a numerical fraction. This construction is not restricted to formal speech; in the second example 会社を辞める is quitting employment.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "61948d9fe23e62d93e572ea5fbc57893a2dfde9a",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "〜ようかと思う expresses that the speaker is considering doing X, but with some hesitation or uncertainty — 'thinking of doing X / half-considering'. Less committed than 〜ようと思う (intend to do). Often used for tentative plans. Neutral / formal register.",
+            "replacement": "Volitional + かと思う presents a tentative option under consideration, generally less settled than volitional + と思う. The English half-considering is figurative, not a numerical fraction. This construction is not restricted to formal speech; in the second example 会社を辞める is quitting employment."
+          }
+        ],
+        "basis": "Tentative consideration not numerical half/firm plan or mere wish; quitting employment not building departure; new computer purchase considered."
+      }
+    ],
+    "review_note": "Pass134: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-passive-form": {
+    "formation": "Ichidan: remove る + られる. Godan: final u-row sound to a-row + れる; う → われる. する → される; 来る → 来られる (こられる).",
+    "notes": "Passive presents the subject as receiving an action or being affected by an event. Not every passive is adverse; indirect passives can convey unwanted experience. The letter example is read as an affected-owner passive consistently with the supplied English; permission and motive are not stated. 開けられた is an opened-door passive here, not the intransitive 開いた. Ichidan passive and potential share form, so context matters.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "61948d9fe23e62d93e572ea5fbc57893a2dfde9a",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Ichidan: drop る, add られる. Godan: u-row → a-row + れる. Irregular: する → される, くる → こられる.",
+            "replacement": "Ichidan: remove る + られる. Godan: final u-row sound to a-row + れる; う → われる. する → される; 来る → 来られる (こられる)."
+          },
+          {
+            "field": "notes",
+            "original": "The passive form expresses that the subject receives an action. Ichidan verbs form it by dropping る and adding られる. Godan verbs change the u-row kana to the a-row and add れる. Note that ichidan passive and potential forms are homophones (食べられる can mean 'can eat' or 'is eaten'). Japanese also has a distinctive use of passive to express that something bad or unwanted happened to the speaker — the 'suffering passive' (私は雨に降られた — 'I got rained on').",
+            "replacement": "Passive presents the subject as receiving an action or being affected by an event. Not every passive is adverse; indirect passives can convey unwanted experience. The letter example is read as an affected-owner passive consistently with the supplied English; permission and motive are not stated. 開けられた is an opened-door passive here, not the intransitive 開いた. Ichidan passive and potential share form, so context matters."
+          }
+        ],
+        "basis": "Passive praised narrator not praise owned by teacher; affected-owner letter reading consistent with supplied English, no invented lack of permission/motive. Opened door passive not intransitive self-opening. Godan u→wa exception and not all passives adversity."
+      }
+    ],
+    "review_note": "Pass134: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-causative-form": {
+    "formation": "Ichidan: remove る + させる. Godan: final u-row sound to a-row + せる; う → わせる. する → させる; 来る → 来させる (こさせる).",
+    "notes": "Causative expresses causing or allowing another to act. Force/permission is not mechanically determined by を versus に; verb transitivity and other arguments also matter. With transitive verbs the causee commonly takes に and the object を. In 子供を遊ばせました, を can still occur with the permissive reading let the children play. Teacher causes students to read; mother causes younger brother to eat vegetables.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "61948d9fe23e62d93e572ea5fbc57893a2dfde9a",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Ichidan: drop る, add させる. Godan: u-row → a-row + せる. Irregular: する → させる, くる → こさせる.",
+            "replacement": "Ichidan: remove る + させる. Godan: final u-row sound to a-row + せる; う → わせる. する → させる; 来る → 来させる (こさせる)."
+          },
+          {
+            "field": "notes",
+            "original": "The causative form expresses that the subject makes or lets someone else do an action. Ichidan verbs form it by dropping る and adding させる. Godan verbs change the u-row kana to the a-row and add せる. The distinction between 'make' (forced) and 'let' (permitted) depends on context and the particle marking the causee: を often implies force, に often implies permission.",
+            "replacement": "Causative expresses causing or allowing another to act. Force/permission is not mechanically determined by を versus に; verb transitivity and other arguments also matter. With transitive verbs the causee commonly takes に and the object を. In 子供を遊ばせました, を can still occur with the permissive reading let the children play. Teacher causes students to read; mother causes younger brother to eat vegetables."
+          }
+        ],
+        "basis": "Causative teacher makes students read, mother younger brother vegetables; not teacher/student slash or grandson eating generic food. Past play permission not present want. Ni/wo structural choice not reliable simple force/permission test; u→wa formation."
+      }
+    ],
+    "review_note": "Pass134: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-e765e86ce631": {
+    "formation": "A は B ほど + polite negative predicate. I-adjective: final い → くありません; na-adjective: stem + ではありません; verb: suitable negative polite form, e.g. 話せません. Do not append ありません directly to every verb/adjective.",
+    "notes": "A is lower in degree than the comparison standard B. Negative potential in the English-speaking example means not as well, not inability to speak at all. Preserve this/that restaurant, today/yesterday and she/he comparison directions.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "61948d9fe23e62d93e572ea5fbc57893a2dfde9a",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "A は B ほど Verb/adjective ありません",
+            "replacement": "A は B ほど + polite negative predicate. I-adjective: final い → くありません; na-adjective: stem + ではありません; verb: suitable negative polite form, e.g. 話せません. Do not append ありません directly to every verb/adjective."
+          },
+          {
+            "field": "notes",
+            "original": "The は B ほど～ありません grammar point is used to express that A is not as much as B or not to the same extent as B, emphasizing the difference. It can be translated as 'not as... as' or 'not... to the extent of' in English.",
+            "replacement": "A is lower in degree than the comparison standard B. Negative potential in the English-speaking example means not as well, not inability to speak at all. Preserve this/that restaurant, today/yesterday and she/he comparison directions."
+          }
+        ],
+        "basis": "Four comparative directions and negatives preserved: today less cold yesterday, his English below narrator not total inability, this restaurant cheaper than that not price rising, she less busy than him. Polite predicate formation corrected."
+      }
+    ],
+    "review_note": "Pass134: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-d9bd2f23ee54": {
+    "formation": "A は B ほど + negative predicate: i-adjective final い → くない; na-adjective stem + じゃない / ではない; suitable negative verb form, e.g. できない.",
+    "notes": "A does not reach B's degree of a property or performance. The predicate need not universally be a potential verb. 勉強ができない here compares academic performance with the narrator, not a first-person claim of being unable to study at all. Keep Yamada/Suzuki and this/that objects distinct.",
+    "examples": [
+      {
+        "ja": "山田さんは鈴木さんほど背が高くない。",
+        "en": "Yamada is not as tall as Suzuki.",
+        "romaji": "Yamada-san wa Suzuki-san hodo se ga takakunai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "このリンゴはあのリンゴほど甘くない。",
+        "en": "This apple is not as sweet as that apple.",
+        "romaji": "Kono ringo wa ano ringo hodo amakunai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼は私ほど勉強ができない。",
+        "en": "He is not as good at studying as I am.",
+        "romaji": "Kare wa watashi hodo benkyou ga dekinai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "このレストランはあのレストランほど静かじゃない。",
+        "en": "This restaurant is not as quiet as that restaurant.",
+        "romaji": "Kono resutoran wa ano resutoran hodo shizuka janai.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "61948d9fe23e62d93e572ea5fbc57893a2dfde9a",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "A は B ほど + い-Adjective stem (without い) + くない, な-Adjective + じゃない, Verb-negative potential form",
+            "replacement": "A は B ほど + negative predicate: i-adjective final い → くない; na-adjective stem + じゃない / ではない; suitable negative verb form, e.g. できない."
+          },
+          {
+            "field": "notes",
+            "original": "The A は B ほど～ない grammar point is used to express that A is not as ~ as B in some aspect. It can be translated as 'not as...as' in English. This structure is commonly used with い-adjectives (without い) and な-adjective. For verbs, you can use the negative potential form.",
+            "replacement": "A does not reach B's degree of a property or performance. The predicate need not universally be a potential verb. 勉強ができない here compares academic performance with the narrator, not a first-person claim of being unable to study at all. Keep Yamada/Suzuki and this/that objects distinct."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "He can't study as well as I can.",
+            "replacement": "He is not as good at studying as I am."
+          }
+        ],
+        "basis": "Yamada vs Suzuki height, this vs that apple sweetness and restaurant quietness; third person academic performance below narrator not first-person inability. Negative comparative not affirmation, verb predicate not restricted universally to potential."
+      }
+    ],
+    "review_note": "Pass134: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-c035728d5e85": {
+    "formation": "I-adjective final い → く + する / なる. Exception いい → よくする / よくなる.",
+    "notes": "する foregrounds bringing something into a state; なる foregrounds change of state and does not guarantee absence of human intervention. The final 滑りやすい compound inflects as an i-adjective. 辛くする means make spicy; 滑りやすくなる means become slippery, not destruction of the road.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "61948d9fe23e62d93e572ea5fbc57893a2dfde9a",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "い-Adjective (remove い) + く + する/なる",
+            "replacement": "I-adjective final い → く + する / なる. Exception いい → よくする / よくなる."
+          },
+          {
+            "field": "notes",
+            "original": "The い-Adjective く する/なる grammar point is used to indicate a change happening (naru) or intentionally making something change (suru). When using this grammatical structure, the い-adjective is changed to its く form, and then is followed by either する (to make the change) or なる (the change happens).",
+            "replacement": "する foregrounds bringing something into a state; なる foregrounds change of state and does not guarantee absence of human intervention. The final 滑りやすい compound inflects as an i-adjective. 辛くする means make spicy; 滑りやすくなる means become slippery, not destruction of the road."
+          }
+        ],
+        "basis": "Room brightness not size, face became red not static, dish spicy not smooth, rain makes road slippery not destroyed/narrow. Suru/naru change perspective and ii exception, final -yasui adjective."
+      }
+    ],
+    "review_note": "Pass134: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-cf1bb473d142": {
+    "formation": "Na-adjective stem + に + する / なる: きれいにする, 元気になる, 静かにする.",
+    "notes": "する can express bringing about or maintaining a state; なる presents a change without guaranteeing spontaneous occurrence. 静かにする here means keep quiet. The final original example uses 楽しい → 楽しくなる, an i-adjective くなる construction, not the na-adjective になる of the heading. It is retained as an explicitly identified contrast.",
+    "examples": [
+      {
+        "ja": "部屋をきれいにする。",
+        "en": "To make the room clean.",
+        "romaji": "Heya o kirei ni suru.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼は元気になりました。",
+        "en": "He became energetic.",
+        "romaji": "Kare wa genki ni narimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "毎日静かにすることが大切です。",
+        "en": "It is important to keep quiet every day.",
+        "romaji": "Mainichi shizuka ni suru koto ga taisetsu desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "日本語の勉強が楽しくなるように努力します。",
+        "en": "I will make an effort so that studying Japanese becomes enjoyable.",
+        "romaji": "Nihongo no benkyou ga tanoshiku naru you ni doryoku shimasu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "61948d9fe23e62d93e572ea5fbc57893a2dfde9a",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "な-Adjective + に + する/なる",
+            "replacement": "Na-adjective stem + に + する / なる: きれいにする, 元気になる, 静かにする."
+          },
+          {
+            "field": "notes",
+            "original": "The な-adjective に する/なる grammar point is used to express a change or a decision related to a na-adjective. The なる (naru) form indicates a change that occurs by itself, while the する (suru) form indicates a conscious decision made by someone.",
+            "replacement": "する can express bringing about or maintaining a state; なる presents a change without guaranteeing spontaneous occurrence. 静かにする here means keep quiet. The final original example uses 楽しい → 楽しくなる, an i-adjective くなる construction, not the na-adjective になる of the heading. It is retained as an explicitly identified contrast."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "It is important to make it quiet every day.",
+            "replacement": "It is important to keep quiet every day."
+          },
+          {
+            "field": "examples.3.en",
+            "original": "I will try to make studying Japanese become enjoyable.",
+            "replacement": "I will make an effort so that studying Japanese becomes enjoyable."
+          }
+        ],
+        "basis": "Cleaning action not obligation/desire, became energetic not static energy, daily quiet conduct important not must/forecast; effort toward enjoyable Japanese study not mere wish/help. Original final example is i-adjective not na-adjective explicitly identified without changing attribution."
+      }
+    ],
+    "review_note": "Pass134: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
