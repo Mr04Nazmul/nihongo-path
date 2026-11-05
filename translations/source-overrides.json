@@ -16881,5 +16881,352 @@
       }
     ],
     "review_note": "Pass135: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. One Japanese/romaji wording repair in hana-3b466fe773ac example2 is explicitly AI-authored from supplied English with exact original text retained. Other Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-179d529c349d": {
+    "meaning": "when an action has occurred / at the time of an action (relative temporal relation)",
+    "notes": "Vたとき locates the main event relative to another action and is not restricted to sentences about the past. Completion and sequence depend on the predicates and context. In example 1 (zero-based), the Japanese omits the subject of 遅刻していました; the old English selected he, but the exact late person cannot be recovered from this sentence alone. Neutral Bengali/Nepali preserve that omission; original context/native confirmation remains unresolved.",
+    "examples": [
+      {
+        "ja": "映画を見たときに、泣きました。",
+        "en": "When I watched the movie, I cried.",
+        "romaji": "Eiga wo mita toki ni, nakimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼に初めて会ったときに、遅刻していました。",
+        "en": "When I first met him, [someone] was already late. (The late person is not identified in Japanese.)",
+        "romaji": "Kare ni hajimete atta toki ni, chikoku shite imashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "日本へ行ったときに、たくさんの写真を撮りました。",
+        "en": "When I went to Japan, I took a lot of photos.",
+        "romaji": "Nihon e itta toki ni, takusan no shashin wo torimashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "友達が家に来たときに、ゲームをしました。",
+        "en": "When my friend came to my house, we played games.",
+        "romaji": "Tomodachi ga ie ni kita toki ni, geemu wo shimashita.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "199f51659c4ddc3f7d2bc500021785d964240ab6",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "Express an action or event that occurred at a specific time in the past; 'when', 'at the time'.",
+            "replacement": "when an action has occurred / at the time of an action (relative temporal relation)"
+          },
+          {
+            "field": "notes",
+            "original": "The たときに grammar point is used to express an action that happened at a specific time in the past, usually with a focus on a specific event or moment. It can be translated as 'when' or 'at the time' in English. This grammar point requires a verb in its た-form followed by ときに to indicate the time at which the action occurred.",
+            "replacement": "Vたとき locates the main event relative to another action and is not restricted to sentences about the past. Completion and sequence depend on the predicates and context. In example 1 (zero-based), the Japanese omits the subject of 遅刻していました; the old English selected he, but the exact late person cannot be recovered from this sentence alone. Neutral Bengali/Nepali preserve that omission; original context/native confirmation remains unresolved."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "When I first met him, he was late.",
+            "replacement": "When I first met him, [someone] was already late. (The late person is not identified in Japanese.)"
+          }
+        ],
+        "basis": "Temporal when not question when/location where; movie crying not stopping, first meeting lateness subject omitted, Japan photos and friend arrival games not narrator alone arrival/habit. Ta relative temporal relation not universally past. Original lateness context not recovered; neutral translations preserve omission."
+      }
+    ],
+    "review_note": "Pass136: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-5ce2b7367231": {
+    "notes": "ていただきたい expresses a humble wish to receive an action from another person, and can function as a request. The other person performs the copying, helping, guidance or escorting, not the speaker. It can be deferential but still direct about the wish; softness depends on context. 送る to a station does not specify a vehicle.",
+    "examples": [
+      {
+        "ja": "資料をコピーしていただきたいです。",
+        "en": "I would like you to make copies of the documents.",
+        "romaji": "Shiryou wo kopii shite itadakitai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この仕事を手伝っていただきたいのですが。",
+        "en": "I would like to ask for your assistance with this work.",
+        "romaji": "Kono shigoto wo tetsudatte itadakitai no desu ga.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "もしよろしければ、指導していただきたいです。",
+        "en": "If it is not too much trouble, I would like you to guide me.",
+        "romaji": "Moshi yoroshikereba, shidou shite itadakitai desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "駅まで送っていただきたいんですが。",
+        "en": "I would like you to take me as far as the station.",
+        "romaji": "Eki made okutte itadakitain desu ga.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "199f51659c4ddc3f7d2bc500021785d964240ab6",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The ていただきたい grammar point is used to express a polite request or a desire for someone to do something for you. It is formed by attaching いただきたい to the て-form of the verb. It is more polite than the て-form + ほしい construction.",
+            "replacement": "ていただきたい expresses a humble wish to receive an action from another person, and can function as a request. The other person performs the copying, helping, guidance or escorting, not the speaker. It can be deferential but still direct about the wish; softness depends on context. 送る to a station does not specify a vehicle."
+          },
+          {
+            "field": "examples.3.en",
+            "original": "I was wondering if you could give me a ride to the station.",
+            "replacement": "I would like you to take me as far as the station."
+          }
+        ],
+        "basis": "Humble wish for other person copies/help/guidance/escort, not narrator doing copy or guiding self. Moshi conditional courtesy preserved; no car gift, no past asking and no specified transport vehicle."
+      }
+    ],
+    "review_note": "Pass136: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-d9a0cb5d1763": {
+    "notes": "A negative potential question used as an affirmative request, not a prohibition. The requested performer can be marked by に. In example 2 (zero-based) the person in the next room is to be quiet; asking a separate intermediary is not explicitly encoded. 投函 is posting a letter, not writing it. Degree of deference remains contextual.",
+    "examples": [
+      {
+        "ja": "この手紙を投函していただけませんか。",
+        "en": "Could you please mail this letter for me?",
+        "romaji": "Kono tegami wo toukan shite itadakemasen ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この荷物を持っていただけませんか。",
+        "en": "Could you please carry this luggage for me?",
+        "romaji": "Kono nimotsu wo motte itadakemasen ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "隣の部屋にいる人に静かにしていただけませんか。",
+        "en": "Could the person in the next room please be quiet?",
+        "romaji": "Tonari no heya ni iru hito ni shizuka ni shite itadakemasen ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "説明書を読んでいただけませんか。",
+        "en": "Could you please read the instruction manual?",
+        "romaji": "Setsumeisho wo yonde itadakemasen ka.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "199f51659c4ddc3f7d2bc500021785d964240ab6",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The て いただけませんか grammar point is used to make a polite request to someone. It is a more polite form of て くれませんか, and can be translated as 'Could you please...' or 'Would you mind...' in English. To use it, change the verb to its て-form and add いただけませんか.",
+            "replacement": "A negative potential question used as an affirmative request, not a prohibition. The requested performer can be marked by に. In example 2 (zero-based) the person in the next room is to be quiet; asking a separate intermediary is not explicitly encoded. 投函 is posting a letter, not writing it. Degree of deference remains contextual."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "Could you please ask the person next door to be quiet?",
+            "replacement": "Could the person in the next room please be quiet?"
+          }
+        ],
+        "basis": "Negative question functions affirmative polite request. Mail not write/take letter, carry luggage not ask kind, read instruction manual not textbook. Next-room person performs quietness; English inserted asking intermediary not explicit in Japanese, corrected without adding Japanese."
+      }
+    ],
+    "review_note": "Pass136: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-d5f541083e48": {
+    "meaning": "be in the middle of an action at a reference time",
+    "notes": "Vているところ foregrounds the ongoing stage at the relevant time. It need not be the current speech moment: ところでした locates that ongoing stage in the past. ところ here is not a literal location. The cake is being made and the person will come soon, not already came or did not come.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "199f51659c4ddc3f7d2bc500021785d964240ab6",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "Describes an action that is currently happening; 'in the middle of', 'in the process of'.",
+            "replacement": "be in the middle of an action at a reference time"
+          },
+          {
+            "field": "notes",
+            "original": "The て いる ところ grammar point is used to express an action that is currently happening or taking place. It can be translated as 'in the middle of' or 'in the process of' in English. It is formed by using the て-form of a verb followed by いる and ところ.",
+            "replacement": "Vているところ foregrounds the ongoing stage at the relevant time. It need not be the current speech moment: ところでした locates that ongoing stage in the past. ところ here is not a literal location. The cake is being made and the person will come soon, not already came or did not come."
+          }
+        ],
+        "basis": "Progress stage at reference time not only current moment; past we watching preserved, homework not housework, children park not country middle. Cake not Coke, affirmative imminent coming not did not come."
+      }
+    ],
+    "review_note": "Pass136: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-c3ebb65cd380": {
+    "notes": "てくださいませんか is a deferential request formed as a negative question of くださる, asking for the action rather than prohibiting it. It can be more indirect than てください; tone and context affect softness. 明日お昼に is tomorrow at noon, without explicitly requiring a shared meal.",
+    "examples": [
+      {
+        "ja": "コーヒーを飲んでくださいませんか。",
+        "en": "Would you please drink some coffee?",
+        "romaji": "Koohii o nonde kudasaimasen ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "ドアを閉めてくださいませんか。",
+        "en": "Would you please close the door?",
+        "romaji": "Doa o shimete kudasaimasen ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "明日お昼に会ってくださいませんか。",
+        "en": "Would you please meet me tomorrow at noon?",
+        "romaji": "Ashita ohiru ni atte kudasaimasen ka.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "その資料を送ってくださいませんか。",
+        "en": "Would you please send me that document?",
+        "romaji": "Sono shiryou o okutte kudasaimasen ka.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "199f51659c4ddc3f7d2bc500021785d964240ab6",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The て くださいませんか grammar point is a polite way of asking someone for a favor or requesting them to do something. It is more formal than the simple て form followed by ください, and it is commonly used in more formal settings or when speaking to someone who is not close.",
+            "replacement": "てくださいませんか is a deferential request formed as a negative question of くださる, asking for the action rather than prohibiting it. It can be more indirect than てください; tone and context affect softness. 明日お昼に is tomorrow at noon, without explicitly requiring a shared meal."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "Would you please meet me at lunch tomorrow?",
+            "replacement": "Would you please meet me tomorrow at noon?"
+          }
+        ],
+        "basis": "Honorific request not narrator coffee desire/door spontaneously shut/negative inability; tomorrow noon meeting not necessarily lunch meal, that document not this. Negative question requests affirmative action."
+      }
+    ],
+    "review_note": "Pass136: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-23e139121702": {
+    "meaning": "someone honorifically does an action benefiting the speaker or speaker-aligned person",
+    "notes": "てくださる honors the actor and presents a beneficial action. Appreciation may be conveyed, but the construction is not itself an imperative or an explicit thank-you. 部長 is a department head, not prime minister. 送る to the station does not specify a vehicle.",
+    "examples": [
+      {
+        "ja": "先生が手伝ってくださる。",
+        "en": "The teacher kindly helps.",
+        "romaji": "Sensei ga tetsudatte kudasaru.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "お母さんが美味しい料理を作ってくださる。",
+        "en": "My mother kindly cooks delicious meals.",
+        "romaji": "Okaasan ga oishii ryouri wo tsukutte kudasaru.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "友達が私を駅まで送ってくださる。",
+        "en": "My friend kindly takes me as far as the station.",
+        "romaji": "Tomodachi ga watashi wo eki made okutte kudasaru.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "部長がすぐに質問に答えてくださる。",
+        "en": "The manager kindly answers the questions immediately.",
+        "romaji": "Buchou ga sugu ni shitsumon ni kotaete kudasaru.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "199f51659c4ddc3f7d2bc500021785d964240ab6",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "Expresses gratitude for receiving someone's favor; 'to kindly do'.",
+            "replacement": "someone honorifically does an action benefiting the speaker or speaker-aligned person"
+          },
+          {
+            "field": "notes",
+            "original": "The て くださる grammar point is used to express gratitude for receiving a favor or action from someone else. It is an honorific way to say that someone kindly does something for the speaker or the listener. The verb is conjugated to its ～て form and followed by くださる.",
+            "replacement": "てくださる honors the actor and presents a beneficial action. Appreciation may be conveyed, but the construction is not itself an imperative or an explicit thank-you. 部長 is a department head, not prime minister. 送る to the station does not specify a vehicle."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "My friend kindly gives me a ride to the station.",
+            "replacement": "My friend kindly takes me as far as the station."
+          }
+        ],
+        "basis": "Honorific benefit not imperative do please or mandatory explicit gratitude. Teacher helps not narrator helping teacher, mother cooks not parents eat, friend escorts narrator not just own trip, department head answers affirmative not PM unable to raise question. No specified vehicle."
+      }
+    ],
+    "review_note": "Pass136: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-437f229684df": {
+    "notes": "てくれませんか functions as an affirmative request for a beneficial action. Its negative question shape is not a request not to do it. Polite ます does not make it equally suitable for every relationship or imposition. 見る here is take a look, not ongoing surveillance; 迎えに来る is come to pick someone up.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "199f51659c4ddc3f7d2bc500021785d964240ab6",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The ～てくれませんか grammar point is used to ask someone politely to do something for you. It is formed by using the て-form of a verb followed by くれませんか. It translates to 'Could you please', 'Would you please', or 'Won't you' in English.",
+            "replacement": "てくれませんか functions as an affirmative request for a beneficial action. Its negative question shape is not a request not to do it. Polite ます does not make it equally suitable for every relationship or imposition. 見る here is take a look, not ongoing surveillance; 迎えに来る is come to pick someone up."
+          }
+        ],
+        "basis": "Affirmative requests open/look/help/come pick up tomorrow not inability or past seeing; look not ongoing surveillance. Nonpast request no assertion event already happened."
+      }
+    ],
+    "review_note": "Pass136: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-786b60b5dc50": {
+    "meaning": "humbly do an action for another person, honoring the beneficiary",
+    "notes": "Vてさしあげる is humble benefactive giving of an action, honoring its beneficiary. It can still sound as if imposing a favor depending on context, age and usage; honorification alone does not guarantee appropriateness. The examples concern tea preparation, message sending, a carrying offer and making a call, not answering a call.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "199f51659c4ddc3f7d2bc500021785d964240ab6",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "A polite way to express giving or doing something for someone.",
+            "replacement": "humbly do an action for another person, honoring the beneficiary"
+          },
+          {
+            "field": "notes",
+            "original": "The grammar point 'Verb て + さしあげる' is used to express the action of giving or doing something for someone in a polite manner. It is mainly used when the speaker is offering or doing something for someone of higher social status or showing respect towards the person. To form this expression, you need to conjugate the verb into its て-form and attach さしあげる.",
+            "replacement": "Vてさしあげる is humble benefactive giving of an action, honoring its beneficiary. It can still sound as if imposing a favor depending on context, age and usage; honorification alone does not guarantee appropriateness. The examples concern tea preparation, message sending, a carrying offer and making a call, not answering a call."
+          }
+        ],
+        "basis": "Humble benefactive doing not generic giving/desire/inability. Tea preparation, message sent past, carry offer question and make call not answer phone. Beneficiary omitted in Japanese not fabricated plural you; honorification does not guarantee social appropriateness."
+      }
+    ],
+    "review_note": "Pass136: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-6783b3958a37": {
+    "formation": "(Desired actor に) + Vて + もらいたい(です). The speaker desires the benefit; another person performs the action.",
+    "notes": "Expresses wanting another person to perform an action, not that the action is already done or that the other person themselves wants it. It can function as a request when addressed directly. The desired actor can be a third person, not necessarily the listener. Staff explain check-in to the speaker, not the speaker explaining to themselves.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "199f51659c4ddc3f7d2bc500021785d964240ab6",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-て-form + もらいたい",
+            "replacement": "(Desired actor に) + Vて + もらいたい(です). The speaker desires the benefit; another person performs the action."
+          },
+          {
+            "field": "notes",
+            "original": "The ～てもらいたい grammar point is used to express one's desire to receive a favor, service, or action from someone else. It is formed by attaching もらいたい to the て-form of verbs. This structure emphasizes the help or favor the speaker wants from someone else.",
+            "replacement": "Expresses wanting another person to perform an action, not that the action is already done or that the other person themselves wants it. It can function as a request when addressed directly. The desired actor can be a third person, not necessarily the listener. Staff explain check-in to the speaker, not the speaker explaining to themselves."
+          }
+        ],
+        "basis": "Desired benefit not gift grant or already completed action. Actor other person carries, he tells narrator news, friend teaches narrator Japanese, staff explains check-in; not self-explaining or staff inability. Desired actor not necessarily addressee."
+      }
+    ],
+    "review_note": "Pass136: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
