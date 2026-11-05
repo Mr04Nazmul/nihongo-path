@@ -15717,5 +15717,186 @@
       }
     ],
     "review_note": "Pass130: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-hazu-expected": {
+    "formation": "Plain-form verb / i-adjective + はず(です). Noun + のはず; na-adjective + なはず: 学生のはず, 静かなはず.",
+    "notes": "はず states an expectation derived from known facts or reasoning, not an obligation; the expectation can disagree with reality. はずがない / はずはない strongly deny that the proposition could hold. Do not translate an expected arrival as a command to arrive.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "63ad429f287d40b056c06494f0633cb317a51fae",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Plain-form verb/adjective/noun + はず(です). For nouns and na-adjectives, use の before はず: 学生のはず, 静かなはず.",
+            "replacement": "Plain-form verb / i-adjective + はず(です). Noun + のはず; na-adjective + なはず: 学生のはず, 静かなはず."
+          },
+          {
+            "field": "notes",
+            "original": "はず expresses the speaker's expectation based on reasoning or evidence — 'it should be' or 'it ought to be'. Unlike かもしれない (possibility), はず implies stronger certainty; unlike べき (obligation), はず is about expectation rather than what someone should do morally. The negative はずがない means 'there's no way that' — a strong denial.",
+            "replacement": "はず states an expectation derived from known facts or reasoning, not an obligation; the expectation can disagree with reality. はずがない / はずはない strongly deny that the proposition could hold. Do not translate an expected arrival as a command to arrive."
+          }
+        ],
+        "basis": "Hazu reasoned expectation not obligation; na-adjective na vs noun no source error corrected. Today affirmative expected arrival and tomorrow parcel not past negative; sonna-hazu-wa-nai strong denial."
+      }
+    ],
+    "review_note": "Pass131: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-te-wa-ikenai-prohibition": {
+    "formation": "Verb te-form + はいけない / はいけません. Casual ては → ちゃ (吸っちゃいけない / ちゃだめ); では → じゃ (飲んじゃいけない / じゃだめ).",
+    "notes": "Prohibits doing the action: must not / not allowed. This is not lack of necessity (do not have to). Casual contraction depends on whether the verb te-form ends in て or で.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "63ad429f287d40b056c06494f0633cb317a51fae",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-て + はいけない (polite: はいけません). Casual contraction: ちゃいけない, ちゃだめ.",
+            "replacement": "Verb te-form + はいけない / はいけません. Casual ては → ちゃ (吸っちゃいけない / ちゃだめ); では → じゃ (飲んじゃいけない / じゃだめ)."
+          },
+          {
+            "field": "notes",
+            "original": "てはいけない attaches the て-form of a verb to はいけない (polite: はいけません) to express prohibition — 'must not do X'. Casual speech often contracts it to ちゃいけない or ちゃだめ. It is used for rules, warnings, and firm prohibitions.",
+            "replacement": "Prohibits doing the action: must not / not allowed. This is not lack of necessity (do not have to). Casual contraction depends on whether the verb te-form ends in て or で."
+          }
+        ],
+        "basis": "Prohibition not no need, disbelief or absence of smoking/sleeping. Library talking and class-time sleeping prohibited. Both te/ de casual contractions retained accurately."
+      }
+    ],
+    "review_note": "Pass131: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-nakereba-naranai": {
+    "formation": "Replace the final い of the verb nai-form with ければならない: 行かない → 行かなければならない. Equivalently remove the entire ない and add なければならない. Polite なければなりません. Casual なきゃ, なくちゃ, ないと (with the understood negative conclusion omitted in suitable contexts).",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "63ad429f287d40b056c06494f0633cb317a51fae",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-ない-stem (drop い from ない-form) + なければならない. Common casual forms: なきゃ, なくちゃ, ないと.",
+            "replacement": "Replace the final い of the verb nai-form with ければならない: 行かない → 行かなければならない. Equivalently remove the entire ない and add なければならない. Polite なければなりません. Casual なきゃ, なくちゃ, ないと (with the understood negative conclusion omitted in suitable contexts)."
+          }
+        ],
+        "basis": "Obligation not wanting/mere advice. Correct duplicated na formation; wake early tomorrow not just morning, medicine taking, report submission within this week not start of year/publication."
+      }
+    ],
+    "review_note": "Pass131: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-ga-kedo-although": {
+    "notes": "が / けど / けれども connect contrasting clauses or soften a preface to a request or explanation. が is also common in polite conversation, not restricted to writing; けど is relatively informal. Present affirmative noun/na-adjective clauses retain the copula before the conjunction: 学生だけど. A strong contrast is not required in every use.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "63ad429f287d40b056c06494f0633cb317a51fae",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "が, けど, and けれども are conjunctions meaning 'but' or 'although'. They connect two clauses with a contrastive relationship. が is slightly more formal and written; けど is casual spoken; けれども is formal. They are also often used as soft sentence openers without a strong contrastive meaning — 'well…' or 'by the way…'.",
+            "replacement": "が / けど / けれども connect contrasting clauses or soften a preface to a request or explanation. が is also common in polite conversation, not restricted to writing; けど is relatively informal. Present affirmative noun/na-adjective clauses retain the copula before the conjunction: 学生だけど. A strong contrast is not required in every use."
+          }
+        ],
+        "basis": "Difficult but interesting; desire to go blocked by no time, not time affirmative invented quotation; costly past and glad bought not cost increased. Copula retained before kedo and soft-introduction use."
+      }
+    ],
+    "review_note": "Pass131: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-ni-naru-become": {
+    "formation": "Noun / na-adjective + に + なる. I-adjective: remove final い + くなる; 高い → 高くなる. いい → よくなる.",
+    "notes": "なる foregrounds a change of state; it does not guarantee that the change is natural, gradual or without human intervention. する foregrounds bringing something into a state. くなってきた presents change developing up to the present.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "63ad429f287d40b056c06494f0633cb317a51fae",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Noun/な-adj + に + なる. い-adj: drop い, add くなる.",
+            "replacement": "Noun / na-adjective + に + なる. I-adjective: remove final い + くなる; 高い → 高くなる. いい → よくなる."
+          },
+          {
+            "field": "notes",
+            "original": "なる means 'to become', expressing a natural or gradual change. For nouns and な-adjectives, the pattern is X + に + なる. For い-adjectives, drop い and add くなる (高い → 高くなる). The change is framed as happening on its own, as opposed to being caused by someone (for which use する).",
+            "replacement": "なる foregrounds a change of state; it does not guarantee that the change is natural, gradual or without human intervention. する foregrounds bringing something into a state. くなってきた presents change developing up to the present."
+          }
+        ],
+        "basis": "Become not likeness/static doctor or mere cold; change up to now te-kuru and improved Japanese not inability of Japan. Naru does not guarantee spontaneity/gradualness; ii→yoku formation."
+      }
+    ],
+    "review_note": "Pass131: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-owaru-finish": {
+    "formation": "Verb masu-stem + 終わる (godan), e.g. 読み終わる. Some compounds also use 終える (ichidan), e.g. やり終える.",
+    "notes": "A compound marks completing an action. Standalone 終わる is intransitive, but a compound such as 本を読み終わる retains the first verb's object. 終える is not a mechanical replacement in every compound. The final example requests a phone call after finishing the movie; the Japanese does not specify the recipient.",
+    "examples": [
+      {
+        "ja": "本を読み終わりました。",
+        "en": "I finished reading the book."
+      },
+      {
+        "ja": "宿題をやり終えた。",
+        "en": "I finished the homework. (plain)"
+      },
+      {
+        "ja": "映画を見終わったら、電話してください。",
+        "en": "Please call when you finish watching the movie."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "63ad429f287d40b056c06494f0633cb317a51fae",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb stem + 終わる (or + 終える for transitive nuance).",
+            "replacement": "Verb masu-stem + 終わる (godan), e.g. 読み終わる. Some compounds also use 終える (ichidan), e.g. やり終える."
+          },
+          {
+            "field": "notes",
+            "original": "終わる attached to a verb stem forms a compound meaning 'finish doing X'. It is the completion counterpart to 始める. The standalone verb 終わる means 'to end' or 'to be over'. Note that 終える (transitive) can also be used: verb-stem + 終える.",
+            "replacement": "A compound marks completing an action. Standalone 終わる is intransitive, but a compound such as 本を読み終わる retains the first verb's object. 終える is not a mechanical replacement in every compound. The final example requests a phone call after finishing the movie; the Japanese does not specify the recipient."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "Please call me when you finish watching the movie.",
+            "replacement": "Please call when you finish watching the movie."
+          }
+        ],
+        "basis": "Completion not starting to read; school homework not housework; conditional completion before call request restored. Japanese does not specify call recipient so unsupported me removed from English. Compound transitivity not standalone owaru rule."
+      }
+    ],
+    "review_note": "Pass131: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-yasui-easy": {
+    "meaning": "easy to do; also prone / likely to occur depending on context",
+    "formation": "Verb masu-stem + やすい; inflect as an i-adjective: やすくない, やすかった.",
+    "notes": "やすい can express ease of doing an action or a tendency for an event to occur. Ease can depend on an object, circumstances or the person; it is not solely an intrinsic property. The examples concern writing with a pen, understanding an explanation and walking in shoes, not generic ability or the price adjective 安い.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "63ad429f287d40b056c06494f0633cb317a51fae",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "easy to ___",
+            "replacement": "easy to do; also prone / likely to occur depending on context"
+          },
+          {
+            "field": "formation",
+            "original": "Verb stem + やすい",
+            "replacement": "Verb masu-stem + やすい; inflect as an i-adjective: やすくない, やすかった."
+          },
+          {
+            "field": "notes",
+            "original": "やすい attached to a verb stem creates an い-adjective meaning 'easy to do X'. It describes the intrinsic ease of doing something, often a property of the object of the action ('this pen is easy to write with').",
+            "replacement": "やすい can express ease of doing an action or a tendency for an event to occur. Ease can depend on an object, circumstances or the person; it is not solely an intrinsic property. The examples concern writing with a pen, understanding an explanation and walking in shoes, not generic ability or the price adjective 安い."
+          }
+        ],
+        "basis": "Ease/proneness not cheapness or bare ability. Pen instrument and shoes worn by walking person preserved not omitted/cause conjunction. Explanation easy to understand rather than merely simple."
+      }
+    ],
+    "review_note": "Pass131: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
