@@ -14954,5 +14954,133 @@
       }
     ],
     "review_note": "Pass125: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:made-ni": {
+    "notes": "までに marks a deadline by which an action must be completed, not necessarily the exact time of action. まで marks continuation up to an endpoint. A deadline can recur in a daily routine; one-time refers to the bounded completion, not an absolute ban on recurring contexts.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "0c9a59441f5a6d2fc3dd87a96a31a0957454b1a8",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "までに marks a deadline for a one-time action; まで marks how long something continues (六時まで働く).",
+            "replacement": "までに marks a deadline by which an action must be completed, not necessarily the exact time of action. まで marks continuation up to an endpoint. A deadline can recur in a daily routine; one-time refers to the bounded completion, not an absolute ban on recurring contexts."
+          }
+        ],
+        "basis": "Madeni deadline vs made duration, not exactly-at-six or never recurring. Report submit not receive, must return by6 not simple forecast, joint mountain descent invitation not command."
+      }
+    ],
+    "review_note": "Pass126: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:sasete-kudasai": {
+    "formation": "Causative て-form + ください. Group 1: remove ない from nai-form + せてください (払う→払わせてください). Group 2: drop final る + させてください. する→させてください; 来る→来させてください (こさせてください).",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "0c9a59441f5a6d2fc3dd87a96a31a0957454b1a8",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-nai stem + せてください (Group 1) / Verb-nai stem + させてください (Group 2)",
+            "replacement": "Causative て-form + ください. Group 1: remove ない from nai-form + せてください (払う→払わせてください). Group 2: drop final る + させてください. する→させてください; 来る→来させてください (こさせてください)."
+          }
+        ],
+        "basis": "Causative te permission for speaker, not make listener or already paid; godan/ichidan/suru/kuru formation. Think briefly, let me pay today, unwell go home early not just home or feeling fine."
+      }
+    ],
+    "review_note": "Pass126: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:sonkeigo": {
+    "notes": "Respects the person performing the action, not the speaker’s own action. In external-facing reports, consider in-group/out-group relationships rather than automatically honoring one’s own superior. Special masu forms include いらっしゃいます, おっしゃいます, なさいます and くださいます.",
+    "examples": [
+      {
+        "ja": "社長は何時ごろいらっしゃいますか。",
+        "furigana": "{社長|しゃちょう}は{何|なん}{時|じ}ごろいらっしゃいますか。",
+        "en": "Around what time will the company president be here?"
+      },
+      {
+        "ja": "先生、どうぞ召し上がってください。",
+        "furigana": "{先生|せんせい}、どうぞ{召|め}し{上|あ}がってください。",
+        "en": "Please have something to eat or drink, sensei."
+      },
+      {
+        "ja": "部長は会議でそうおっしゃいました。",
+        "furigana": "{部長|ぶちょう}は{会議|かいぎ}でそうおっしゃいました。",
+        "en": "The department manager said so at the meeting."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "0c9a59441f5a6d2fc3dd87a96a31a0957454b1a8",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Raises the actions of people you respect, such as customers, teachers and superiors. Never use it for your own actions.",
+            "replacement": "Respects the person performing the action, not the speaker’s own action. In external-facing reports, consider in-group/out-group relationships rather than automatically honoring one’s own superior. Special masu forms include いらっしゃいます, おっしゃいます, なさいます and くださいます."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "Please help yourself, sensei.",
+            "replacement": "Please have something to eat or drink, sensei."
+          }
+        ],
+        "basis": "Sonkeigo honors action subject, distinguishes own-side external reporting and special masu forms. Company president not national president, sensei invited eat/drink not help yourself literal aid or cinema, department manager not prime minister, past statement not decision."
+      }
+    ],
+    "review_note": "Pass126: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:kenjougo": {
+    "examples": [
+      {
+        "ja": "明日の午後、そちらに伺います。",
+        "furigana": "{明日|あした}の{午後|ごご}、そちらに{伺|うかが}います。",
+        "en": "I will come to your place tomorrow afternoon."
+      },
+      {
+        "ja": "初めまして。リンと申します。",
+        "furigana": "{初|はじ}めまして。リンと{申|もう}します。",
+        "en": "Nice to meet you. My name is Lin."
+      },
+      {
+        "ja": "お手紙、拝見しました。",
+        "furigana": "お{手紙|てがみ}、{拝見|はいけん}しました。",
+        "en": "I have read your letter."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "0c9a59441f5a6d2fc3dd87a96a31a0957454b1a8",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "I'll come to your office tomorrow afternoon.",
+            "replacement": "I will come to your place tomorrow afternoon."
+          }
+        ],
+        "basis": "Kenjougo own-side acts, recipient-oriented I vs formal listener-oriented II nuance. Tomorrow afternoon there no guaranteed office/noon, first meeting Lin, your letter read by speaker not my letter read by other. No fabricated native review."
+      }
+    ],
+    "review_note": "Pass126: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:o-ni-naru": {
+    "notes": "Use selectively with compatible verb stems; do not mechanically apply to one-mora stems such as 見る or 寝る. Special honorific verbs are generally preferred where established. Many Sino-Japanese する-nouns use ご + noun + になる, but prefix choice is lexical; not every する-noun takes ご.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "0c9a59441f5a6d2fc3dd87a96a31a0957454b1a8",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Not used with one-syllable stems (見る, 寝る) or verbs that have special forms (行く → いらっしゃる). する-nouns take ご + Noun + になる (ご利用になる).",
+            "replacement": "Use selectively with compatible verb stems; do not mechanically apply to one-mora stems such as 見る or 寝る. Special honorific verbs are generally preferred where established. Many Sino-Japanese する-nouns use ご + noun + になる, but prefix choice is lexical; not every する-noun takes ご."
+          }
+        ],
+        "basis": "O stem ninaru honors actor, not ordinary become, selective prefixes not blanket all suru/go nor absolute special-form ban. Teacher already returned not currently home now, this-book question, company president habitual hotel not presidential office forecast."
+      }
+    ],
+    "review_note": "Pass126: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }

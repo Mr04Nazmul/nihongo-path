@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 11692,
-  "pending_fields": 67486,
+  "ai_semantic_checked_fields": 11812,
+  "pending_fields": 67366,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 4598
+    "N4": 4718
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "nakanaka-nai",
+      "id": "o-suru",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "zutsu",
+      "id": "de-gozaimasu",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "zutsu",
+      "id": "de-gozaimasu",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "zutsu",
+      "id": "de-gozaimasu",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "zutsu",
+      "id": "de-gozaimasu",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "zutsu",
+      "id": "de-gozaimasu",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "zutsu",
+      "id": "de-gozaimasu",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "zutsu",
+      "id": "de-gozaimasu",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "zutsu",
+      "id": "de-gozaimasu",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass125: N4 grammar indices60–69:118 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected quoted negation scope and speaker opinionと思う, direct/indirectと言う teacher tomorrow test/older brother late/itadakimasu, しか negative excludes alternatives with ni and not universal insufficiency/wallet500yen/coffee-only drinks in morning, nounばかり concentration/girls/meat no vegetables/recent rainy days not yesterday, subjectiveたばかり recentness not only moments/new umbrella lost, ところ three phase formations/about to leave/cooking dinner not eating/just arrived station, やすいにくい ease/difficulty/tendency/pen instrument/explanation/fish bones, stem始める終わる続ける last-year guitar/book lend after reading not cash loan/three-hour walking pain not injury, inceptive出す baby sudden cry and sunny until moment ago then rain, ほどない correct comparison direction/liveliness not beauty/test less difficult past and not all uses of hodo negative. Five source entries received formation/notes corrections with exact old/new history. Original Japanese examples, stable IDs, level structure, tags, audio and attribution unchanged. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. No native-speaker certification. Resume N4 grammar index70."
+  "latest_pass": "Pass126: N4 grammar indices70–79:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected delayed/difficultなかなかない not positive presence or eternal impossibility, ずつ equal two apples per person/incremental daily kanji/one person not one room, emphaticも whole10hours yesterday/not approximation/50000yen not5000/not even1yen wallet, までに deadline versus duration and recurrence/by6 obligation/mountain invitation, occasionalことがある breakfast negation/snow impassable road not invisible/family cooking not eating, conversationalないといけないなくちゃ obligation and exact nai removal, causativeて permission think/let me pay/unwell go home early with irregular forms, 尊敬語 subject respect and social perspective/irregular masu/company president not state president/teacher hospitality not help-yourself literal aid/department manager not prime minister, 謙譲語 recipient-oriented versus formal own-side speech/tomorrow afternoon not noon/there not assumed office/Lin/your letter, おになる selective stem and lexical prefix restrictions rather than all suru-nouns go. Five source entries received formation/notes or English precision corrections with exact old/new history. Original Japanese examples, IDs, tags, levels, audio and attribution unchanged. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. No native-speaker certification. Resume N4 grammar index80."
 }
