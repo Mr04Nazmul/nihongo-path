@@ -15194,5 +15194,135 @@
       }
     ],
     "review_note": "Pass127: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:ku-suru-ni-suru": {
+    "notes": "くする/にする presents someone changing something to a state. くなる/になる foregrounds the change of state without asserting that it occurred without any human intervention.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "788ba38160e761bce12fb290e1d47933ed9b7397",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Someone deliberately changes something. Compare 〜くなる / 〜になる, where the change happens by itself.",
+            "replacement": "くする/にする presents someone changing something to a state. くなる/になる foregrounds the change of state without asserting that it occurred without any human intervention."
+          }
+        ],
+        "basis": "Transitive state change vs foregrounded naru result not necessarily spontaneous; volume down not off/on, guests forthcoming not arrived, hair changed short not merely was short and cutter unspecified."
+      }
+    ],
+    "review_note": "Pass128: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:kana-kashira": {
+    "formation": "Plain verb clause / i-adjective + かな or かしら; noun / na-adjective normally directly + かな or かしら (静かかな). Do not insert present copula だ directly as だかな.",
+    "notes": "Soft wondering or a question to oneself, sometimes directed to another person. かしら is conventionally feminine and can sound old-fashioned, not an exclusive rule about who may use it. ないかな can express a wish.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "788ba38160e761bce12fb290e1d47933ed9b7397",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-plain / i-Adj / na-Adj / Noun + かな / かしら",
+            "replacement": "Plain verb clause / i-adjective + かな or かしら; noun / na-adjective normally directly + かな or かしら (静かかな). Do not insert present copula だ directly as だかな."
+          },
+          {
+            "field": "notes",
+            "original": "A soft question, often said to oneself. かしら sounds feminine and a little old-fashioned. 〜ないかな can express a wish (早く来ないかな).",
+            "replacement": "Soft wondering or a question to oneself, sometimes directed to another person. かしら is conventionally feminine and can sound old-fashioned, not an exclusive rule about who may use it. ないかな can express a wish."
+          }
+        ],
+        "basis": "Kana/kashira wondering not knowing/definite statement, nominal connection. Sunny tomorrow not sunrise/eclipse, bought and brought snacks not ate them, outfit suits uncertainty retained."
+      }
+    ],
+    "review_note": "Pass128: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:te-kuremasen-ka-te-itadakemasen-ka": {
+    "notes": "Negative questions function as requests to do the action, not instructions not to do it. ていただけませんか is generally more deferential than てくれませんか; the force also depends on relationship, context and intonation.",
+    "examples": [
+      {
+        "ja": "すみません、写真を撮ってくれませんか。",
+        "furigana": "すみません、{写真|しゃしん}を{撮|と}ってくれませんか。",
+        "en": "Excuse me, could you take a photo?"
+      },
+      {
+        "ja": "この書類の書き方を教えていただけませんか。",
+        "furigana": "この{書類|しょるい}の{書|か}き{方|かた}を{教|おし}えていただけませんか。",
+        "en": "Could you please show me how to fill out this form?"
+      },
+      {
+        "ja": "もう少し大きい声で話していただけませんか。",
+        "furigana": "もう{少|すこ}し{大|おお}きい{声|こえ}で{話|はな}していただけませんか。",
+        "en": "Could you speak a little louder, please?"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "788ba38160e761bce12fb290e1d47933ed9b7397",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Softer than 〜てください. Politeness rises from 〜てくれませんか to 〜てもらえませんか to 〜ていただけませんか.",
+            "replacement": "Negative questions function as requests to do the action, not instructions not to do it. ていただけませんか is generally more deferential than てくれませんか; the force also depends on relationship, context and intonation."
+          },
+          {
+            "field": "examples.0.en",
+            "original": "Excuse me, could you take my picture?",
+            "replacement": "Excuse me, could you take a photo?"
+          }
+        ],
+        "basis": "Polite requests not inability/negative instruction, humble itadakemasenka typically more deferential not universal rank. Photo action requested not picture received, form how-to not plan failure, louder volume not stronger words."
+      }
+    ],
+    "review_note": "Pass128: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-noun-modifying-clause": {
+    "formation": "Plain-form clause + noun. A clause subject normally takes が, with の possible in suitable nominal modification; this is not a universal claim that all は contrasts are impossible. An i-adjective directly modifies a noun; a na-adjective takes な.",
+    "notes": "The modifying clause precedes its noun without an English-style relative pronoun. Clause and main-clause subjects can differ. In 昨日田中さんが作ったケーキ, Tanaka made the cake; do not omit the maker. Preserve the distinction between a town where one lives and an object one acts on.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "788ba38160e761bce12fb290e1d47933ed9b7397",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Plain-form clause (including any subject marked with が rather than は) + Noun. For i-adjectives, the plain form directly precedes the noun (高い本 — 'an expensive book'). For na-adjectives, insert な (静かな部屋).",
+            "replacement": "Plain-form clause + noun. A clause subject normally takes が, with の possible in suitable nominal modification; this is not a universal claim that all は contrasts are impossible. An i-adjective directly modifies a noun; a na-adjective takes な."
+          },
+          {
+            "field": "notes",
+            "original": "In Japanese, a full clause can modify a noun by being placed before it in plain form — there is no relative pronoun like 'which' or 'that'. For example, 昨日食べたケーキ literally 'yesterday-ate-cake' = 'the cake (that) I ate yesterday'. This is one of the most important structural differences from English and is essential for understanding longer sentences.",
+            "replacement": "The modifying clause precedes its noun without an English-style relative pronoun. Clause and main-clause subjects can differ. In 昨日田中さんが作ったケーキ, Tanaka made the cake; do not omit the maker. Preserve the distinction between a town where one lives and an object one acts on."
+          }
+        ],
+        "basis": "Pre-nominal plain clauses with ordinary ga and possible no, not absolute ban on contrast/topic structures. Tanaka maker retained, past delicious cake, quiet home town, friend gives narrator book narrator reading not friend reading mine."
+      }
+    ],
+    "review_note": "Pass128: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-jidoushi-tadoushi": {
+    "formation": "Transitive object pattern: agent が/は + object を + verb. Intransitive event pattern: event subject が/は + verb. Transitive/intransitive pairs: 開ける/開く, 閉める/閉まる, 始める/始まる, 出す/出る, 入れる/入る, 上げる/上がる, 下げる/下がる, 消す/消える, 付ける/付く, 落とす/落ちる, 止める/止まる, 集める/集まる. Perception contrasts: 見る/見える and 聞く/聞こえる distinguish attending/perceiving from being visible/audible.",
+    "notes": "Transitivity is structural: a transitive verb has an object; an intransitive event foregrounds its subject without specifying an external agent. Intransitive does not guarantee spontaneous occurrence and is not passive voice. Subject can be topicalized with は. Not every を marks an object: path or departure を can accompany intransitive motion verbs. 見える/聞こえる are separate perception verbs, not merely the potential inflections of 見る/聞く.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "788ba38160e761bce12fb290e1d47933ed9b7397",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Common pairs (transitive / intransitive): 開ける/開く, 閉める/閉まる, 始める/始まる, 出す/出る, 入れる/入る, 上げる/上がる, 下げる/下がる, 見る/見える, 聞く/聞こえる, 消す/消える, 付ける/付く, 落とす/落ちる, 止める/止まる, 集める/集まる.",
+            "replacement": "Transitive object pattern: agent が/は + object を + verb. Intransitive event pattern: event subject が/は + verb. Transitive/intransitive pairs: 開ける/開く, 閉める/閉まる, 始める/始まる, 出す/出る, 入れる/入る, 上げる/上がる, 下げる/下がる, 消す/消える, 付ける/付く, 落とす/落ちる, 止める/止まる, 集める/集まる. Perception contrasts: 見る/見える and 聞く/聞こえる distinguish attending/perceiving from being visible/audible."
+          },
+          {
+            "field": "notes",
+            "original": "Japanese has many verb pairs where one form is transitive (an agent acts on something) and the other is intransitive (something happens on its own). The distinction is structural: transitive verbs take を for their object; intransitive verbs take が for the thing undergoing the action. Learning the pair patterns is essential to reading comprehension and to using the 〜ている / 〜てある state-of-affairs distinction correctly.",
+            "replacement": "Transitivity is structural: a transitive verb has an object; an intransitive event foregrounds its subject without specifying an external agent. Intransitive does not guarantee spontaneous occurrence and is not passive voice. Subject can be topicalized with は. Not every を marks an object: path or departure を can accompany intransitive motion verbs. 見える/聞こえる are separate perception verbs, not merely the potential inflections of 見る/聞く."
+          }
+        ],
+        "basis": "Transitivity object structure not all spontaneous or passive, ga/wa subject vs wo object and path-wo exception. Perceptual pairs not causative change pairs or mere potential inflections. Narrator opened transitive past vs door opened intransitive, switch light off not on/future; stray edit marker removed."
+      }
+    ],
+    "review_note": "Pass128: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }

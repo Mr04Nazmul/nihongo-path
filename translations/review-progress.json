@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 11930,
-  "pending_fields": 67248,
+  "ai_semantic_checked_fields": 12050,
+  "pending_fields": 67128,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 4836
+    "N4": 4956
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "sa",
+      "id": "supp-o-v-kudasai-polite-honor",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "me",
+      "id": "supp-sonkeigo-reru-rareru",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "me",
+      "id": "supp-sonkeigo-reru-rareru",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "me",
+      "id": "supp-sonkeigo-reru-rareru",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "me",
+      "id": "supp-sonkeigo-reru-rareru",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "me",
+      "id": "supp-sonkeigo-reru-rareru",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "me",
+      "id": "supp-sonkeigo-reru-rareru",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "me",
+      "id": "supp-sonkeigo-reru-rareru",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "me",
+      "id": "supp-sonkeigo-reru-rareru",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass127: N4 grammar indices80–89:118 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected humbleおする speaker-side directed action with selective prefix/offer carry heavy not difficult or obligation/escort to station not see there, formalでございます restroom not restaurant and room key/Yamada shop identification, ても構わない permission and accepting higher price not negation/dictionary/tomorrow response allowed, nominalのこと choice hobby definition versus explanatoryのです/photo-taking/old movies/forgot lock not open or simply close, ばよかった past regret not future hope or ability/negative regret scope and formation, たらどう prospective suggestions not past questions, ほうがいい advice not categorical duty and negativeない/copies in advance, とかなど non-exhaustive examples/fridge eggs milk/days off/Kyoto Nara not Nepal/tea offer, suggestionでも free time not necessarily boredom/coffee joint break/rain home game. Five source entries received formation/notes or English precision corrections with exact old/new history. Original Japanese examples, stable IDs, tags, levels, audio, licenses and attribution unchanged. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. No native-speaker certification. Resume N4 grammar index90."
+  "latest_pass": "Pass128: N4 grammar indices90–99:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected adjectiveさ nominal degree and bridge length not duration, ordinal目 third from right/second Japan visit/second corner left, おき interval15minutes/alternate days not daily/5meters not kilometers and trees on both sides, くするにする volume down not TVoff/on/guests forthcoming/shortened hair not static and naru not necessarily spontaneous, sensoryがする kitchen source/strange outside sound/slightly sweet tea, かなかしら wondering not knowing or eclipse and snacks bought+brought, negative-question benefactive requests photo not specified my portrait/form instructions/louder voice not stronger words, ないで no breakfast/umbrella rain soaked not collapse/stairs joint ascent not must, noun-modifying clause preserved Tanaka maker/friend gift narrator reading and relative syntax not absolute ga-only, transitive/intransitive all change pairs retained and perception contrasts separated/no universal self-occurrence or passive/ga-wa subject and motion-path wo exception/door opened vs narrator opened/light off. Five source entries received formation/notes or English precision corrections with exact old/new history. Original Japanese examples, stable IDs, level structure, tags, audio, licenses and attribution unchanged. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. No native-speaker certification. Resume N4 grammar index100."
 }
