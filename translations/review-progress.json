@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 12170,
-  "pending_fields": 67008,
+  "ai_semantic_checked_fields": 12290,
+  "pending_fields": 66888,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 5076
+    "N4": 5196
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-itadaku-humble-verb",
+      "id": "supp-darou-deshou-conjecture",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kudasaru-honorific-verb",
+      "id": "supp-hazu-expected",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kudasaru-honorific-verb",
+      "id": "supp-hazu-expected",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kudasaru-honorific-verb",
+      "id": "supp-hazu-expected",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kudasaru-honorific-verb",
+      "id": "supp-hazu-expected",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kudasaru-honorific-verb",
+      "id": "supp-hazu-expected",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kudasaru-honorific-verb",
+      "id": "supp-hazu-expected",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kudasaru-honorific-verb",
+      "id": "supp-hazu-expected",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kudasaru-honorific-verb",
+      "id": "supp-hazu-expected",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass129: N4 grammar indices100–109:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Honorific direct requests and lexical prefix selection; passive-shaped honorific agent vs patient and potential context; demonstrative kinds/discourse reference and experiential meeting; giving water/food not drinking flowers/eating dog and younger brother school homework; irregular honorific masu formation corrected from false i deletion; tomorrow affirmative guest arrival not today negative, teacher clock-time/speech questions, document request/already that movie and simultaneous screen watching/listening; company head exercises not generic work, customer future action without unsupported wanting, original kaeri-nasai example explicitly marked separate construction; mairu humbleII listener deference and train announcements not necessary superior destination, Tokyo origin and imminent not completed arrival; mousu humbleII vs moushiageru humbleI not simple formality ladder. Eight source entries corrected with exact old/new history, including one English precision correction. Original Japanese examples, stable IDs, source draft labels, audio, level structure, licenses and attribution preserved. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. AI semantic review, no native-speaker certification. Resume N4 grammar index110."
+  "latest_pass": "Pass130: N4 grammar indices110–119:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected humble receiving/eating/drinking and pre-meal greeting, removed irrelevant religious label and unsupported letter sender; honorific giving agent and speaker-side recipient, company head not national president, book given not read and letter gratitude; understanding Japanese not Japan and both negative examples including total negation; ability affirmative driving and question not inability, meal readiness not universal suru-koto substitution; audible distant music, affirmative Fuji visibility and quiet-not-silent voice negative, deliberate perception opportunities vs visibility; dakara causal result not adversative or obligation, early bedtime not morning; sorede delayed train and consequent late arrival, yesterday past bedtime and what-did-you-do question; sorekara breakfast then school, bread plus milk without gift and prospective homework then sleep; shikashi match held in rain, young yet experienced, studied yet narrator failed; soredemo obligation to continue and refusal to give up not wanting fatigue or surrender. Six source entries corrected with exact source history, including four English example precision corrections. Original Japanese examples, stable IDs, source draft labels, level structure, audio, licenses and attribution preserved. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. AI semantic review, no native-speaker certification. Resume N4 grammar index120."
 }

@@ -15499,5 +15499,223 @@
       }
     ],
     "review_note": "Pass129: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-itadaku-humble-verb": {
+    "formation": "いただく → いただきます; te-form いただいて. Potential いただける → いただけますか (May I have ...?).",
+    "notes": "いただく can express receiving, eating or drinking humbly, depending on context. いただきます is the conventional expression of gratitude before eating; its social function is not exhausted by a literal translation. お手紙 does not by itself identify the sender as the listener. The benefactive auxiliary ていただく is covered separately.",
+    "examples": [
+      {
+        "ja": "いただきます。",
+        "en": "I humbly receive (this meal). (pre-meal greeting)"
+      },
+      {
+        "ja": "お手紙をいただきました。",
+        "en": "I received a letter. (humble)"
+      },
+      {
+        "ja": "お茶をいただけますか。",
+        "en": "May I have some tea?"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "8bd30ec05345d7354a79091da75282721d4a7944",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Plain: いただく. Polite: いただきます.",
+            "replacement": "いただく → いただきます; te-form いただいて. Potential いただける → いただけますか (May I have ...?)."
+          },
+          {
+            "field": "notes",
+            "original": "いただく is the humble (謙譲語) verb that covers three closely related meanings: (1) to receive, as humble of もらう; (2) to eat, as humble of 食べる; (3) to drink, as humble of 飲む. The pre-meal greeting いただきます comes from sense (2) — literally 'I humbly receive / eat'. The polite form いただきます is by far the most common form. See also the auxiliary 〜ていただく covered separately.",
+            "replacement": "いただく can express receiving, eating or drinking humbly, depending on context. いただきます is the conventional expression of gratitude before eating; its social function is not exhausted by a literal translation. お手紙 does not by itself identify the sender as the listener. The benefactive auxiliary ていただく is covered separately."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I received your letter. (humble)",
+            "replacement": "I received a letter. (humble)"
+          }
+        ],
+        "basis": "Receiving/eating/drinking humble verb and potential request. Pre-meal greeting not welcoming food or invented quotation; received letter not instruction to receive my letter; source does not specify your sender, no religious label."
+      }
+    ],
+    "review_note": "Pass130: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-kudasaru-honorific-verb": {
+    "meaning": "(honorific) someone gives to me / us / someone on my side",
+    "notes": "くださる is the honorific counterpart of くれる and honors the giver; the receiver is the speaker or someone on the speaker's side. It is not restricted to a person of higher rank. Polite くださいます (irregular final り → い before ます), te-form くださって, imperative ください. てくださる expresses doing a favor. 社長 here is a company head.",
+    "examples": [
+      {
+        "ja": "先生が本をくださいました。",
+        "en": "The teacher kindly gave me a book."
+      },
+      {
+        "ja": "社長がお花をくださった。",
+        "en": "The company president kindly gave me flowers."
+      },
+      {
+        "ja": "お手紙をくださってありがとうございます。",
+        "en": "Thank you for kindly giving me a letter."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "8bd30ec05345d7354a79091da75282721d4a7944",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "(honorific) (someone superior) gives to me / us",
+            "replacement": "(honorific) someone gives to me / us / someone on my side"
+          },
+          {
+            "field": "notes",
+            "original": "くださる is the dedicated honorific (尊敬語) verb replacing くれる when the giver is a superior. Like other irregular honorific verbs, its polite form is irregular: くださいます (not くださります). The imperative ください ('please') is derived from this verb and is extremely common. The auxiliary 〜てくださる (honorific of 〜てくれる) describes a superior doing a favor for the speaker.",
+            "replacement": "くださる is the honorific counterpart of くれる and honors the giver; the receiver is the speaker or someone on the speaker's side. It is not restricted to a person of higher rank. Polite くださいます (irregular final り → い before ます), te-form くださって, imperative ください. てくださる expresses doing a favor. 社長 here is a company head."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "The president (kindly) gave me flowers.",
+            "replacement": "The company president kindly gave me flowers."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "Thank you for kindly sending me a letter.",
+            "replacement": "Thank you for kindly giving me a letter."
+          }
+        ],
+        "basis": "Giver honored and recipient speaker/in-group, not exclusively superior. Book given not read; company head not national president; thank donor for letter not receiving thanks. Irregular masu conjugation explicit."
+      }
+    ],
+    "review_note": "Pass130: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-ga-wakaru": {
+    "meaning": "understand / be clear (the understood topic normally marked with が in this basic pattern)",
+    "formation": "(Person は) + understood topic が + わかる / わかります. Negative: わからない / わかりません.",
+    "notes": "Use が for the understood topic in this basic pattern. This is not a universal particle ban across all potential or understanding expressions. わかる concerns understanding or becoming clear; 知る concerns acquiring knowledge, with 知っている normally expressing an existing state of knowing. Preserve negative わからない and emphatic 全然わかりません.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "8bd30ec05345d7354a79091da75282721d4a7944",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "understand (object takes が, not を)",
+            "replacement": "understand / be clear (the understood topic normally marked with が in this basic pattern)"
+          },
+          {
+            "field": "formation",
+            "original": "(Subject は) + Object が + わかる / わかります. Negative: わからない / わかりません.",
+            "replacement": "(Person は) + understood topic が + わかる / わかります. Negative: わからない / わかりません."
+          },
+          {
+            "field": "notes",
+            "original": "わかる ('understand / know / be clear') takes its object with が, NOT を. This is because わかる is syntactically intransitive — 'X は Y が わかる' literally means 'as for X, Y is understandable'. The same が-marking applies to できる, 好き / 嫌い, 見える, and 聞こえる. Note that わかる is distinct from 知る ('know (a fact)'), which DOES take を.",
+            "replacement": "Use が for the understood topic in this basic pattern. This is not a universal particle ban across all potential or understanding expressions. わかる concerns understanding or becoming clear; 知る concerns acquiring knowledge, with 知っている normally expressing an existing state of knowing. Preserve negative わからない and emphatic 全然わかりません."
+          }
+        ],
+        "basis": "Understanding language not meaning of Japan. Two negatives and total negation preserved. Basic ga pattern, not universal particle prohibition; wakaru vs shiru state distinction."
+      }
+    ],
+    "review_note": "Pass130: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-ga-dekiru": {
+    "meaning": "can do / be possible; also be completed / ready",
+    "formation": "Ability: (Person は) + activity noun が + できる / できます. Negative: できない / できません. Completion: thing が + できた / できました.",
+    "notes": "できる can express ability, possibility or something becoming ready/created. In its ability use it relates to する, but it cannot always be replaced by することができる: ご飯ができました means the meal is ready, not can do a meal. The が-marked basic patterns here do not impose a universal prohibition on を in every potential construction.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "8bd30ec05345d7354a79091da75282721d4a7944",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "can do / is possible (object takes が, not を)",
+            "replacement": "can do / be possible; also be completed / ready"
+          },
+          {
+            "field": "formation",
+            "original": "(Subject は) + Object が + できる / できます. Negative: できない / できません.",
+            "replacement": "Ability: (Person は) + activity noun が + できる / できます. Negative: できない / できません. Completion: thing が + できた / できました."
+          },
+          {
+            "field": "notes",
+            "original": "できる is the 'can do' verb that takes its object with が, not を. It can express (1) ability to do X (日本語ができる 'can do (speak) Japanese'), (2) the completion / creation of something (ご飯ができた 'the meal is ready'), or (3) possibility. It is the potential form of する and can always be substituted for the より-explicit 〜することができる pattern.",
+            "replacement": "できる can express ability, possibility or something becoming ready/created. In its ability use it relates to する, but it cannot always be replaced by することができる: ご飯ができました means the meal is ready, not can do a meal. The が-marked basic patterns here do not impose a universal prohibition on を in every potential construction."
+          }
+        ],
+        "basis": "Ability questions affirmative not inability/frequency; drive affirmative. Meal ready is completion sense, invalid universal suru-koto substitution removed; basic ga-marked activity vs resultant subject."
+      }
+    ],
+    "review_note": "Pass130: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-ga-kikoeru-mieru": {
+    "meaning": "be audible / be visible (sound or sight reaching an observer)",
+    "formation": "(Observer には) + audible / visible thing が + 聞こえる / 見える. Negative: 聞こえない / 見えない.",
+    "notes": "聞こえる / 見える describe being audible / visible to an observer; environmental and sensory conditions matter. 聞ける / 見られる can instead express an opportunity or conditions permitting deliberate listening / viewing, not only physical ear/eye ability. They are not freely interchangeable in every context. 小さい声 is a quiet or low-volume voice, not complete silence.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "8bd30ec05345d7354a79091da75282721d4a7944",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "is audible / is visible (spontaneous perception; object takes が)",
+            "replacement": "be audible / be visible (sound or sight reaching an observer)"
+          },
+          {
+            "field": "formation",
+            "original": "(Subject には) + Object が + 聞こえる / 見える.",
+            "replacement": "(Observer には) + audible / visible thing が + 聞こえる / 見える. Negative: 聞こえない / 見えない."
+          },
+          {
+            "field": "notes",
+            "original": "聞こえる ('be audible / can be heard') and 見える ('be visible / can be seen') express spontaneous perception — something reaches the observer without active effort. They take their object (the audible / visible thing) with が. Distinct from the potential forms 聞ける / 見られる, which express ability (the ability to hear/see something). Roughly: 聞こえる = 'I can hear it (it's loud enough)'; 聞ける = 'I have the ability to hear it (e.g., my ears work)'.",
+            "replacement": "聞こえる / 見える describe being audible / visible to an observer; environmental and sensory conditions matter. 聞ける / 見られる can instead express an opportunity or conditions permitting deliberate listening / viewing, not only physical ear/eye ability. They are not freely interchangeable in every context. 小さい声 is a quiet or low-volume voice, not complete silence."
+          }
+        ],
+        "basis": "Audible/visible state and conditions/opportunity vs deliberate potential, no exclusive physiological ability claim. Distance origin, affirmative Fuji visibility and quiet-not-silent negative restored."
+      }
+    ],
+    "review_note": "Pass130: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-sorede-and-then": {
+    "notes": "それで connects a preceding situation with its result, or prompts continuation of a story. It is not merely interchangeable with temporal それから. In the third example どうしましたか asks what the addressee did next. The first example describes a delayed train causing late arrival at the meeting.",
+    "examples": [
+      {
+        "ja": "電車が遅れました。それで、会議に遅刻しました。",
+        "en": "The train was delayed. As a result, I was late to the meeting."
+      },
+      {
+        "ja": "昨日は疲れていました。それで、早く寝ました。",
+        "en": "I was tired yesterday. So I went to bed early."
+      },
+      {
+        "ja": "それで、どうしましたか。",
+        "en": "And then, what did you do?"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "8bd30ec05345d7354a79091da75282721d4a7944",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "それで is a sentence-initial conjunction meaning 'and then / so / as a result'. It connects a previous event or reason to a consequent event or action, but with a more narrative / sequential feel than だから. Often used to introduce the next step in a story or to prompt someone to continue ('and then?'). More neutral tone than だから.",
+            "replacement": "それで connects a preceding situation with its result, or prompts continuation of a story. It is not merely interchangeable with temporal それから. In the third example どうしましたか asks what the addressee did next. The first example describes a delayed train causing late arrival at the meeting."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "And then, what happened?",
+            "replacement": "And then, what did you do?"
+          }
+        ],
+        "basis": "Resultative connector not merely sequence; delayed train not cancelled, arrival late not meeting held late. Yesterday past early bedtime not today/morning; dou-shimashita action question more exact than generic what happened."
+      }
+    ],
+    "review_note": "Pass130: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
