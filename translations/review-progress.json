@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 12530,
-  "pending_fields": 66648,
+  "ai_semantic_checked_fields": 12650,
+  "pending_fields": 66528,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 5436
+    "N4": 5556
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-kureru-give-toward",
+      "id": "supp-kedomo-formal-but",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-morau-receive",
+      "id": "supp-you-ka-to-omou",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-morau-receive",
+      "id": "supp-you-ka-to-omou",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-morau-receive",
+      "id": "supp-you-ka-to-omou",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-morau-receive",
+      "id": "supp-you-ka-to-omou",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-morau-receive",
+      "id": "supp-you-ka-to-omou",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-morau-receive",
+      "id": "supp-you-ka-to-omou",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-morau-receive",
+      "id": "supp-you-ka-to-omou",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-morau-receive",
+      "id": "supp-you-ka-to-omou",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass132: N4 grammar indices130–139:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Difficulty of reading writing/eating meat/taking medicine not harshness or impossibility and zurai not universally stronger; unrelated political Nepali garu text removed, younger brother cold even summer not son/grandson, woman wants child and dog walk, adjective compatibility/current versus habitual signs and no compulsory garu for every third-person feeling; method nouns and kanji-writing request/sushi know-how/individual Japanese study methods; before teeth brushing/handwashing/Japan arrival study with order restored and relative tense qualified; after meal walk/school library/work then invitation drinking, corrected reversed comparative te-kara guidance; personal decision tomorrow daily exercise and sweets negative self-rule not white food/wish, naru not morphological passive; arranged job transfer to Tokyo not India, shoes off before entry and next-week meeting with agency de-emphasized not impossible; nasai authority commands wake/homework/vegetables not first-person statements and no inherent gentleness; shi spacious quiet room/both time-money negative/headache fever rest today not unrelated psychiatry, polite forms and no guaranteed hidden reasons; ageru donor-recipient roles friend gift/dog feeding/this to you not own gift/eating dog food/self recipient, third-party giving and contextual respect. Nine source entries corrected with exact old/new history including one English precision correction. Original Japanese examples, stable IDs, source draft labels, level structure, audio, licenses and attribution preserved. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. AI semantic review, no native-speaker certification. Resume N4 grammar index140."
+  "latest_pass": "Pass133: N4 grammar indices140–149:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Kureru friend/teacher/younger sister give narrator book/pen and narrator ongoing reading, not author/child abandonment; morau receiver narrator teacher-source letter not reverse, birthday cake not Coke; humbleI action recipient not necessarily listener, lexical prefix exceptions and lend not borrow/textbook study, future call not received call and guide not wanting to look around; tai-to-omou sustained wishes Japan/new job/future doctor not completed action or fabricated quotation; baai fire affirmative press not prohibition, question raise hand not extend and lateness mandatory contact restored without unsupported us; past tsumori intention not habitual action and non-realization not guaranteed, tired yesterday slept vs coming circumstances/breakfast intention; past hazu expectation not desire/confirmed arrival/obligation, expected rain yesterday actual clear not eclipse; te-itadaku teacher explains narrator benefits not narrator explains, affirmative wait request and thanks for teaching not Friday; temo concession going/buying despite rain/price and habitual no weight gain despite eating not inability, actual/hypothetical context; like cats and he dislikes natto fermented soy food not NATO or narrator, Japanese study strong liking not mere desire. Nine source entries corrected with exact old/new history including three English precision corrections. Original Japanese examples, stable IDs, source draft labels, level structure, audio, licenses and attribution preserved. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. AI semantic review, no native-speaker certification. Resume N4 grammar index150."
 }

@@ -16127,5 +16127,240 @@
       }
     ],
     "review_note": "Pass132: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-kureru-give-toward": {
+    "formation": "Giver が/は + (receiver に) + thing を + くれる / くれます. Honorific くださる → くださいます (irregular final り → い before ます).",
+    "notes": "くれる presents giving toward the speaker or someone on the speaker's side; that receiver is often omitted. くださる honors the giver, not only persons of higher rank. In the second example the teacher gave the book and the narrator is reading it.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "99f398137cf5872c23dd04990d8bb3f29a28899d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Plain verb くれる (polite: くれます); honorific: くださる (polite: くださいます — irregular, note the final います not りまする).",
+            "replacement": "Giver が/は + (receiver に) + thing を + くれる / くれます. Honorific くださる → くださいます (irregular final り → い before ます)."
+          },
+          {
+            "field": "notes",
+            "original": "くれる is the verb 'give' used when the giver is someone else and the receiver is the speaker or in-group. The receiver (often 私) is commonly implied and omitted. The honorific form くださる is used when the giver is a superior. Parallel to あげる (outward direction) but from the opposite perspective.",
+            "replacement": "くれる presents giving toward the speaker or someone on the speaker's side; that receiver is often omitted. くださる honors the giver, not only persons of higher rank. In the second example the teacher gave the book and the narrator is reading it."
+          }
+        ],
+        "basis": "Giver friend/teacher/younger sister, recipient narrator, book reading ongoing and specific pen preserved; not friend desire to read, writer changing writing, or child abandonment. Honorific giver not rank-only; irregular masu typo corrected."
+      }
+    ],
+    "review_note": "Pass133: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-morau-receive": {
+    "notes": "もらう presents receiving from the receiver's perspective: receiver が/は, giver に/から, thing を. Humble いただく honors the giver from the receiving perspective, not only a superior in rank. In the second example the narrator received a letter from the teacher, not the reverse.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "99f398137cf5872c23dd04990d8bb3f29a28899d",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "もらう is the verb 'receive', used from the receiver's perspective in a giving transaction. The giver takes に or から; the receiver is the subject. Humble form いただく is used when receiving from superiors. Together with あげる and くれる, もらう completes the Japanese giving-verb system — each verb takes a different perspective on the same kind of event.",
+            "replacement": "もらう presents receiving from the receiver's perspective: receiver が/は, giver に/から, thing を. Humble いただく honors the giver from the receiving perspective, not only a superior in rank. In the second example the narrator received a letter from the teacher, not the reverse."
+          }
+        ],
+        "basis": "Receive not give; source teacher retained as giver, no unsupported plural teachers; birthday cake not Coke/owning cake. Receiver-subject and giver-ni/kara, humble sender honor clarified."
+      }
+    ],
+    "review_note": "Pass133: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-humble-o-suru": {
+    "meaning": "humble expression of one's own / in-group action honoring the person toward whom it is directed",
+    "formation": "お + suitable verb masu-stem + する (お貸しする, お書きする); ご + suitable suru-noun + する (ご案内する, ご説明する). Prefix choice has lexical exceptions, e.g. お電話する. Not every verb admits this pattern.",
+    "notes": "お/ご〜する is humbleI: it honors the person associated with the direction or recipient of the action, who need not be the listener. It may describe the speaker's or an in-group member's act. Do not mechanically assign お/ご solely by etymology. 貸す is lend, not borrow.",
+    "examples": [
+      {
+        "ja": "先生に本をお貸しします。",
+        "en": "I will lend the book to my teacher."
+      },
+      {
+        "ja": "後で、お電話します。",
+        "en": "I will call later."
+      },
+      {
+        "ja": "ご案内します。",
+        "en": "I will guide you."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "99f398137cf5872c23dd04990d8bb3f29a28899d",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "humble form: I will do X (for a superior)",
+            "replacement": "humble expression of one's own / in-group action honoring the person toward whom it is directed"
+          },
+          {
+            "field": "formation",
+            "original": "お + V ます-stem + する (native verbs): お貸しする, お書きする. ご + Sino-Japanese noun + する: ご案内する, ご説明する.",
+            "replacement": "お + suitable verb masu-stem + する (お貸しする, お書きする); ご + suitable suru-noun + する (ご案内する, ご説明する). Prefix choice has lexical exceptions, e.g. お電話する. Not every verb admits this pattern."
+          },
+          {
+            "field": "notes",
+            "original": "お〜する is the 謙譲語 (humble) form for the speaker's own actions when speaking to or about a superior. It lowers the speaker to elevate the listener. Like the honorific お〜ください, the お vs ご distinction tracks native vs Sino-Japanese roots. Common in business contexts for everyday actions — 'I'll call you', 'I'll explain'.",
+            "replacement": "お/ご〜する is humbleI: it honors the person associated with the direction or recipient of the action, who need not be the listener. It may describe the speaker's or an in-group member's act. Do not mechanically assign お/ご solely by etymology. 貸す is lend, not borrow."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I will call you later.",
+            "replacement": "I will call later."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "I will show you around.",
+            "replacement": "I will guide you."
+          }
+        ],
+        "basis": "HumbleI honors action recipient not necessarily listener, lexical prefix exceptions including o-denwa. Lend book to teacher not study textbook, later make call not received call, guide not desire to look around. Japanese call/guide recipient unspecified, no invented location tour."
+      }
+    ],
+    "review_note": "Pass133: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-tai-to-omou-want-to-think": {
+    "notes": "たいと思う frames a wish as a thought or intention and often softens direct たい. It does not mechanically signal doubt or guarantee greater politeness in every situation. たいと思っている can express a maintained wish rather than an already completed act.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "99f398137cf5872c23dd04990d8bb3f29a28899d",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "〜たいと思う softens the direct 〜たい by framing it as something the speaker 'thinks'. Literally 'think I want to do X', functionally 'I'd like to do X'. Less direct and more polite than bare 〜たい. The progressive form 〜たいと思っている expresses a sustained wish ('I've been wanting to'). Commonly appears in self-introductions, plans, and polite expressions of preference.",
+            "replacement": "たいと思う frames a wish as a thought or intention and often softens direct たい. It does not mechanically signal doubt or guarantee greater politeness in every situation. たいと思っている can express a maintained wish rather than an already completed act."
+          }
+        ],
+        "basis": "Wish/intention not invented quotation, found job for me, or already became doctor. Japan destination, new job search sustained desire, future becoming not completed action; softening contextual."
+      }
+    ],
+    "review_note": "Pass133: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-ba-ai-in-case": {
+    "examples": [
+      {
+        "ja": "火事の場合、このボタンを押してください。",
+        "en": "In case of fire, press this button."
+      },
+      {
+        "ja": "質問がある場合、手を挙げてください。",
+        "en": "If you have questions, please raise your hand."
+      },
+      {
+        "ja": "遅れる場合は、必ず連絡してください。",
+        "en": "If you are going to be late, be sure to make contact."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "99f398137cf5872c23dd04990d8bb3f29a28899d",
+        "corrections": [
+          {
+            "field": "examples.2.en",
+            "original": "If you're going to be late, please contact (us).",
+            "replacement": "If you are going to be late, be sure to make contact."
+          }
+        ],
+        "basis": "Fire conditional press affirmative not do-not-press; raise hand not extend hand, lateness and mandatory contact retained, unsupported us removed from EN. Bai case not certainty, nominal/na links correct."
+      }
+    ],
+    "review_note": "Pass133: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-tsumori-datta-had-intended": {
+    "formation": "Dictionary form + つもりだった / つもりでした. Negative intention: nai-form + つもりだった.",
+    "notes": "A past-held intention, not a habitual would-do action. It often suggests the plan was not carried out, but the form alone does not guarantee non-realization. Vたつもり means believing one has done something; an error in that belief is possible but not built into every use.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "99f398137cf5872c23dd04990d8bb3f29a28899d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "V plain non-past + つもりだった / つもりでした.",
+            "replacement": "Dictionary form + つもりだった / つもりでした. Negative intention: nai-form + つもりだった."
+          },
+          {
+            "field": "notes",
+            "original": "〜つもりだった is the past form of つもり (intention), expressing an intention held at a past moment — 'I had intended to do X'. Often implies the intention was NOT carried out, with an adversative follow-up ('I was going to, but...'). Distinct from 〜たつもり, which means 'thought I did X' (mistaken belief about having done something).",
+            "replacement": "A past-held intention, not a habitual would-do action. It often suggests the plan was not carried out, but the form alone does not guarantee non-realization. Vたつもり means believing one has done something; an error in that belief is possible but not built into every use."
+          }
+        ],
+        "basis": "Past intention not habitual would study/sleep or started school that day. Yesterday fatigue then sleep, intended coming but circumstances changed, breakfast intended. V-ta-tsumori belief not necessarily lexically mistaken."
+      }
+    ],
+    "review_note": "Pass133: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-hazu-datta-was-supposed": {
+    "notes": "はずだった expresses an expectation held in the past, based on reasoning or known facts. Non-realization is a frequent implication, not entailed in every isolated sentence. It is not the speaker's desire or an obligation. The last example contrasts expected rain yesterday with actual clear weather.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "99f398137cf5872c23dd04990d8bb3f29a28899d",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "〜はずだった is the past form of はず (expectation), expressing that an outcome was expected but did NOT occur. Often implies surprise, disappointment, or contradiction with reality. Commonly paired with のに or が/けど for the unexpected reality clause. Distinct from はずがない ('there's no way').",
+            "replacement": "はずだった expresses an expectation held in the past, based on reasoning or known facts. Non-realization is a frequent implication, not entailed in every isolated sentence. It is not the speaker's desire or an obligation. The last example contrasts expected rain yesterday with actual clear weather."
+          }
+        ],
+        "basis": "Past expectation not present wanting/confirmed arrival or obligation. Exam expected easy not direct inability; yesterday expected rain but actual sunny, not actual rain or eclipse. Non-realization is common implication not universal entailment."
+      }
+    ],
+    "review_note": "Pass133: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-te-itadaku-polite-favor-received": {
+    "formation": "Receiver は/が + favor-doer に + Vて + いただく / いただきます. Requests: ていただけますか / ていただけませんか.",
+    "notes": "ていただく is the humble counterpart of てもらう and honors the favor-doer from the receiving perspective. In 先生に説明していただきました the teacher explains and the speaker benefits. Request questions ask the other person to perform the action; their degree of politeness depends on context, not a fixed universal softest-form ranking.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "99f398137cf5872c23dd04990d8bb3f29a28899d",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "V-て + いただく (polite: いただきます). Request form: 〜ていただけますか / 〜ていただけませんか.",
+            "replacement": "Receiver は/が + favor-doer に + Vて + いただく / いただきます. Requests: ていただけますか / ていただけませんか."
+          },
+          {
+            "field": "notes",
+            "original": "〜ていただく is the humble-form version of 〜てもらう, used when the favor-doer is a superior or in formal contexts. It is essential in business and polite Japanese. The request form 〜ていただけますか ('could you kindly do X?') is very commonly used in customer service, formal requests, and polite inquiries — it is widely considered one of the softest/most polite ways to ask for something.",
+            "replacement": "ていただく is the humble counterpart of てもらう and honors the favor-doer from the receiving perspective. In 先生に説明していただきました the teacher explains and the speaker benefits. Request questions ask the other person to perform the action; their degree of politeness depends on context, not a fixed universal softest-form ranking."
+          }
+        ],
+        "basis": "Benefactive humble receive teacher explanation not narrator explaining to teacher, request wait affirmative not unable; teaching thanks not Friday. Giver-ni receiver-topic roles and context-sensitive request politeness."
+      }
+    ],
+    "review_note": "Pass133: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-v-temo-even-if": {
+    "meaning": "even if / even though (concession with hypothetical or actual circumstances)",
+    "notes": "ても presents a concession: the following statement holds despite the preceding circumstance. Context can be hypothetical or factual, not exclusively counterfactual. This is distinct from permission てもいい. いくら食べても concerns however much one eats, not the maximum amount one is able to eat.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "99f398137cf5872c23dd04990d8bb3f29a28899d",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "even if / even though (hypothetical or counterfactual contrast)",
+            "replacement": "even if / even though (concession with hypothetical or actual circumstances)"
+          },
+          {
+            "field": "notes",
+            "original": "〜ても is a hypothetical concessive — 'even if X, (still) Y'. It expresses that the main clause holds regardless of the 〜ても clause. Distinct from the related 〜てもいい (permission — covered separately as te-mo-ii-permission) in that the meaning here is concessive, not permissive. Commonly paired with interrogatives or emphatic words: いくら〜ても ('no matter how much'), どんなに〜ても ('no matter how').",
+            "replacement": "ても presents a concession: the following statement holds despite the preceding circumstance. Context can be hypothetical or factual, not exclusively counterfactual. This is distinct from permission てもいい. いくら食べても concerns however much one eats, not the maximum amount one is able to eat."
+          }
+        ],
+        "basis": "Concession preserves main clause going/buying despite rain/price. Non-gaining weight habitual negative despite eating not inability to eat or cause. Te-mo factual/hypothetical uses not exclusively counterfactual; permission separate."
+      }
+    ],
+    "review_note": "Pass133: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
