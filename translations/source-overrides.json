@@ -14546,5 +14546,185 @@
       }
     ],
     "review_note": "Pass122: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:noni-although": {
+    "notes": "Expresses an unexpected outcome despite a factual premise, often with surprise, disappointment or complaint. In this concessive linking use, a direct request or command normally does not follow. Distinguish purpose のに and sentence-final のに.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "a508d89d39a394409567cfc658b375c40b78d153",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Carries surprise, disappointment or complaint. The main clause cannot be a request or intention; use けど or ても there.",
+            "replacement": "Expresses an unexpected outcome despite a factual premise, often with surprise, disappointment or complaint. In this concessive linking use, a direct request or command normally does not follow. Distinguish purpose のに and sentence-final のに."
+          }
+        ],
+        "basis": "Concessive factual noni versus purpose noni; nominal na and past/negative forms. Hard study yet exam failure, Sunday obligation not Friday wish, promised but did not come with past negation."
+      }
+    ],
+    "review_note": "Pass123: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:node": {
+    "notes": "Presents a reason as an explanation and often sounds softer than から in polite explanations or apologies. This is a pragmatic tendency, not a guarantee of objective truth. Polite です/ます + ので also occurs.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "a508d89d39a394409567cfc658b375c40b78d153",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Sounds softer and more objective than から, so it is preferred when giving reasons politely or apologizing.",
+            "replacement": "Presents a reason as an explanation and often sounds softer than から in polite explanations or apologies. This is a pragmatic tendency, not a guarantee of objective truth. Polite です/ます + ので also occurs."
+          }
+        ],
+        "basis": "Node reason as explanatory/soft tendency not proof of objectivity, nominal na versus past/negative, polite node possible. Headache early return not morning habitual, tomorrow exam leads tonight study not inability, crowded traffic not long roads."
+      }
+    ],
+    "review_note": "Pass123: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:te-reason": {
+    "examples": [
+      {
+        "ja": "ニュースを聞いて、びっくりしました。",
+        "furigana": "ニュースを{聞|き}いて、びっくりしました。",
+        "en": "I was surprised to hear the news."
+      },
+      {
+        "ja": "このスープは熱くて、飲めません。",
+        "furigana": "このスープは{熱|あつ}くて、{飲|の}めません。",
+        "en": "This soup is too hot to drink."
+      },
+      {
+        "ja": "かぜで学校を休みました。",
+        "furigana": "かぜで{学校|がっこう}を{休|やす}みました。",
+        "en": "I missed school because I had a cold."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "a508d89d39a394409567cfc658b375c40b78d153",
+        "corrections": [
+          {
+            "field": "examples.2.en",
+            "original": "I stayed home from school with a cold.",
+            "replacement": "I missed school because I had a cold."
+          }
+        ],
+        "basis": "Causal te/de rather than arbitrary sequence; negative nakute and adjective ii irregular. News heard causes surprise, hot soup inability preserved, cold illness not cold temperature and missed school not attended; Japanese does not establish staying home."
+      }
+    ],
+    "review_note": "Pass123: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:shi": {
+    "examples": [
+      {
+        "ja": "この部屋は広いし、駅から近いし、とても気に入っています。",
+        "furigana": "この{部屋|へや}は{広|ひろ}いし、{駅|えき}から{近|ちか}いし、とても{気|き}に{入|い}っています。",
+        "en": "This room is spacious and close to the station, so I really like it."
+      },
+      {
+        "ja": "今日は雨だし、疲れているし、どこにも行きたくない。",
+        "furigana": "{今日|きょう}は{雨|あめ}だし、{疲|つか}れているし、どこにも{行|い}きたくない。",
+        "en": "It's raining and I'm tired, so I don't want to go anywhere today."
+      },
+      {
+        "ja": "もう遅いし、そろそろ帰ろうか。",
+        "furigana": "もう{遅|おそ}いし、そろそろ{帰|かえ}ろうか。",
+        "en": "It's getting late, so shall we head home?"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "a508d89d39a394409567cfc658b375c40b78d153",
+        "corrections": [
+          {
+            "field": "examples.0.en",
+            "original": "This apartment is spacious and close to the station, so I really like it.",
+            "replacement": "This room is spacious and close to the station, so I really like it."
+          }
+        ],
+        "basis": "Shi additive reasons and implied further reasons, nominal dashi with past/negative/polite. Room spacious not special, station proximity, rain+tired no desire anywhere, suggestion head home not claim already returned."
+      }
+    ],
+    "review_note": "Pass123: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:tame-ni": {
+    "formation": "Purpose: verb dictionary form + ために; noun + のために. Cause: plain verb (including past/negative) or i-adjective + ために; na-adjective + なために; noun + のために.",
+    "notes": "Purpose describes a goal of deliberate action; verbal purpose clauses normally share a subject. Noun + のために can name a beneficiary, as with family. Causal ために is relatively formal. Do not apply the noun connector の after verbs.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "a508d89d39a394409567cfc658b375c40b78d153",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-dict / Verb-ta / Noun + の + ために",
+            "replacement": "Purpose: verb dictionary form + ために; noun + のために. Cause: plain verb (including past/negative) or i-adjective + ために; na-adjective + なために; noun + のために."
+          },
+          {
+            "field": "notes",
+            "original": "For purpose, the verb must be something the subject can control (compare 〜ように). The 'because of' use sounds fairly formal.",
+            "replacement": "Purpose describes a goal of deliberate action; verbal purpose clauses normally share a subject. Noun + のために can name a beneficiary, as with family. Causal ために is relatively formal. Do not apply the noun connector の after verbs."
+          }
+        ],
+        "basis": "Tame purpose volitional dictionary form vs beneficiary noun no vs formal causal broader plain forms; avoid faulty slash implying verb+no or past-purpose. Studying for admission not already enrolled, family beneficiary, heavy snow caused train stoppage not accident."
+      }
+    ],
+    "review_note": "Pass123: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:you-ni": {
+    "notes": "Emphasizes a desired result or state, frequently with potential forms, state verbs and negatives. Subjects of the two clauses can differ. Compare deliberate-goal ために; do not treat the distinction as an absolute ban on all volitional verbs before ように.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "a508d89d39a394409567cfc658b375c40b78d153",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "Used with verbs the subject can't directly control: potential forms, 分かる, 見える, negatives. For deliberate actions use ために.",
+            "replacement": "Emphasizes a desired result or state, frequently with potential forms, state verbs and negatives. Subjects of the two clauses can differ. Compare deliberate-goal ために; do not treat the distinction as an absolute ban on all volitional verbs before ように."
+          }
+        ],
+        "basis": "Youni desired result rather than rigid impossible-with-volitional rule, separate subjects allowed. Back listeners also hear via loud speech, note actually written on hand to avoid forgetting not inability to forget, warm sleep to avoid illness not abstract thinking."
+      }
+    ],
+    "review_note": "Pass123: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:you-ni-naru": {
+    "examples": [
+      {
+        "ja": "練習して、自転車に乗れるようになりました。",
+        "furigana": "{練習|れんしゅう}して、{自転車|じてんしゃ}に{乗|の}れるようになりました。",
+        "en": "After practicing, I became able to ride a bike."
+      },
+      {
+        "ja": "日本に来てから、朝ご飯を食べるようになった。",
+        "furigana": "{日本|にほん}に{来|き}てから、{朝|あさ}ご{飯|はん}を{食|た}べるようになった。",
+        "en": "Since coming to Japan, I've started eating breakfast."
+      },
+      {
+        "ja": "赤ちゃんが少しずつ話せるようになってきた。",
+        "furigana": "{赤|あか}ちゃんが{少|すこ}しずつ{話|はな}せるようになってきた。",
+        "en": "The baby is gradually becoming able to talk."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "a508d89d39a394409567cfc658b375c40b78d153",
+        "corrections": [
+          {
+            "field": "examples.2.en",
+            "original": "Our baby is gradually learning to talk.",
+            "replacement": "The baby is gradually becoming able to talk."
+          }
+        ],
+        "basis": "Youninaru change in ability/habit not just general learn and not intentional try. Practiced bicycle not motorcycle, breakfast habit after arriving Japan not schoolmeal, baby developing speech with gradual tekita not nation or obligation; parentage not specified."
+      }
+    ],
+    "review_note": "Pass123: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
