@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 11454,
-  "pending_fields": 67724,
+  "ai_semantic_checked_fields": 11574,
+  "pending_fields": 67604,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 4360
+    "N4": 4480
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "te-hoshii",
+      "id": "to-omou",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tagaru",
+      "id": "to-iu-say",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tagaru",
+      "id": "to-iu-say",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tagaru",
+      "id": "to-iu-say",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tagaru",
+      "id": "to-iu-say",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tagaru",
+      "id": "to-iu-say",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tagaru",
+      "id": "to-iu-say",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tagaru",
+      "id": "to-iu-say",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "tagaru",
+      "id": "to-iu-say",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass123: N4 grammar indices40–49:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed against original Japanese and English. Corrected concessive versus purpose のに, Sunday work obligation versus wish/Friday, failed exam and unkept promise, useful traveling bag/20-minute walk/approximately100000yen past moving cost, headache early return/traffic congestion and explanatoryので, causalて hot soup inability/cold illness school absence not attendance, additiveし spacious room not special and no desire to go anywhere, contrast versus backgroundけど route question and unanswered calls, purpose/beneficiary/causalために formation not verb+no or past-purpose, desired-resultように not absolute ban on volitional verbs, effort/habitようにする not ability/command/guarantee, changeようになる practiced bicycle not motorcycle/breakfast since Japan/baby speech development without invented parentage. Seven source entries received guidance/formation or English sense precision corrections with exact old/new history. Original Japanese, stable IDs, tags, audio, level structure and attribution unchanged. Historical unresolved source contexts and external native-speaker review remain unresolved; no native-speaker certification. Resume N4 grammar index50."
+  "latest_pass": "Pass124: N4 grammar indices50–59:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected てほしい other-person/event desire and no disclosure, observedたがる/がる rather than narrator desire and adjective compatibility, younger brother/sister and son bicycle, grandmother loneliness not mother and inability to meet grandchildren, possibilityかもしれない not fixed50percent or certainty, だろう sunny weather not sunrise/eclipse and already home past conjecture, reasonedはず expectation not duty/infallibility and ten-year residence not ten-years-ago, strongはずがない denial about open state not inability/permission to open, explanatoryんです pallor and delayed trains, embedded polarかどうか versus interrogativeか including clothing try-on/restaurant taste/meeting exact time/wallet not bag/window breaker. Six source entries received source meaning/formation/guidance corrections, exact old/new history preserved. Original Japanese examples, IDs, levels, tags, audio and attribution unchanged. One new unresolved Bengali grandmother-lineage context recorded with both alternatives retained; original context not recovered. Historical unresolved context and external native-speaker review remain; no native-speaker certification. Resume N4 grammar index60."
 }

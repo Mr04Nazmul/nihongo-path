@@ -14726,5 +14726,137 @@
       }
     ],
     "review_note": "Pass123: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:te-hoshii": {
+    "meaning": "want someone to do; wish for an event to happen",
+    "notes": "The desired performer can be marked with に. The construction can also express a wish for an event, as in 春が来てほしい. It can sound demanding to a superior; 〜ていただきたいです is more polite.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "aeb17462e3239bd21be8e8596f02f703631069f2",
+        "corrections": [
+          {
+            "field": "meaning",
+            "original": "want someone to do",
+            "replacement": "want someone to do; wish for an event to happen"
+          },
+          {
+            "field": "notes",
+            "original": "The person you want to act is marked with に. Said to a superior it can sound demanding; 〜ていただきたいです is more polite.",
+            "replacement": "The desired performer can be marked with に. The construction can also express a wish for an event, as in 春が来てほしい. It can sound demanding to a superior; 〜ていただきたいです is more polite."
+          }
+        ],
+        "basis": "Tehoshii speaker desire for another act or event, unlike own tai. Slow speech desired not speaker speaking to you, no telling anyone with negative scope, spring soon not light or repeated arrival."
+      }
+    ],
+    "review_note": "Pass124: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:garu": {
+    "formation": "Compatible i-adjectives: drop final い + がる (怖い→怖がる, 寂しい→寂しがる, ほしい→ほしがる); some na-adjective stems + がる (嫌がる). Not productive with every adjective.",
+    "notes": "Describes outward signs or behavior associated with feelings, commonly of others. Current states often use がっている. A target or desired object can take を; do not assume every feeling has an obligatory を object.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "aeb17462e3239bd21be8e8596f02f703631069f2",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "i-Adj stem / na-Adj + がる",
+            "replacement": "Compatible i-adjectives: drop final い + がる (怖い→怖がる, 寂しい→寂しがる, ほしい→ほしがる); some na-adjective stems + がる (嫌がる). Not productive with every adjective."
+          },
+          {
+            "field": "notes",
+            "original": "Turns feeling adjectives (怖い, 寂しい, ほしい) into verbs describing how others seem to feel. The object of the feeling takes を.",
+            "replacement": "Describes outward signs or behavior associated with feelings, commonly of others. Current states often use がっている. A target or desired object can take を; do not assume every feeling has an obligatory を object."
+          }
+        ],
+        "basis": "Lexically compatible feeling adjectives, not arbitrary adjective suffix; object commonly wo. Younger sister not brother/son, grandmother not mother with inability to meet grandchildren causing loneliness, son wants bicycle not own motorbike. Grandmother lineage is absent in Japanese; Bengali retains both dadi/nani alternatives and records unresolved original context."
+      }
+    ],
+    "review_note": "Pass124: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:kamo-shirenai": {
+    "formation": "Plain verb / i-adjective + かもしれない; noun / na-adjective: omit present affirmative だ. Retain past or negative copula forms (学生だったかもしれない, 学生ではないかもしれない).",
+    "notes": "Expresses a possibility without certainty; it does not encode a fixed numerical percentage. Polite form かもしれません; casual abbreviation かも.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "aeb17462e3239bd21be8e8596f02f703631069f2",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-plain / i-Adj / na-Adj / Noun + かもしれない",
+            "replacement": "Plain verb / i-adjective + かもしれない; noun / na-adjective: omit present affirmative だ. Retain past or negative copula forms (学生だったかもしれない, 学生ではないかもしれない)."
+          },
+          {
+            "field": "notes",
+            "original": "About 50% certainty or less. In casual speech it is often shortened to かも.",
+            "replacement": "Expresses a possibility without certainty; it does not encode a fixed numerical percentage. Polite form かもしれません; casual abbreviation かも."
+          }
+        ],
+        "basis": "Kamoshirenai possibility not fixed percentage, retained past/negative but omitted nominal present da. Afternoon onward rain, missing keys possibly dropped inside train not returning, story may be true not definitely true."
+      }
+    ],
+    "review_note": "Pass124: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:darou": {
+    "formation": "Plain verb / i-adjective + だろう; noun / na-adjective: omit present affirmative だ. Past and negative forms remain (着いただろう, 学生ではないだろう).",
+    "notes": "Expresses conjecture about past, present or future; でしょう is polite. Also used to seek confirmation with suitable intonation. Writing and casual speech use it; it is not restricted to men.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "aeb17462e3239bd21be8e8596f02f703631069f2",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-plain / i-Adj / na-Adj / Noun + だろう",
+            "replacement": "Plain verb / i-adjective + だろう; noun / na-adjective: omit present affirmative だ. Past and negative forms remain (着いただろう, 学生ではないだろう)."
+          },
+          {
+            "field": "notes",
+            "original": "Common in writing and in men's casual speech; でしょう is the polite form. Often used with たぶん or きっと, or as 〜だろうと思う.",
+            "replacement": "Expresses conjecture about past, present or future; でしょう is polite. Also used to seek confirmation with suitable intonation. Writing and casual speech use it; it is not restricted to men."
+          }
+        ],
+        "basis": "Darou conjecture not only future and not gender restriction, copula and past/negative formation. Sunny/clear weather not sunrise or eclipse, already arrived woman not future going, children not country, hard not necessarily beyond all ability."
+      }
+    ],
+    "review_note": "Pass124: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hazu-da": {
+    "notes": "Strong expectation based on known facts, reasoning or memory, not duty or an order. The expectation may conflict with reality; 置いたはずなのに expresses such a discrepancy.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "aeb17462e3239bd21be8e8596f02f703631069f2",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "A confident expectation based on facts or logic, not a guess. It does not mean 'should' as a duty.",
+            "replacement": "Strong expectation based on known facts, reasoning or memory, not duty or an order. The expectation may conflict with reality; 置いたはずなのに expresses such a discrepancy."
+          }
+        ],
+        "basis": "Hazu reasoned/memory-based expectation not duty nor infallible fact. Package tomorrow not must, lived ten years not ten years ago or necessarily still living, past keys placed here with discrepancy not desire to lock."
+      }
+    ],
+    "review_note": "Pass124: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:ka-dou-ka": {
+    "formation": "Plain verb / i-adjective + かどうか; noun / na-adjective: omit present affirmative だ. Retain past and negative forms (学生だったかどうか, 学生ではないかどうか).",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "aeb17462e3239bd21be8e8596f02f703631069f2",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-plain / i-Adj / na-Adj / Noun + かどうか",
+            "replacement": "Plain verb / i-adjective + かどうか; noun / na-adjective: omit present affirmative だ. Retain past and negative forms (学生だったかどうか, 学生ではないかどうか)."
+          }
+        ],
+        "basis": "Kadouka embeds polar question and preserves uncertainty. Tomorrow ability still unknown, trying clothes on not vague effort, friend to be asked not friend already quoted. Suits clothing and restaurant taste not generic success."
+      }
+    ],
+    "review_note": "Pass124: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
