@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 11812,
-  "pending_fields": 67366,
+  "ai_semantic_checked_fields": 11930,
+  "pending_fields": 67248,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 4718
+    "N4": 4836
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "o-suru",
+      "id": "sa",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "de-gozaimasu",
+      "id": "me",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "de-gozaimasu",
+      "id": "me",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "de-gozaimasu",
+      "id": "me",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "de-gozaimasu",
+      "id": "me",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "de-gozaimasu",
+      "id": "me",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "de-gozaimasu",
+      "id": "me",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "de-gozaimasu",
+      "id": "me",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "de-gozaimasu",
+      "id": "me",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass126: N4 grammar indices70–79:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected delayed/difficultなかなかない not positive presence or eternal impossibility, ずつ equal two apples per person/incremental daily kanji/one person not one room, emphaticも whole10hours yesterday/not approximation/50000yen not5000/not even1yen wallet, までに deadline versus duration and recurrence/by6 obligation/mountain invitation, occasionalことがある breakfast negation/snow impassable road not invisible/family cooking not eating, conversationalないといけないなくちゃ obligation and exact nai removal, causativeて permission think/let me pay/unwell go home early with irregular forms, 尊敬語 subject respect and social perspective/irregular masu/company president not state president/teacher hospitality not help-yourself literal aid/department manager not prime minister, 謙譲語 recipient-oriented versus formal own-side speech/tomorrow afternoon not noon/there not assumed office/Lin/your letter, おになる selective stem and lexical prefix restrictions rather than all suru-nouns go. Five source entries received formation/notes or English precision corrections with exact old/new history. Original Japanese examples, IDs, tags, levels, audio and attribution unchanged. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. No native-speaker certification. Resume N4 grammar index80."
+  "latest_pass": "Pass127: N4 grammar indices80–89:118 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected humbleおする speaker-side directed action with selective prefix/offer carry heavy not difficult or obligation/escort to station not see there, formalでございます restroom not restaurant and room key/Yamada shop identification, ても構わない permission and accepting higher price not negation/dictionary/tomorrow response allowed, nominalのこと choice hobby definition versus explanatoryのです/photo-taking/old movies/forgot lock not open or simply close, ばよかった past regret not future hope or ability/negative regret scope and formation, たらどう prospective suggestions not past questions, ほうがいい advice not categorical duty and negativeない/copies in advance, とかなど non-exhaustive examples/fridge eggs milk/days off/Kyoto Nara not Nepal/tea offer, suggestionでも free time not necessarily boredom/coffee joint break/rain home game. Five source entries received formation/notes or English precision corrections with exact old/new history. Original Japanese examples, stable IDs, tags, levels, audio, licenses and attribution unchanged. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. No native-speaker certification. Resume N4 grammar index90."
 }

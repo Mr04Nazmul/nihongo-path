@@ -15082,5 +15082,117 @@
       }
     ],
     "review_note": "Pass126: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:o-suru": {
+    "formation": "お + compatible verb masu-stem + する; ご + compatible verbal noun + する (ご説明する). Prefix choice and compatibility are lexical, not unrestricted noun attachment.",
+    "notes": "A humble form for an action of the speaker or their side directed toward a respected person. Do not apply it to every action merely because the speaker performs it. お〜いたします is more formal.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "9d5ad5e3a9fdd732f73ab1eeb63c61e6b70dbc1c",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "お + Verb-stem + する / ご + Noun + する",
+            "replacement": "お + compatible verb masu-stem + する; ご + compatible verbal noun + する (ご説明する). Prefix choice and compatibility are lexical, not unrestricted noun attachment."
+          },
+          {
+            "field": "notes",
+            "original": "Only for actions that affect or benefit the other person. お〜いたします is even more formal.",
+            "replacement": "A humble form for an action of the speaker or their side directed toward a respected person. Do not apply it to every action merely because the speaker performs it. お〜いたします is more formal."
+          }
+        ],
+        "basis": "Humble own-side action directed to respected target, selective prefix and stem formation. Heavy not difficult, offer carry not must, later detail not inability, escort to station not meet/see there."
+      }
+    ],
+    "review_note": "Pass127: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:no-koto-nominalizer": {
+    "notes": "Both nominalize clauses but are not freely interchangeable. の is used with directly perceived events and often in conversation. Use こと in hobby-definition predicates such as 趣味は映画を見ることです and fixed patterns such as ことができる. Explanatory のです is a different construction, not a direct replacement in that hobby definition.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "9d5ad5e3a9fdd732f73ab1eeb63c61e6b70dbc1c",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "の is preferred with perception verbs (見る, 聞こえる) and in casual speech; こと is needed before です/だ and in set patterns such as 〜ことができる.",
+            "replacement": "Both nominalize clauses but are not freely interchangeable. の is used with directly perceived events and often in conversation. Use こと in hobby-definition predicates such as 趣味は映画を見ることです and fixed patterns such as ことができる. Explanatory のです is a different construction, not a direct replacement in that hobby definition."
+          }
+        ],
+        "basis": "Nominalization no/koto lexical construction distinction not interchangeable, hobby definition vs explanatory nodesu. Taking photos not wanting photo, old movies hobby not enthusiasm occurrence, forgot locking not closing/opening door."
+      }
+    ],
+    "review_note": "Pass127: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:ba-yokatta": {
+    "formation": "Verb ば-form + よかった; negative: remove final ない from nai-form + なければよかった (言わない→言わなければよかった).",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "9d5ad5e3a9fdd732f73ab1eeb63c61e6b70dbc1c",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-ba + よかった / Verb-nai stem + なければよかった",
+            "replacement": "Verb ば-form + よかった; negative: remove final ない from nai-form + なければよかった (言わない→言わなければよかった)."
+          }
+        ],
+        "basis": "Counterfactual past regret not ability/future hope: did not leave early, did say regretted words, did not bring umbrella not animal skin. Negative formation removes nai only."
+      }
+    ],
+    "review_note": "Pass127: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hou-ga-ii": {
+    "notes": "For ordinary advice, the affirmative usually uses the た-form and the negative uses the ない-form. The た-form here does not mean the advised action has already happened. This is advice, not necessarily an obligation; distinguish past comparisons or regret constructions.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "9d5ad5e3a9fdd732f73ab1eeb63c61e6b70dbc1c",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "For advice, the past form (行ったほうがいい) is the usual choice and sounds stronger. The negative uses the ない form, not the past.",
+            "replacement": "For ordinary advice, the affirmative usually uses the た-form and the negative uses the ない-form. The た-form here does not mean the advised action has already happened. This is advice, not necessarily an obligation; distinguish past comparisons or regret constructions."
+          }
+        ],
+        "basis": "Hougaii advice not categorical must, ta not past completion and negative nai. Fever not objection, avoid walking alone late night not positive action, important copies kept in advance teoku not only forecast."
+      }
+    ],
+    "review_note": "Pass127: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:de-mo-suggestion": {
+    "examples": [
+      {
+        "ja": "ちょっと休んで、コーヒーでも飲みませんか。",
+        "furigana": "ちょっと{休|やす}んで、コーヒーでも{飲|の}みませんか。",
+        "en": "Why don't we take a break and have a coffee or something?"
+      },
+      {
+        "ja": "雨だから、家でゲームでもしよう。",
+        "furigana": "{雨|あめ}だから、{家|いえ}でゲームでもしよう。",
+        "en": "It's raining, so let's play a game or something at home."
+      },
+      {
+        "ja": "暇なら、本でも読んだら？",
+        "furigana": "{暇|ひま}なら、{本|ほん}でも{読|よ}んだら？",
+        "en": "If you have some free time, why not read a book or something?"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "9d5ad5e3a9fdd732f73ab1eeb63c61e6b70dbc1c",
+        "corrections": [
+          {
+            "field": "examples.2.en",
+            "original": "If you're bored, why not read a book or something?",
+            "replacement": "If you have some free time, why not read a book or something?"
+          }
+        ],
+        "basis": "Suggestion demo open example not concessive/contrast or inability. Shared break coffee invitation, rain shared home game not order, free time hima not necessarily irritated/bored and book reading advice."
+      }
+    ],
+    "review_note": "Pass127: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
