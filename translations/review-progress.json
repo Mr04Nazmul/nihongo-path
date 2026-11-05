@@ -2,11 +2,11 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-05",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 12050,
-  "pending_fields": 67128,
+  "ai_semantic_checked_fields": 12170,
+  "pending_fields": 67008,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 4956
+    "N4": 5076
   },
   "authored_entry_glosses": 1416,
   "native_speaker_review": "not performed",
@@ -14,144 +14,144 @@
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "ne",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "ne",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "ne",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "ne",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-o-v-kudasai-polite-honor",
+      "id": "supp-itadaku-humble-verb",
       "language": "ne",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-sonkeigo-reru-rareru",
+      "id": "supp-kudasaru-honorific-verb",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-sonkeigo-reru-rareru",
+      "id": "supp-kudasaru-honorific-verb",
       "language": "bn",
       "field": "formation"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-sonkeigo-reru-rareru",
+      "id": "supp-kudasaru-honorific-verb",
       "language": "bn",
       "field": "guidance"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-sonkeigo-reru-rareru",
+      "id": "supp-kudasaru-honorific-verb",
       "language": "bn",
       "field": "examples.0"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-sonkeigo-reru-rareru",
+      "id": "supp-kudasaru-honorific-verb",
       "language": "bn",
       "field": "examples.1"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-sonkeigo-reru-rareru",
+      "id": "supp-kudasaru-honorific-verb",
       "language": "bn",
       "field": "examples.2"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-sonkeigo-reru-rareru",
+      "id": "supp-kudasaru-honorific-verb",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "grammar",
-      "id": "supp-sonkeigo-reru-rareru",
+      "id": "supp-kudasaru-honorific-verb",
       "language": "ne",
       "field": "formation"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass128: N4 grammar indices90–99:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Corrected adjectiveさ nominal degree and bridge length not duration, ordinal目 third from right/second Japan visit/second corner left, おき interval15minutes/alternate days not daily/5meters not kilometers and trees on both sides, くするにする volume down not TVoff/on/guests forthcoming/shortened hair not static and naru not necessarily spontaneous, sensoryがする kitchen source/strange outside sound/slightly sweet tea, かなかしら wondering not knowing or eclipse and snacks bought+brought, negative-question benefactive requests photo not specified my portrait/form instructions/louder voice not stronger words, ないで no breakfast/umbrella rain soaked not collapse/stairs joint ascent not must, noun-modifying clause preserved Tanaka maker/friend gift narrator reading and relative syntax not absolute ga-only, transitive/intransitive all change pairs retained and perception contrasts separated/no universal self-occurrence or passive/ga-wa subject and motion-path wo exception/door opened vs narrator opened/light off. Five source entries received formation/notes or English precision corrections with exact old/new history. Original Japanese examples, stable IDs, level structure, tags, audio, licenses and attribution unchanged. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. No native-speaker certification. Resume N4 grammar index100."
+  "latest_pass": "Pass129: N4 grammar indices100–109:120 Bengali/Nepali meaning, formation, guidance and example fields semantically reviewed. Honorific direct requests and lexical prefix selection; passive-shaped honorific agent vs patient and potential context; demonstrative kinds/discourse reference and experiential meeting; giving water/food not drinking flowers/eating dog and younger brother school homework; irregular honorific masu formation corrected from false i deletion; tomorrow affirmative guest arrival not today negative, teacher clock-time/speech questions, document request/already that movie and simultaneous screen watching/listening; company head exercises not generic work, customer future action without unsupported wanting, original kaeri-nasai example explicitly marked separate construction; mairu humbleII listener deference and train announcements not necessary superior destination, Tokyo origin and imminent not completed arrival; mousu humbleII vs moushiageru humbleI not simple formality ladder. Eight source entries corrected with exact old/new history, including one English precision correction. Original Japanese examples, stable IDs, source draft labels, audio, level structure, licenses and attribution preserved. No new unresolved ambiguity; historical source-context limitations and external native-speaker review remain unresolved. AI semantic review, no native-speaker certification. Resume N4 grammar index110."
 }

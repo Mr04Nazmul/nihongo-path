@@ -15324,5 +15324,180 @@
       }
     ],
     "review_note": "Pass128: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-o-v-kudasai-polite-honor": {
+    "notes": "Honorific direct request, common in formal instructions and service. Use お + suitable verb masu-stem or ご + suitable suru-noun; selection has lexical exceptions and special alternatives such as お越しください. Honorific form does not make a direct instruction universally softer than an indirect question.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f6c518dd8c7c730889ab642074476e75891b438b",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "お〜ください is a very polite honorific request form, more formal than 〜てください. It is the form used in customer service announcements, public signage, and formal instructions. For native Japanese verbs, use お + ます-stem; for Sino-Japanese nouns ('suru' verbs), use ご + noun. Some verbs have fixed honorific forms that replace this pattern (e.g., 来る → お越しください).",
+            "replacement": "Honorific direct request, common in formal instructions and service. Use お + suitable verb masu-stem or ご + suitable suru-noun; selection has lexical exceptions and special alternatives such as お越しください. Honorific form does not make a direct instruction universally softer than an indirect question."
+          }
+        ],
+        "basis": "Honorific direct requests, lexical prefix selection; wait is imperative request not first-person past waiting. Sitting location and caution preserved."
+      }
+    ],
+    "review_note": "Pass129: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-sonkeigo-reru-rareru": {
+    "formation": "Ichidan: remove る + られる. Godan: final u-row sound to a-row + れる (う → われる). する → される; 来る → 来られる (こられる).",
+    "notes": "The passive-shaped form can honor the action subject. Interpret by context: passive, honorific and sometimes potential readings can overlap. Do not assume every superior-subject clause is honorific or every れる form is passive. Dedicated honorific verbs are also available.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f6c518dd8c7c730889ab642074476e75891b438b",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Same passive conjugation: Ichidan → 〜られる; Godan → u-row → a-row + れる; Irregular する → される, くる → こられる.",
+            "replacement": "Ichidan: remove る + られる. Godan: final u-row sound to a-row + れる (う → われる). する → される; 来る → 来られる (こられる)."
+          },
+          {
+            "field": "notes",
+            "original": "The 〜れる / 〜られる form (normally the passive) is also used as an honorific (尊敬語), describing the actions of a superior politely. The conjugation is identical to the passive; context determines whether it is passive or honorific — usually clear from the subject (a superior) and the non-patient nature of the action. Less formal than dedicated honorific verbs (いらっしゃる, ご覧になる) but common in business speech.",
+            "replacement": "The passive-shaped form can honor the action subject. Interpret by context: passive, honorific and sometimes potential readings can overlap. Do not assume every superior-subject clause is honorific or every れる form is passive. Dedicated honorific verbs are also available."
+          }
+        ],
+        "basis": "Honorific agent not passive patient; complete godan u→wa formation, potential ambiguity. Company head not national president; teacher speech question and clock time restored."
+      }
+    ],
+    "review_note": "Pass129: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-yaru-casual-giving": {
+    "notes": "やる in the giving sense is common for watering plants and feeding animals. Applied to people it may sound rough or condescending depending on relationship. てやる presents doing an action for someone, and context can make it threatening. These register tendencies are not exclusive rules about speaker gender. 宿題 here is school homework.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f6c518dd8c7c730889ab642074476e75891b438b",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "やる is the casual, down-ward variant of あげる — used when giving to someone or something distinctly below the speaker's social position, such as pets, plants, younger siblings, or in rough masculine speech. It can sound rude if used inappropriately. The 〜てやる auxiliary form is also very common in casual male speech as a rougher equivalent of 〜てあげる ('I'll do it for you', sometimes with threatening or dismissive tone).",
+            "replacement": "やる in the giving sense is common for watering plants and feeding animals. Applied to people it may sound rough or condescending depending on relationship. てやる presents doing an action for someone, and context can make it threatening. These register tendencies are not exclusive rules about speaker gender. 宿題 here is school homework."
+          }
+        ],
+        "basis": "Giving water/food not drinking flowers or eating dog; younger brother homework not housework. Benefactive te-yaru register rough/contextual not male-exclusive."
+      }
+    ],
+    "review_note": "Pass129: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-irassharu-honorific": {
+    "formation": "Dictionary: いらっしゃる. Polite: いらっしゃいます (irregular final り → い before ます, not deletion of い). Te-form: いらっしゃって. Imperative: いらっしゃい.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f6c518dd8c7c730889ab642074476e75891b438b",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Plain: いらっしゃる. Polite: いらっしゃいます (note irregular — い dropped before ます). Te-form: いらっしゃって. Imperative: いらっしゃい.",
+            "replacement": "Dictionary: いらっしゃる. Polite: いらっしゃいます (irregular final り → い before ます, not deletion of い). Te-form: いらっしゃって. Imperative: いらっしゃい."
+          }
+        ],
+        "basis": "Honorific come/go/be distinguished by context. Correct false i-drop account to irregular ri→i before masu. Tomorrow affirmative arrival not today negative; present location not future."
+      }
+    ],
+    "review_note": "Pass129: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-ossharu-honorific": {
+    "formation": "Dictionary: おっしゃる. Polite: おっしゃいます (irregular final り → い before ます, not deletion of い). Te-form: おっしゃって.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f6c518dd8c7c730889ab642074476e75891b438b",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Plain: おっしゃる. Polite: おっしゃいます (irregular — い drop before ます). Te-form: おっしゃって.",
+            "replacement": "Dictionary: おっしゃる. Polite: おっしゃいます (irregular final り → い before ます, not deletion of い). Te-form: おっしゃって."
+          }
+        ],
+        "basis": "Said past, not habitual/frequency question. Agreement not place/frequency. Correct malformed i-drop explanation; speaker/subject honorific distinction."
+      }
+    ],
+    "review_note": "Pass129: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-nasaru-honorific": {
+    "notes": "なさる honors another person's する action; polite なさいます and te-form なさって. The third example お気をつけてお帰りなさい uses the separate お + verb stem + なさい request construction, not an inflected なさる. It asks the person to take care going home.",
+    "examples": [
+      {
+        "ja": "社長は毎朝運動をなさいます。",
+        "en": "The company president exercises every morning."
+      },
+      {
+        "ja": "お客様は何をなさいますか。",
+        "en": "What will you do? (respectful question to a customer)"
+      },
+      {
+        "ja": "お気をつけてお帰りなさい。",
+        "en": "Please take care on your way home."
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f6c518dd8c7c730889ab642074476e75891b438b",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "なさる is the dedicated honorific (尊敬語) verb replacing する when describing a superior's actions politely. Like the other irregular honorific verbs, it has an irregular polite form: なさいます (not なさります). Common with suru-compounds: 勉強なさる, 説明なさる. The request form なさってください is a polite way to say 'please do X', though お〜ください is more common for simple requests.",
+            "replacement": "なさる honors another person's する action; polite なさいます and te-form なさって. The third example お気をつけてお帰りなさい uses the separate お + verb stem + なさい request construction, not an inflected なさる. It asks the person to take care going home."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "What would you like to do, sir/madam?",
+            "replacement": "What will you do? (respectful question to a customer)"
+          }
+        ],
+        "basis": "Company head exercises not generic work. Japanese asks what do/will do, does not explicitly encode wanting. Third original is separate o-kaeri-nasai construction, explicitly identified rather than falsely claimed nasaru conjugation."
+      }
+    ],
+    "review_note": "Pass129: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-mairu-humble": {
+    "notes": "参る is 行く/来る expressed as listener-directed formal deference (謙譲語II / 丁重語), not necessarily movement toward a superior. The destination need not be someone honored, unlike the recipient-directed function of 伺う. Regular godan conjugation. It also occurs in formal train-arrival announcements.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f6c518dd8c7c730889ab642074476e75891b438b",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "参る is the dedicated humble (謙譲語) verb replacing both 行く and 来る when describing the speaker's own movement politely, especially toward a superior or in formal contexts. Conjugates as a regular godan verb. Common in formal announcements: 'the train is coming' (電車が参ります), and in polite business phrases: 'I'll be right there' (すぐ参ります).",
+            "replacement": "参る is 行く/来る expressed as listener-directed formal deference (謙譲語II / 丁重語), not necessarily movement toward a superior. The destination need not be someone honored, unlike the recipient-directed function of 伺う. Regular godan conjugation. It also occurs in formal train-arrival announcements."
+          }
+        ],
+        "basis": "Mairu humbleII listener-directed form not necessarily towards superior, includes train announcements. Tokyo origin not destination; imminent arrival not already arrived; affirmative statement not optative."
+      }
+    ],
+    "review_note": "Pass129: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:supp-mousu-humble": {
+    "formation": "申す → 申します; te-form 申して. Name + と申します. Related but functionally distinct 申し上げる → 申し上げます.",
+    "notes": "申す is listener-directed 謙譲語II / 丁重語 for one's own or in-group speech, including formal self-introduction. 申し上げる is 謙譲語I honoring the recipient of speech or thanks, not merely a more formal inflection of 申す. 先ほど means a short while earlier.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-05",
+        "original_commit": "f6c518dd8c7c730889ab642074476e75891b438b",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Plain: 申す. Polite: 申します. More formal: 申し上げる / 申し上げます.",
+            "replacement": "申す → 申します; te-form 申して. Name + と申します. Related but functionally distinct 申し上げる → 申し上げます."
+          },
+          {
+            "field": "notes",
+            "original": "申す is the dedicated humble (謙譲語) verb replacing 言う for the speaker's own speech in polite contexts. The most common use is in self-introductions: 'I'm called X' (Xと申します). The more formal 申し上げる adds extra humility (お礼を申し上げます — 'I express my thanks'). Business and formal speech rely heavily on this verb.",
+            "replacement": "申す is listener-directed 謙譲語II / 丁重語 for one's own or in-group speech, including formal self-introduction. 申し上げる is 謙譲語I honoring the recipient of speech or thanks, not merely a more formal inflection of 申す. 先ほど means a short while earlier."
+          }
+        ],
+        "basis": "Mousu humbleII vs moushiageru humbleI not simple politeness ladder. Name Tanaka no fabricated gender; sincere thanks and earlier statement preserved not location/frequency."
+      }
+    ],
+    "review_note": "Pass129: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
