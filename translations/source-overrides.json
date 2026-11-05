@@ -17916,5 +17916,489 @@
       }
     ],
     "review_note": "Pass138: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Original Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-cfad86014bb2": {
+    "notes": "To-ii can express hopes/wishes or contextual advice; it does not assert fulfillment. Hareru means clear/sunny weather, not sunrise or an eclipse. The exam example has no explicit subject, so do not mechanically insert first-person reference. Restaurant described as oishii refers metonymically to its food.",
+    "examples": [
+      {
+        "ja": "明日晴れるといいね。",
+        "en": "I hope it will be sunny tomorrow.",
+        "romaji": "Ashita hareru to ii ne.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この試験に合格するといい。",
+        "en": "It would be good to pass this exam.",
+        "romaji": "Kono shiken ni goukaku suru to ii.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼が元気だといいな。",
+        "en": "I hope he is doing well.",
+        "romaji": "Kare ga genki da to ii na.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "そのレストランが美味しいといいですね。",
+        "en": "I hope the food at that restaurant is good.",
+        "romaji": "Sono resutoran ga oishii to ii desu ne.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "33b97efd0384a3a021f608b086fb2be766629c41",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The ～といい grammar point is used to express a wish or hope for a certain situation or outcome. It can be translated as 'I hope', 'it would be good if', or 'it would be nice if' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
+            "replacement": "To-ii can express hopes/wishes or contextual advice; it does not assert fulfillment. Hareru means clear/sunny weather, not sunrise or an eclipse. The exam example has no explicit subject, so do not mechanically insert first-person reference. Restaurant described as oishii refers metonymically to its food."
+          },
+          {
+            "field": "examples.1.en",
+            "original": "I hope to pass this exam.",
+            "replacement": "It would be good to pass this exam."
+          },
+          {
+            "field": "examples.3.en",
+            "original": "It would be nice if that restaurant is delicious.",
+            "replacement": "I hope the food at that restaurant is good."
+          }
+        ],
+        "basis": "To-ii wishes or contextual advice, not fulfilled prediction or imperative. Tomorrow clear/sunny weather not sunrise/eclipse, exam passing subject omitted so avoid unverified narrator insertion, his well-being, restaurant food metonymy not edible restaurant. English two examples revised for source sense and natural metonymy."
+      }
+    ],
+    "review_note": "Pass139: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Two Japanese examples and matching romaji explicitly repaired in this pass, with exact old/new preserved for each affected entry; remaining Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-edebb0921e0b": {
+    "formation": "Verb nai-form: replace the entire ない with なきゃいけない; 買わない → 買わなきゃいけない.",
+    "notes": "Colloquial contraction of nakereba-ikenai, expressing necessity/obligation, not desire or a completed event. Remove the entire nai rather than only final i to form it. This entry concerns verbs; do not infer that every similar necessary-state construction with other predicates is impossible. The transitive owaru with wo in the homework example is retained rather than automatically treated as an error. Project submission is next week (raishuu), not explicitly by next week.",
+    "examples": [
+      {
+        "ja": "明日までに宿題を終わらなきゃいけない。",
+        "en": "I have to finish my homework by tomorrow.",
+        "romaji": "Ashita made ni shukudai wo owaranakya ikenai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "もうすぐ出かけるから、急いで準備しなきゃいけない。",
+        "en": "We're leaving soon, so I have to hurry and get ready.",
+        "romaji": "Mou sugu dekakeru kara, isoide junbi shinakya ikenai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "このプロジェクトは来週提出しなきゃいけない。",
+        "en": "I have to submit this project next week.",
+        "romaji": "Kono purojekuto wa raishuu teishutsu shinakya ikenai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "電車に乗る前に、切符を買わなきゃいけない。",
+        "en": "I have to buy a ticket before getting on the train.",
+        "romaji": "Densha ni noru mae ni, kippu wo kawanakya ikenai.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "33b97efd0384a3a021f608b086fb2be766629c41",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-casual (negative form without い) + なきゃいけない",
+            "replacement": "Verb nai-form: replace the entire ない with なきゃいけない; 買わない → 買わなきゃいけない."
+          },
+          {
+            "field": "notes",
+            "original": "The ～なきゃいけない grammar point is used to express a sense of necessity or obligation, similar to saying 'must' or 'have to' in English. It is a casual and more colloquial form of the ～なければいけない grammar point. The formation is different for verbs, but it is not used with い-adjectives, な-adjectives, or nouns.",
+            "replacement": "Colloquial contraction of nakereba-ikenai, expressing necessity/obligation, not desire or a completed event. Remove the entire nai rather than only final i to form it. This entry concerns verbs; do not infer that every similar necessary-state construction with other predicates is impossible. The transitive owaru with wo in the homework example is retained rather than automatically treated as an error. Project submission is next week (raishuu), not explicitly by next week."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "I must submit this project by next week.",
+            "replacement": "I have to submit this project next week."
+          }
+        ],
+        "basis": "Nakya colloquial obligation, formation replace whole nai not remove only i. Not completed homework or desire to arrive/project implementation/already ticket. Original owaru with wo retained: transitive use is attested, not automatically an error. Japanese raishuu is next week, not deadline by next week."
+      }
+    ],
+    "review_note": "Pass139: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Two Japanese examples and matching romaji explicitly repaired in this pass, with exact old/new preserved for each affected entry; remaining Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-6017828868b1": {
+    "notes": "Nakucha is colloquial nakute-wa, marking obligation rather than desire. The examples also contain full nakereba-narimasen and elliptical ikanakereba/ikanaito; in context the omitted endings convey having to go to the embassy/bank, not a prohibition on going. Passport renewal and payment today are the reasons.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "33b97efd0384a3a021f608b086fb2be766629c41",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The ～なくちゃいけない grammar point is used to express that there is an obligation or necessity to do something. It can be translated as 'have to', 'must', or 'need to' in English. This grammar point is mainly used with verbs.",
+            "replacement": "Nakucha is colloquial nakute-wa, marking obligation rather than desire. The examples also contain full nakereba-narimasen and elliptical ikanakereba/ikanaito; in context the omitted endings convey having to go to the embassy/bank, not a prohibition on going. Passport renewal and payment today are the reasons."
+          }
+        ],
+        "basis": "Nakucha necessity not wish. Work and early waking, exam study, passport renewal/embassy, payment today/bank accurately linked. Elliptical ikanakereba and ikanaito complete obligation pragmatically, not negated travel or mere if fragment."
+      }
+    ],
+    "review_note": "Pass139: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Two Japanese examples and matching romaji explicitly repaired in this pass, with exact old/new preserved for each affected entry; remaining Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-2e07134567d1": {
+    "formation": "Verb nai-form: replace ない with なくてはいけない; する → しなくてはいけない.",
+    "notes": "Nakute-wa-ikenai is affirmative obligation, unlike te-wa-ikenai prohibition. Original example2 (zero-based) required wasting food in Japanese while English said must not waste food. AI editorial correction keeps the target obligation form as shinai-you-ni-shinakute-wa-ikenai, making it an obligation to ensure food is not wasted. Exact old/new Japanese, romaji and English retained; no recovered-original or native-speaker approval claim.",
+    "examples": [
+      {
+        "ja": "宿題をしなくてはいけない。",
+        "en": "I have to do my homework.",
+        "romaji": "Shukudai o shinakute wa ikenai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この手紙を明日までに出さなくてはいけない。",
+        "en": "I must send this letter by tomorrow.",
+        "romaji": "Kono tegami o ashita made ni dasanakute wa ikenai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "食べ物を無駄にしないようにしなくてはいけない。",
+        "en": "We must make sure not to waste food.",
+        "romaji": "Tabemono o muda ni shinai you ni shinakute wa ikenai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "早退したいが、授業が終わるまで待たなくてはいけない。",
+        "en": "I want to leave early, but I have to wait until the class finishes.",
+        "romaji": "Soutai shitai ga, jugyou ga owaru made matanakute wa ikenai.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "33b97efd0384a3a021f608b086fb2be766629c41",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-negative form + なくてはいけない",
+            "replacement": "Verb nai-form: replace ない with なくてはいけない; する → しなくてはいけない."
+          },
+          {
+            "field": "notes",
+            "original": "The ～なくてはいけない grammar point is used to express the necessity or obligation to do something. It can be translated as 'must' or 'have to' in English. The formation requires the negative form of a verb and is followed by いけない (cannot go/progress). It indicates that if something is not done, it will be a problem or inappropriate.",
+            "replacement": "Nakute-wa-ikenai is affirmative obligation, unlike te-wa-ikenai prohibition. Original example2 (zero-based) required wasting food in Japanese while English said must not waste food. AI editorial correction keeps the target obligation form as shinai-you-ni-shinakute-wa-ikenai, making it an obligation to ensure food is not wasted. Exact old/new Japanese, romaji and English retained; no recovered-original or native-speaker approval claim."
+          },
+          {
+            "field": "examples.2.ja",
+            "original": "食べ物を無駄にしなくてはいけない。",
+            "replacement": "食べ物を無駄にしないようにしなくてはいけない。"
+          },
+          {
+            "field": "examples.2.romaji",
+            "original": "Tabemono o muda ni shinakute wa ikenai.",
+            "replacement": "Tabemono o muda ni shinai you ni shinakute wa ikenai."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "We must not waste food.",
+            "replacement": "We must make sure not to waste food."
+          }
+        ],
+        "basis": "Correct negative-obligation versus prohibition source mismatch: original Japanese literally required wasting food while English prohibited it. AI editorial repair to shinai-you-ni-shinakute-wa-ikenai keeps obligation construction and intended avoid-waste sense, exact old/new Japanese/romaji/English retained; not claimed recovered original/native approval. Other clauses homework necessity, send by tomorrow, desire early departure but wait until class ends."
+      }
+    ],
+    "review_note": "Pass139: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Two Japanese examples and matching romaji explicitly repaired in this pass, with exact old/new preserved for each affected entry; remaining Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-40a35db09af4": {
+    "formation": "Verb nai-form: replace ない with なければならない; 読まない → 読まなければならない.",
+    "notes": "Whole construction expresses obligation rather than a bare negative or unfulfilled condition. This entry targets verbal use; other necessary-state constructions can involve nominal/adjectival predicates, so an absolute ban on every noun/adjective use is misleading. Preserve by-tomorrow deadline, early rising to avoid class lateness and buying before the trip.",
+    "examples": [
+      {
+        "ja": "宿題をやらなければならない。",
+        "en": "I have to do my homework.",
+        "romaji": "Shukudai wo yaranakereba naranai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "明日までにこの本を読まなければならない。",
+        "en": "I have to read this book by tomorrow.",
+        "romaji": "Ashita made ni kono hon wo yomanakereba naranai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "授業に遅れないように、早く起きなければならない。",
+        "en": "I have to wake up early so that I am not late for class.",
+        "romaji": "Jugyou ni okurenai you ni, hayaku okinakereba naranai.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "旅行に行く前に切符を買わなければならない。",
+        "en": "I have to buy a ticket before going on a trip.",
+        "romaji": "Ryokou ni iku mae ni kippu wo kawanakereba naranai.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "33b97efd0384a3a021f608b086fb2be766629c41",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-ない form + なければ ならない",
+            "replacement": "Verb nai-form: replace ない with なければならない; 読まない → 読まなければならない."
+          },
+          {
+            "field": "notes",
+            "original": "The ～なければ ならない grammar point is used to express obligation or necessity. In English, it can be translated as 'must', 'have to', or 'need to'. The formation differs depending on whether it is used with a verb. It cannot be used with い-adjectives, な-adjectives or nouns.",
+            "replacement": "Whole construction expresses obligation rather than a bare negative or unfulfilled condition. This entry targets verbal use; other necessary-state constructions can involve nominal/adjectival predicates, so an absolute ban on every noun/adjective use is misleading. Preserve by-tomorrow deadline, early rising to avoid class lateness and buying before the trip."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "I have to wake up early so I don't be late for class.",
+            "replacement": "I have to wake up early so that I am not late for class."
+          }
+        ],
+        "basis": "Nakereba-naranai whole-nai replacement not naive suffix doubling; obligation not desire or already completed tickets. Homework, deadline reading by tomorrow, early rising to avoid class lateness, ticket before trip retained. Remove absolute noun/adjective prohibition from source notes; this entry targets verbal construction."
+      }
+    ],
+    "review_note": "Pass139: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Two Japanese examples and matching romaji explicitly repaired in this pass, with exact old/new preserved for each affected entry; remaining Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-602e883037fc": {
+    "formation": "Verb / i-adjective plain form + のです; present affirmative na-adjective stem / noun + なのです. Past/negative plain predicates retain their own forms.",
+    "notes": "Explanatory connection to context rather than mechanically adding the reason is or a command look to every example. Present affirmative nominal/na-adjective da becomes na before no; not every tense or negative uses the bare stem plus na. Difficult book, tomorrow busy, she English teacher and narrator cold illness retained.",
+    "examples": [
+      {
+        "ja": "この本は難しいのです。",
+        "en": "This book is difficult, you see.",
+        "romaji": "Kono hon wa muzukashii no desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "明日は忙しいのです。",
+        "en": "The fact is, I am busy tomorrow.",
+        "romaji": "Ashita wa isogashii no desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女は英語の先生なのです。",
+        "en": "She is an English teacher, you see.",
+        "romaji": "Kanojo wa eigo no sensei na no desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "私は風邪なのです。",
+        "en": "Actually, I’ve got a cold.",
+        "romaji": "Watashi wa kaze na no desu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "33b97efd0384a3a021f608b086fb2be766629c41",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-casual + のです, い-Adjective + のです, な-Adjective + なのです, Noun + なのです",
+            "replacement": "Verb / i-adjective plain form + のです; present affirmative na-adjective stem / noun + なのです. Past/negative plain predicates retain their own forms."
+          },
+          {
+            "field": "notes",
+            "original": "The ～のです grammar point is used to provide an explanation or give background information on a situation, often used when there is a need to justify or clarify one's statement. It can be translated as 'the fact is', 'the reason is', or 'actually' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
+            "replacement": "Explanatory connection to context rather than mechanically adding the reason is or a command look to every example. Present affirmative nominal/na-adjective da becomes na before no; not every tense or negative uses the bare stem plus na. Difficult book, tomorrow busy, she English teacher and narrator cold illness retained."
+          },
+          {
+            "field": "examples.2.en",
+            "original": "The reason is, she is an English teacher.",
+            "replacement": "She is an English teacher, you see."
+          }
+        ],
+        "basis": "Explanatory no-desu not lexical very/excitement, imperative look, obligatory explicit causal phrase or cold temperature. Difficult book, tomorrow busy, she English teacher and narrator cold illness. Present affirmative noun/na requires na; past/negative plain forms not indiscriminately stem-na."
+      }
+    ],
+    "review_note": "Pass139: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Two Japanese examples and matching romaji explicitly repaired in this pass, with exact old/new preserved for each affected entry; remaining Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-74f094cfb911": {
+    "formation": "Verb / i-adjective plain form + みたいだ; present affirmative na-adjective stem / noun + みたいだ without だ or の.",
+    "notes": "Colloquial resemblance or inference, not an assertion of certainty. First example had malformed noun-no-mitai; AI editorial correction removes no and updates romaji, retaining exact original/new text in source history. Expensive does not include very. Ano is that person; celebrity likeness need not assert real fame. Ima preserves now. No native/source confirmation is claimed.",
+    "examples": [
+      {
+        "ja": "彼女が病気みたいだ。",
+        "en": "She seems to be sick.",
+        "romaji": "Kanojo ga byouki mitai da.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "このドレスは高いみたいだ。",
+        "en": "This dress seems to be expensive.",
+        "romaji": "Kono doresu wa takai mitai da.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "あの人は有名人みたいだ。",
+        "en": "That person looks like a celebrity.",
+        "romaji": "Ano hito wa yuumeijin mitai da.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼は今忙しいみたいだ。",
+        "en": "It seems he is busy right now.",
+        "romaji": "Kare wa ima isogashii mitai da.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "33b97efd0384a3a021f608b086fb2be766629c41",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-casual + みたいだ, い-Adjective + みたいだ, な-Adjective + みたいだ, Noun + みたいだ",
+            "replacement": "Verb / i-adjective plain form + みたいだ; present affirmative na-adjective stem / noun + みたいだ without だ or の."
+          },
+          {
+            "field": "notes",
+            "original": "The ～みたいだ grammar point is used to express that something appears, seems or resembles something else. It can be used with nouns, verbs, い-adjectives, and な-adjectives. It can be translated as 'it seems', 'appears', or 'looks like' in English.",
+            "replacement": "Colloquial resemblance or inference, not an assertion of certainty. First example had malformed noun-no-mitai; AI editorial correction removes no and updates romaji, retaining exact original/new text in source history. Expensive does not include very. Ano is that person; celebrity likeness need not assert real fame. Ima preserves now. No native/source confirmation is claimed."
+          },
+          {
+            "field": "examples.0.ja",
+            "original": "彼女が病気のみたいだ。",
+            "replacement": "彼女が病気みたいだ。"
+          },
+          {
+            "field": "examples.0.romaji",
+            "original": "Kanojo ga byouki no mitai da.",
+            "replacement": "Kanojo ga byouki mitai da."
+          }
+        ],
+        "basis": "Mitai resemblance/inference not certainty, request or direct asserted fame. Correct malformed noun-no-mitai to noun-mitai in first Japanese example and matching romaji, exact old/new preserved as AI editorial correction. Expensive no unsupported very; ano not this; ima now retained. Celebrity resemblance reading consistent with English without identifying real fame."
+      }
+    ],
+    "review_note": "Pass139: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Two Japanese examples and matching romaji explicitly repaired in this pass, with exact old/new preserved for each affected entry; remaining Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-434a04f4a86e": {
+    "formation": "Verb / i-adjective plain form + んです; present affirmative na-adjective stem / noun + なんです. Past/negative plain predicates retain their own forms.",
+    "notes": "Conversational contraction of no-desu giving contextual explanation, not a fixed literal because in every sentence. In example0 ga introduces background; train delay is pragmatically understood as explaining lateness, but no explicit kara/because is present. Yasashii is kindness, and shukudai is school homework rather than household chores.",
+    "examples": [
+      {
+        "ja": "遅れたんですが、電車が遅れました。",
+        "en": "I was late; the train was delayed.",
+        "romaji": "Okuretan desuga, densha ga okuremashita.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "疲れたんです。",
+        "en": "I'm tired (that's why).",
+        "romaji": "Tsukareta n desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼は優しいんです。",
+        "en": "The thing is, he is kind.",
+        "romaji": "Kare wa yasashii n desu.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "宿題が多いんです。",
+        "en": "The reason is I have a lot of homework.",
+        "romaji": "Shukudai ga ooi n desu.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "33b97efd0384a3a021f608b086fb2be766629c41",
+        "corrections": [
+          {
+            "field": "formation",
+            "original": "Verb-casual + んです, い-Adjective + んです, な-Adjective + なんです, Noun + なんです",
+            "replacement": "Verb / i-adjective plain form + んです; present affirmative na-adjective stem / noun + なんです. Past/negative plain predicates retain their own forms."
+          },
+          {
+            "field": "notes",
+            "original": "The ～んです grammar point is used to provide an explanation or reason for a situation or action. It can be translated as 'it is that', 'the thing is', or 'the reason is' in English. The formation differs depending on whether it is used with a verb, い-adjective, な-adjective, or noun.",
+            "replacement": "Conversational contraction of no-desu giving contextual explanation, not a fixed literal because in every sentence. In example0 ga introduces background; train delay is pragmatically understood as explaining lateness, but no explicit kara/because is present. Yasashii is kindness, and shukudai is school homework rather than household chores."
+          },
+          {
+            "field": "examples.0.en",
+            "original": "I was late because the train was delayed.",
+            "replacement": "I was late; the train was delayed."
+          }
+        ],
+        "basis": "Explanatory n-desu counterpart of no-desu, not arbitrary contrast/quoted speech. Lateness and delayed train not cancelled service; causal relation pragmatically suggested but ga not lexical because. Tired state, his kindness, narrator much homework not household chores. Correct English explicit because to neutral linked statements."
+      }
+    ],
+    "review_note": "Pass139: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Two Japanese examples and matching romaji explicitly repaired in this pass, with exact old/new preserved for each affected entry; remaining Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-d56e93008170": {
+    "notes": "Adds related information on top of the first statement, not at least or physical position above. Not necessarily a cause-result relation. Actors are not restricted to actresses; oishii restaurants refer to good food at them.",
+    "examples": [
+      {
+        "ja": "このソフトウェアは使いやすい。そのうえ、価格も手ごろだ。",
+        "en": "This software is easy to use. Furthermore, the price is reasonable.",
+        "romaji": "Kono sofutouea wa tsukaiyasui. Sono ue, kakaku mo tegoro da.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "彼女は美人だ。そのうえ、頭もいい。",
+        "en": "She is beautiful. In addition, she is smart.",
+        "romaji": "Kanojo wa bijin da. Sono ue, atama mo ii.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "この映画は面白い。そのうえ、俳優たちの演技も素晴らしい。",
+        "en": "This movie is interesting. Besides, the actors' performances are also great.",
+        "romaji": "Kono eiga wa omoshiroi. Sono ue, haiyuutachi no engi mo subarashii.",
+        "source": "hanabira.org"
+      },
+      {
+        "ja": "東京はたくさんの観光スポットがある。そのうえ、美味しいレストランも多い。",
+        "en": "Tokyo has many sightseeing spots. In addition, there are many restaurants serving good food.",
+        "romaji": "Toukyou wa takusan no kankou supotto ga aru. Sono ue, oishii resutoran mo oi.",
+        "source": "hanabira.org"
+      }
+    ],
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "33b97efd0384a3a021f608b086fb2be766629c41",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "This grammar point is used to connect two sentences, where the first sentence 文A provides some information, and the second sentence 文B adds additional related information. It can be translated as 'furthermore', 'besides', or 'in addition' in English.",
+            "replacement": "Adds related information on top of the first statement, not at least or physical position above. Not necessarily a cause-result relation. Actors are not restricted to actresses; oishii restaurants refer to good food at them."
+          },
+          {
+            "field": "examples.3.en",
+            "original": "Tokyo has many sightseeing spots. In addition, there are many delicious restaurants.",
+            "replacement": "Tokyo has many sightseeing spots. In addition, there are many restaurants serving good food."
+          }
+        ],
+        "basis": "Sono-ue additive not at-least, contrast, causal necessity or physical above. Retain both clauses reasonable software price, beauty and intelligence, film and plural actors not females only, Tokyo sightseeing plus restaurants with good food rather than edible buildings."
+      }
+    ],
+    "review_note": "Pass139: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Two Japanese examples and matching romaji explicitly repaired in this pass, with exact old/new preserved for each affected entry; remaining Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
+  },
+  "N4:grammar:hana-1d21c6291f66": {
+    "notes": "First sentence gives reason/cause; dakara introduces the result, decision or advice. Do not invert the causal direction. Demo after shoshinsha means even a beginner can make the dish. Gakkou-wo-yasumu is absence from school, not leaving the school building. Taxi advice uses hou-ga-ii, not an obligation.",
+    "source_corrections": [
+      {
+        "reviewed_on": "2026-11-06",
+        "original_commit": "33b97efd0384a3a021f608b086fb2be766629c41",
+        "corrections": [
+          {
+            "field": "notes",
+            "original": "The 文A。だから 文B grammar point is used to indicate that the reason or cause of an action or event expressed in the second sentence (文B) is a result or consequence of the situation described in the first sentence (文A). It can be translated as 'because', 'so', or 'therefore' in English.",
+            "replacement": "First sentence gives reason/cause; dakara introduces the result, decision or advice. Do not invert the causal direction. Demo after shoshinsha means even a beginner can make the dish. Gakkou-wo-yasumu is absence from school, not leaving the school building. Taxi advice uses hou-ga-ii, not an obligation."
+          }
+        ],
+        "basis": "Dakara reason-to-result/advice relation not contrast. Exam tomorrow/study today obligation, even beginner ability not failure to begin, sick man absent school today not leaving school or attending, far station taxi advice not compulsory travel or selling car."
+      }
+    ],
+    "review_note": "Pass139: source role/formation/guidance nuances or English examples edited with exact old/new text preserved in source_corrections. Two Japanese examples and matching romaji explicitly repaired in this pass, with exact old/new preserved for each affected entry; remaining Japanese examples, stable IDs, tags and attribution unchanged. AI semantic review, no native-speaker certification."
   }
 }
