@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-06",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 13650,
-  "pending_fields": 65528,
+  "ai_semantic_checked_fields": 13770,
+  "pending_fields": 65408,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 6556
+    "N4": 6676
   },
-  "authored_entry_glosses": 1476,
+  "authored_entry_glosses": 1536,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "集",
+      "id": "歌",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "集",
+      "id": "歌",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "別",
+      "id": "買",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "別",
+      "id": "買",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "物",
+      "id": "悪",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "物",
+      "id": "悪",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "使",
+      "id": "図",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "使",
+      "id": "図",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "品",
+      "id": "週",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "品",
+      "id": "週",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "計",
+      "id": "室",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "計",
+      "id": "室",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "死",
+      "id": "歩",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "死",
+      "id": "歩",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "特",
+      "id": "風",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "特",
+      "id": "風",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "私",
+      "id": "紙",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "私",
+      "id": "紙",
       "language": "ne",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "始",
+      "id": "黒",
       "language": "bn",
       "field": "meaning"
     },
     {
       "level": "N4",
       "kind": "kanji",
-      "id": "始",
+      "id": "黒",
       "language": "ne",
       "field": "meaning"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass140: N4 kanji indices0–59 (会 through 道):120 Bengali/Nepali meaning fields semantically reviewed against Japanese character/readings, source English senses and listed Japanese words. Each field stores exact previous/reviewed translation, correction flag, character-specific rationale, source/translation hashes and actual Japanese words checked; no example or grammar fields invented (all sixty entries have no examples). Shrine not headline, discharge not prohibition/suspension, vocation not doctor/sentence, ground not preface, direction not director, member headcount not serial number, erect not pronunciation, unfold/unseal not output/unknown, bear-up withstand not animal/cat, generation not population, light illumination not low weight, motion not Morang or shake drink, letter/document counter not commuter computer/engineer, speech not when, statue counter not pictures, paddy not powder/juice, lord not Gurung/chief minister, mental taste/heart not food/anatomy, non-prefix not new, construction verb not only building, employ put to use, occurrences not clock time, public/ruler title not only royal son, hold not Rukum, plains not plans/Russia, artist role not actor only, cheap low-price not short height, mansion not manager, heart radical61 not cardiac disease/extremist, doctrine not degree, writing figures as patterns not numerals/designer, layered boxes/fold not nest/flowers and road/course not syllabus only. 京 10^16 and 正 10^40 corrected from false multiplication; targeted dictionary references recorded for numerical values, public-title scope, statue counter, degree estimation and writing/proximity senses. Correct existing core glosses retained where sound. 文 rare source plan and 近 source early lack specific attested contexts; four field records explicitly remain unresolved for lexicographic/native/source clarification rather than unverified meanings presented as certain. Original Japanese source senses/readings/word lists, stable IDs, level structure, audio, bookmarks, ads, licenses and attribution preserved. AI semantic review only; native-speaker review not performed and historical ambiguities remain unresolved. Resume N4 kanji index60."
+  "latest_pass": "Pass141: N4 kanji indices60–119 (集 through 古):120 Bengali/Nepali meaning fields semantically reviewed against Japanese character/readings, source English senses and listed Japanese words. Exact previous/reviewed translation, correction flags, field hashes, entry-specific rationale and Japanese words checked stored for both languages; all sixty entries have no examples, so no example/formation review evidence fabricated. Gather/collect not speaker/school, fork/branch-off not forex/branch closure/Dang, concrete thing/substance not only topic, messenger/envoy/ambassador not prophet/embassy and cause as make-do, goods article not essay and dish counter not course curriculum, planning/measuring not slot/title, death verb not this, private I/me not only possessive, begin transitive/intransitive, morning/dynasty/court-period and contextual Korea shorthand, carry/fate lot not loot, end/finish actions, machine-vehicle counter and physical stand not stability, spacious not special, reside not temple/broadcast, fewer quantity not short height, fee not frame, craft not crash/credit and graphical radical48 not extremist, build action, empty/sky/vacuum not disbelief, steep not step/Dang, stop not tree, escort/send not export/score with no assumed vehicle, sharp cutting not firm/necessary, rotation not roulette/Rukum, polish/sharpen not nationality/polio/Sharad, footwear pairs counter, deep research, music/comfort/ease not beauty, rouse/wake not rose/pink/job, don clothing not personal name and garment counter, illness not separate/this, temperament not temperature, wait/depend citation actions, test/try/ordeal not order/usually, tribe/family, silver not gold price, temporal early and fast, reflection/projection not project task, parent not father only plus relatives/intimacy/game dealer not card seller, verification/effect not omitted, medical discipline not drug only, serve/attend not come/study command, gone/past/elapse/remove/divorce citation senses not narrator tense, photo appearance not Kapil/for-photo, written character/letter not personality/correspondence and aza locality, sound/noise, pouring/irrigating/tears/flow/attention/annotation not resort/flying/report, homecoming and resulting outcome not houses/leadership. Sound existing core glosses retained. Primary dictionary references consulted for dish counting, truth character, possession/existence and floral English/Britain senses. Three rare source-gloss scopes remain unresolved in six field records: 真 Buddhist sect unspecified referent, 有 approx unsupported as generic approximation by retrieved Japanese dictionary, 英 botanical calyx versus attested hana/hanabusa. Verified core senses localized without unsupported rare-gloss claims. Original Japanese source meanings/readings/word lists, stable IDs, levels, audio, bookmarks, ads, licenses and attribution preserved. AI semantic review only, no native-speaker certification; historical ambiguities/external review remain unresolved. Resume N4 kanji index120."
 }
