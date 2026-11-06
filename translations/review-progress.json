@@ -2,156 +2,156 @@
   "status": "in-progress",
   "reviewed_on": "2026-11-06",
   "total_scoped_fields": 79178,
-  "ai_semantic_checked_fields": 13770,
-  "pending_fields": 65408,
+  "ai_semantic_checked_fields": 13868,
+  "pending_fields": 65310,
   "checked_by_level": {
     "N5": 7094,
-    "N4": 6676
+    "N4": 6774
   },
-  "authored_entry_glosses": 1536,
+  "authored_entry_glosses": 1585,
   "native_speaker_review": "not performed",
   "next_unreviewed_fields": [
     {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "歌",
+      "level": "N3",
+      "kind": "vocab",
+      "id": "c3b1f16454",
       "language": "bn",
       "field": "meaning"
     },
     {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "歌",
+      "level": "N3",
+      "kind": "vocab",
+      "id": "c3b1f16454",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "c3b1f16454",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "c3b1f16454",
       "language": "ne",
       "field": "meaning"
     },
     {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "買",
+      "level": "N3",
+      "kind": "vocab",
+      "id": "c3b1f16454",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "c3b1f16454",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "d2ac37bee3",
       "language": "bn",
       "field": "meaning"
     },
     {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "買",
+      "level": "N3",
+      "kind": "vocab",
+      "id": "d2ac37bee3",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "d2ac37bee3",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "d2ac37bee3",
       "language": "ne",
       "field": "meaning"
     },
     {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "悪",
+      "level": "N3",
+      "kind": "vocab",
+      "id": "d2ac37bee3",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "d2ac37bee3",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "0cb7e80d4c",
       "language": "bn",
       "field": "meaning"
     },
     {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "悪",
+      "level": "N3",
+      "kind": "vocab",
+      "id": "0cb7e80d4c",
+      "language": "bn",
+      "field": "examples.0"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "0cb7e80d4c",
+      "language": "bn",
+      "field": "examples.1"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "0cb7e80d4c",
       "language": "ne",
       "field": "meaning"
     },
     {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "図",
+      "level": "N3",
+      "kind": "vocab",
+      "id": "0cb7e80d4c",
+      "language": "ne",
+      "field": "examples.0"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "0cb7e80d4c",
+      "language": "ne",
+      "field": "examples.1"
+    },
+    {
+      "level": "N3",
+      "kind": "vocab",
+      "id": "7d26b9a262",
       "language": "bn",
       "field": "meaning"
     },
     {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "図",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "週",
+      "level": "N3",
+      "kind": "vocab",
+      "id": "7d26b9a262",
       "language": "bn",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "週",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "室",
-      "language": "bn",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "室",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "歩",
-      "language": "bn",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "歩",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "風",
-      "language": "bn",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "風",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "紙",
-      "language": "bn",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "紙",
-      "language": "ne",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "黒",
-      "language": "bn",
-      "field": "meaning"
-    },
-    {
-      "level": "N4",
-      "kind": "kanji",
-      "id": "黒",
-      "language": "ne",
-      "field": "meaning"
+      "field": "examples.0"
     }
   ],
   "counting_note": "Strict source-and-translation-hash ledger; historical authored or machine labels do not by themselves prove semantic review. Counts are not directly comparable to the older machine-draft-only pending count.",
-  "latest_pass": "Pass141: N4 kanji indices60–119 (集 through 古):120 Bengali/Nepali meaning fields semantically reviewed against Japanese character/readings, source English senses and listed Japanese words. Exact previous/reviewed translation, correction flags, field hashes, entry-specific rationale and Japanese words checked stored for both languages; all sixty entries have no examples, so no example/formation review evidence fabricated. Gather/collect not speaker/school, fork/branch-off not forex/branch closure/Dang, concrete thing/substance not only topic, messenger/envoy/ambassador not prophet/embassy and cause as make-do, goods article not essay and dish counter not course curriculum, planning/measuring not slot/title, death verb not this, private I/me not only possessive, begin transitive/intransitive, morning/dynasty/court-period and contextual Korea shorthand, carry/fate lot not loot, end/finish actions, machine-vehicle counter and physical stand not stability, spacious not special, reside not temple/broadcast, fewer quantity not short height, fee not frame, craft not crash/credit and graphical radical48 not extremist, build action, empty/sky/vacuum not disbelief, steep not step/Dang, stop not tree, escort/send not export/score with no assumed vehicle, sharp cutting not firm/necessary, rotation not roulette/Rukum, polish/sharpen not nationality/polio/Sharad, footwear pairs counter, deep research, music/comfort/ease not beauty, rouse/wake not rose/pink/job, don clothing not personal name and garment counter, illness not separate/this, temperament not temperature, wait/depend citation actions, test/try/ordeal not order/usually, tribe/family, silver not gold price, temporal early and fast, reflection/projection not project task, parent not father only plus relatives/intimacy/game dealer not card seller, verification/effect not omitted, medical discipline not drug only, serve/attend not come/study command, gone/past/elapse/remove/divorce citation senses not narrator tense, photo appearance not Kapil/for-photo, written character/letter not personality/correspondence and aza locality, sound/noise, pouring/irrigating/tears/flow/attention/annotation not resort/flying/report, homecoming and resulting outcome not houses/leadership. Sound existing core glosses retained. Primary dictionary references consulted for dish counting, truth character, possession/existence and floral English/Britain senses. Three rare source-gloss scopes remain unresolved in six field records: 真 Buddhist sect unspecified referent, 有 approx unsupported as generic approximation by retrieved Japanese dictionary, 英 botanical calyx versus attested hana/hanabusa. Verified core senses localized without unsupported rare-gloss claims. Original Japanese source meanings/readings/word lists, stable IDs, levels, audio, bookmarks, ads, licenses and attribution preserved. AI semantic review only, no native-speaker certification; historical ambiguities/external review remain unresolved. Resume N4 kanji index120."
+  "latest_pass": "Pass142: N4 kanji indices120–168 (歌 through 痩, final49):98 Bengali/Nepali meaning fields semantically reviewed against Japanese character/readings, source English senses and listed Japanese words. Each field stores exact previous/reviewed translation, correction flag, entry-specific rationale, source/translation hashes and Japanese words checked. All49 have no examples, so no nonexistent example or grammar evidence fabricated. Song/sing both restored; buy not both; bad/vice/rascal not visa/victor/Russell, map/drawing/planning plus qualified extraordinary-audacious prefix senses not document/play/extra only; enclosed room/greenhouse/cellar not cell/seller; walk and step counter not imperative/custom, wind/air not water; spring season not flowering time/session, building/mansion/palace not manager/temple, roof/house/shop/seller correct senses retained; color noun not colorful, run not color, summer not pregnant, learn/practice not command/reading only; ocean/foreign/Western source distinctions, trip journey not stumble; clothing/acceptance/obedience and discharge duties not prohibition/suspension/Obama, primary duty-service reference consulted; borrow/rent recipient-side versus lend/rent provider-side not London/lady, weekday element includes all seven days not weekly adjective or Monday-Friday restriction; drink/take orally and marked old tobacco usage verified rather than suppressing source sense or claiming every drink is smoking; hall not hole, meal/cooked rice not juice/fish, exertion/encourage/diligent not exercise/progress/daily/beauty, winter noun and daytime/noon not repetition; younger-brother historical elder-service sense verified, older-brother duplication/boycott removed, sister ages retained, Sino-China not sin/sugar, Buddhist monk/residence not magician/Gurung, uncanny/intense and colloquial wonderful sugoi sense checked against listed word and reference, yaseru becoming thin not lightweight imperative/plenty. Correct existing core glosses retained with evidence. Original Japanese source senses/readings/word lists, stable IDs, level structure, audio, bookmarks, ads, licenses and attribution preserved. No new unresolved ambiguity; all historic source-context/rare-gloss uncertainties remain recorded and external native-speaker review remains outstanding. N4 initial semantic pass now covers vocabulary/grammar/kanji fields but is not native certification or all-errors-cleared claim. Resume next pending N3 field from report."
 }
